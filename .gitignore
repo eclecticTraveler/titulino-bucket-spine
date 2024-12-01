@@ -1,4 +1,2 @@
-echo "node_modules/" >> .gitignore
-echo "*.json" >> .gitignore
-echo "path/to/your/service-account-key.json" >> .gitignore
 node_modules/
+bucket-scripts/certain-upgrade-341601-6db30a4e61b5.json
