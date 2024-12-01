@@ -1,0 +1,31 @@
+name: Deploy JSON Files to GCS Bucket
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'bucket-scripts/*.json'  # Tracks only JSON files in bucket-scripts directory
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Set up Google Cloud SDK
+        uses: google-github-actions/setup-gcloud@v0.7.0
+        with:
+          version: 'latest'
+          project_id: ${{ secrets.GCP_PROJECT_ID }}
+      
+      - name: Authenticate to GCP
+        run: echo ${{ secrets.GCP_SA_KEY }} | gcloud auth activate-service-account --key-file=-
+
+      - name: Upload JSON Files to GCS
+        run: |
+          gsutil -m cp ./bucket-scripts/*.json gs://titulino-bucket/
+        env:
+          GOOGLE_APPLICATION_CREDENTIALS: ${{ secrets.GCP_SA_KEY }}
