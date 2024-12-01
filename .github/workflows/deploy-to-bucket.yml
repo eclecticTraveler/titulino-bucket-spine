@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'bucket-scripts/*.json'  # Tracks only JSON files in bucket-scripts directory
+      - 'bucket-scripts/**/*'  # Tracks all files in the bucket-scripts directory, including subdirectories
 
 jobs:
   deploy:
