@@ -1,0 +1,69 @@
+  {
+    "pdfs": [
+      {
+        "provider": "s3buckets",
+        "author": "Quizlet",
+        "theme":"supermarket",
+        "nativeLanguage": "es",
+        "course": "eng",
+        "chapters" : [
+          {
+            "urlPath": "/QuizletPdfs/Supermarket/VegetablesPart1.pdf",
+            "chapter": 1,
+            "title": "Vegetables - Part 1"
+          },
+          {
+            "urlPath": "/QuizletPdfs/Supermarket/VegetablesPart2.pdf",
+            "chapter": 2,
+            "title": "Vegetables - Part 2"
+          },
+          {
+            "urlPath": "/QuizletPdfs/Supermarket/FruitsPart1.pdf",
+            "chapter": 3,
+            "title": "Fruits - Part 1"
+          },
+          {
+            "urlPath": "/QuizletPdfs/Supermarket/FruitsPart2.pdf",
+            "chapter": 4,
+            "title": "Fruits - Part 2"
+          },
+          {
+            "urlPath": "/QuizletPdfs/Supermarket/Meat.pdf",
+            "chapter": 5,
+            "title": "Meat"
+          },
+          {
+            "urlPath": "/QuizletPdfs/Supermarket/Poultry&Seafood.pdf",
+            "chapter": 6,
+            "title": "Poultry & Seafood"
+          },
+          {
+            "urlPath": "/QuizletPdfs/Supermarket/ContainersPart1.pdf",
+            "chapter": 7,
+            "title": "Containers - Part 1"
+          },
+          {
+            "urlPath": "/QuizletPdfs/Supermarket/ContainersPart2.pdf",
+            "chapter": 8,
+            "title": "Containers - Part 2"
+          },
+          {
+            "urlPath": "/QuizletPdfs/Supermarket/SupermarketPart1.pdf",
+            "chapter": 9,
+            "title": "Supermarket - Part 1"
+          },
+          {
+            "urlPath": "/QuizletPdfs/Supermarket/SupermarketPart2.pdf",
+            "chapter": 10,
+            "title": "Supermarket - Part 2"
+          },
+          {
+            "urlPath": "/QuizletPdfs/Supermarket/All150.pdf",
+            "chapter": 11,
+            "title": "All 150+"
+          }
+        ]
+      }    
+    ]
+  }
+

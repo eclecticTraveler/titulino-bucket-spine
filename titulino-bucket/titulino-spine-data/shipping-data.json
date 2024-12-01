@@ -1,0 +1,26 @@
+[    
+	{
+        "companyId":666,
+        "companyName":"Cardinal",
+        "companyAddresses":[
+            {
+                "AddressTypeId":"Mailing",
+                "Address1":"4402 Vance Jackson Rd.",
+                "Address2":"Suite 202",
+                "City":"San Antonio",
+                "CountryDivisionId": "US-TX",
+                "PostalCodeId":"78230",
+                "CountryId":"US"
+            },
+            {
+                "AddressTypeId":"Physical",
+                "Address1":"883 Capital Avenue",
+                "Address2":"",
+                "City":"San Antonio",
+                "CountryDivisionId": "TX",
+                "PostalCodeId":"78230",
+                "CountryId":"US"
+            }
+        ]
+    }
+]

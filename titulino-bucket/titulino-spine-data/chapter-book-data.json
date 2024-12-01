@@ -1,0 +1,145 @@
+  {
+    "books": [
+      {
+        "id": "9d89c42ef1",
+        "theme":"supermarket",
+        "bookType":"vocabulary",
+        "bookTitle": "Supermarket 200 Core Words",
+        "nativeLanguage": "es",
+        "course": "eng",
+        "chapters" : [
+          {
+            "page": 5,
+            "chapter": 1,
+            "title": "Vegetables"
+          },
+          {
+            "page": 6,
+            "chapter": 2,
+            "title": "Vegetables"
+          },
+          {
+            "page": 10,
+            "chapter": 3,
+            "title": "Fruits"
+          },
+          {
+            "page": 14,
+            "chapter": 4,
+            "title": "Fruits"
+          },
+          {
+            "page": 20,
+            "chapter": 5,
+            "title": "Meat"
+          },
+          {
+            "page": 22,
+            "chapter": 6,
+            "title": "Poultry"
+          },
+          {
+            "page": 26,
+            "chapter": 7,
+            "title": "Presentation"
+          },
+          {
+            "page": 30,
+            "chapter": 8,
+            "title": "Money"
+          },
+          {
+            "page": 32,
+            "chapter": 9,
+            "title": "Supermarket"
+          },
+          {
+            "page": 36,
+            "chapter": 10,
+            "title": "Extra"
+          },
+          {
+            "page": 36,
+            "chapter": 11,
+            "title": "Extra"
+          },
+          {
+            "page": 42,
+            "chapter": 12,
+            "title": "Donate"
+          }
+        ]
+      },
+      {
+        "id": "4723552a65",
+        "theme":"household",
+        "bookType":"vocabulary",
+        "bookTitle": "Household Items Part 1, 150 Core Words",
+        "nativeLanguage": "es",
+        "course": "eng",
+        "chapters" : [
+          {
+            "page": 5,
+            "chapter": 1,
+            "title": "House"
+          },
+          {
+            "page": 8,
+            "chapter": 2,
+            "title": "House"
+          },
+          {
+            "page": 11,
+            "chapter": 3,
+            "title": "Living Room"
+          },
+          {
+            "page": 14,
+            "chapter": 4,
+            "title": "Living Room"
+          },
+          {
+            "page": 17,
+            "chapter": 5,
+            "title": "Dining Room"
+          },
+          {
+            "page": 20,
+            "chapter": 6,
+            "title": "Dining Room"
+          },
+          {
+            "page": 22,
+            "chapter": 7,
+            "title": "Kitchen"
+          },
+          {
+            "page": 25,
+            "chapter": 8,
+            "title": "Kitchen"
+          },
+          {
+            "page": 28,
+            "chapter": 9,
+            "title": "Cooking"
+          },
+          {
+            "page": 31,
+            "chapter": 10,
+            "title": "Cooking"
+          },
+          {
+            "page": 34,
+            "chapter": 11,
+            "title": "Test"
+          },
+          {
+            "page": 36,
+            "chapter": 12,
+            "title": "Donate"
+          }
+        ]
+      }   
+    ]
+  }
+

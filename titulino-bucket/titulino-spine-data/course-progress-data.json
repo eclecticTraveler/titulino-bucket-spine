@@ -1,0 +1,734 @@
+[
+  {
+    "courseId": "SUPERMARKET_SEP_2024_COURSE_01",
+    "courseGeneralTheme": "supermarket",
+    "nativeLanguage": "es",
+    "course": "eng",
+    "categories": [
+      {
+        "categoryId": 1,
+        "name": "Gatherings",
+        "categoryLocalizationKey": "gatheringsKey",
+        "isToDisplay": true,
+        "imageUrl": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "participationIds": [
+          { "participationTypeId": 1, "localizationKey": "nav.live" },
+          { "participationTypeId": 2, "localizationKey": "nav.recorded" }
+        ],
+        "lessons": [
+          {
+            "classNumber": 1,
+            "title": "Vegetables Part 1",
+            "description": "Phonics and 19 Terms. Live and recorded sessions avilable.",
+            "isToDisplay": true,
+            "availableDate": "01/01/2024",
+            "imageUrl": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": "https://www.facebook.com/share/v/15FHoFJUaF/",
+              "youtube": "https://youtu.be/UfV8z6-HA58",
+              "internal": "https://titulino.com/lrn/eng/level-supermarket/chapter-1/class"
+            }
+          },
+          {
+            "classNumber": 2,
+            "title": "Vegetables Part 2",
+            "description": "Phonics and 16 Terms. Live and recorded sessions avilable.",
+            "isToDisplay": true,
+            "availableDate": "01/01/2024",
+            "imageUrl": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": "https://www.facebook.com/share/v/15RUuVurdn/",
+              "youtube": "https://youtu.be/qmUqebxzaZQ",
+              "internal": "https://titulino.com/lrn/eng/level-supermarket/chapter-2/class"
+            }
+          },
+          {
+            "classNumber": 3,
+            "title": "Fruits Part 1",
+            "description": "Phonics and 23 Terms. Live and recorded sessions avilable.",
+            "isToDisplay": true,
+            "availableDate": "01/01/2024",
+            "imageUrl": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": "https://www.facebook.com/share/v/129u59T1T2k/",
+              "youtube": "https://youtu.be/Na48A5B2_IY",
+              "internal": "https://titulino.com/lrn/eng/level-supermarket/chapter-3/class"
+            }
+          },
+          {
+            "classNumber": 4,
+            "title": "Fruits Part 2",
+            "description": "Phonics and 23 Terms. Live and recorded sessions avilable.",
+            "isToDisplay": true,
+            "availableDate": "01/01/2024",
+            "imageUrl": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": "https://www.facebook.com/share/v/1VPs1xsSdy/",
+              "youtube": "https://youtu.be/68Bi7PenMJU",
+              "internal": "https://titulino.com/lrn/eng/level-supermarket/chapter-4/class"
+            }
+          },
+          {
+            "classNumber": 5,
+            "title": "Meat",
+            "description": "Phonics and 19 Terms. Live and recorded sessions avilable.",
+            "isToDisplay": true,
+            "availableDate": "01/01/2024",
+            "imageUrl": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": "https://www.facebook.com/share/v/15GW6Bk72G/",
+              "youtube": "https://youtu.be/PFWuws5mzmY",
+              "internal": "https://titulino.com/lrn/eng/level-supermarket/chapter-5/class"
+            }
+          },
+          {
+            "classNumber": 6,
+            "title": "Poultry & Seafood",
+            "description": "Phonics and 24 Terms. Live and recorded sessions avilable.",
+            "isToDisplay": true,
+            "availableDate": "01/01/2024",
+            "imageUrl": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": "https://www.facebook.com/share/v/1DizQPWeab/",
+              "youtube": "https://youtu.be/PyoUoua65MY",
+              "internal": "https://titulino.com/lrn/eng/level-supermarket/chapter-6/class"
+            }
+          },
+          {
+            "classNumber": 7,
+            "title": "Containers Part 1",
+            "description": "Phonics and 11 Terms. Live and recorded sessions avilable.",
+            "isToDisplay": true,
+            "availableDate": "01/01/2024",
+            "imageUrl": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": "https://www.facebook.com/share/v/1UCoq8nDwc/",
+              "youtube": "https://youtu.be/xa9jtftPc0k",
+              "internal": "https://titulino.com/lrn/eng/level-supermarket/chapter-7/class"
+            }
+          },
+          {
+            "classNumber": 8,
+            "title": "Containers Part 2",
+            "description": "Phonics and 20 Terms. Live and recorded sessions avilable.",
+            "isToDisplay": true,
+            "availableDate": "01/01/2024",
+            "imageUrl": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": "https://www.facebook.com/share/v/1YSYFusiYX/",
+              "youtube": "https://youtu.be/suGg4GQkEVY",
+              "internal": "https://titulino.com/lrn/eng/level-supermarket/chapter-8/class"
+            }
+          }
+        ]
+      },
+      {
+        "categoryId": 2,
+        "level": 1,
+        "name": "Basic Grammar",
+        "categoryLocalizationKey": "grammarKey",
+        "isToDisplay": true,
+        "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "participationIds": [
+          { "participationTypeId": 2, "localizationKey": "nav.recorded" }
+        ],
+        "lessons": [
+          {
+            "classNumber": 1,
+            "title": "Grammar (Basic)",
+            "description": "Verbs Part 1",
+            "isToDisplay": true,
+            "availableDate": "01/01/2024",
+            "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": "https://www.facebook.com/share/v/15eVQXFoTT/",
+              "youtube": "https://youtu.be/KQiNeqcEDNU"
+            }
+          },        
+          {
+            "classNumber": 2,
+            "title": "Grammar (Basic)",
+            "description": "Verbs Parts 2",
+            "isToDisplay": true,
+            "availableDate": "01/01/2024",
+            "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": "https://www.facebook.com/share/v/15W6hMsAPg/",
+              "youtube": "https://youtu.be/D6TgsWR3bk4"
+            }
+          },
+          {
+            "classNumber": 3,
+            "title": "Grammar (Basic)",
+            "description": "Adjectives Part 1",
+            "isToDisplay": true,
+            "availableDate": "01/01/2024",
+            "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": "https://www.facebook.com/share/v/14fgBgBS4B/",
+              "youtube": "https://youtu.be/t0dAe63L1ls"
+            }
+          },
+          {
+            "classNumber": 4,
+            "title": "Grammar (Basic)",
+            "description": "Do/Does",
+            "isToDisplay": true,
+            "availableDate": "01/01/2024",
+            "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": "https://www.facebook.com/share/v/1XTRLodSMx/",
+              "youtube": "https://youtu.be/xsgbBRmAyu4"
+            }
+          },
+          {
+            "classNumber": 5,
+            "title": "Grammar (Basic)",
+            "description": "Routines",
+            "isToDisplay": true,
+            "availableDate": "01/01/2024",
+            "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": "https://www.facebook.com/share/v/197ukcyeng/",
+              "youtube": "https://youtu.be/si2Apg12H7U"
+            }
+          },
+          {
+            "classNumber": 6,
+            "title": "Grammar (Basic)",
+            "description": "Irregular Verbs",
+            "isToDisplay": true,
+            "availableDate": "01/01/2024",
+            "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": "https://www.facebook.com/share/v/19QuC1D2Nd/",
+              "youtube": "https://youtu.be/IG1-BuZmAxU"
+            }
+          },
+          {
+            "classNumber": 7,
+            "title": "Grammar (Basic)",
+            "description": "Regular Verbs",
+            "isToDisplay": true,
+            "availableDate": "11/01/2024",
+            "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": "https://www.facebook.com/share/v/1AjzEowtFS/",
+              "youtube": "https://youtu.be/wZS68RvL70g"
+            }
+          },
+          {
+            "classNumber": 8,
+            "title": "Grammar (Basic)",
+            "description": "Phrases Part 1",
+            "isToDisplay": true,
+            "availableDate": "11/01/2024",
+            "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": "https://www.facebook.com/share/v/151zsK6NYa/",
+              "youtube": "https://youtu.be/5hBi0ySL-c8"
+            }
+          }
+        ]
+      },
+      {
+        "categoryId": 2,
+        "level": 2,
+        "name": "Advanced Grammar",
+        "categoryLocalizationKey": "grammarKey",
+        "isToDisplay": true,
+        "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "participationIds": [
+          { "participationTypeId": 2, "localizationKey": "nav.recorded" }
+        ],
+        "lessons": [
+          {
+            "classNumber": 1,
+            "title": "Grammar (Advanced)",
+            "description": "Phrasal Verbs Part 1",
+            "isToDisplay": true,
+            "availableDate": "01/01/2024",
+            "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": "https://www.facebook.com/share/v/1Aj194RUwt/",
+              "youtube": "https://youtu.be/g9Zgt2fLS-o"
+            }
+          },        
+          {
+            "classNumber": 2,
+            "title": "Grammar (Advanced)",
+            "description": "Phrasal Verbs Part 2",
+            "isToDisplay": true,
+            "availableDate": "01/01/2024",
+            "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": "https://www.facebook.com/share/v/18FW96mhBX/",
+              "youtube": "https://youtu.be/3EjwS6W--2U"
+            }
+          },
+          {
+            "classNumber": 3,
+            "title": "Grammar (Advanced)",
+            "description": "Adjectives Part 1",
+            "isToDisplay": true,
+            "availableDate": "01/01/2024",
+            "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": "https://www.facebook.com/share/v/19djGfMVJQ/",
+              "youtube": "https://youtu.be/fKhtLpjYAek"
+            }
+          },
+          {
+            "classNumber": 4,
+            "title": "Grammar (Advanced)",
+            "description": "Past Participle",
+            "isToDisplay": true,
+            "availableDate": "01/01/2024",
+            "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": "https://www.facebook.com/share/v/1EmBvnWgTu/",
+              "youtube": "https://youtu.be/L0bSxM88Itg"
+            }
+          },
+          {
+            "classNumber": 5,
+            "title": "Grammar (Advanced)",
+            "description": "Present Perfect.",
+            "isToDisplay": true,
+            "availableDate": "01/01/2024",
+            "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": "https://www.facebook.com/share/v/19ZqcbcLmt/",
+              "youtube": "https://youtu.be/cz5urOXL8H4"
+            }
+          },
+          {
+            "classNumber": 6,
+            "title": "Grammar (Advanced)",
+            "description": "Phrases",
+            "isToDisplay": true,
+            "availableDate": "01/01/2024",
+            "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": "https://www.facebook.com/share/v/17dfKCz5MU/",
+              "youtube": "https://youtu.be/GhYk4H7zqBk"
+            }
+          },
+          {
+            "classNumber": 7,
+            "title": "Grammar (Advanced)",
+            "description": "Phrases Part 2",
+            "isToDisplay": true,
+            "availableDate": "01/01/2024",
+            "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": "https://www.facebook.com/share/v/15QTYqfv56/",
+              "youtube": "https://youtu.be/-cY2ZoR09iY"
+            }
+          },
+          {
+            "classNumber": 8,
+            "title": "Grammar (Advanced)",
+            "description": "Phrases Part 3",
+            "isToDisplay": true,
+            "availableDate": "01/01/2024",
+            "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": "https://www.facebook.com/share/v/17qvUg481a/",
+              "youtube": "https://youtu.be/boY5N90OMQs"
+            }
+          }
+        ]
+      },
+      {
+        "categoryId": 4,
+        "name": "Examination",
+        "categoryLocalizationKey": "examinationKey",
+        "isToDisplay": true,
+        "imageUrl": "https://images.unsplash.com/photo-1534644107580-3a4dbd494a95?q=80&w=2070&auto=format&fit=crop&ixib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "participationIds": [
+          { "participationTypeId": 3, "localizationKey": "nav.notApplicable" }
+        ],
+        "lessons": [
+          {
+            "classNumber": 0,
+            "title": "155 Terms",
+            "description": "155 Terms, less than 1hr to take.",
+            "isToDisplay": true,
+            "imageUrl": "https://images.unsplash.com/photo-1534644107580-3a4dbd494a95?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "availableDate": "01/01/2024",
+            "links": {
+              "internal": "https://titulino.com/lrn/eng/level-supermarket/resources/test"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "HOUSEHOLD_PART_1_JAN_2025_COURSE_01",
+    "courseGeneralTheme": "household",
+    "nativeLanguage": "es",
+    "course": "eng",
+    "categories": [
+      {
+        "categoryId": 1,
+        "name": "General Gatherings",
+        "localizationKey":"nav.generalGatherings",        
+        "isToDisplay": true,
+        "imageUrl": "https://images.unsplash.com/photo-1652648265326-73317a42c43d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "participationIds": [
+          { "participationTypeId": 1, "localizationKey": "nav.live" },
+          { "participationTypeId": 2, "localizationKey": "nav.recorded" }
+        ],
+        "lessons": [
+          {
+            "classNumber": 1,
+            "title": "Houses Part 1",
+            "description": "Phonics and 15 Terms. Live and recorded sessions avilable.",
+            "isToDisplay": true,
+            "availableDate": "01/20/2025",
+            "imageUrl": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": null,
+              "internal": null
+            }
+          },
+          {
+            "classNumber": 2,
+            "title": "Houses Part 2",
+            "description": "Phonics and 18 Terms. Live and recorded sessions avilable.",
+            "isToDisplay": true,
+            "availableDate": "01/27/2025",
+            "imageUrl": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": null,
+              "internal": null
+            }
+          },
+          {
+            "classNumber": 3,
+            "title": "Living Room Part 1",
+            "description": "Phonics and 15 Terms. Live and recorded sessions avilable.",
+            "isToDisplay": true,
+            "availableDate": "02/03/2025",
+            "imageUrl": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": null,
+              "internal": null
+            }
+          },
+          {
+            "classNumber": 4,
+            "title": "Living Room Part 2",
+            "description": "Phonics and 14 Terms. Live and recorded sessions avilable.",
+            "isToDisplay": true,
+            "availableDate": "02/10/2025",
+            "imageUrl": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": null,
+              "internal": null
+            }
+          },
+          {
+            "classNumber": 5,
+            "title": "Dining Room Part 1",
+            "description": "Phonics and 15 Terms. Live and recorded sessions avilable.",
+            "isToDisplay": true,
+            "availableDate": "02/17/2025",
+            "imageUrl": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": null,
+              "internal": null
+            }
+          },
+          {
+            "classNumber": 6,
+            "title": "Dining Room Part 2",
+            "description": "Phonics and 14 Terms. Live and recorded sessions avilable.",
+            "isToDisplay": true,
+            "availableDate": "02/24/2025",
+            "imageUrl": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": null,
+              "internal": null
+            }
+          },
+          {
+            "classNumber": 7,
+            "title": "Kitchen Room Part 1",
+            "description": "Phonics and 15 Terms. Live and recorded sessions avilable.",
+            "isToDisplay": true,
+            "availableDate": "03/03/2025",
+            "imageUrl": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": null,
+              "internal": null
+            }
+          },
+          {
+            "classNumber": 8,
+            "title": "Kitchen Room Part 2",
+            "description": "Phonics and 19 Terms. Live and recorded sessions avilable.",
+            "isToDisplay": true,
+            "availableDate": "03/10/2025",
+            "imageUrl": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": null,
+              "internal": null
+            }
+          }
+        ]
+      },
+      {
+        "categoryId": 2,
+        "level": 1,
+        "name": "Basic Grammar",
+        "categoryLocalizationKey": "grammarKey",
+        "isToDisplay": true,
+        "imageUrl": "https://images.unsplash.com/photo-1680449786212-de3b835dc467?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "participationIds": [
+          { "participationTypeId": 2, "localizationKey": "nav.recorded" }
+        ],
+        "lessons": [
+          {
+            "classNumber": 1,
+            "title": "Grammar (Basic)",
+            "description": "Say and Ask who owns things using Posessive's",
+            "isToDisplay": true,
+            "availableDate": "01/21/2025",
+            "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": null
+            }
+          },        
+          {
+            "classNumber": 2,
+            "title": "Grammar (Basic)",
+            "description": "Ask for advice using and, or & but",
+            "isToDisplay": true,
+            "availableDate": "01/28/2025",
+            "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": null
+            }
+          },
+          {
+            "classNumber": 3,
+            "title": "Grammar (Basic)",
+            "description": "Describe finding things using \"There is\" and \"There are\" phrases",
+            "isToDisplay": true,
+            "availableDate": "02/04/2025",
+            "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": null
+            }
+          },
+          {
+            "classNumber": 4,
+            "title": "Grammar (Basic)",
+            "description": "Ask information questions Part 1",
+            "isToDisplay": true,
+            "availableDate": "02/11/2025",
+            "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": null
+            }
+          },
+          {
+            "classNumber": 5,
+            "title": "Grammar (Basic)",
+            "description": "Ask information questions Part 2",
+            "isToDisplay": true,
+            "availableDate": "02/18/2025",
+            "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": null
+            }
+          },
+          {
+            "classNumber": 6,
+            "title": "Grammar (Basic)",
+            "description": "Basic ways to describe places",
+            "isToDisplay": true,
+            "availableDate": "02/25/2025",
+            "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": null
+            }
+          },
+          {
+            "classNumber": 7,
+            "title": "Grammar (Basic)",
+            "description": "Regular Verbs",
+            "isToDisplay": true,
+            "availableDate": "03/04/2024",
+            "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": null
+            }
+          },
+          {
+            "classNumber": 8,
+            "title": "Grammar (Basic)",
+            "description": "Talk about what you have",
+            "isToDisplay": true,
+            "availableDate": "03/11/2024",
+            "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": null
+            }
+          }
+        ]
+      },
+      {
+        "categoryId": 2,
+        "level": 2,
+        "name": "Advanced Grammar",
+        "categoryLocalizationKey": "grammarKey",
+        "isToDisplay": true,
+        "imageUrl": "https://images.unsplash.com/photo-1484415063229-3d6335668531?q=80&w=2114&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "participationIds": [
+          { "participationTypeId": 2, "localizationKey": "nav.recorded" }
+        ],
+        "lessons": [
+          {
+            "classNumber": 1,
+            "title": "Grammar (Advanced)",
+            "description": "Phrasal Verbs in Household context Part 1",
+            "isToDisplay": true,
+            "availableDate": "01/21/2025",
+            "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": null
+            }
+          },        
+          {
+            "classNumber": 2,
+            "title": "Grammar (Advanced)",
+            "description": "Present Perfect Part 1",
+            "isToDisplay": true,
+            "availableDate": "01/28/2025",
+            "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": null
+            }
+          },
+          {
+            "classNumber": 3,
+            "title": "Grammar (Advanced)",
+            "description": "Present Perfect Part 2",
+            "isToDisplay": true,
+            "availableDate": "02/04/2025",
+            "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": null
+            }
+          },
+          {
+            "classNumber": 4,
+            "title": "Grammar (Advanced)",
+            "description": "Superlatives",
+            "isToDisplay": true,
+            "availableDate": "02/11/2025",
+            "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": null
+            }
+          },
+          {
+            "classNumber": 5,
+            "title": "Grammar (Advanced)",
+            "description": "Use of adverbs",
+            "isToDisplay": true,
+            "availableDate": "02/18/2025",
+            "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": null
+            }
+          },
+          {
+            "classNumber": 6,
+            "title": "Grammar (Advanced)",
+            "description": "Have you? Did you? Do you? Use questions to show interest",
+            "isToDisplay": true,
+            "availableDate": "02/25/2025",
+            "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": null
+            }
+          },
+          {
+            "classNumber": 7,
+            "title": "Grammar (Advanced)",
+            "description": "Irregular Verbs",
+            "isToDisplay": true,
+            "availableDate": "03/04/2025",
+            "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": null
+            }
+          },
+          {
+            "classNumber": 8,
+            "title": "Grammar (Advanced)",
+            "description": "Phrases in the past",
+            "isToDisplay": true,
+            "availableDate": "03/11/2025",
+            "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": null
+            }
+          }
+        ]
+      },
+      {
+        "categoryId": 4,
+        "name": "Examination",
+        "categoryLocalizationKey": "examinationKey",
+        "isToDisplay": true,
+        "imageUrl": "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "participationIds": [
+          { "participationTypeId": 3, "localizationKey": "nav.notApplicable" }
+        ],
+        "lessons": [
+          {
+            "classNumber": 0,
+            "title": "150 Terms",
+            "description": "Final Exam with all 150 terms.",
+            "isToDisplay": true,
+            "imageUrl": "https://images.unsplash.com/photo-1534644107580-3a4dbd494a95?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "availableDate": "03/10/2025",
+            "links": {
+              "internal": null
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

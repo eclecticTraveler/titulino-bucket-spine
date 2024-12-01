@@ -1,0 +1,71 @@
+[
+    {
+        "courseTitle": "English",
+        "courseFlag": "https://d2eaaub12s77xu.cloudfront.net/us.png",
+        "flagCodeName": "US", 
+        "courseAbbreviation": "eng",
+        "localizationId": "en",
+        "basedLanguages": [
+            {
+              "language" : "Español",
+              "abbreviation":"spa",
+              "localizationId": "es",
+              "flag": "https://d2eaaub12s77xu.cloudfront.net/es.png",
+              "courseFlagCodeName": "ES"
+            },
+            {
+              "language" : "Português",
+              "abbreviation":"por",
+              "localizationId": "pt",
+              "flag": "https://d2eaaub12s77xu.cloudfront.net/br.png",
+              "courseFlagCodeName": "BR"
+            }
+          ]
+      },
+      {
+        "courseTitle": "Español",
+        "courseFlag": "https://d2eaaub12s77xu.cloudfront.net/es.png",
+        "flagCodeName": "ES", 
+        "courseAbbreviation": "spa",
+        "localizationId": "es",
+        "basedLanguages": [
+            {
+              "language" : "English",
+              "abbreviation":"eng",
+              "localizationId": "en",
+              "flag": "https://d2eaaub12s77xu.cloudfront.net/us.png",
+              "courseFlagCodeName": "US"
+            },
+            {
+              "language" : "Português",
+              "abbreviation":"por",
+              "localizationId": "pt",
+              "flag": "https://d2eaaub12s77xu.cloudfront.net/br.png",
+              "courseFlagCodeName": "BR"
+            }
+          ]
+      },
+       { 
+        "courseTitle": "Português",
+        "courseFlag": "https://d2eaaub12s77xu.cloudfront.net/br.png",
+        "flagCodeName": "BR", 
+        "courseAbbreviation": "por",
+        "localizationId": "pt",
+        "basedLanguages": [
+            {
+              "language" : "English",
+              "abbreviation":"eng",
+              "localizationId": "en",
+              "flag": "https://d2eaaub12s77xu.cloudfront.net/us.png",
+              "courseFlagCodeName": "US"
+            },
+            {
+              "language" : "Español",
+              "abbreviation":"spa",
+              "localizationId": "es",
+              "flag": "https://d2eaaub12s77xu.cloudfront.net/es.png",
+              "courseFlagCodeName": "ES"
+            }
+          ]
+      }
+]
