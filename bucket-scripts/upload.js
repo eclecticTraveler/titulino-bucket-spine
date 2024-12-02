@@ -12,7 +12,10 @@ async function uploadDirectory(directory) {
 
   for (const file of files) {
     const filePath = join(directory, file);
-    const destination = relative(join(directory, '..'), filePath); // Maintain folder structure
+    let destination = relative(join(directory, '..'), filePath); // Maintain folder structure
+     // Normalize the path by replacing backslashes with forward slashes
+    destination = destination.replace(/\\/g, '/'); // Replace all backslashes with forward slashes
+
 
     // Check if it's a directory or a file
     if (statSync(filePath).isDirectory()) {
