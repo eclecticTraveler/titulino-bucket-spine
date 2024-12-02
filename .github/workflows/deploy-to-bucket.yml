@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'bucket-scripts/*'  # Tracks all files in the bucket-scripts directory, including subdirectories
+      - 'bucket-scripts/*'  # Tracks all files in the bucket-scripts directory
 
 jobs:
   deploy:
@@ -23,7 +23,16 @@ jobs:
       
       - name: Authenticate to GCP
         run: echo ${{ secrets.GCP_SA_KEY }} | gcloud auth activate-service-account --key-file=-
-
+      
+      - name: Remove deleted files from Google Cloud Storage
+        run: |
+          gsutil ls gs://titulino-bucket/ | while read file; do
+            if ! git ls-files --error-unmatch "${file}" > /dev/null 2>&1; then
+              echo "Deleting $file from Cloud Storage"
+              gsutil rm "$file"
+            fi
+          done
+      
       - name: Upload JSON Files to GCS
         run: |
           gsutil -m cp ./bucket-scripts/*.json gs://titulino-bucket/
