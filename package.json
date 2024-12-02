@@ -13,5 +13,6 @@
   "description": "",
   "dependencies": {
     "@google-cloud/storage": "^7.14.0"
-  }
+  },
+  "type": "module"
 }
