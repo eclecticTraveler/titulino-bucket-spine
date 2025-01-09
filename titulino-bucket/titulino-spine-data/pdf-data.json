@@ -8,59 +8,123 @@
         "course": "eng",
         "chapters" : [
           {
-            "urlPath": "/QuizletPdfs/Supermarket/VegetablesPart1.pdf",
+            "urlPath": "/titulino-supermarket/VegetablesPart1.pdf",
             "chapter": 1,
             "title": "Vegetables - Part 1"
           },
           {
-            "urlPath": "/QuizletPdfs/Supermarket/VegetablesPart2.pdf",
+            "urlPath": "/titulino-supermarket/VegetablesPart2.pdf",
             "chapter": 2,
             "title": "Vegetables - Part 2"
           },
           {
-            "urlPath": "/QuizletPdfs/Supermarket/FruitsPart1.pdf",
+            "urlPath": "/titulino-supermarket/FruitsPart1.pdf",
             "chapter": 3,
             "title": "Fruits - Part 1"
           },
           {
-            "urlPath": "/QuizletPdfs/Supermarket/FruitsPart2.pdf",
+            "urlPath": "/titulino-supermarket/FruitsPart2.pdf",
             "chapter": 4,
             "title": "Fruits - Part 2"
           },
           {
-            "urlPath": "/QuizletPdfs/Supermarket/Meat.pdf",
+            "urlPath": "/titulino-supermarket/Meat.pdf",
             "chapter": 5,
             "title": "Meat"
           },
           {
-            "urlPath": "/QuizletPdfs/Supermarket/Poultry&Seafood.pdf",
+            "urlPath": "/titulino-supermarket/Poultry&Seafood.pdf",
             "chapter": 6,
             "title": "Poultry & Seafood"
           },
           {
-            "urlPath": "/QuizletPdfs/Supermarket/ContainersPart1.pdf",
+            "urlPath": "/titulino-supermarket/ContainersPart1.pdf",
             "chapter": 7,
             "title": "Containers - Part 1"
           },
           {
-            "urlPath": "/QuizletPdfs/Supermarket/ContainersPart2.pdf",
+            "urlPath": "/titulino-supermarket/ContainersPart2.pdf",
             "chapter": 8,
             "title": "Containers - Part 2"
           },
           {
-            "urlPath": "/QuizletPdfs/Supermarket/SupermarketPart1.pdf",
+            "urlPath": "/titulino-supermarket/SupermarketPart1.pdf",
             "chapter": 9,
             "title": "Supermarket - Part 1"
           },
           {
-            "urlPath": "/QuizletPdfs/Supermarket/SupermarketPart2.pdf",
+            "urlPath": "/titulino-supermarket/SupermarketPart2.pdf",
             "chapter": 10,
             "title": "Supermarket - Part 2"
           },
           {
-            "urlPath": "/QuizletPdfs/Supermarket/All150.pdf",
+            "urlPath": "/titulino-supermarket/All150.pdf",
             "chapter": 11,
             "title": "All 150+"
+          }
+        ]
+      },
+      {
+        "provider": "s3buckets",
+        "author": "Quizlet",
+        "theme":"household",
+        "nativeLanguage": "es",
+        "course": "eng",
+        "chapters" : [
+          {
+            "urlPath": "/household-pdfs/houses-part1.pdf",
+            "chapter": 1,
+            "title": "Household Items - Houses - Part 1"
+          },
+          {
+            "urlPath": "/household-pdfs/houses-part2.pdf",
+            "chapter": 2,
+            "title": "Household Items - Houses - Part 2"
+          },
+          {
+            "urlPath": "/household-pdfs/livingroom-part1.pdf",
+            "chapter": 3,
+            "title": "Household Items - Living Room - Part 1"
+          },
+          {
+            "urlPath": "/household-pdfs/livingroom-part2.pdf",
+            "chapter": 4,
+            "title": "Household Items - Living Room - Part 2"
+          },
+          {
+            "urlPath": "/household-pdfs/diningroom-part1.pdf",
+            "chapter": 5,
+            "title": "Household Items - Dining Room - Part 1"
+          },
+          {
+            "urlPath": "/household-pdfs/diningroom-part2.pdf",
+            "chapter": 6,
+            "title": "Household Items - Dining Room - Part 2"
+          },
+          {
+            "urlPath": "/household-pdfs/kitchen-part1.pdf",
+            "chapter": 7,
+            "title": "Household Items - Kitchen - Part 1"
+          },
+          {
+            "urlPath": "/household-pdfs/kitchen-part2.pdf",
+            "chapter": 8,
+            "title": "Household Items - Kitchen - Part 2"
+          },
+          {
+            "urlPath": "/household-pdfs/kitchenactionverbs-part1.pdf",
+            "chapter": 9,
+            "title": "Household Items - Kitchen Action Verbs - Part 1"
+          },
+          {
+            "urlPath": "/household-pdfs/kitchenactionverbs-part2.pdf",
+            "chapter": 10,
+            "title": "Household Items - Kitchen Action Verbs - Part 2"
+          },
+          {
+            "urlPath": "/household-pdfs/all150-household-part1.pdf",
+            "chapter": 11,
+            "title": "Household all 150+ Terms"
           }
         ]
       }    

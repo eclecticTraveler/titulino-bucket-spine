@@ -366,7 +366,7 @@
     ]
   },
   {
-    "courseId": "HOUSEHOLD_PART_1_JAN_2025_COURSE_01",
+    "courseId": "HOUSEHOLD_ITEMS_PART_1_JAN_2025_COURSE_01",
     "courseGeneralTheme": "household",
     "nativeLanguage": "es",
     "course": "eng",
@@ -382,6 +382,19 @@
           { "participationTypeId": 2, "localizationKey": "nav.recorded" }
         ],
         "lessons": [
+          {
+            "classNumber": 0,
+            "title": "Overview",
+            "description": "Overview of the course and its tools.",
+            "isToDisplay": true,
+            "availableDate": "01/11/2025",
+            "imageUrl": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": "https://fb.watch/w-TyzdXgu7/",
+              "youtube": "https://youtu.be/GMDWc83Qmrc",
+              "internal": "https://titulino.com/lrn/eng/level-household"
+            }
+          },
           {
             "classNumber": 1,
             "title": "Houses Part 1",
@@ -616,8 +629,8 @@
             "availableDate": "01/21/2025",
             "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
-              "facebook": null,
-              "youtube": null
+              "facebook": "https://fb.watch/w_xXCzE9id/",
+              "youtube": "https://youtu.be/wDoIVeyntwI"
             }
           },        
           {
@@ -628,8 +641,8 @@
             "availableDate": "01/28/2025",
             "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
-              "facebook": null,
-              "youtube": null
+              "facebook": "https://www.facebook.com/watch/?v=618010594052846",
+              "youtube": "https://youtu.be/OqBpY02bxQ0"
             }
           },
           {
@@ -640,8 +653,8 @@
             "availableDate": "02/04/2025",
             "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
-              "facebook": null,
-              "youtube": null
+              "facebook": "https://www.facebook.com/watch/?v=3861562967393509",
+              "youtube": "https://youtu.be/iMFZ3-xt0aM"
             }
           },
           {
@@ -652,8 +665,8 @@
             "availableDate": "02/11/2025",
             "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
-              "facebook": null,
-              "youtube": null
+              "facebook": "https://fb.watch/w-TB40rXs3/",
+              "youtube": "https://youtu.be/fCpwsxR1RVI"
             }
           },
           {

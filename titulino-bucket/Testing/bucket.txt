@@ -1,2 +1,3 @@
 - Migrated titulino supermarket from AWS to GCP
 - Adding SVG Certificates 1702846
+- Adding course images

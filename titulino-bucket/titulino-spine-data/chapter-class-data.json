@@ -266,9 +266,13 @@
     "course":"eng",    
     "chapters": [
       {
+        "chapter":0,
+        "url":null
+      },
+      {
         "chapter":1,
         "url":null
-      }      
+      }     
     ]
   }
 ]
