@@ -272,7 +272,19 @@
       {
         "chapter":1,
         "url":"https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ftitulinoingles%2Fvideos%2F625353073351981%2F&show_text=false&width=560&t=0"
-      }     
+      },
+      {
+        "chapter":2,
+        "url":"https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fbusiness.facebook.com%2Ftitulinoingles%2Fvideos%2F588507997496464%2F&show_text=false&width=560&t=320"
+      } ,
+      {
+        "chapter":3,
+        "url":"https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ftitulinoingles%2Fvideos%2F589728277379483%2F&show_text=false&width=560&t=1158"
+      },
+      {
+        "chapter":4,
+        "url":"https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fbusiness.facebook.com%2Ftitulinoingles%2Fvideos%2F3869476670033468%2F&show_text=false&width=560&t=100"
+      }
     ]
   }
 ]
