@@ -4,7 +4,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "upload": "node bucket-scripts/upload.js"
+    "upload-all": "node bucket-scripts/upload.js",
+    "upload-single": "node bucket-scripts/upload-modded-files"
 
   },
   "keywords": [],
