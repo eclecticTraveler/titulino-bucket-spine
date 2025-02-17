@@ -70,12 +70,12 @@
         }
     },
     {
-        "dateToBeSent": "2025-02-16T00:00:00Z",
+        "dateToBeSent": "2025-02-17T00:00:00Z",
         "communicationCategory":6,
         "emails": {
             "en": {
                 "subject": "Catch up Week - Titulino Household Part 1",
-                "body": "{{association}} {{name}} This Monday Feb 17 will not have an official class, rather we will do catch up, so rather than having a class we will meet for 60 min to play blooket and have an informal personal insight, hope you can join us, I would love to see you with us no matter how much you have been able to be part if it, come!.\n\nDon't forget to register your progress in case you want to apply for a certificate: https://titulino.com/lrn/eng/level-household/resources/my-progress  \n\nImportant Links: \nBasic Grammar Playlist on YouTube: https://www.youtube.com/playlist?list=PLkmoSkwe5lUCYjyyxkchTZeXW1sIHzuoT  \n\nWould you like to sponsor or support this project? You can buy a pizza: https://buymeacoffee.com/titulino  \n\nOne more thing: May God take care of our minds and hearts.\nWarm regards to {{location}}, Brother Arellano."
+                "body": "{{association}} {{name}} This Monday Feb 17 we will not have an official class, rather we will do catch up, so rather than having a class we will meet for 60 min to play blooket and have an informal personal insight, hope you can join us, I would love to see you with us no matter how much you have been able to be part if it, come!.\n\nDon't forget to register your progress in case you want to apply for a certificate: https://titulino.com/lrn/eng/level-household/resources/my-progress  \n\nImportant Links: \nBasic Grammar Playlist on YouTube: https://www.youtube.com/playlist?list=PLkmoSkwe5lUCYjyyxkchTZeXW1sIHzuoT  \n\nWould you like to sponsor or support this project? You can buy a pizza: https://buymeacoffee.com/titulino  \n\nOne more thing: May God take care of our minds and hearts.\nWarm regards to {{location}}, Brother Arellano."
             },
             "es": {
                 "subject": "Semana de recuperacion (Catch-up week) Titulino Household Part 1",
@@ -89,7 +89,7 @@
         "emails": {
             "en": {
                 "subject": "Week #5 Advanced Gramar for Titulino Household Part 1",
-                "body": "{{association}} {{name}} I welcome you to the advanced grammar videos.\n\nClass #1 of Grammar\n\nFacebook: https://www.facebook.com/share/v/NTWs7LP4yQ8xDGzQ/  \nYouTube: https://www.youtube.com/playlist?list=PLkmoSkwe5lUCYjyyxkchTZeXW1sIHzuoT  \n\nIf it helps you, feel free to give it a heart or a thumbs up, or even share it if it was worthwhile.\n\nDon't forget to register your progress in case you want to apply for a certificate: https://titulino.com/lrn/eng/level-household/resources/my-progress  \n\nImportant Links:  \n\nGeneral Gathering: https://titulino.com/lrn/eng/level-household/chapter-1/class  \n\nBasic Grammar Playlist on Facebook: https://www.facebook.com/share/v/NTWs7LP4yQ8xDGzQ/  \nBasic Grammar Playlist on YouTube: https://www.youtube.com/playlist?list=PLkmoSkwe5lUCYjyyxkchTZeXW1sIHzuoT  \n\nWould you like to sponsor or support this project? You can buy a pizza: https://buymeacoffee.com/titulino  \n\nOne more thing: May God take care of our minds and hearts.\nWarm regards to {{location}}, Brother Arellano."
+                "body": "{{association}} {{name}} Almost there! we are half way through or course allow me to share to the advanced grammar videos.\n\nClass #1 of Grammar\n\nFacebook: https://www.facebook.com/share/v/NTWs7LP4yQ8xDGzQ/  \nYouTube: https://www.youtube.com/playlist?list=PLkmoSkwe5lUCYjyyxkchTZeXW1sIHzuoT  \n\nIf it helps you, feel free to give it a heart or a thumbs up, or even share it if it was worthwhile.\n\nDon't forget to register your progress in case you want to apply for a certificate: https://titulino.com/lrn/eng/level-household/resources/my-progress  \n\nImportant Links:  \n\nGeneral Gathering: https://titulino.com/lrn/eng/level-household/chapter-1/class  \n\nBasic Grammar Playlist on Facebook: https://www.facebook.com/share/v/NTWs7LP4yQ8xDGzQ/  \nBasic Grammar Playlist on YouTube: https://www.youtube.com/playlist?list=PLkmoSkwe5lUCYjyyxkchTZeXW1sIHzuoT  \n\nWould you like to sponsor or support this project? You can buy a pizza: https://buymeacoffee.com/titulino  \n\nOne more thing: May God take care of our minds and hearts.\nWarm regards to {{location}}, Brother Arellano."
             },
             "es": {
                 "subject": "Semana #5 Gramatica Basica Titulino Household Part 1",
