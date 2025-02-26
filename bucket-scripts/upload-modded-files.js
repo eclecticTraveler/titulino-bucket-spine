@@ -38,7 +38,7 @@ async function uploadDirectory(directory, remoteFiles) {
         });
         console.log(`Upload completed for ${filePath}`);
       } else {
-        console.log(`Skipping ${filePath}, no changes detected.`);
+        // console.log(`Skipping ${filePath}, no changes detected.`);        
       }
     }
   }
