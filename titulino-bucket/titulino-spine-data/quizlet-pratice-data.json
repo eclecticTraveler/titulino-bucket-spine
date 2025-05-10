@@ -1402,6 +1402,60 @@
             "title": "Household all 150+ Terms"
           }
         ]
+      },
+      {
+        "id":14,
+        "courseTitle":"titulino-work-and-jobs-part-1",
+        "level": 5,
+        "resourceName": "Titulino Theme Work & Jobs Part 1",
+        "nativeLanguage": "es",
+        "course": "eng",
+        "courses" : [
+          {
+            "id":"1035831089",
+            "title": "Work & Jobs 1 - Construction"
+          },
+          {
+            "id":"1035833756",
+            "title": "Work & Jobs 1 - Office"
+          },
+          {
+            "id":"1035835560",
+            "title": "Work & Jobs 1 - School"
+          },
+          {
+            "id":"1035836801",
+            "title": "Work & Jobs 1 - Farming"
+          },
+          {
+            "id":"1035838135",
+            "title": "Work & Jobs 1 - Hospital"
+          },
+          {
+            "id":"1035839359",
+            "title": "Work & Jobs 1 - Hotel"
+          },
+          {
+            "id":"1035862270",
+            "title": "Work & Jobs 1 - Warehouse"
+          },
+          {
+            "id":"1035863743",
+            "title": "Work & Jobs 1 - Restaurant"
+          },
+          {
+            "id":"1041841347",
+            "title": "Work & Jobs 1 - Corporate"
+          },
+          {
+            "id":"1035868914",
+            "title": "Work & Jobs 1 - Pharmacy"
+          },
+          {
+            "id":"1042108907",
+            "title": "Work & Jobs all 150+ Terms"
+          }
+        ]
       }
     ]
   }

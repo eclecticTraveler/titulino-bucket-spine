@@ -166,5 +166,19 @@
                 "body": "{{association}} {{name}} Le doy la bienvenida a los videos de gramática basica.\n\nClase #1 de Gramática\n\nFacebook: https://www.facebook.com/share/v/NTWs7LP4yQ8xDGzQ/  \nYouTube: https://www.youtube.com/playlist?list=PLkmoSkwe5lUCYjyyxkchTZeXW1sIHzuoT  \n\nSi le ayuda, puede darle un corazón o pulgar arriba, inclusive compartirlo si valió la pena.\n\nNo se olvide registrar su progreso por si desea postular a un certificado: https://titulino.com/lrn/eng/level-household/resources/my-progress  \n\nEnlaces importantes:  \n\nReunión General: https://titulino.com/lrn/eng/level-household/chapter-1/class  \n\nLista de Reproducción de Gramática Básica en Facebook: https://www.facebook.com/share/v/NTWs7LP4yQ8xDGzQ/  \nLista de Reproducción de Gramática Básica en YouTube: https://www.youtube.com/playlist?list=PLkmoSkwe5lUB_YUtVyI6-ADrfMxjWbBhw  \n\n¿Le gustaría patrocinar o apoyar este proyecto? Puede comprar una pizza: https://buymeacoffee.com/titulino  \n\nUna cosa más: Que Dios cuide nuestra mente y nuestro corazón.\nUn abrazo fuertísimo hasta {{location}}, Hno Arellano."
             }
         }
+    },
+    {
+        "dateToBeSent": "2025-04-08T00:00:00Z",
+        "communicationCategory":12,
+        "emails": {
+            "en": {
+                "subject": "Thank you! - Titulino Household Part 1",
+                "body": "{{association}} {{name}} we finished this 'sprint course' but don't give up on me,\n\n we have 1 more week to recover,\n\nand you know the whole course can be completed in 1 week of 2 hours a day!\n\n In advance, thank you for allowing me to send you these emails, and also for having you,\n\n don't worry if by chance I don't finish everything we will always have more opportunities,\n\n see you in July for the 'Work & Jobs' course with its dedicated day of introspection and symbols.\n\n I really appreciate your love and attention, if there is something I can do better I will take all your suggestions.\n\n In case you haven't taken it here is the link so you can leave your thoughts for me\n https://forms.gle/AHwR9JDWW4W8FFvA9 \n once again thank you from the bottom of my heart. Until July \n\n \n\nWould you like to support this project? You can buy a pizza: https://buymeacoffee.com/titulino \n\nOne more thing:\nA big hug to {{location}}, don't give up on me and I won't give up on you! Brother Arellano, 'the bishop' "
+            },
+            "es": {
+                "subject": "Le quiero decir GRACIAS - Titulino Household Part 1",
+                "body": "{{association}} {{name}} terminamos este 'sprint course' pero no me desista,\n\n tenemos 1 semana mas para hacer recuperacion, \n\ny sabe todo el curso se puede cumplir en 1 semana de a 2 horas al dia!\n\n De antemano, gracias por permitirme mandarle estos emails, y tambien de tenerle, por ahora no mandare mas lo prometo y si siente a bien no recibirlos por cualquier razon, no dude en decirme,\n\n nos vemos en Julio para el curso 'Work & Jobs' con su dia dedicado de introspecciones y simbolos.\n\n Le agradezco mucho su amor y atencion de verdad, si hay algo que pueda hacer mejor le tomo todas sus sugerencias.\n\n Por si no lo ha tomado aqui le dejo el enlace para que me deje sus pensamientos para mi\n  https://forms.gle/AHwR9JDWW4W8FFvA9 \n una vez mas gracias del fondo de mi corazon. Hasta Julio y si hay familiares, amigos conocidos que sienta que se puedan beneficiar aqui estamos para servirles. \n\n \n\n¿Le gustaría apoyar este proyecto? Puede comprar una pizza: https://buymeacoffee.com/titulino  \n\nUna cosa más:\nUn abrazo fuertísimo hasta {{location}}, no me desista que no desistire de usted! Hno Arellano, 'El bishop'"
+            }
+        }
     }
 ]
