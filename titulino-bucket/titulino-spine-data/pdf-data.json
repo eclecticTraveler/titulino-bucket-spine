@@ -127,7 +127,71 @@
             "title": "Household all 150+ Terms"
           }
         ]
-      }    
+      },
+      {
+        "provider": "cloud",
+        "author": "Quizlet",
+        "theme":"work&jobs",
+        "nativeLanguage": "es",
+        "course": "eng",
+        "chapters" : [
+          {
+            "urlPath": "/workandjobs1-pdfs/construction.pdf",
+            "chapter": 1,
+            "title": "workandjobs1 - Construction"
+          },
+          {
+            "urlPath": "/workandjobs1-pdfs/officepdf",
+            "chapter": 2,
+            "title": "workandjobs1 - Office"
+          },
+          {
+            "urlPath": "/workandjobs1-pdfs/school.pdf",
+            "chapter": 3,
+            "title": "workandjobs1 - School"
+          },
+          {
+            "urlPath": "/workandjobs1-pdfs/farming.pdf",
+            "chapter": 4,
+            "title": "workandjobs1 - Farming"
+          },
+          {
+            "urlPath": "/workandjobs1-pdfs/hotel.pdf",
+            "chapter": 5,
+            "title": "workandjobs1 - Hotel"
+          },
+          {
+            "urlPath": "/workandjobs1-pdfs/warehouse.pdf",
+            "chapter": 6,
+            "title": "workandjobs1 - Warehouse"
+          },
+          {
+            "urlPath": "/workandjobs1-pdfs/restaurant.pdf",
+            "chapter": 7,
+            "title": "workandjobs1 - Restaurant"
+          },
+          {
+            "urlPath": "/workandjobs1-pdfs/hospital.pdf",
+            "chapter": 8,
+            "title": "workandjobs1 - Hospital"
+          },
+          {
+            "urlPath": "/workandjobs1-pdfs/pharmacy.pdf",
+            "chapter": 9,
+            "title": "workandjobs1 - Pharmacy"
+          },
+          {
+            "urlPath": "/workandjobs1-pdfs/corporate.pdf",
+            "chapter": 10,
+            "title": "workandjobs1 - Corporate"
+          },
+          {
+            "urlPath": "/workandjobs1-pdfs/all150-workandjobs1.pdf",
+            "chapter": 11,
+            "title": "Work & Jobs all 150+ Terms"
+          }
+        ]
+      }     
     ]
   }
 

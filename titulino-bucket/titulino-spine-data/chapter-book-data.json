@@ -139,7 +139,77 @@
             "title": "Donate"
           }
         ]
-      }   
+      },
+      {
+        "id": "4723552a65",
+        "theme":"work&jobs",
+        "bookType":"vocabulary",
+        "bookTitle": "Work & Jobs Part 1, 150 Core Words",
+        "nativeLanguage": "es",
+        "course": "eng",
+        "chapters" : [
+          {
+            "page": 4,
+            "chapter": 1,
+            "title": "Construction"
+          },
+          {
+            "page": 8,
+            "chapter": 2,
+            "title": "Office"
+          },
+          {
+            "page": 11,
+            "chapter": 3,
+            "title": "School"
+          },
+          {
+            "page": 14,
+            "chapter": 4,
+            "title": "Farming"
+          },
+          {
+            "page": 17,
+            "chapter": 5,
+            "title": "Hotel"
+          },
+          {
+            "page": 20,
+            "chapter": 6,
+            "title": "Warehouse"
+          },
+          {
+            "page": 23,
+            "chapter": 7,
+            "title": "Restaurant"
+          },
+          {
+            "page": 26,
+            "chapter": 8,
+            "title": "Hospital"
+          },
+          {
+            "page": 29,
+            "chapter": 9,
+            "title": "Pharmacy"
+          },
+          {
+            "page": 32,
+            "chapter": 10,
+            "title": "Corporate"
+          },
+          {
+            "page": 40,
+            "chapter": 11,
+            "title": "Test"
+          },
+          {
+            "page": 38,
+            "chapter": 12,
+            "title": "Donate"
+          }
+        ]
+      }    
     ]
   }
 
