@@ -1,40 +1,44 @@
-name: Deploy JSON Files to GCS Bucket
+name: Upload JSON Files to GCS Bucket
 
 on:
   push:
-    branches:
-      - main
+    branches: [main]
     paths:
-      - 'bucket-scripts/*'  # Tracks all files in the bucket-scripts directory
+      - 'titulino-bucket/**'  # Only run if something changes here
+
+env:
+  GCP_PROJECT_ID: ${{ secrets.GCP_PROJECT_ID }}
+  GCP_BUCKET_NAME: titulino-bucket
+  NODE_OPTIONS: "--max_old_space_size=4096"
 
 jobs:
-  deploy:
+  upload-json:
+    name: Upload Modified JSON Files
     runs-on: ubuntu-latest
-    
+
     steps:
+      # Checkout repo
       - name: Checkout repository
-        uses: actions/checkout@v3
-      
-      - name: Set up Google Cloud SDK
-        uses: google-github-actions/setup-gcloud@v0.7.0
+        uses: actions/checkout@v4
+
+      # Set up Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          version: 'latest'
-          project_id: ${{ secrets.GCP_PROJECT_ID }}
-      
-      - name: Authenticate to GCP
-        run: echo ${{ secrets.GCP_SA_KEY }} | gcloud auth activate-service-account --key-file=-
-      
-      - name: Remove deleted files from Google Cloud Storage
-        run: |
-          gsutil ls gs://titulino-bucket/ | while read file; do
-            if ! git ls-files --error-unmatch "${file}" > /dev/null 2>&1; then
-              echo "Deleting $file from Cloud Storage"
-              gsutil rm "$file"
-            fi
-          done
-      
-      - name: Upload JSON Files to GCS
-        run: |
-          gsutil -m cp ./bucket-scripts/*.json gs://titulino-bucket/
-        env:
-          GOOGLE_APPLICATION_CREDENTIALS: ${{ secrets.GCP_SA_KEY }}
+          node-version: 22
+
+      # Install dependencies from the bucket-scripts folder
+      - name: Install Dependencies
+        working-directory: ./bucket-scripts
+        run: npm ci
+
+      # Authenticate with GCP
+      - name: Authenticate with GCP
+        uses: google-github-actions/auth@v1
+        with:
+          credentials_json: ${{ secrets.GCP_SERVICE_ACCOUNT_KEY }}
+
+      # Upload JSON files using your Node script
+      - name: Upload Only Modified JSON Files
+        run: node upload-modded-files.js
+        working-directory: ./bucket-scripts

@@ -2,8 +2,16 @@ import { Storage } from '@google-cloud/storage';
 import { join, relative } from 'path';
 import { readdirSync, statSync } from 'fs';
 
-// Initialize Google Cloud Storage with your credentials
-const storage = new Storage({ keyFilename: './bucket-scripts/certain-upgrade-341601-6db30a4e61b5.json' });
+const isGitHubAction = process.env.GITHUB_ACTIONS === 'true';
+console.log("------>isGitHubAction", isGitHubAction);
+// Initialize Google Cloud Storage with your credentials accordingly for manual run or for github actions run.
+const pathToKey = './bucket-scripts/certain-upgrade-341601-6db30a4e61b5.json';
+const useExplicitKey = !isGitHubAction && require('fs').existsSync(pathToKey);
+
+const storage = useExplicitKey
+  ? new Storage({ keyFilename: pathToKey })
+  : new Storage();
+
 const bucketName = 'titulino-bucket';
 
 // Get remote files metadata
