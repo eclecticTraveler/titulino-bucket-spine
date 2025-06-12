@@ -1,12 +1,473 @@
 [
     {
-        "dateToBePosted": "2025-06-12",
-        "language": "en",
-        "text": "🍽️ What’s the most delicious meal you’ve had recently? Share your weekend foodie story!",
-        "imageUrl": null,
-        "pageName": "Titulino-Ingles",
-        "initialComment": "@everyone Recuerda comentar tu canción favorita 🎵"
-      }
-      
+      "dateToBePosted": "2025-06-16",
+      "language": "pt",
+      "text": "\"Talvez você esteja buscando nos galhos o que só encontramos nas raízes.\" – Rumi",
+      "imageUrl": "https://images.unsplash.com/photo-1567662810010-05f4f9896cb2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90oy1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "pageName": "De Pai Pra Filho",
+      "initialComment": "🌱 Às vezes a resposta está mais perto do que imaginamos."
+    },
+    {
+      "dateToBePosted": "2025-06-18",
+      "language": "pt",
+      "text": "\"A felicidade da sua vida depende da qualidade dos seus pensamentos.\" – Marco Aurélio",
+      "imageUrl": "https://images.unsplash.com/photo-1600603406200-5b2a104684ac?q=80&w=3774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "pageName": "De Pai Pra Filho",
+      "initialComment": "💭 Cultive pensamentos bons, colha paz."
+    },
+    {
+      "dateToBePosted": "2025-06-20",
+      "language": "pt",
+      "text": "\"A ferida é o lugar por onde a luz entra em você.\" – Rumi",
+      "imageUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=3776&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "pageName": "De Pai Pra Filho",
+      "initialComment": "✨ Cada dor tem seu propósito. Confie no processo."
+    },
+    {
+      "dateToBePosted": "2025-06-23",
+      "language": "pt",
+      "text": "\"Não perca tempo discutindo o que um bom homem deve ser. Seja um.\" – Marco Aurélio",
+      "imageUrl": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?q=80&w=3648&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "pageName": "De Pai Pra Filho",
+      "initialComment": "👣 O exemplo vale mais do que mil palavras."
+    },
+    {
+      "dateToBePosted": "2025-06-25",
+      "language": "pt",
+      "text": "\"Você nasceu com asas. Por que ainda rasteja pela vida?\" – Rumi",
+      "imageUrl": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?q=80&w=3774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90oy1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "pageName": "De Pai Pra Filho",
+      "initialComment": "🕊️ Acredite no seu potencial. Você foi feito pra voar."
+    },
+    {
+      "dateToBePosted": "2025-06-27",
+      "language": "pt",
+      "text": "\"Se está fora do seu controle, não merece sua energia.\" – Epicteto",
+      "imageUrl": "https://images.unsplash.com/photo-1617668912875-7e4184d32a77?q=80&w=2817&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90oy1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "pageName": "De Pai Pra Filho",
+      "initialComment": "🛑 Não se desgaste com o que não pode mudar."
+    },
+    {
+      "dateToBePosted": "2025-06-30",
+      "language": "pt",
+      "text": "\"O que você busca está buscando você.\" – Rumi",
+      "imageUrl": "https://images.unsplash.com/photo-1601583844062-7487c80b56b7?q=80&w=2667&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90oy1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "pageName": "De Pai Pra Filho",
+      "initialComment": "🔍 Confie: seus sonhos também te procuram."
+    },
+    {
+      "dateToBePosted": "2025-07-02",
+      "language": "pt",
+      "text": "\"Comece cada dia dizendo a si mesmo: hoje encontrarei pessoas intrometidas, ingratas, arrogantes...\" – Marco Aurélio",
+      "imageUrl": "https://images.unsplash.com/photo-1573878222998-40b24a653ac8?q=80&w=3774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90oy1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "pageName": "De Pai Pra Filho",
+      "initialComment": "🛡️ Prepare o espírito e mantenha a paz."
+    },
+    {
+      "dateToBePosted": "2025-07-04",
+      "language": "pt",
+      "text": "\"Você foi feito para ser guiado pela razão, não pelo medo.\" – Epicteto",
+      "imageUrl": "https://images.unsplash.com/photo-1553589656-66c9c6b8f285?q=80&w=3376&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90oy1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "pageName": "De Pai Pra Filho",
+      "initialComment": "🧠 Siga a razão. O medo é um péssimo guia."
+    },
+    {
+      "dateToBePosted": "2025-07-07",
+      "language": "pt",
+      "text": "\"A luz que você procura está dentro de você.\" – Rumi",
+      "imageUrl": "https://images.unsplash.com/photo-1550682290-d071c75759f9?q=80&w=3456&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90oy1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "pageName": "De Pai Pra Filho",
+      "initialComment": "💡 Confie na sua própria luz. Você é suficiente."
+    },
+    {
+      "dateToBePosted": "2025-07-09",
+      "language": "pt",
+      "text": "\"Primeiro diga a si mesmo o que você seria. Depois, faça o que for preciso.\" – Epicteto",
+      "imageUrl": "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?q=80&w=3648&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90oy1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "pageName": "De Pai Pra Filho",
+      "initialComment": "📌 Clareza interior antes da ação exterior."
+    },
+    {
+      "dateToBePosted": "2025-07-11",
+      "language": "pt",
+      "text": "\"Você nasceu com um propósito. Não o enterre por medo.\" – Rumi",
+      "imageUrl": "https://images.unsplash.com/photo-1664575602554-2087b04935a5?q=80&w=3774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90oy1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "pageName": "De Pai Pra Filho",
+      "initialComment": "🚀 Não tema sua luz. Ela foi feita pra brilhar."
+    },
+        {
+          "dateToBePosted": "2025-06-17",
+          "language": "es",
+          "text": "🧠 **To figure out** significa *entender algo después de pensar*.\nEjemplo: _I need to figure out how this works._",
+          "imageUrl": "https://images.unsplash.com/photo-1567662810010-05f4f9896cb2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90oy1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+          "pageName": "Titulino-Ingles",
+          "initialComment": "¡Domina los phrasal verbs uno por uno! 🚀"
+        },
+        {
+          "dateToBePosted": "2025-06-19",
+          "language": "es",
+          "text": "📌 **Eventually** no significa *eventualmente* en español.\nEn inglés es *finalmente, con el tiempo.*",
+          "imageUrl": "https://images.unsplash.com/photo-1600603406200-5b2a104684ac?q=80&w=3774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90oy1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "pageName": "Titulino-Ingles",
+          "initialComment": "¡Cuidado con los falsos amigos! 👀"
+        },
+        {
+          "dateToBePosted": "2025-06-21",
+          "language": "es",
+          "text": "🎯 **To get the hang of it** = *agarrar la onda* o *entender cómo se hace algo*.\nEjemplo: _You'll get the hang of it soon!_",
+          "imageUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=3776&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90oy1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "pageName": "Titulino-Ingles",
+          "initialComment": "Aprender inglés también es cuestión de ritmo 🎧"
+        },
+        {
+          "dateToBePosted": "2025-06-24",
+          "language": "es",
+          "text": "💬 **To be worth it** = *valer la pena*.\nEjemplo: _This book is worth it._",
+          "imageUrl": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?q=80&w=3648&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90oy1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "pageName": "Titulino-Ingles",
+          "initialComment": "Vale la pena aprender estas frases 😉"
+        },
+        {
+          "dateToBePosted": "2025-06-26",
+          "language": "es",
+          "text": "📖 **To run out of** = *quedarse sin algo*.\nEjemplo: _We ran out of milk._",
+          "imageUrl": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?q=80&w=3774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90oy1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "pageName": "Titulino-Ingles",
+          "initialComment": "¡Nunca te quedes sin expresiones útiles! 🥛"
+        },
+        {
+          "dateToBePosted": "2025-06-28",
+          "language": "es",
+          "text": "🗣️ **Make up your mind** = *decidirse*.\nEjemplo: _Come on, make up your mind!_",
+          "imageUrl": "https://images.unsplash.com/photo-1617668912875-7e4184d32a77?q=80&w=2817&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90oy1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "pageName": "Titulino-Ingles",
+          "initialComment": "¡Decídete a aprender! 💪"
+        },
+        {
+          "dateToBePosted": "2025-07-01",
+          "language": "es",
+          "text": "🎬 **Break a leg** = *Buena suerte* (expresión típica en teatro).\nNo es literal 😉",
+          "imageUrl": "https://images.unsplash.com/photo-1601583844062-7487c80b56b7?q=80&w=2667&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90oy1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "pageName": "Titulino-Ingles",
+          "initialComment": "¡Mucha suerte hoy! 🍀"
+        },
+        {
+          "dateToBePosted": "2025-07-03",
+          "language": "es",
+          "text": "🔍 **To look forward to** = *esperar con ansias*.\nEjemplo: _I look forward to seeing you._",
+          "imageUrl": "https://images.unsplash.com/photo-1573878222998-40b24a653ac8?q=80&w=3774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90oy1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "pageName": "Titulino-Ingles",
+          "initialComment": "¡Nos vemos pronto! 😉"
+        },
+        {
+          "dateToBePosted": "2025-07-05",
+          "language": "es",
+          "text": "💡 **To be used to** = *estar acostumbrado a algo*.\nEjemplo: _I'm used to waking up early._",
+          "imageUrl": "https://images.unsplash.com/photo-1553589656-66c9c6b8f285?q=80&w=3376&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90oy1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "pageName": "Titulino-Ingles",
+          "initialComment": "La práctica hace al maestro 📚"
+        },
+        {
+          "dateToBePosted": "2025-07-08",
+          "language": "es",
+          "text": "🎉 **To show up** = *aparecer o presentarse*.\nEjemplo: _She showed up late to the party._",
+          "imageUrl": "https://images.unsplash.com/photo-1550682290-d071c75759f9?q=80&w=3456&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90oy1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "pageName": "Titulino-Ingles",
+          "initialComment": "¡Que no se te pase ninguna clase! 🕺"
+        },
+        {
+          "dateToBePosted": "2025-07-10",
+          "language": "es",
+          "text": "📊 **On the other hand** = *por otro lado*.\nIdeal para contrastar ideas.",
+          "imageUrl": "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?q=80&w=3648&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90oy1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "pageName": "Titulino-Ingles",
+          "initialComment": "Aprende a conectar ideas como un pro 🔗"
+        },
+        {
+          "dateToBePosted": "2025-07-12",
+          "language": "es",
+          "text": "🙋‍♂️ **By the way** = *por cierto*.\nEjemplo: _By the way, I liked your video!_",
+          "imageUrl": "https://images.unsplash.com/photo-1664575602554-2087b04935a5?q=80&w=3774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90oy1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "pageName": "Titulino-Ingles",
+          "initialComment": "¡Por cierto… estás aprendiendo muy bien! 🌟"
+        },
+            {
+              "dateToBePosted": "2025-06-16",
+              "language": "pt",
+              "text": "🇪🇸 **¡Qué padre!**\nNo tem a ver com pai 😅. No México, significa: *Que legal!*",
+              "imageUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=3776&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+              "pageName": "Titulino-Espanhol",
+              "initialComment": "Aprenda espanhol com expressões autênticas mexicanas! 🇲🇽"
+            },
+            {
+              "dateToBePosted": "2025-06-18",
+              "language": "pt",
+              "text": "📌 **Llamar la atención**\nSignifica *chamar a atenção*, mas nem sempre é negativo. Pode ser elogio também!",
+              "imageUrl": "https://images.unsplash.com/photo-1600603406200-5b2a104684ac?q=80&w=3774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+              "pageName": "Titulino-Espanhol",
+              "initialComment": "Domine as sutilezas do espanhol 💡"
+            },
+            {
+              "dateToBePosted": "2025-06-20",
+              "language": "pt",
+              "text": "🧠 **Estar de acuerdo** = *Estar de acordo*\nMas atenção! Nunca diga *estar en acuerdo* ❌",
+              "imageUrl": "https://images.unsplash.com/photo-1567662810010-05f4f9896cb2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+              "pageName": "Titulino-Espanhol",
+              "initialComment": "Falsos cognatos podem te enganar! 👀"
+            },
+            {
+              "dateToBePosted": "2025-06-23",
+              "language": "pt",
+              "text": "📖 **Hace calor / hace frío**\nUse *hacer* para clima. Nunca diga *es calor* ❌",
+              "imageUrl": "https://images.unsplash.com/photo-1553589656-66c9c6b8f285?q=80&w=3376&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+              "pageName": "Titulino-Espanhol",
+              "initialComment": "Fique esperto com os verbos climáticos! 🌞❄️"
+            },
+            {
+              "dateToBePosted": "2025-06-25",
+              "language": "pt",
+              "text": "🎯 **Tener ganas de** = *Estar com vontade de*\nExemplo: _Tengo ganas de comer tacos 🌮_",
+              "imageUrl": "https://images.unsplash.com/photo-1550682290-d071c75759f9?q=80&w=3456&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+              "pageName": "Titulino-Espanhol",
+              "initialComment": "Expresse desejos como um nativo! 😋"
+            },
+            {
+              "dateToBePosted": "2025-06-27",
+              "language": "pt",
+              "text": "💬 **¡Ojo!**\nQuer dizer *Cuidado!* ou *Preste atenção!*\nExemplo: _¡Ojo con esa palabra!_",
+              "imageUrl": "https://images.unsplash.com/photo-1573878222998-40b24a653ac8?q=80&w=3774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+              "pageName": "Titulino-Espanhol",
+              "initialComment": "Uma palavrinha poderosa! 👁️"
+            },
+            {
+              "dateToBePosted": "2025-06-30",
+              "language": "pt",
+              "text": "🚫 **Salir embarazada**\nNão quer dizer *sair envergonhada* 🙈\nSignifica *ficar grávida*!",
+              "imageUrl": "https://images.unsplash.com/photo-1601583844062-7487c80b56b7?q=80&w=2667&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+              "pageName": "Titulino-Espanhol",
+              "initialComment": "Esse falso cognato já causou muita confusão 😅"
+            },
+            {
+              "dateToBePosted": "2025-07-02",
+              "language": "pt",
+              "text": "🗣️ **¡No pasa nada!**\nQuer dizer: *Não tem problema!* ou *Tá tudo bem!*",
+              "imageUrl": "https://images.unsplash.com/photo-1617668912875-7e4184d32a77?q=80&w=2817&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+              "pageName": "Titulino-Espanhol",
+              "initialComment": "Expressão super usada no dia a dia! ✅"
+            },
+            {
+              "dateToBePosted": "2025-07-04",
+              "language": "pt",
+              "text": "🎉 **¡Qué guay!**\nExpressão espanhola que significa *Que legal!* ou *Maneiro!* 🇪🇸",
+              "imageUrl": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?q=80&w=3648&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+              "pageName": "Titulino-Espanhol",
+              "initialComment": "Descubra o espanhol europeu com estilo 😎"
+            },
+            {
+              "dateToBePosted": "2025-07-07",
+              "language": "pt",
+              "text": "🔁 **Volver vs. Devolver**\n👉 *Volver* = voltar (pessoa)\n👉 *Devolver* = devolver (objeto)",
+              "imageUrl": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?q=80&w=3774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+              "pageName": "Titulino-Espanhol",
+              "initialComment": "Verbos parecidos, mas com uso diferente! 🔄"
+            },
+            {
+              "dateToBePosted": "2025-07-09",
+              "language": "pt",
+              "text": "📌 **Ser vs. Estar**\nUse **ser** para o que é permanente e **estar** para estados temporários.\nExemplo: _Soy brasileño. Estoy cansado._",
+              "imageUrl": "https://images.unsplash.com/photo-1664575602554-2087b04935a5?q=80&w=3774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+              "pageName": "Titulino-Espanhol",
+              "initialComment": "A dúvida número 1 de todo aluno de espanhol! 😬"
+            },
+            {
+              "dateToBePosted": "2025-07-11",
+              "language": "pt",
+              "text": "✨ **Por si acaso** = *Por via das dúvidas* ou *Caso aconteça algo*.\nExemplo: _Lleva un paraguas, por si acaso._",
+              "imageUrl": "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?q=80&w=3648&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+              "pageName": "Titulino-Espanhol",
+              "initialComment": "Uma expressão útil em qualquer idioma ☔"
+            },
+                {
+                  "dateToBePosted": "2025-06-17",
+                  "language": "es",
+                  "text": "🇧🇷 **Ficar de boa**\nSignifica *estar tranquilo, relajado*. Muy usado en Brasil.\nEx: _Hoje eu só quero ficar de boa._",
+                  "imageUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=3776&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                  "pageName": "Titulino-Portugues",
+                  "initialComment": "Expresiones brasileñas que te harán sonar natural 🇧🇷✨"
+                },
+                {
+                  "dateToBePosted": "2025-06-19",
+                  "language": "es",
+                  "text": "💬 **Oi** = *Hola*\nEs la forma más común y amigable de saludar en Brasil. No se confunde con *¡ay!* 😉",
+                  "imageUrl": "https://images.unsplash.com/photo-1600603406200-5b2a104684ac?q=80&w=3774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                  "pageName": "Titulino-Portugues",
+                  "initialComment": "Un saludo simple, ¡pero muy brasileño! 👋"
+                },
+                {
+                  "dateToBePosted": "2025-06-21",
+                  "language": "es",
+                  "text": "🧉 **Tomar un cafézinho**\nNo es solo una bebida ☕, ¡es un acto social!\nEn Brasil, ofrecer café es sinónimo de hospitalidad.",
+                  "imageUrl": "https://images.unsplash.com/photo-1567662810010-05f4f9896cb2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                  "pageName": "Titulino-Portugues",
+                  "initialComment": "Aprender el idioma también es aprender la cultura ☕🇧🇷"
+                },
+                {
+                  "dateToBePosted": "2025-06-24",
+                  "language": "es",
+                  "text": "📌 **Saudade**\nNo tiene traducción exacta en español. Es un sentimiento de nostalgia, cariño y ausencia. ❤️",
+                  "imageUrl": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?q=80&w=3774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                  "pageName": "Titulino-Portugues",
+                  "initialComment": "Una palabra brasileña que toca el alma 💔"
+                },
+                {
+                  "dateToBePosted": "2025-06-26",
+                  "language": "es",
+                  "text": "🎉 **Festa Junina**\nUna de las fiestas más tradicionales de Brasil.\nBailes, comida típica, y ropa de campesinos 🕺🌽",
+                  "imageUrl": "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?q=80&w=3648&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                  "pageName": "Titulino-Portugues",
+                  "initialComment": "¡Conocer el idioma es también vivir sus fiestas! 🎊"
+                },
+                {
+                  "dateToBePosted": "2025-06-28",
+                  "language": "es",
+                  "text": "🐒 **Maluco / Maluca** = *Loco(a)*\nMuy usado de forma coloquial y amigable.\n_“Ele é maluco, mas é gente boa.”_",
+                  "imageUrl": "https://images.unsplash.com/photo-1617668912875-7e4184d32a77?q=80&w=2817&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                  "pageName": "Titulino-Portugues",
+                  "initialComment": "Expresiones informales que escucharás mucho 🇧🇷🗣️"
+                },
+                {
+                  "dateToBePosted": "2025-07-01",
+                  "language": "es",
+                  "text": "🔁 **Tudo bem? / Tudo bom?**\nAmbas significan *¿Todo bien?* y se responden igual:\n_“Tudo bem!”_",
+                  "imageUrl": "https://images.unsplash.com/photo-1550682290-d071c75759f9?q=80&w=3456&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                  "pageName": "Titulino-Portugues",
+                  "initialComment": "¡Empieza cualquier conversación como un brasileño! 😄"
+                },
+                {
+                  "dateToBePosted": "2025-07-03",
+                  "language": "es",
+                  "text": "🧂 **Farofa**\nNo es solo comida. En Brasil, la *farofa* es compañera de la carne, del arroz... ¡y de la alegría!",
+                  "imageUrl": "https://images.unsplash.com/photo-1553589656-66c9c6b8f285?q=80&w=3376&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                  "pageName": "Titulino-Portugues",
+                  "initialComment": "¡Descubre los sabores del portugués! 🍽️🇧🇷"
+                },
+                {
+                  "dateToBePosted": "2025-07-05",
+                  "language": "es",
+                  "text": "💡 **Dar um jeitinho**\nUna frase muy brasileña: significa buscar una solución creativa o improvisada.\n🇧🇷 Siempre hay un *jeitinho* 😎",
+                  "imageUrl": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?q=80&w=3648&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                  "pageName": "Titulino-Portugues",
+                  "initialComment": "¡Una expresión muy brasileña para la vida real! 🔧"
+                },
+                {
+                  "dateToBePosted": "2025-07-08",
+                  "language": "es",
+                  "text": "🏖️ **Rolê**\nSignifica salida con amigos. Ej:\n_“Vamos dar um rolê no centro?”_\n¡Muy usado por los jóvenes!",
+                  "imageUrl": "https://images.unsplash.com/photo-1601583844062-7487c80b56b7?q=80&w=2667&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                  "pageName": "Titulino-Portugues",
+                  "initialComment": "¡Portugués brasileño real y divertido! 🎉"
+                },
+                {
+                  "dateToBePosted": "2025-07-10",
+                  "language": "es",
+                  "text": "🚌 **Pegar un busão**\n*Busão* es la forma informal de decir “autobús”. Ej:\n_“Vou pegar um busão agora.”_",
+                  "imageUrl": "https://images.unsplash.com/photo-1573878222998-40b24a653ac8?q=80&w=3774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                  "pageName": "Titulino-Portugues",
+                  "initialComment": "¡Aprende lo que se dice en la calle! 🚍"
+                },
+                {
+                  "dateToBePosted": "2025-07-12",
+                  "language": "es",
+                  "text": "🎶 **Música sertaneja**\nEs el “country” brasileño. Muy popular, habla de amor, fiestas y corazón roto 💔🎤",
+                  "imageUrl": "https://images.unsplash.com/photo-1664575602554-2087b04935a5?q=80&w=3774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                  "pageName": "Titulino-Portugues",
+                  "initialComment": "Conoce Brasil a través de su música 🎵"
+                },
+               
+                    {
+                      "dateToBePosted": "2025-06-16",
+                      "language": "en",
+                      "text": "🌎 **Family is everything**\nIn many Latin American countries, extended family bonds are deep and central to daily life. Don't be surprised if someone calls their cousin 'like a brother'.",
+                      "pageName": "Titulino-Spanish",
+                      "initialComment": "Understanding culture helps you understand the language 🇲🇽🇨🇴🇦🇷"
+                    },
+                    {
+                      "dateToBePosted": "2025-06-18",
+                      "language": "en",
+                      "text": "⏰ **“Hora latina” is real**\nBeing 15–30 minutes late is often acceptable in informal settings. It's not rudeness — it's cultural rhythm.",
+                      "pageName": "Titulino-Spanish",
+                      "initialComment": "Time runs a little differently in Latin America ⌛😉"
+                    },
+                    {
+                      "dateToBePosted": "2025-06-20",
+                      "language": "en",
+                      "text": "🍽️ **Meals = connection**\nLunch (la comida) is often the biggest and most social meal. Don’t rush it — it’s a moment to connect, not just eat.",
+                      "pageName": "Titulino-Spanish",
+                      "initialComment": "The table is where many Latin American families share life. 🇵🇪🇪🇨"
+                    },
+                    {
+                      "dateToBePosted": "2025-06-23",
+                      "language": "en",
+                      "text": "👋 **Greeting culture matters**\nA kiss on the cheek, a hug, or a strong handshake — greetings are warm. Don’t hold back — go with the flow!",
+                      "pageName": "Titulino-Spanish",
+                      "initialComment": "Body language and affection say a lot in Spanish-speaking countries 💬🤗"
+                    },
+                    {
+                      "dateToBePosted": "2025-06-25",
+                      "language": "en",
+                      "text": "📱 **WhatsApp is king**\nIn Latin America, most communication — even formal — happens on WhatsApp. Learn how to use voice notes 😉",
+                      "pageName": "Titulino-Spanish",
+                      "initialComment": "It's not just texting, it’s *how* people stay close 💬📲"
+                    },
+                    {
+                      "dateToBePosted": "2025-06-27",
+                      "language": "en",
+                      "text": "💃 **Music is everywhere**\nSalsa, cumbia, bachata, reggaetón… Music plays loudly and publicly — it's part of life, not background noise.",
+                      "pageName": "Titulino-Spanish",
+                      "initialComment": "Learn the rhythm, feel the language 🎶💃"
+                    },
+                    {
+                      "dateToBePosted": "2025-06-30",
+                      "language": "en",
+                      "text": "💬 **Indirect communication**\nSaying things directly isn’t always the norm. Politeness, context, and tone matter — a lot.",
+                      "pageName": "Titulino-Spanish",
+                      "initialComment": "Sometimes *no* is really *maybe later* 🤷‍♂️😉"
+                    },
+                    {
+                      "dateToBePosted": "2025-07-02",
+                      "language": "en",
+                      "text": "🎓 **Titles and respect**\nPeople value formal education and titles: *Licenciado*, *Ingeniero*, *Doctor*. It’s a cultural sign of respect.",
+                      "pageName": "Titulino-Spanish",
+                      "initialComment": "A little respect goes a long way in Spanish 🇸🇻🇲🇽"
+                    },
+                    {
+                      "dateToBePosted": "2025-07-04",
+                      "language": "en",
+                      "text": "🧾 **Paperwork is everywhere**\nYes, bureaucracy is real. Don’t be surprised if you need copies, stamps, and visits to multiple offices.",
+                      "pageName": "Titulino-Spanish",
+                      "initialComment": "Patience is part of the cultural lesson 🖨️📑"
+                    },
+                    {
+                      "dateToBePosted": "2025-07-07",
+                      "language": "en",
+                      "text": "📍 **Regional words change**\nWhat’s *palta* in Argentina is *aguacate* in Mexico. Spanish is not one language — it's many flavors!",
+                      "pageName": "Titulino-Spanish",
+                      "initialComment": "Always ask locals what *they* say 🥑"
+                    },
+                    {
+                      "dateToBePosted": "2025-07-09",
+                      "language": "en",
+                      "text": "🙌 **Religion is woven in**\nEven if people aren't deeply religious, traditions, festivals, and expressions like *Dios te bendiga* are common.",
+                      "pageName": "Titulino-Spanish",
+                      "initialComment": "Faith, family, and tradition go hand-in-hand 🌞"
+                    },
+                    {
+                      "dateToBePosted": "2025-07-11",
+                      "language": "en",
+                      "text": "🗣️ **Humor and sarcasm**\nSarcasm can be subtle and ironic in Latin America. Laugh with the people — but learn the limits.",
+                      "pageName": "Titulino-Spanish",
+                      "initialComment": "Cultural humor is the final level of fluency 😄🇦🇷"
+                    }
+
   ]
   
