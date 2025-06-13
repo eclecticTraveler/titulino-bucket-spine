@@ -7,7 +7,6 @@ on:
       - 'titulino-bucket/**'  # Only run if something changes here
 
 env:
-  GCP_PROJECT_ID: ${{ secrets.GCP_PROJECT_ID }}
   GCP_BUCKET_NAME: titulino-bucket
   NODE_OPTIONS: "--max_old_space_size=4096"
 
