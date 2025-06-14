@@ -1,11 +1,15 @@
-import { Storage } from '@google-cloud/storage';
-import { join, relative, resolve } from 'path';
+import { fileURLToPath } from 'url';
+import { dirname, join, relative, resolve } from 'path';
 import { readdirSync, statSync, existsSync } from 'fs';
+import { Storage } from '@google-cloud/storage';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
 
 const isGitHubAction = process.env.GITHUB_ACTIONS === 'true';
 console.log("------>isGitHubAction", isGitHubAction);
 
-const pathToKey = './bucket-scripts/certain-upgrade-341601-6db30a4e61b5.json';
+const pathToKey = join(__dirname, 'certain-upgrade-341601-6db30a4e61b5.json');
 const useExplicitKey = !isGitHubAction && existsSync(pathToKey);
 
 const storage = useExplicitKey
