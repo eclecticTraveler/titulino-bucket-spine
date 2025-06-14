@@ -19,6 +19,8 @@ jobs:
       # Checkout repo
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # ← fetch full history
 
       # Set up Node.js
       - name: Setup Node.js
@@ -41,8 +43,13 @@ jobs:
       - name: Detect modified files
         id: get_changed
         run: |
-          echo "CHANGED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '^titulino-bucket/' || true)" >> $GITHUB_ENV
-             
+          BEFORE_SHA=${{ github.event.before }}
+          CURRENT_SHA=${{ github.sha }}
+          if [ -z "$BEFORE_SHA" ] || ! git cat-file -e "$BEFORE_SHA"^{commit}; then
+            echo "No valid before SHA found, using HEAD~1"
+            BEFORE_SHA=$(git rev-parse HEAD~1)
+          fi
+          echo "CHANGED_FILES=$(git diff --name-only $BEFORE_SHA $CURRENT_SHA | grep '^titulino-bucket/' || true)" >> $GITHUB_ENV
           
       # Upload JSON files using your Node script
       - name: Upload Only Modified JSON Files
