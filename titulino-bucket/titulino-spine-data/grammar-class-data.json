@@ -96,5 +96,54 @@
         "advanced": "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ftitulinoingles%2Fvideos%2F1206047034228800%2F&show_text=false&width=560&t=0"
       }
     ]
+  },
+  {
+    "id": "G006",
+    "level": 6,
+    "theme": "workandjobs",
+    "nativeLanguage": "es",
+    "course": "eng",
+    "chapters": [
+      {
+        "chapter": 1,
+        "basic": "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ftitulinoingles%2Fvideos%2F1143673620543356%2F&show_text=false&width=560&t=0",
+        "advanced": "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ftitulinoingles%2Fvideos%2F1258111168826795%2F&show_text=false&width=560&t=0"
+      },
+      {
+        "chapter": 2,
+        "basic": "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ftitulinoingles%2Fvideos%2F1674120426853906%2F&show_text=false&width=560&t=0",
+        "advanced": "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ftitulinoingles%2Fvideos%2F618010594052846%2F&show_text=false&width=560&t=0"
+      },
+      {
+        "chapter": 3,
+        "basic": "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ftitulinoingles%2Fvideos%2F454600041045466%2F&show_text=false&width=560&t=0",
+        "advanced": "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ftitulinoingles%2Fvideos%2F1011042411040822%2F&show_text=false&width=560&t=0"
+      },
+      {
+        "chapter": 4,
+        "basic": "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ftitulinoingles%2Fvideos%2F625548186593817%2F&show_text=false&width=560&t=0",
+        "advanced": "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ftitulinoingles%2Fvideos%2F1023364156217273%2F&show_text=false&width=560&t=0"
+      },
+      {
+        "chapter": 5,
+        "basic": "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ftitulinoingles%2Fvideos%2F1137887374716322%2F&show_text=false&width=560&t=0",
+        "advanced": "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ftitulinoingles%2Fvideos%2F1133074927954235%2F&show_text=false&width=560&t=0"
+      },
+      {
+        "chapter": 6,
+        "basic": "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ftitulinoingles%2Fvideos%2F964417802490519%2F&show_text=false&width=560&t=0",
+        "advanced": "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ftitulinoingles%2Fvideos%2F1183461133112174%2F&show_text=false&width=560&t=0"
+      },
+      {
+        "chapter": 7,
+        "basic": "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ftitulinoingles%2Fvideos%2F1183094786557345%2F&show_text=false&width=560&t=0",
+        "advanced": "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ftitulinoingles%2Fvideos%2F2702807646773749%2F&show_text=false&width=560&t=0"
+      },
+      {
+        "chapter": 8,
+        "basic": "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ftitulinoingles%2Fvideos%2F1359642048555446%2F&show_text=false&width=560&t=0",
+        "advanced": "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ftitulinoingles%2Fvideos%2F1206047034228800%2F&show_text=false&width=560&t=0"
+      }
+    ]
   }
 ]
