@@ -37,6 +37,13 @@ jobs:
         with:
           credentials_json: ${{ secrets.GCP_SERVICE_ACCOUNT_KEY }}
 
+      # Compare timestamps   
+      - name: Detect modified files
+        id: get_changed
+        run: |
+          echo "CHANGED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '^titulino-bucket/' || true)" >> $GITHUB_ENV
+             
+          
       # Upload JSON files using your Node script
       - name: Upload Only Modified JSON Files
         run: node upload-modded-files.js
