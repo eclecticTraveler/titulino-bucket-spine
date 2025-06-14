@@ -1,7 +1,8 @@
-import { fileURLToPath } from 'url';
-import { dirname, join, relative, resolve } from 'path';
-import { readdirSync, statSync, existsSync } from 'fs';
 import { Storage } from '@google-cloud/storage';
+import { join, relative, resolve } from 'path';
+import { readdirSync, statSync, existsSync } from 'fs';
+import { fileURLToPath } from 'url';
+import { dirname } from 'path';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -17,6 +18,7 @@ const storage = useExplicitKey
   : new Storage();
 
 const bucketName = 'titulino-bucket';
+
 
 async function getRemoteFiles() {
   const [files] = await storage.bucket(bucketName).getFiles();
@@ -55,8 +57,7 @@ async function main() {
   try {
     console.log('Fetching remote files metadata...');
     const remoteFiles = await getRemoteFiles();
-    const uploadDir = resolve('./titulino-bucket');
-    await uploadDirectory(uploadDir, remoteFiles);
+    await uploadDirectory(resolve(__dirname, '../titulino-bucket'), remoteFiles);
   } catch (err) {
     console.error('Error uploading files:', err);
   }
