@@ -58,6 +58,7 @@ async function main() {
     console.log('Fetching remote files metadata...');
     const remoteFiles = await getRemoteFiles();
     await uploadDirectory(resolve(__dirname, '../titulino-bucket'), remoteFiles);
+    console.log("Done uploading");
   } catch (err) {
     console.error('Error uploading files:', err);
   }
