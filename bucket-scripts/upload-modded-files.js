@@ -33,8 +33,8 @@ async function uploadDirectory(directory, remoteFiles) {
   const files = readdirSync(directory);
 
   for (const file of files) {
-    const filePath = join(directory, file);
-    let destination = relative(join(directory, '..'), filePath).replace(/\\/g, '/');
+    const filePath = join(directory, file);    
+    let destination = relative(resolve(__dirname, '../titulino-bucket'), filePath).replace(/\\/g, '/');
 
     if (statSync(filePath).isDirectory()) {
       await uploadDirectory(filePath, remoteFiles);
