@@ -4,11 +4,11 @@
         "emails": {
             "en": {
                 "subject": "Le doy la bienvenida al curso de English Connect 2",
-                "bodyUrl": "/emails/ENGLISHCONNECT_02_JUN_2025_COURSE_02/welcome_es.txt"
+                "bodyUrl": "ENGLISHCONNECT_02_JUN_2025_COURSE_02/welcome_es.txt"
             },
             "es": {
                 "subject": "Welcome to English Connect 2",
-                "bodyUrl": "/emails/ENGLISHCONNECT_02_JUN_2025_COURSE_02/welcome_en.txt"
+                "bodyUrl": "ENGLISHCONNECT_02_JUN_2025_COURSE_02/welcome_en.txt"
             }
         }
     },
@@ -17,11 +17,11 @@
         "emails": {
             "en": {
                 "subject": "Le doy la bienvenida al curso de English Connect 1",
-                "bodyUrl": "/emails/ENGLISHCONNECT_01_JUN_2025_COURSE_02/welcome_es.txt"
+                "bodyUrl": "ENGLISHCONNECT_01_JUN_2025_COURSE_02/welcome_es.txt"
             },
             "es": {
                 "subject": "Welcome to English Connect 1",
-                "bodyUrl": "/emails/ENGLISHCONNECT_01_JUN_2025_COURSE_02/welcome_en.txt"
+                "bodyUrl": "ENGLISHCONNECT_01_JUN_2025_COURSE_02/welcome_en.txt"
             }
         }
     },    
@@ -30,11 +30,11 @@
         "emails": {
             "en": {
                 "subject": "Titulino Languages Welcomes you to this new course!",
-                "bodyUrl": "/emails/WORK_AND_JOBS_JULY_2025_COURSE_01/welcome_es.txt"
+                "bodyUrl": "WORK_AND_JOBS_JULY_2025_COURSE_01/welcome_es.txt"
             },
             "es": {
                 "subject": "Titulino Idiomas ¡Te damos la bienvenida a este nuevo curso!",
-                "bodyUrl": "/emails/WORK_AND_JOBS_JULY_2025_COURSE_01/welcome_es.txt"                
+                "bodyUrl": "WORK_AND_JOBS_JULY_2025_COURSE_01/welcome_es.txt"                
             }
         }
     }
