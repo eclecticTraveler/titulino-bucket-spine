@@ -22,4 +22,4 @@ Sitio web: https://titulino.com
 
 Gracias de nuevo. Si tienes alguna pregunta, aquí estoy. ¡Espero que todos estos pasos te sean útiles!
 
-Un abrazo a {{location}}. 🤗
+Un abrazo hasta {{location}}. 🤗
