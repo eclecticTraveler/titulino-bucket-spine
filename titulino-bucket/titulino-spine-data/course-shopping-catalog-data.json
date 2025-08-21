@@ -1,0 +1,24 @@
+[
+  {
+    "course_code_id": "WORK_AND_JOBS_JULY_2025_COURSE_01",
+    "course_name": "Work & Jobs",
+    "nativeLanguage": "es",
+    "course": "eng",
+    "display_order_id":0,
+    "theme": "work_and_jobs",
+    "tiers": {
+      "free":   { "image_url": "https://storage.googleapis.com/titulino-bucket/course-covers/packages/work-n-jobs/150Free.png",   "price_id": null,  "price_usd": 0.00, "isEnabledForPurchase": false, "isPurchased": false},
+      "silver": { "image_url": "https://storage.googleapis.com/titulino-bucket/course-covers/packages/work-n-jobs/222Silver.png", "price_id": "price_1RwMia2dImZF7H1hrrF6IUJQ", "price_usd": 3.00, "isEnabledForPurchase": true, "isPurchased": false  },
+      "gold":   { "image_url": "https://storage.googleapis.com/titulino-bucket/course-covers/packages/work-n-jobs/300Gold.png",   "price_id": "price_1RwMm62dImZF7H1hNm2JEYsI","price_usd": 5.00, "isEnabledForPurchase": true, "isPurchased": false  }
+    },
+    "features": [
+      { "feature_id": "feat-grammar", "feature": "shop.feature.grammarClasses", "enabled": { "free": true, "silver": true, "gold": true } },
+      { "feature_id": "feat-terms",   "feature": "shop.feature.termsnResources", "enabled": { "free": true, "silver": true, "gold": true } },
+      { "feature_id": "feat-quizlet", "feature": "shop.feature.extraQuizletResources", "enabled": { "free": false, "silver": true, "gold": true } },
+      { "feature_id": "feat-ebook",   "feature": "shop.feature.300ebook", "enabled": { "free": false, "silver": true, "gold": true } },
+      { "feature_id": "feat-guide",   "feature": "shop.feature.300TranslationGuide", "enabled": { "free": false, "silver": false, "gold": true } },
+      { "feature_id": "feat-extra",   "feature": "shop.feature.extraClasses", "enabled": { "free": false, "silver": false, "gold": true } },
+      { "feature_id": "feat-group",   "feature": "shop.feature.accessToGroup", "enabled": { "free": false, "silver": false, "gold": true } }
+    ]
+  }
+]
