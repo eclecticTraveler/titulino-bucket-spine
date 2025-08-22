@@ -5,7 +5,7 @@
         "emails": {
             "en": {
                 "subject": "Thank you deeply for your support by getting this Silver interactive eBook!",
-                "bodyUrl": "WORK_AND_JOBS_JULY_2025_COURSE_01/purchase_silver_es.txt"
+                "bodyUrl": "WORK_AND_JOBS_JULY_2025_COURSE_01/purchase_silver_en.txt"
             },
             "es": {
                 "subject": "Gracias por su apoyo al adquirir este libro interactivo de nivel Plata!",
@@ -19,7 +19,7 @@
         "emails": {
             "en": {
                 "subject": "Thank you deeply for your support by getting this Gold interactive eBook!",
-                "bodyUrl": "WORK_AND_JOBS_JULY_2025_COURSE_01/purchase_gold_es.txt"
+                "bodyUrl": "WORK_AND_JOBS_JULY_2025_COURSE_01/purchase_gold_en.txt"
             },
             "es": {
                 "subject": "Gracias por su apoyo al adquirir este libro interactivo de nivel Oro!",
