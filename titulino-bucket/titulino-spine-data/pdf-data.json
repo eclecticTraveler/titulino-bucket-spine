@@ -65,7 +65,7 @@
         ]
       },
       {
-        "provider": "s3buckets",
+        "provider": "cloud",
         "author": "Quizlet",
         "theme":"household",
         "nativeLanguage": "es",
@@ -181,7 +181,7 @@
             "title": "Work & Jobs - pharmacy"
           },
           {
-            "urlPath": "/titulino-work-n-jobs/pdfs/corporate.pdf",
+            "urlPath": "/titulino-work-n-jobs/pdfs/corporate2.pdf",
             "chapter": 10,
             "title": "Work & Jobs - corporate"
           },
@@ -193,7 +193,7 @@
           {
             "urlPath": "/titulino-work-n-jobs/pdfs/roadwork.pdf",
             "chapter": 12,
-            "title": "Work & Jobs - roadwork"
+            "title": "Work & Jobs - road work"
           },
           {
             "urlPath": "/titulino-work-n-jobs/pdfs/office2.pdf",
@@ -208,27 +208,27 @@
           {
             "urlPath": "/titulino-work-n-jobs/pdfs/plumbing2.pdf",
             "chapter": 15,
-            "title": "Work & Jobs - plumbing2"
+            "title": "Work & Jobs - plumbing 2"
           },
           {
-            "urlPath": "/titulino-work-n-jobs/pdfs/all150-household-part1.pdf",
+            "urlPath": "/titulino-work-n-jobs/pdfs/farming2.pdf",
             "chapter": 16,
-            "title": "Work & Jobs -"
+            "title": "Work & Jobs - Farming 2"
           },
           {
-            "urlPath": "/titulino-work-n-jobs/pdfs/all150-household-part1.pdf",
+            "urlPath": "/titulino-work-n-jobs/pdfs/hospital2.pdf",
             "chapter": 17,
-            "title": "Work & Jobs -"
+            "title": "Work & Jobs - Hospital 2"
           },
           {
-            "urlPath": "/titulino-work-n-jobs/pdfs/all150-household-part1.pdf",
+            "urlPath": "/titulino-work-n-jobs/pdfs/hotel2.pdf",
             "chapter": 18,
-            "title": "Work & Jobs -"
+            "title": "Work & Jobs - hotel 2"
           },
           {
-            "urlPath": "/titulino-work-n-jobs/pdfs/all150-household-part1.pdf",
+            "urlPath": "/titulino-work-n-jobs/pdfs/warehouse2.pdf",
             "chapter": 19,
-            "title": "Work & Jobs -"
+            "title": "Work & Jobs - warehouse 2"
           }
         ]
       }    
