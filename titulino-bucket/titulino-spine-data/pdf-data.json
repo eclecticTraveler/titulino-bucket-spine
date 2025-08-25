@@ -236,9 +236,19 @@
             "title": "Work & Jobs - restaurant 2"
           },
           {
-            "urlPath": "/titulino-work-n-jobs/pdfs/pharmacy2.pdf",
+            "urlPath": "/titulino-work-n-jobs/pdfs/logistics2.pdf",
             "chapter": 21,
+            "title": "Work & Jobs - Logistics 2"
+          },
+          {
+            "urlPath": "/titulino-work-n-jobs/pdfs/pharmacy2.pdf",
+            "chapter": 22,
             "title": "Work & Jobs - Pharmacy 2"
+          },
+          {
+            "urlPath": "/titulino-work-n-jobs/pdfs/guide-gold.pdf",
+            "chapter": 23,
+            "title": "Work & Jobs - 300+ Terms"
           }
         ]
       }    
