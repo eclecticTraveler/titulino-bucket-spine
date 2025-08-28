@@ -1,29 +1,30 @@
-¡Deseo darle la bienvenida {{association}} {{name}} 
+👋 ¡Bienvenido/a, {{association}} {{name}}!
 
-    Estaremos comenzando y es muy bueno tenerle.
-    Gracias por darse la oportunidad de estudiar ingles con nosotros un projecto de comunidad sustentado por el apoyo y donaciones de los participantes,
+Estamos muy felices de comenzar este camino contigo 🎉  
+Gracias por elegir estudiar inglés con nosotros — este proyecto comunitario existe gracias al apoyo y las donaciones de los participantes ❤️.  
 
-    Dejeme darle algunos detalles de este curso que comienza El dia Lunes 25 de Agosto 2025:
-    1.- Tenemos una reunion llamada 'General Gathering' es una hora y 15 min una vez por semana atraves de Google Meet, los horarios son:
-    
-        05:30 pm 🇺🇲 (Rexburg) 
-        05:30 pm 🇬🇹 🇸🇻  🇭🇳  🇳🇮 🇲🇽 🇨🇷
-        06:30 pm 🇵🇪 🇨🇴 🇪🇨 🇵🇦
-        07:30 pm  🇻🇪 🇧🇴 🇩🇴
-        08:30 pm 🇦🇷 🇧🇷 🇺🇾 🇨🇱 🇵🇾
-        01:30 am 🇪🇸 🇮🇹 🇫🇷
-        09:30 am 🇯🇵
+📅 El curso inicia **lunes, 25 de agosto de 2025**. Aquí tienes los detalles:
 
-    2.- Este curso dura 8 semanas lo llamamos 'Sprints' los sprints son corridas a toda potencia y de lograrlo podremos tener 2 clases bonus.
-    3.- De modo no obligatorio tendremos el 'Conversation Workshop' es 1 hora por semana los dias Jueves a las 4:00 pm (Tiempo de Rexburg) y aqui nos dividimos en niveles para practicar las conversaciones.
-    4.- Cada Miercoles disponibilizare una clase grabada de gramatica dependiendo del nivel que usted se denomino (Basico o Avanzado) que recibira por email o puede verlo en la pagina de https://titulino.com
-    5.- Tenemos dos tipos de certificados al final del curso, el certificado de participacion, se consigue al estar presente o ver la grabacion de las 8 reuniones de los 'General Gatherings'
-        el certificado de oro, es un certificado que atesta 20hrs de comprometimiento y se consigue, estando o viendo los 'General Gatherings', viendo las grabaciones de las clases de Gramatica, y tomando el examen final.
+1️⃣ **Reunión General** (semanal por Google Meet, ⏱️ 1h15m). Horarios:  
+   - 5:30 pm 🇺🇸 (Rexburg) / 🇬🇹 🇸🇻 🇭🇳 🇳🇮 🇲🇽 🇨🇷  
+   - 6:30 pm 🇵🇪 🇨🇴 🇪🇨 🇵🇦  
+   - 7:30 pm 🇻🇪 🇧🇴 🇩🇴  
+   - 8:30 pm 🇦🇷 🇧🇷 🇺🇾 🇨🇱 🇵🇾  
+   - 12:30 am 🇪🇸 🇮🇹 🇫🇷  
+   - 8:30 am 🇯🇵  
 
-    6.- Muy importante este es el link del grupo de WhatsApp, al entrar (o si ya esta presente) sera que puede escribir algo sobre usted, como de donde es (hasta con banderita de emoji) y su nombre.
+2️⃣ El curso dura **8 semanas** (“Sprints” 🏃). Si los completamos, tendremos **2 clases extra** 🎁.  
 
-    Enlace : https://chat.whatsapp.com/G1Esgju6Jxh4KlKTRiGj3z 
+3️⃣ **Taller de Conversación** 💬 (opcional): jueves a las 4:00 pm (hora Rexburg). Grupos por nivel para practicar.  
 
-    Gracias nuevamente cualquier pregunta aqui estoy. Espero todos estos pasos tengan sentido! 
+4️⃣ **Clase de Gramática** 📚: Cada miércoles recibirás una lección grabada (Básico o Avanzado) por correo o en [titulino.com](https://titulino.com).  
 
-    Un abrazo hasta {{location}}. 🤗
+5️⃣ **Certificados** 🎓:  
+   - **Participación**: Asistir o ver las 8 Reuniones Generales.  
+   - **Oro** ⭐: 20 horas de compromiso (Reuniones Generales + clases de gramática + examen final).  
+
+6️⃣ **Grupo de WhatsApp** 📱: Únete aquí → [Enlace al grupo](https://chat.whatsapp.com/G1Esgju6Jxh4KlKTRiGj3z).  
+   Preséntate con tu nombre, país y, si quieres, una banderita 🌎.  
+
+❓ Si tienes preguntas, estoy para ayudarte.  
+🤗 ¡Un abrazo hasta {{location}}!

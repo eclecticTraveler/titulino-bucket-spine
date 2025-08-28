@@ -1,29 +1,30 @@
-I'd like to welcome you, {{association}} {{name}}
+👋 Welcome, {{association}} {{name}}!
 
-We're just getting started, and it's great to have you.
-Thank you for taking the opportunity to study English with us, a community project supported by the support and donations of participants.
+We’re excited to start this journey with you 🎉  
+Thank you for choosing to study English with us — this community project exists thanks to the support and donations of our participants ❤️.  
 
-Let me give you some details about this course, which begins on Monday August 25, 2025:
-1. We have a meeting called 'General Gathering,' which lasts for an hour and 15 minutes once a week via Google Meet. The times are:
+📅 The course begins **Monday, August 25, 2025**. Here’s what you need to know:
 
-5:30 pm 🇺🇲 (Rexburg)
-5:30 pm 🇬🇹 🇸🇻 🇭🇳 🇳🇮 🇲🇽 🇨🇷
-6:30 pm 🇵🇪 🇨🇴 🇪🇨 🇵🇦
-7:30 pm 🇻🇪 🇧🇴 🇩🇴
-8:30 pm 🇦🇷 🇧🇷 🇺🇾 🇨🇱 🇵🇾
-12:30 am 🇪🇸 🇮🇹 🇫🇷
-8:30 am 🇯🇵
-2.- This course lasts 8 weeks, we call them 'Sprints'. Sprints are full-power runs, and if we achieve them, we can have 2 bonus classes.
+1️⃣ **General Gathering** (weekly on Google Meet, ⏱️ 1h15m). Times:  
+   - 5:30 pm 🇺🇸 (Rexburg) / 🇬🇹 🇸🇻 🇭🇳 🇳🇮 🇲🇽 🇨🇷  
+   - 6:30 pm 🇵🇪 🇨🇴 🇪🇨 🇵🇦  
+   - 7:30 pm 🇻🇪 🇧🇴 🇩🇴  
+   - 8:30 pm 🇦🇷 🇧🇷 🇺🇾 🇨🇱 🇵🇾  
+   - 12:30 am 🇪🇸 🇮🇹 🇫🇷  
+   - 8:30 am 🇯🇵  
 
-3. We will have a non-mandatory "Conversation Workshop." It is one hour per week on Thursdays at 4:00 pm (Rexburg time). Here we are divided into levels to practice conversations.
-4. Every Wednesday, I will provide a recorded grammar class depending on your chosen level (Basic or Advanced). You will receive it by email or you can view it on the website https://titulino.com
-5. We have two types of certificates at the end of the course: the certificate of participation is obtained by attending or watching the recording of the eight "General Gatherings."
-The gold certificate is a certificate that attests to 20 hours of commitment and is obtained by attending or watching the "General Gatherings," watching the recordings of the grammar classes, and taking the final exam.
+2️⃣ The course lasts **8 weeks** (“Sprints” 🏃). If we complete them, we’ll add **2 bonus classes** 🎁.  
 
-6.- This is very important: this is the WhatsApp group link. When you join (or if you're already there), you can write something about yourself, such as where you're from (even with an emoji flag) and your name.
+3️⃣ **Conversation Workshop** 💬 (optional): Thursdays at 4:00 pm (Rexburg time). Small groups by level to practice speaking.  
 
-Link: https://chat.whatsapp.com/G1Esgju6Jxh4KlKTRiGj3z
+4️⃣ **Grammar Class** 📚: Every Wednesday you’ll receive a recorded lesson (Basic or Advanced) by email or at [titulino.com](https://titulino.com).  
 
-Thanks again, if you have any questions, I'm here. I hope all these steps make sense!
+5️⃣ **Certificates** 🎓:  
+   - **Participation**: Attend or watch all 8 General Gatherings.  
+   - **Gold** ⭐: 20 hours of commitment (General Gatherings + grammar classes + final exam).  
 
-Hugs all the way to {{location}}. 🤗
+6️⃣ **WhatsApp Group** 📱: Join here → [Group Link](https://chat.whatsapp.com/G1Esgju6Jxh4KlKTRiGj3z).  
+   Please introduce yourself with your name, country, and maybe a flag emoji 🌎.  
+
+❓ If you have any questions, I’m here to help.  
+🤗 Sending hugs all the way to {{location}}!
