@@ -750,10 +750,10 @@
         "lessons": [
           {
             "classNumber": 1,
-            "title": "Houses Part 1",
+            "title": "Construction",
             "description": "Phonics and 15 Terms. Live and recorded sessions avilable.",
             "isToDisplay": true,
-            "availableDate": "08/04/2025",
+            "availableDate": "09/22/2025",
             "imageUrl": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "facebook": null,
@@ -763,10 +763,10 @@
           },
           {
             "classNumber": 2,
-            "title": "Houses Part 2",
+            "title": "Office Part 1",
             "description": "Phonics and 18 Terms. Live and recorded sessions avilable.",
             "isToDisplay": true,
-            "availableDate": "08/11/2025",
+            "availableDate": "09/29/2025",
             "imageUrl": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "facebook": null,
@@ -776,10 +776,10 @@
           },
           {
             "classNumber": 3,
-            "title": "Living Room Part 1",
+            "title": "School Part 1",
             "description": "Phonics and 15 Terms. Live and recorded sessions avilable.",
             "isToDisplay": true,
-            "availableDate": "08/18/2025",
+            "availableDate": "10/06/2025",
             "imageUrl": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "facebook": null,
@@ -789,10 +789,10 @@
           },
           {
             "classNumber": 4,
-            "title": "Living Room Part 2",
+            "title": "Farming Part 1",
             "description": "Phonics and 14 Terms. Live and recorded sessions avilable.",
             "isToDisplay": true,
-            "availableDate": "08/25/2025",
+            "availableDate": "10/13/2025",
             "imageUrl": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "facebook": null,
@@ -802,10 +802,10 @@
           },
           {
             "classNumber": 5,
-            "title": "Dining Room Part 1",
+            "title": "Hotel Jobs Part 1",
             "description": "Phonics and 15 Terms. Live and recorded sessions avilable.",
             "isToDisplay": true,
-            "availableDate": "09/17/2025",
+            "availableDate": "10/20/2025",
             "imageUrl": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "facebook": null,
@@ -815,10 +815,10 @@
           },
           {
             "classNumber": 6,
-            "title": "Dining Room Part 2",
-            "description": "Phonics and 14 Terms. Live and recorded sessions avilable.",
+            "title": "Warehouse Part 1",
+            "description": "Phonics and 15 Terms. Live and recorded sessions avilable.",
             "isToDisplay": true,
-            "availableDate": "09/02/2025",
+            "availableDate": "10/27/2025",
             "imageUrl": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "facebook": null,
@@ -828,10 +828,10 @@
           },
           {
             "classNumber": 7,
-            "title": "Kitchen Room Part 1",
+            "title": "Restaurant Part 1",
             "description": "Phonics and 15 Terms. Live and recorded sessions avilable.",
             "isToDisplay": true,
-            "availableDate": "09/10/2025",
+            "availableDate": "11/03/2025",
             "imageUrl": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "facebook": null,
@@ -841,10 +841,10 @@
           },
           {
             "classNumber": 8,
-            "title": "Kitchen Room Part 2",
+            "title": "Hospital Part 1",
             "description": "Phonics and 19 Terms. Live and recorded sessions avilable.",
             "isToDisplay": true,
-            "availableDate": "10/17/2025",
+            "availableDate": "11/10/2025",
             "imageUrl": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "facebook": null,
@@ -868,9 +868,9 @@
           {
             "classNumber": 1,
             "title": "Grammar (Basic)",
-            "description": "Say and Ask who owns things using Posessive's",
+            "description": "Tag questions",
             "isToDisplay": true,
-            "availableDate": "08/20/2025",
+            "availableDate": "09/23/2025",
             "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "facebook": null,
@@ -880,9 +880,9 @@
           {
             "classNumber": 2,
             "title": "Grammar (Basic)",
-            "description": "Ask for advice using and, or & but",
+            "description": "There is and There are",
             "isToDisplay": true,
-            "availableDate": "08/27/2025",
+            "availableDate": "10/07/2025",
             "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "facebook": null,
@@ -892,9 +892,9 @@
           {
             "classNumber": 3,
             "title": "Grammar (Basic)",
-            "description": "Describe finding things using \"There is\" and \"There are\" phrases",
+            "description": "Superlatives",
             "isToDisplay": true,
-            "availableDate": "08/03/2025",
+            "availableDate": "10/14/2025",
             "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "facebook": null,
@@ -904,9 +904,9 @@
           {
             "classNumber": 4,
             "title": "Grammar (Basic)",
-            "description": "Ask information questions Part 1",
+            "description": "Simple Past Tense",
             "isToDisplay": true,
-            "availableDate": "08/11/2025",
+            "availableDate": "10/21/2025",
             "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "facebook": null,
@@ -916,9 +916,9 @@
           {
             "classNumber": 5,
             "title": "Grammar (Basic)",
-            "description": "Ask information questions Part 2",
+            "description": "Present Continuous Questions",
             "isToDisplay": true,
-            "availableDate": "08/18/2025",
+            "availableDate": "10/28/2025",
             "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "facebook": null,
@@ -928,9 +928,9 @@
           {
             "classNumber": 6,
             "title": "Grammar (Basic)",
-            "description": "Basic ways to describe places",
+            "description": "May & May not",
             "isToDisplay": true,
-            "availableDate": "08/04/2025",
+            "availableDate": "11/04/2025",
             "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "facebook": null,
@@ -940,9 +940,9 @@
           {
             "classNumber": 7,
             "title": "Grammar (Basic)",
-            "description": "Regular Verbs",
+            "description": "TBD",
             "isToDisplay": true,
-            "availableDate": "08/09/2024",
+            "availableDate": "11/11/2024",
             "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "facebook": null,
@@ -952,7 +952,7 @@
           {
             "classNumber": 8,
             "title": "Grammar (Basic)",
-            "description": "Talk about what you have",
+            "description": "TBD",
             "isToDisplay": true,
             "availableDate": "08/18/2024",
             "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -977,9 +977,9 @@
           {
             "classNumber": 1,
             "title": "Grammar (Advanced)",
-            "description": "Phrasal Verbs in Household context Part 1",
+            "description": "Zero Conditional",
             "isToDisplay": true,
-            "availableDate": "08/20/2025",
+            "availableDate": "09/23/2025",
             "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "facebook": null,
@@ -989,9 +989,9 @@
           {
             "classNumber": 2,
             "title": "Grammar (Advanced)",
-            "description": "Present Perfect Part 1",
+            "description": "First Conditional",
             "isToDisplay": true,
-            "availableDate": "08/27/2025",
+            "availableDate": "09/30/2025",
             "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "facebook": null,
@@ -1001,9 +1001,9 @@
           {
             "classNumber": 3,
             "title": "Grammar (Advanced)",
-            "description": "Present Perfect Part 2",
+            "description": "Second Conditional",
             "isToDisplay": true,
-            "availableDate": "08/03/2025",
+            "availableDate": "10/07/2025",
             "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "facebook": null,
@@ -1013,9 +1013,9 @@
           {
             "classNumber": 4,
             "title": "Grammar (Advanced)",
-            "description": "Superlatives",
+            "description": "Third Conditional",
             "isToDisplay": true,
-            "availableDate": "09/11/2025",
+            "availableDate": "10/14/2025",
             "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "facebook": null,
@@ -1025,9 +1025,9 @@
           {
             "classNumber": 5,
             "title": "Grammar (Advanced)",
-            "description": "Use of adverbs",
+            "description": "Mixed Conditionals",
             "isToDisplay": true,
-            "availableDate": "09/18/2025",
+            "availableDate": "10/21/2025",
             "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "facebook": null,
@@ -1039,7 +1039,7 @@
             "title": "Grammar (Advanced)",
             "description": "Have you? Did you? Do you? Use questions to show interest",
             "isToDisplay": true,
-            "availableDate": "09/04/2025",
+            "availableDate": "Relative Clauses",
             "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "facebook": null,
@@ -1051,7 +1051,7 @@
             "title": "Grammar (Advanced)",
             "description": "Irregular Verbs",
             "isToDisplay": true,
-            "availableDate": "09/11/2025",
+            "availableDate": "TBD",
             "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "facebook": null,
@@ -1061,9 +1061,9 @@
           {
             "classNumber": 8,
             "title": "Grammar (Advanced)",
-            "description": "Phrases in the past",
+            "description": "TBD",
             "isToDisplay": true,
-            "availableDate": "09/18/2025",
+            "availableDate": "11/11/2025",
             "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "facebook": null,
@@ -1088,7 +1088,7 @@
             "description": "Final Exam with all 120 terms.",
             "isToDisplay": true,
             "imageUrl": "https://images.unsplash.com/photo-1534644107580-3a4dbd494a95?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "availableDate": "10/18/2025",
+            "availableDate": "11/17/2025",
             "links": {
               "internal": null
             }
