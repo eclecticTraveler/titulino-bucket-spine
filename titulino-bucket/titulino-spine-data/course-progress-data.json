@@ -756,9 +756,9 @@
             "availableDate": "09/22/2025",
             "imageUrl": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
-              "facebook": null,
-              "youtube": null,
-              "internal": null
+              "facebook": "https://www.facebook.com/share/v/1ACzP8A5Ef/",
+              "youtube": "https://youtu.be/U1CJaznXq5Q",
+              "internal": "https://titulino.com/lrn-auth/eng/level-work-n-jobs/chapter-1/class"
             }
           },
           {
@@ -870,7 +870,7 @@
             "title": "Grammar (Basic)",
             "description": "Tag questions",
             "isToDisplay": true,
-            "availableDate": "09/23/2025",
+            "availableDate": "09/30/2025",
             "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "facebook": null,
