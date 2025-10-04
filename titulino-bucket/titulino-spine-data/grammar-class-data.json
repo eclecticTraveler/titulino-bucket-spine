@@ -106,8 +106,13 @@
     "chapters": [
       {
         "chapter": 1,
+        "basic": "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ftitulinoingles%2Fvideos%2F1739620153406506%2F&show_text=false&width=560&t=0",
+        "advanced": "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ftitulinoingles%2Fvideos%2F802447536283064%2F&show_text=false&width=560&t=0"
+      },
+      {
+        "chapter": 2,
         "basic": "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ftitulinoingles%2Fvideos%2F1143673620543356%2F&show_text=false&width=560&t=0",
-        "advanced": "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ftitulinoingles%2Fvideos%2F1258111168826795%2F&show_text=false&width=560&t=0"
+        "advanced": "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ftitulinoingles%2Fvideos%2F793177120338182%2F&show_text=false&width=560&t=0"
       }
     ]
   }
