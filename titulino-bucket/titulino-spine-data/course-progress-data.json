@@ -864,21 +864,9 @@
         "participationIds": [
           { "participationTypeId": 2, "localizationKey": "nav.recorded" }
         ],
-        "lessons": [
+        "lessons": [       
           {
             "classNumber": 1,
-            "title": "Grammar (Basic)",
-            "description": "Tag questions",
-            "isToDisplay": true,
-            "availableDate": "09/30/2025",
-            "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "links": {
-              "facebook": null,
-              "youtube": null
-            }
-          },        
-          {
-            "classNumber": 2,
             "title": "Grammar (Basic)",
             "description": "There is and There are",
             "isToDisplay": true,
@@ -890,7 +878,7 @@
             }
           },
           {
-            "classNumber": 3,
+            "classNumber": 2,
             "title": "Grammar (Basic)",
             "description": "Superlatives",
             "isToDisplay": true,
@@ -902,7 +890,7 @@
             }
           },
           {
-            "classNumber": 4,
+            "classNumber": 3,
             "title": "Grammar (Basic)",
             "description": "Simple Past Tense",
             "isToDisplay": true,
@@ -914,7 +902,7 @@
             }
           },
           {
-            "classNumber": 5,
+            "classNumber": 4,
             "title": "Grammar (Basic)",
             "description": "Present Continuous Questions",
             "isToDisplay": true,
@@ -926,7 +914,7 @@
             }
           },
           {
-            "classNumber": 6,
+            "classNumber": 5,
             "title": "Grammar (Basic)",
             "description": "May & May not",
             "isToDisplay": true,
@@ -938,7 +926,7 @@
             }
           },
           {
-            "classNumber": 7,
+            "classNumber": 6,
             "title": "Grammar (Basic)",
             "description": "Might & Might not",
             "isToDisplay": true,
@@ -950,11 +938,23 @@
             }
           },
           {
-            "classNumber": 8,
+            "classNumber": 7,
             "title": "Grammar (Basic)",
             "description": "Rather & Rather not",
             "isToDisplay": true,
             "availableDate": "11/11/2024",
+            "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": null
+            }
+          },
+          {
+            "classNumber": 8,
+            "title": "Grammar (Basic)",
+            "description": "Tag questions",
+            "isToDisplay": true,
+            "availableDate": "11/18/2025",
             "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "facebook": null,
@@ -979,7 +979,7 @@
             "title": "Grammar (Advanced)",
             "description": "Zero Conditional",
             "isToDisplay": true,
-            "availableDate": "09/23/2025",
+            "availableDate": "09/30/2025",
             "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "facebook": null,
@@ -991,7 +991,7 @@
             "title": "Grammar (Advanced)",
             "description": "First Conditional",
             "isToDisplay": true,
-            "availableDate": "09/30/2025",
+            "availableDate": "10/07/2025",
             "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "facebook": null,
@@ -1003,7 +1003,7 @@
             "title": "Grammar (Advanced)",
             "description": "Second Conditional",
             "isToDisplay": true,
-            "availableDate": "10/07/2025",
+            "availableDate": "10/14/2025",
             "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "facebook": null,
@@ -1015,7 +1015,7 @@
             "title": "Grammar (Advanced)",
             "description": "Third Conditional",
             "isToDisplay": true,
-            "availableDate": "10/14/2025",
+            "availableDate": "10/21/2025",
             "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "facebook": null,
@@ -1027,7 +1027,7 @@
             "title": "Grammar (Advanced)",
             "description": "Mixed Conditionals",
             "isToDisplay": true,
-            "availableDate": "10/21/2025",
+            "availableDate": "10/28/2025",
             "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "facebook": null,
@@ -1037,9 +1037,9 @@
           {
             "classNumber": 6,
             "title": "Grammar (Advanced)",
-            "description": "Have you? Did you? Do you? Use questions to show interest",
+            "description": "Relative Clauses",
             "isToDisplay": true,
-            "availableDate": "Relative Clauses",
+            "availableDate": "11/04/2025",
             "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "facebook": null,
@@ -1049,9 +1049,9 @@
           {
             "classNumber": 7,
             "title": "Grammar (Advanced)",
-            "description": "Irregular Verbs",
+            "description": "Modals of Speculation",
             "isToDisplay": true,
-            "availableDate": "Modals of Speculation",
+            "availableDate": "11/11/2025",
             "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "facebook": null,
@@ -1063,7 +1063,7 @@
             "title": "Grammar (Advanced)",
             "description": "Modals of Recommendation",
             "isToDisplay": true,
-            "availableDate": "11/11/2025",
+            "availableDate": "11/18/2025",
             "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "facebook": null,
