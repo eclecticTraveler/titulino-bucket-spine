@@ -795,9 +795,9 @@
             "availableDate": "10/13/2025",
             "imageUrl": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
-              "facebook": null,
-              "youtube": null,
-              "internal": null
+              "facebook": "https://www.facebook.com/share/v/19xvQqyZng/",
+              "youtube": "https://youtu.be/6sChWWFQKDU",
+              "internal": "https://titulino.com/lrn-auth/eng/level-work-n-jobs/chapter-3/class"
             }
           },
           {
