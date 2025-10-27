@@ -180,5 +180,19 @@
                 "body": "{{association}} {{name}} terminamos este 'sprint course' pero no me desista,\n\n tenemos 1 semana mas para hacer recuperacion, \n\ny sabe todo el curso se puede cumplir en 1 semana de a 2 horas al dia!\n\n De antemano, gracias por permitirme mandarle estos emails, y tambien de tenerle, por ahora no mandare mas lo prometo y si siente a bien no recibirlos por cualquier razon, no dude en decirme,\n\n nos vemos en Julio para el curso 'Work & Jobs' con su dia dedicado de introspecciones y simbolos.\n\n Le agradezco mucho su amor y atencion de verdad, si hay algo que pueda hacer mejor le tomo todas sus sugerencias.\n\n Por si no lo ha tomado aqui le dejo el enlace para que me deje sus pensamientos para mi\n  https://forms.gle/AHwR9JDWW4W8FFvA9 \n una vez mas gracias del fondo de mi corazon. Hasta Julio y si hay familiares, amigos conocidos que sienta que se puedan beneficiar aqui estamos para servirles. \n\n \n\n¿Le gustaría apoyar este proyecto? Puede comprar una pizza: https://buymeacoffee.com/titulino  \n\nUna cosa más:\nUn abrazo fuertísimo hasta {{location}}, no me desista que no desistire de usted! Hno Arellano, 'El bishop'"
             }
         }
+    },
+    {
+        "dateToBeSent": "2025-10-28T00:00:00Z",
+        "communicationCategory":13,
+        "emails": {
+            "en": {
+                "subject": "Hello - Titulino Worj & Jobs Course",
+                "body": "{{association}} {{name}} how are you? how are things? \n\nI hope this message finds you well, if you have not been able to fully come please but don't give up on me,\n\n I am hopeful your are fine, that is the most important thing to me, I seriously mean it. Thank you for allowing me to send you these emails, and also for having you,\n\n don't worry if you are unable to answer back may God bless you this week!.\n\n I really appreciate your love and attention, if there is something I can do better I will take all your suggestions.\n\n One more thing:\nA big hug to {{location}},\n\n don't give up on me and I won't give up on you! Brother Arellano, 'the bishop' \n\n (If you want to find ways to support this community project, you can buy a pizza: https://buymeacoffee.com/titulino )"
+            },
+            "es": {
+                "subject": "Le quiero decir GRACIAS - Titulino Household Part 1",
+                "body": "{{association}} {{name}} ¿cómo está? ¿Cómo le va?\n\n Deseo que este mensaje le encuentra bien. Si no ha podido venir del todo, por favor no me desista tenemos tiempo.\n\n Espero que este bien, es lo más importante para mí, lo digo en serio. Gracias por permitirme enviarle estos correos y también por recibirme. No se preocupes si no puede responder,\n\n ¡que Dios le bendiga esta semana! Agradezco mucho su cariño y atención.\n\n Si hay algo que pueda mejorar, tomaré en cuenta todas sus sugerencias. Una cosa más: Un fuerte abrazo hasta {{location}}.\n\n ¡No me desista que no desistira de usted lo prometo! Hermano Arellano, 'el bishop'.\n\n\n\n (Si quiere encontrar maneras de apoyar este proyecto comunitario, puedes comprar una pizza: https://buymeacoffee.com/titulino)"
+            }
+        }
     }
 ]
