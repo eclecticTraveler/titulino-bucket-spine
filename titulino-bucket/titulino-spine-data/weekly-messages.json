@@ -186,11 +186,11 @@
         "communicationCategory":13,
         "emails": {
             "en": {
-                "subject": "Hello - Titulino Worj & Jobs Course",
+                "subject": "Hello - Titulino Work & Jobs Course",
                 "body": "{{association}} {{name}} how are you? how are things? \n\nI hope this message finds you well, if you have not been able to fully come please but don't give up on me,\n\n I am hopeful your are fine, that is the most important thing to me, I seriously mean it. Thank you for allowing me to send you these emails, and also for having you,\n\n don't worry if you are unable to answer back may God bless you this week!.\n\n I really appreciate your love and attention, if there is something I can do better I will take all your suggestions.\n\n One more thing:\nA big hug to {{location}},\n\n don't give up on me and I won't give up on you! Brother Arellano, 'the bishop' \n\n (If you want to find ways to support this community project, you can buy a pizza: https://buymeacoffee.com/titulino )"
             },
             "es": {
-                "subject": "Le quiero decir GRACIAS - Titulino Household Part 1",
+                "subject": "Hello - Titulino Work & Jobs Course",
                 "body": "{{association}} {{name}} ¿cómo está? ¿Cómo le va?\n\n Deseo que este mensaje le encuentra bien. Si no ha podido venir del todo, por favor no me desista tenemos tiempo.\n\n Espero que este bien, es lo más importante para mí, lo digo en serio. Gracias por permitirme enviarle estos correos y también por recibirme. No se preocupes si no puede responder,\n\n ¡que Dios le bendiga esta semana! Agradezco mucho su cariño y atención.\n\n Si hay algo que pueda mejorar, tomaré en cuenta todas sus sugerencias. Una cosa más: Un fuerte abrazo hasta {{location}}.\n\n ¡No me desista que no desistira de usted lo prometo! Hermano Arellano, 'el bishop'.\n\n\n\n (Si quiere encontrar maneras de apoyar este proyecto comunitario, puedes comprar una pizza: https://buymeacoffee.com/titulino)"
             }
         }
