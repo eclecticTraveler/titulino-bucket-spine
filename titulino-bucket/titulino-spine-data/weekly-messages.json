@@ -194,5 +194,20 @@
                 "body": "{{association}} {{name}} ¿cómo está? ¿Cómo le va?\n\n Deseo que este mensaje le encuentra bien. Si no ha podido venir del todo, por favor no me desista tenemos tiempo.\n\n Espero que este bien, es lo más importante para mí, lo digo en serio. Gracias por permitirme enviarle estos correos y también por recibirme. No se preocupes si no puede responder,\n\n ¡que Dios le bendiga esta semana! Agradezco mucho su cariño y atención.\n\n Si hay algo que pueda mejorar, tomaré en cuenta todas sus sugerencias. Una cosa más: Un fuerte abrazo hasta {{location}}.\n\n ¡No me desista que no desistira de usted lo prometo! Hermano Arellano, 'el bishop'.\n\n\n\n (Si quiere encontrar maneras de apoyar este proyecto comunitario, puedes comprar una pizza: https://buymeacoffee.com/titulino)"
             }
         }
+    },
+    {
+    "dateToBeSent": "2025-11-20T00:00:00Z",
+    "communicationCategory": 14,
+    "emails": {
+        "en": {
+            "subject": "Would you want a free edition of Silver Titulino Work & Jobs eBook?",
+            "body": "{{association}} {{name}}, how are you?\n\n a few announcements!\n1.- Next week will be our last meeting before the exam, where we’ll do a catch-up of lessons 5–8.\n2.- Anyone who wants a free copy of the Silver eBook must take the time to complete this activity:\nhttps://titulino.com/lrn-auth/eng/level-work-n-jobs/chapter-0/know-me\n3.- Those who complete it will also have access to two bonus classes on December 1 and 8, each lasting 60 minutes.\n4.- Don’t forget to update your progress and catch up to receive your certificates — we have three more weeks until the deadline.\n\nA big hug to {{location}}!\n\nDon’t give up on me, and I won’t give up on you!\nBrother Arellano, 'the bishop'\n\n(If you want to find ways to support this community project, you can buy a pizza: https://buymeacoffee.com/titulino)"
+        },
+        "es": {
+            "subject": "Le gustaría acceso gratuito al librito plateado de Titulino Work & Jobs Course",
+            "body": "{{association}} {{name}}, ¿cómo está?\n ¡algunos anuncios!\n1.- La próxima semana será nuestra última reunión antes del examen, donde haremos un repaso de las lecciones 5–8.\n2.- Quien quiera una copia del Silver eBook gratis debe tomarse el tiempo de llenar esta actividad:\nhttps://titulino.com/lrn-auth/eng/level-work-n-jobs/chapter-0/know-me\n3.- Al mismo tiempo, quien pueda llenarla podrá tener dos clases bonus los días 1 y 8 de diciembre de 60 minutos cada una.\n4.- No se olviden llenar su progreso y ponerse al día para recibir sus certificados. Tenemos tres semanas más para la fecha límite.\n\nUn fuerte abrazo hasta {{location}}.\n\n¡No me desista que no desistiré de usted, lo prometo!\nHermano Arellano, 'el bishop'.\n\n(Si quiere encontrar maneras de apoyar este proyecto comunitario, puede comprar una pizza: https://buymeacoffee.com/titulino)"
+        }
     }
+}
+
 ]
