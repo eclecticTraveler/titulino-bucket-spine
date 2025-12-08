@@ -199,15 +199,29 @@
     "dateToBeSent": "2025-11-20T00:00:00Z",
     "communicationCategory": 14,
     "emails": {
-        "en": {
-            "subject": "Would you want a free edition of Silver Titulino Work & Jobs eBook?",
-            "body": "{{association}} {{name}}, how are you?\n\n a few announcements!\n1.- Next week will be our last meeting before the exam, where we’ll do a catch-up of lessons 5–8.\n2.- Anyone who wants a free copy of the Silver eBook must take the time to complete this activity:\nhttps://titulino.com/lrn-auth/eng/level-work-n-jobs/chapter-0/know-me\n3.- Those who complete it will also have access to two bonus classes on December 1 and 8, each lasting 60 minutes.\n4.- Don’t forget to update your progress and catch up to receive your certificates — we have three more weeks until the deadline.\n\nA big hug to {{location}}!\n\nDon’t give up on me, and I won’t give up on you!\nBrother Arellano, 'the bishop'\n\n(If you want to find ways to support this community project, you can buy a pizza: https://buymeacoffee.com/titulino)"
-        },
-        "es": {
-            "subject": "Le gustaría acceso gratuito al librito plateado de Titulino Work & Jobs Course",
-            "body": "{{association}} {{name}}, ¿cómo está?\n ¡algunos anuncios!\n1.- La próxima semana será nuestra última reunión antes del examen, donde haremos un repaso de las lecciones 5–8.\n2.- Quien quiera una copia del Silver eBook gratis debe tomarse el tiempo de llenar esta actividad:\nhttps://titulino.com/lrn-auth/eng/level-work-n-jobs/chapter-0/know-me\n3.- Al mismo tiempo, quien pueda llenarla podrá tener dos clases bonus los días 1 y 8 de diciembre de 60 minutos cada una.\n4.- No se olviden llenar su progreso y ponerse al día para recibir sus certificados. Tenemos tres semanas más para la fecha límite.\n\nUn fuerte abrazo hasta {{location}}.\n\n¡No me desista que no desistiré de usted, lo prometo!\nHermano Arellano, 'el bishop'.\n\n(Si quiere encontrar maneras de apoyar este proyecto comunitario, puede comprar una pizza: https://buymeacoffee.com/titulino)"
+            "en": {
+                "subject": "Would you want a free edition of Silver Titulino Work & Jobs eBook?",
+                "body": "{{association}} {{name}}, how are you?\n\n a few announcements!\n1.- Next week will be our last meeting before the exam, where we’ll do a catch-up of lessons 5–8.\n2.- Anyone who wants a free copy of the Silver eBook must take the time to complete this activity:\nhttps://titulino.com/lrn-auth/eng/level-work-n-jobs/chapter-0/know-me\n3.- Those who complete it will also have access to two bonus classes on December 1 and 8, each lasting 60 minutes.\n4.- Don’t forget to update your progress and catch up to receive your certificates — we have three more weeks until the deadline.\n\nA big hug to {{location}}!\n\nDon’t give up on me, and I won’t give up on you!\nBrother Arellano, 'the bishop'\n\n(If you want to find ways to support this community project, you can buy a pizza: https://buymeacoffee.com/titulino)"
+            },
+            "es": {
+                "subject": "Le gustaría acceso gratuito al librito plateado de Titulino Work & Jobs Course",
+                "body": "{{association}} {{name}}, ¿cómo está?\n ¡algunos anuncios!\n1.- La próxima semana será nuestra última reunión antes del examen, donde haremos un repaso de las lecciones 5–8.\n2.- Quien quiera una copia del Silver eBook gratis debe tomarse el tiempo de llenar esta actividad:\nhttps://titulino.com/lrn-auth/eng/level-work-n-jobs/chapter-0/know-me\n3.- Al mismo tiempo, quien pueda llenarla podrá tener dos clases bonus los días 1 y 8 de diciembre de 60 minutos cada una.\n4.- No se olviden llenar su progreso y ponerse al día para recibir sus certificados. Tenemos tres semanas más para la fecha límite.\n\nUn fuerte abrazo hasta {{location}}.\n\n¡No me desista que no desistiré de usted, lo prometo!\nHermano Arellano, 'el bishop'.\n\n(Si quiere encontrar maneras de apoyar este proyecto comunitario, puede comprar una pizza: https://buymeacoffee.com/titulino)"
+            }
+        }
+    },
+    {
+    "dateToBeSent": "2025-12-08T00:00:00Z",
+    "communicationCategory": 14,
+    "emails": {
+            "en": {
+                "subject": "The exam is here! - Titulino Work & Jobs Course",
+                "body": "{{association}} {{name}}, how are you?\n\n two things really quick if you allow me!\n1.- The exam is opened and it will be available at: \n https://titulino.com/lrn/eng/level-work-n-jobs/resources/test \n Its about 150 vocabulary questions. Take your time dont worry! BTW the test can be taken once, but the point is taking it so focus on overcoming fear \n 2.- Next and last bonus class is on December 22 for about 60 min, please join me! to finish the course well!.\n\n4PS: Don’t forget to update your progress and catch up to receive your certificates.\n\nI hope you are well really, if not and you feel like sharing, I am here to hear you out. A big hug all the way to {{location}}!\n\n\nBrother Arellano, 'the bishop'\n\n(If you want to find ways to support this community project, you can buy a pizza: https://buymeacoffee.com/titulino)"
+            },
+            "es": {
+                "subject": "el examen esta disponible - Titulino Work & Jobs Course",
+                "body": "{{association}} {{name}}, ¿cómo está?\n\n ¡Dos cosas muy rápidas si me permite!\n1.- El examen está abierto y estará disponible en: \n https://titulino.com/lrn/eng/level-work-n-jobs/resources/test \n Son unas 150 preguntas de vocabulario. ¡Tómase su tiempo, no se preocupe! Por cierto, el examen se puede hacer una vez, pero el objetivo es hacerlo, así que concéntrese en superar el miedo.\n2.- La próxima y última clase extra es el 22 de diciembre con duracion de unos 60 minutos. ¡Únase a mí! ¡Para terminar bien el curso!\n\n4PD: No olvide actualizar su progreso y ponerse al día para recibir sus certificados.\n\nEspero que este bien, de verdad, si no es así y siente compartir, estoy aquí para escucharle. ¡Un fuerte abrazo hasta {{location}}!\n\n\nHermano Arellano, 'el bishop'\n\n(Si quiere encontrar maneras Para apoyar este proyecto comunitario, puede comprar una pizza: https://buymeacoffee.com/titulino)"
+            }
         }
     }
-}
 
 ]
