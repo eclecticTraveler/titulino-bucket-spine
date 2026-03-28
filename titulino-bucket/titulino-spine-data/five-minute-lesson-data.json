@@ -2,8 +2,8 @@
   {
     "id":"001",
     "level":1,
-    "nativeLanguage":"es",
-    "course":"eng",    
+    "baseLanguages": ["es"],
+    "contentLanguageCode": "en",
     "lessons": [
       {
         "lessonId":1,
@@ -40,8 +40,8 @@
   {
     "id":"002",
     "level":2,
-    "nativeLanguage":"es",
-    "course":"eng",    
+    "baseLanguages": ["es"],
+    "contentLanguageCode": "en",
     "lessons": [
       {
         "lessonId":1,
@@ -73,8 +73,8 @@
   {
     "id":"003",
     "level":1,
-    "nativeLanguage":"eng",
-    "course":"es",    
+    "baseLanguages": ["eng"],
+    "contentLanguageCode": "es",
     "lessons": [
       {
         "lessonId":1,
@@ -104,4 +104,5 @@
     ]
   }
 ]
+
 

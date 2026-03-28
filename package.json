@@ -4,6 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "validate-data-shape": "node bucket-scripts/validate-data-shape.js",
     "upload-all": "node bucket-scripts/upload.js",
     "upload-single": "node bucket-scripts/upload-modded-files"
 

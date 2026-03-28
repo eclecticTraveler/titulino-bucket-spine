@@ -4,8 +4,8 @@
         "provider": "s3buckets",
         "author": "Quizlet",
         "theme":"supermarket",
-        "nativeLanguage": "es",
-        "course": "eng",
+        "baseLanguages": ["es"],
+        "contentLanguageCode": "en",
         "chapters" : [
           {
             "urlPath": "/titulino-supermarket/VegetablesPart1.pdf",
@@ -68,8 +68,8 @@
         "provider": "cloud",
         "author": "Quizlet",
         "theme":"household",
-        "nativeLanguage": "es",
-        "course": "eng",
+        "baseLanguages": ["es"],
+        "contentLanguageCode": "en",
         "chapters" : [
           {
             "urlPath": "/household-pdfs/houses-part1.pdf",
@@ -132,8 +132,8 @@
         "provider": "cloud",
         "author": "Quizlet",
         "theme":"work-n-jobs",
-        "nativeLanguage": "es",
-        "course": "eng",
+        "baseLanguages": ["es"],
+        "contentLanguageCode": "en",
         "chapters" : [
           {
             "urlPath": "/titulino-work-n-jobs/pdfs/construction.pdf",
@@ -254,4 +254,5 @@
       }    
     ]
   }
+
 

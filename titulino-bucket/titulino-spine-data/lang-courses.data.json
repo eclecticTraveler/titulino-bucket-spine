@@ -1,88 +1,97 @@
 [
   {
-    "id":1,
-    "basedlanguage" : "Español",
-    "abbreviation":"spa",
-    "localizationId": "es",
+    "id": 1,
+    "baseLanguageName": "Español (Castellano)",
+    "baseLanguageCode": "es",
+    "localeCode": "es",
     "flag": "https://d2eaaub12s77xu.cloudfront.net/es.png",
-    "flagCodeName": "MX", 
+    "flagCodeName": "MX",
     "isAvailable": true,
-    "courses" : [
+    "contentLanguages": [
       {
-        "id":1,
-        "courseTitle": "Inglés",
-        "courseFlag": "https://d2eaaub12s77xu.cloudfront.net/us.png",
-        "courseFlagCodeName": "US",
-        "courseAbbreviation": "eng",
-        "localizationId": "en",
+        "id": 1,
+        "contentLanguageName": "Inglés",
+        "contentLanguageFlag": "https://d2eaaub12s77xu.cloudfront.net/us.png",
+        "contentLanguageFlagCode": "US",
+        "contentLanguageCode": "en",
+        "localeCode": "en",
         "isAvailable": true
       },
       {
-        "id":2,
-        "courseTitle": "Portugues",
-        "courseFlag": "https://d2eaaub12s77xu.cloudfront.net/br.png",
-        "courseFlagCodeName": "BR",
-        "courseAbbreviation": "por",
-        "localizationId": "pt",
+        "id": 2,
+        "contentLanguageName": "Portugues",
+        "contentLanguageFlag": "https://d2eaaub12s77xu.cloudfront.net/br.png",
+        "contentLanguageFlagCode": "BR",
+        "contentLanguageCode": "pt",
+        "localeCode": "pt",
+        "isAvailable": false
+      },
+      {
+        "id": 3,
+        "contentLanguageName": "Español (Castellano)",
+        "contentLanguageFlag": "https://d2eaaub12s77xu.cloudfront.net/br.png",
+        "contentLanguageFlagCode": "AR",
+        "contentLanguageCode": "es",
+        "localeCode": "es",
+        "isAvailable": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "baseLanguageName": "English",
+    "baseLanguageCode": "en",
+    "localeCode": "en",
+    "flag": "https://d2eaaub12s77xu.cloudfront.net/us.png",
+    "flagCodeName": "US",
+    "isAvailable": false,
+    "contentLanguages": [
+      {
+        "id": 1,
+        "contentLanguageName": "Spanish",
+        "contentLanguageFlag": "https://d2eaaub12s77xu.cloudfront.net/es.png",
+        "contentLanguageFlagCode": "ES",
+        "contentLanguageCode": "es",
+        "localeCode": "es",
+        "isAvailable": false
+      },
+      {
+        "id": 2,
+        "contentLanguageName": "Portuguese",
+        "contentLanguageFlag": "https://d2eaaub12s77xu.cloudfront.net/br.png",
+        "contentLanguageFlagCode": "BR",
+        "contentLanguageCode": "pt",
+        "localeCode": "pt",
         "isAvailable": false
       }
     ]
   },
   {
-    "id":2,
-    "basedlanguage" : "English",
-    "abbreviation":"eng",
-    "localizationId": "en",
-    "flag": "https://d2eaaub12s77xu.cloudfront.net/us.png",
-    "flagCodeName": "US", 
-    "isAvailable": false,
-    "courses" : [
-        {
-          "id":1,
-          "courseTitle": "Spanish",
-          "courseFlag": "https://d2eaaub12s77xu.cloudfront.net/es.png",
-          "courseFlagCodeName": "ES",
-          "courseAbbreviation": "spa",
-          "localizationId": "es",
-          "isAvailable": false
-        },
-        {
-          "id":2,
-          "courseTitle": "Portuguese",
-          "courseFlag": "https://d2eaaub12s77xu.cloudfront.net/br.png",
-          "courseFlagCodeName": "BR",
-          "courseAbbreviation": "por",
-          "localizationId": "pt",
-          "isAvailable": false
-        }
-    ]
-  },
-  {
-    "id":2,
-    "basedlanguage" : "Português",
-    "abbreviation":"por",
-    "localizationId": "pt",
+    "id": 3,
+    "baseLanguageName": "Português (Brasileiro)",
+    "baseLanguageCode": "pt",
+    "localeCode": "pt",
     "flag": "https://d2eaaub12s77xu.cloudfront.net/br.png",
-    "flagCodeName": "BR", 
+    "flagCodeName": "BR",
     "isAvailable": true,
-    "courses":[
+    "contentLanguages": [
       {
-        "id":1,
-        "courseTitle": "Inglês",
-        "courseFlag": "https://d2eaaub12s77xu.cloudfront.net/us.png",
-        "courseFlagCodeName": "US",
-        "courseAbbreviation": "eng",
-        "localizationId": "en",
+        "id": 1,
+        "contentLanguageName": "Inglês",
+        "contentLanguageFlag": "https://d2eaaub12s77xu.cloudfront.net/us.png",
+        "contentLanguageFlagCode": "US",
+        "contentLanguageCode": "en",
+        "localeCode": "en",
         "isAvailable": true
       },
       {
-        "id":2,
-        "courseTitle": "Espanhol",
-        "courseFlag": "https://d2eaaub12s77xu.cloudfront.net/es.png",
-        "courseFlagCodeName": "ES",
-        "courseAbbreviation": "spa",
-        "localizationId": "es",
-        "isAvailable": false
+        "id": 2,
+        "contentLanguageName": "Espanhol",
+        "contentLanguageFlag": "https://d2eaaub12s77xu.cloudfront.net/es.png",
+        "contentLanguageFlagCode": "ES",
+        "contentLanguageCode": "es",
+        "localeCode": "es",
+        "isAvailable": true
       }
     ]
   }

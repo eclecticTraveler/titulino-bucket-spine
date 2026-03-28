@@ -2,8 +2,8 @@
   {
     "courseId": "SUPERMARKET_SEP_2024_COURSE_01",
     "courseGeneralTheme": "supermarket",
-    "nativeLanguage": "es",
-    "course": "eng",
+    "baseLanguages": ["es"],
+    "contentLanguageCode": "en",
     "categories": [
       {
         "categoryId": 1,
@@ -26,7 +26,7 @@
             "links": {
               "facebook": "https://www.facebook.com/share/v/15FHoFJUaF/",
               "youtube": "https://youtu.be/UfV8z6-HA58",
-              "internal": "https://titulino.com/lrn/eng/level-supermarket/chapter-1/class"
+              "internal": "https://titulino.com/lrn/en/level-supermarket/chapter-1/class"
             }
           },
           {
@@ -39,7 +39,7 @@
             "links": {
               "facebook": "https://www.facebook.com/share/v/15RUuVurdn/",
               "youtube": "https://youtu.be/qmUqebxzaZQ",
-              "internal": "https://titulino.com/lrn/eng/level-supermarket/chapter-2/class"
+              "internal": "https://titulino.com/lrn/en/level-supermarket/chapter-2/class"
             }
           },
           {
@@ -52,7 +52,7 @@
             "links": {
               "facebook": "https://www.facebook.com/share/v/129u59T1T2k/",
               "youtube": "https://youtu.be/Na48A5B2_IY",
-              "internal": "https://titulino.com/lrn/eng/level-supermarket/chapter-3/class"
+              "internal": "https://titulino.com/lrn/en/level-supermarket/chapter-3/class"
             }
           },
           {
@@ -65,7 +65,7 @@
             "links": {
               "facebook": "https://www.facebook.com/share/v/1VPs1xsSdy/",
               "youtube": "https://youtu.be/68Bi7PenMJU",
-              "internal": "https://titulino.com/lrn/eng/level-supermarket/chapter-4/class"
+              "internal": "https://titulino.com/lrn/en/level-supermarket/chapter-4/class"
             }
           },
           {
@@ -78,7 +78,7 @@
             "links": {
               "facebook": "https://www.facebook.com/share/v/15GW6Bk72G/",
               "youtube": "https://youtu.be/PFWuws5mzmY",
-              "internal": "https://titulino.com/lrn/eng/level-supermarket/chapter-5/class"
+              "internal": "https://titulino.com/lrn/en/level-supermarket/chapter-5/class"
             }
           },
           {
@@ -91,7 +91,7 @@
             "links": {
               "facebook": "https://www.facebook.com/share/v/1DizQPWeab/",
               "youtube": "https://youtu.be/PyoUoua65MY",
-              "internal": "https://titulino.com/lrn/eng/level-supermarket/chapter-6/class"
+              "internal": "https://titulino.com/lrn/en/level-supermarket/chapter-6/class"
             }
           },
           {
@@ -104,7 +104,7 @@
             "links": {
               "facebook": "https://www.facebook.com/share/v/1UCoq8nDwc/",
               "youtube": "https://youtu.be/xa9jtftPc0k",
-              "internal": "https://titulino.com/lrn/eng/level-supermarket/chapter-7/class"
+              "internal": "https://titulino.com/lrn/en/level-supermarket/chapter-7/class"
             }
           },
           {
@@ -117,7 +117,7 @@
             "links": {
               "facebook": "https://www.facebook.com/share/v/1YSYFusiYX/",
               "youtube": "https://youtu.be/suGg4GQkEVY",
-              "internal": "https://titulino.com/lrn/eng/level-supermarket/chapter-8/class"
+              "internal": "https://titulino.com/lrn/en/level-supermarket/chapter-8/class"
             }
           }
         ]
@@ -358,7 +358,7 @@
             "imageUrl": "https://images.unsplash.com/photo-1534644107580-3a4dbd494a95?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "availableDate": "01/01/2024",
             "links": {
-              "internal": "https://titulino.com/lrn/eng/level-supermarket/resources/test"
+              "internal": "https://titulino.com/lrn/en/level-supermarket/resources/test"
             }
           }
         ]
@@ -368,8 +368,8 @@
   {
     "courseId": "HOUSEHOLD_ITEMS_PART_1_JAN_2025_COURSE_01",
     "courseGeneralTheme": "household",
-    "nativeLanguage": "es",
-    "course": "eng",
+    "baseLanguages": ["es"],
+    "contentLanguageCode": "en",
     "categories": [
       {
         "categoryId": 1,
@@ -392,7 +392,7 @@
             "links": {
               "facebook": "https://fb.watch/xeXW9_78NH/",
               "youtube": "https://youtu.be/s9sfiN58AXg",
-              "internal": "https://titulino.com/lrn/eng/level-household/chapter-1/class"
+              "internal": "https://titulino.com/lrn/en/level-household/chapter-1/class"
             }
           },
           {
@@ -405,7 +405,7 @@
             "links": {
               "facebook": "https://fb.watch/xoQ09eSrbl/",
               "youtube": "https://youtu.be/GW-iEdFN9c0",
-              "internal": "https://titulino.com/lrn/eng/level-household/chapter-2/class"
+              "internal": "https://titulino.com/lrn/en/level-household/chapter-2/class"
             }
           },
           {
@@ -418,7 +418,7 @@
             "links": {
               "facebook": "https://fb.watch/xys1v13yOI/",
               "youtube": "https://youtu.be/UZ5U7_6yhqk",
-              "internal": "https://titulino.com/lrn/eng/level-household/chapter-3/class"
+              "internal": "https://titulino.com/lrn/en/level-household/chapter-3/class"
             }
           },
           {
@@ -431,7 +431,7 @@
             "links": {
               "facebook": "https://fb.watch/xHfQ-ePVnB/",
               "youtube": "https://youtu.be/VTpja1z0d-s",
-              "internal": "https://titulino.com/lrn/eng/level-household/chapter-4/class"
+              "internal": "https://titulino.com/lrn/en/level-household/chapter-4/class"
             }
           },
           {
@@ -444,7 +444,7 @@
             "links": {
               "facebook": "https://fb.watch/xZE43klUdG/",
               "youtube": "https://youtu.be/ZzdXYyQylxw",
-              "internal": "https://titulino.com/lrn/eng/level-household/chapter-5/class"
+              "internal": "https://titulino.com/lrn/en/level-household/chapter-5/class"
             }
           },
           {
@@ -457,7 +457,7 @@
             "links": {
               "facebook": "https://fb.watch/xZE43klUdG/",
               "youtube": "https://youtu.be/ZzdXYyQylxw",
-              "internal": "https://titulino.com/lrn/eng/level-household/chapter-6/class"
+              "internal": "https://titulino.com/lrn/en/level-household/chapter-6/class"
             }
           },
           {
@@ -470,7 +470,7 @@
             "links": {
               "facebook": "https://www.facebook.com/share/v/161qiBVC6e/",
               "youtube": "https://youtu.be/lPbGmpAeprA",
-              "internal": "https://titulino.com/lrn/eng/level-household/chapter-7/class"
+              "internal": "https://titulino.com/lrn/en/level-household/chapter-7/class"
             }
           },
           {
@@ -483,7 +483,7 @@
             "links": {
               "facebook": "https://fb.watch/yuKI7-vhYo/",
               "youtube": "https://youtu.be/50MPSE88htg",
-              "internal": "https://titulino.com/lrn/eng/level-household/chapter-7/class"
+              "internal": "https://titulino.com/lrn/en/level-household/chapter-7/class"
             }
           }
         ]
@@ -724,7 +724,7 @@
             "imageUrl": "https://images.unsplash.com/photo-1534644107580-3a4dbd494a95?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "availableDate": "03/18/2025",
             "links": {
-              "internal": "https://titulino.com/lrn/eng/level-household/resources/test"
+              "internal": "https://titulino.com/lrn/en/level-household/resources/test"
             }
           }
         ]
@@ -734,8 +734,8 @@
   {
     "courseId": "WORK_AND_JOBS_JULY_2025_COURSE_01",
     "courseGeneralTheme": "work-n-jobs",
-    "nativeLanguage": "es",
-    "course": "eng",
+    "baseLanguages": ["es"],
+    "contentLanguageCode": "en",
     "categories": [
       {
         "categoryId": 1,
@@ -758,7 +758,7 @@
             "links": {
               "facebook": "https://www.facebook.com/share/v/1ACzP8A5Ef/",
               "youtube": "https://youtu.be/U1CJaznXq5Q",
-              "internal": "https://titulino.com/lrn-auth/eng/level-work-n-jobs/chapter-1/class"
+              "internal": "https://titulino.com/lrn-auth/en/level-work-n-jobs/chapter-1/class"
             }
           },
           {
@@ -771,7 +771,7 @@
             "links": {
               "facebook": "https://www.facebook.com/share/v/19zteCqCA6/",
               "youtube": "https://youtu.be/dRSKHJBB9yk",
-              "internal": "https://titulino.com/lrn-auth/eng/level-work-n-jobs/chapter-2/class"
+              "internal": "https://titulino.com/lrn-auth/en/level-work-n-jobs/chapter-2/class"
             }
           },
           {
@@ -784,7 +784,7 @@
             "links": {
               "facebook": "https://www.facebook.com/reel/1073127851565003",
               "youtube": "https://youtu.be/UrdiNGtGmhE",
-              "internal": "https://titulino.com/lrn-auth/eng/level-work-n-jobs/chapter-3/class"
+              "internal": "https://titulino.com/lrn-auth/en/level-work-n-jobs/chapter-3/class"
             }
           },
           {
@@ -797,7 +797,7 @@
             "links": {
               "facebook": "https://www.facebook.com/share/v/19xvQqyZng/",
               "youtube": "https://youtu.be/6sChWWFQKDU",
-              "internal": "https://titulino.com/lrn-auth/eng/level-work-n-jobs/chapter-4/class"
+              "internal": "https://titulino.com/lrn-auth/en/level-work-n-jobs/chapter-4/class"
             }
           },
           {
@@ -810,7 +810,7 @@
             "links": {
               "facebook": "https://www.facebook.com/share/v/1CsSaAFvHy/",
               "youtube": "https://youtu.be/G_EyFTJnpSQ",
-              "internal": "https://titulino.com/lrn-auth/eng/level-work-n-jobs/chapter-5/class"
+              "internal": "https://titulino.com/lrn-auth/en/level-work-n-jobs/chapter-5/class"
             }
           },
           {
@@ -823,7 +823,7 @@
             "links": {
               "facebook": "https://fb.watch/Da0NkuRMM6/",
               "youtube": "https://youtu.be/74LObM0B9Kk",
-              "internal": "https://titulino.com/lrn-auth/eng/level-work-n-jobs/chapter-6/class"
+              "internal": "https://titulino.com/lrn-auth/en/level-work-n-jobs/chapter-6/class"
             }
           },
           {
@@ -836,7 +836,7 @@
             "links": {
               "facebook": "https://fb.watch/DjFhqD5O9f/",
               "youtube": "https://youtu.be/QJWw8VtDAuo",
-              "internal": "https://titulino.com/lrn-auth/eng/level-work-n-jobs/chapter-7/class"
+              "internal": "https://titulino.com/lrn-auth/en/level-work-n-jobs/chapter-7/class"
             }
           },
           {
@@ -849,7 +849,7 @@
             "links": {
               "facebook": "https://fb.watch/DsMaj-OBL_/",
               "youtube": "https://youtu.be/BWO7AneSjD4",
-              "internal": "https://titulino.com/lrn-auth/eng/level-work-n-jobs/chapter-8/class"
+              "internal": "https://titulino.com/lrn-auth/en/level-work-n-jobs/chapter-8/class"
             }
           }
         ]

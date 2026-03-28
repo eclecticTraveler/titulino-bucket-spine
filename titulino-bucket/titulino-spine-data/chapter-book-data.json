@@ -5,8 +5,9 @@
         "theme":"supermarket",
         "bookType":"vocabulary",
         "bookTitle": "Supermarket 200 Core Words",
-        "nativeLanguage": "es",
-        "course": "eng",
+        "baseLanguages": ["es"],
+        "contentLanguageCode": "en",
+        "tier":"Free",
         "chapters" : [
           {
             "page": 5,
@@ -75,8 +76,9 @@
         "theme":"household",
         "bookType":"vocabulary",
         "bookTitle": "Household Items Part 1, 150 Core Words",
-        "nativeLanguage": "es",
-        "course": "eng",
+        "baseLanguages": ["es"],
+        "contentLanguageCode": "en",
+        "tier":"Free",
         "chapters" : [
           {
             "page": 5,
@@ -145,8 +147,9 @@
         "theme":"work-n-jobs",
         "bookType":"vocabulary",
         "bookTitle": "Work & Jobs Part 1, 150 Core Words",
-        "nativeLanguage": "es",
-        "course": "eng",
+        "baseLanguages": ["es"],
+        "tier":"Free",
+        "contentLanguageCode": "en",
         "chapters" : [
           {
             "page": 4,
@@ -207,6 +210,228 @@
             "page": 38,
             "chapter": 12,
             "title": "Donate"
+          }          
+        ]
+      },      
+      {
+        "id": "14596d599e",
+        "theme":"work-n-jobs",
+        "bookType":"vocabulary",
+        "bookTitle": "Work & Jobs Part 1, 222+ Core Words (Silver)",
+        "baseLanguages": ["es"],
+        "tier":"Silver",
+        "contentLanguageCode": "en",
+        "chapters" : [
+          {
+            "page": 4,
+            "chapter": 1,
+            "title": "Construction"
+          },
+          {
+            "page": 8,
+            "chapter": 2,
+            "title": "Office"
+          },
+          {
+            "page": 11,
+            "chapter": 3,
+            "title": "School"
+          },
+          {
+            "page": 14,
+            "chapter": 4,
+            "title": "Farming"
+          },
+          {
+            "page": 17,
+            "chapter": 5,
+            "title": "Hotel"
+          },
+          {
+            "page": 20,
+            "chapter": 6,
+            "title": "Warehouse"
+          },
+          {
+            "page": 23,
+            "chapter": 7,
+            "title": "Restaurant"
+          },
+          {
+            "page": 26,
+            "chapter": 8,
+            "title": "Hospital"
+          },
+          {
+            "page": 29,
+            "chapter": 9,
+            "title": "Pharmacy"
+          },
+          {
+            "page": 32,
+            "chapter": 10,
+            "title": "Corporate"
+          },
+          {
+            "page": 35,
+            "chapter": 11,
+            "title": "Merchandise"
+          },
+          {
+            "page": 38,
+            "chapter": 12,
+            "title": "Office"
+          },
+          {
+            "page": 39,
+            "chapter": 13,
+            "title": "Road Work"
+          },
+          {
+            "page": 45,
+            "chapter": 14,
+            "title": "School"
+          },
+          {
+            "page": 48,
+            "chapter": 15,
+            "title": "Plumbing"
+          },
+          {
+            "page": 52,
+            "chapter": 16,
+            "title": "Test"
+          },
+          {
+            "page": 55,
+            "chapter": 17,
+            "title": "Donate"
+          }          
+        ]
+      },
+      {
+        "id": "2de5e814ca",
+        "theme":"work-n-jobs",
+        "bookType":"vocabulary",
+        "bookTitle": "Work & Jobs Part 1, 222+ Core Words (Silver)",
+        "baseLanguages": ["es"],
+        "tier":"Gold",
+        "contentLanguageCode": "en",
+        "chapters" : [
+          {
+            "page": 5,
+            "chapter": 1,
+            "title": "Construction"
+          },
+          {
+            "page": 8,
+            "chapter": 2,
+            "title": "Office"
+          },
+          {
+            "page": 11,
+            "chapter": 3,
+            "title": "School"
+          },
+          {
+            "page": 14,
+            "chapter": 4,
+            "title": "Farming"
+          },
+          {
+            "page": 17,
+            "chapter": 5,
+            "title": "Hotel"
+          },
+          {
+            "page": 20,
+            "chapter": 6,
+            "title": "Warehouse"
+          },
+          {
+            "page": 23,
+            "chapter": 7,
+            "title": "Restaurant"
+          },
+          {
+            "page": 26,
+            "chapter": 8,
+            "title": "Hospital"
+          },
+          {
+            "page": 29,
+            "chapter": 9,
+            "title": "Pharmacy"
+          },
+          {
+            "page": 32,
+            "chapter": 10,
+            "title": "Corporate"
+          },
+          {
+            "page": 35,
+            "chapter": 11,
+            "title": "Merchandise"
+          },
+          {
+            "page": 39,
+            "chapter": 12,
+            "title": "Road Work"
+          },
+          {
+            "page": 42,
+            "chapter": 13,
+            "title": "Office"
+          },
+          {
+            "page": 45,
+            "chapter": 14,
+            "title": "School"
+          },
+          {
+            "page": 48,
+            "chapter": 15,
+            "title": "Plumbing"
+          },
+          {
+            "page": 52,
+            "chapter": 16,
+            "title": "Farming"
+          },
+          {
+            "page": 55,
+            "chapter": 17,
+            "title": "Hospital"
+          },
+          {
+            "page": 58,
+            "chapter": 18,
+            "title": "Hotel"
+          },
+          {
+            "page": 61,
+            "chapter": 19,
+            "title": "Warehouse"
+          },
+          {
+            "page": 64,
+            "chapter": 20,
+            "title": "Restaurant"
+          },
+          {
+            "page": 67,
+            "chapter": 21,
+            "title": "Logistics"
+          },
+          {
+            "page": 70,
+            "chapter": 22,
+            "title": "Pharmacy"
+          },
+          {
+            "page": 72,
+            "chapter": 23,
+            "title": "Translation Guide"
           }
         ]
       }    

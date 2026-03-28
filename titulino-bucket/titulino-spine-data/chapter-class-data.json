@@ -3,8 +3,8 @@
     "id":"001",
     "level":1,
     "theme":"english-connect-1",
-    "nativeLanguage":"es",
-    "course":"eng",    
+    "baseLanguages": ["es"],
+    "contentLanguageCode": "en",
     "chapters": [
       {
         "chapter":1,
@@ -108,8 +108,8 @@
     "id":"002",
     "level":2,
     "theme":"english-connect-2",
-    "nativeLanguage":"es",
-    "course":"eng",    
+    "baseLanguages": ["es"],
+    "contentLanguageCode": "en",
     "chapters": [
       {
         "chapter":1,
@@ -213,8 +213,8 @@
     "id":"003",
     "level": 4,
     "theme":"supermarket",
-    "nativeLanguage":"es",
-    "course":"eng",    
+    "baseLanguages": ["es"],
+    "contentLanguageCode": "en",
     "chapters": [
       {
         "chapter":1,
@@ -262,8 +262,8 @@
     "id":"005",
     "level": 5,
     "theme":"household",
-    "nativeLanguage":"es",
-    "course":"eng",    
+    "baseLanguages": ["es"],
+    "contentLanguageCode": "en",
     "chapters": [
       {
         "chapter":0,
@@ -319,8 +319,8 @@
     "id":"005",
     "level": 6,
     "theme":"work-n-jobs",
-    "nativeLanguage":"es",
-    "course":"eng",    
+    "baseLanguages": ["es"],
+    "contentLanguageCode": "en",
     "chapters": [
       {
         "chapter":0,
@@ -361,4 +361,5 @@
     ]
   }
 ]
+
 

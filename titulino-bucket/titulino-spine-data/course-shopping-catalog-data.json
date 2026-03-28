@@ -2,8 +2,8 @@
   {
     "course_code_id": "WORK_AND_JOBS_JULY_2025_COURSE_01",
     "course_name": "Work & Jobs",
-    "nativeLanguage": "es",
-    "course": "eng",
+    "baseLanguages": ["es"],
+    "contentLanguageCode": "en",
     "display_order_id":0,
     "theme": "work_and_jobs",
     "tiers": {
@@ -22,3 +22,4 @@
     ]
   }
 ]
+

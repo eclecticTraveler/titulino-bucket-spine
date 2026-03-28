@@ -6,8 +6,8 @@
         "courseTitle":"ec1",
         "level": 1,
         "resourceName": "English-Connect 1",
-        "nativeLanguage": "es",
-        "course": "eng",
+        "baseLanguages": ["es"],
+        "contentLanguageCode": "en",
         "courses" : [
           {
             "id":"586604679",
@@ -112,8 +112,8 @@
         "courseTitle":"ec2",
         "level": 2,
         "resourceName": "English-Connect 2",
-        "nativeLanguage": "es",
-        "course": "eng",
+        "baseLanguages": ["es"],
+        "contentLanguageCode": "en",
         "courses" : [
           {
             "id":"593274735",
@@ -218,8 +218,8 @@
         "courseTitle":"ec1",
         "level": 1,
         "resourceName": "English-Connect 1 - Por-Eng",
-        "nativeLanguage": "pt",
-        "course": "eng",
+        "baseLanguages": ["pt"],
+        "contentLanguageCode": "en",
         "courses" : [
           {
             "id":"672527663",
@@ -324,8 +324,8 @@
         "courseTitle":"ec2",
         "level": 2,
         "resourceName": "English-Connect 2 - Por-Eng",
-        "nativeLanguage": "pt",
-        "course": "eng",
+        "baseLanguages": ["pt"],
+        "contentLanguageCode": "en",
         "courses" : [
           {
             "id":"672654578",
@@ -430,8 +430,8 @@
         "courseTitle":"sp1",
         "level": 1,
         "resourceName": "Spanish 1 - Eng-Spa",
-        "nativeLanguage": "en",
-        "course": "spa",
+        "baseLanguages": ["en"],
+        "contentLanguageCode": "spa",
         "courses" : [
           {
             "id":"673024429",
@@ -536,8 +536,8 @@
         "courseTitle":"sp2",
         "level": 2,
         "resourceName": "Spanish 2 - Eng-Spa",
-        "nativeLanguage": "en",
-        "course": "spa",
+        "baseLanguages": ["en"],
+        "contentLanguageCode": "spa",
         "courses" : [
           {
             "id":"673081893",
@@ -642,8 +642,8 @@
         "courseTitle":"por1",
         "level": 1,
         "resourceName": "Portuguese 1 - Eng-Por",
-        "nativeLanguage": "en",
-        "course": "por",
+        "baseLanguages": ["en"],
+        "contentLanguageCode": "por",
         "courses" : [
           {
             "id":"673101730",
@@ -748,8 +748,8 @@
         "courseTitle":"por2",
         "level": 2,
         "resourceName": "Portuguese 2 - Eng-Por",
-        "nativeLanguage": "en",
-        "course": "por",
+        "baseLanguages": ["en"],
+        "contentLanguageCode": "por",
         "courses" : [
           {
             "id":"673111780",
@@ -854,8 +854,8 @@
         "courseTitle":"por1",
         "level": 1,
         "resourceName": "Portugues 1 - Esp-Por",
-        "nativeLanguage": "es",
-        "course": "por",
+        "baseLanguages": ["es"],
+        "contentLanguageCode": "por",
         "courses" : [
           {
             "id":"673327158",
@@ -960,8 +960,8 @@
         "courseTitle":"por2",
         "level": 2,
         "resourceName": "Portugues 2 - Esp-Por",
-        "nativeLanguage": "es",
-        "course": "por",
+        "baseLanguages": ["es"],
+        "contentLanguageCode": "por",
         "courses" : [
           {
             "id":"673363146",
@@ -1066,8 +1066,8 @@
         "courseTitle":"esp2",
         "level": 2,
         "resourceName": "Espanhol 2 - Por-Esp",
-        "nativeLanguage": "pt",
-        "course": "spa",
+        "baseLanguages": ["pt"],
+        "contentLanguageCode": "spa",
         "courses" : [
           {
             "id":"673395399",
@@ -1172,8 +1172,8 @@
         "courseTitle":"esp1",
         "level": 1,
         "resourceName": "Espanhol 1 - Por-Esp",
-        "nativeLanguage": "pt",
-        "course": "spa",
+        "baseLanguages": ["pt"],
+        "contentLanguageCode": "spa",
         "courses" : [
           {
             "id":"673412282",
@@ -1278,8 +1278,8 @@
         "courseTitle":"titulino-3",
         "level": 3,
         "resourceName": "Titulino Upper Beginner",
-        "nativeLanguage": "es",
-        "course": "eng",
+        "baseLanguages": ["es"],
+        "contentLanguageCode": "en",
         "courses" : [
           {
             "id":"875581939",
@@ -1300,8 +1300,8 @@
         "courseTitle":"titulino-supermarket",
         "level": 4,
         "resourceName": "Titulino Theme Supermarket",
-        "nativeLanguage": "es",
-        "course": "eng",
+        "baseLanguages": ["es"],
+        "contentLanguageCode": "en",
         "courses" : [
           {
             "id":"933562855",
@@ -1354,8 +1354,8 @@
         "courseTitle":"titulino-household-items-part-1",
         "level": 5,
         "resourceName": "Titulino Theme Household Items Part 1",
-        "nativeLanguage": "es",
-        "course": "eng",
+        "baseLanguages": ["es"],
+        "contentLanguageCode": "en",
         "courses" : [
           {
             "id":"966543063",
@@ -1408,8 +1408,8 @@
         "courseTitle":"titulino-work-and-jobs-part-1",
         "level": 5,
         "resourceName": "Titulino Theme Work & Jobs Part 1",
-        "nativeLanguage": "es",
-        "course": "eng",
+        "baseLanguages": ["es"],
+        "contentLanguageCode": "en",
         "courses" : [
           {
             "id":"1035831089",
@@ -1459,4 +1459,5 @@
       }
     ]
   }
+
 
