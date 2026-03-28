@@ -5,7 +5,7 @@
         "theme":"supermarket",
         "bookType":"vocabulary",
         "bookTitle": "Supermarket 200 Core Words",
-        "baseLanguages": ["es"],
+        "baseLanguages": ["es", "pt"],
         "contentLanguageCode": "en",
         "tier":"Free",
         "chapters" : [
@@ -76,7 +76,7 @@
         "theme":"household",
         "bookType":"vocabulary",
         "bookTitle": "Household Items Part 1, 150 Core Words",
-        "baseLanguages": ["es"],
+        "baseLanguages": ["es", "pt"],
         "contentLanguageCode": "en",
         "tier":"Free",
         "chapters" : [
@@ -147,7 +147,7 @@
         "theme":"work-n-jobs",
         "bookType":"vocabulary",
         "bookTitle": "Work & Jobs Part 1, 150 Core Words",
-        "baseLanguages": ["es"],
+        "baseLanguages": ["es", "pt"],
         "tier":"Free",
         "contentLanguageCode": "en",
         "chapters" : [
@@ -218,7 +218,7 @@
         "theme":"work-n-jobs",
         "bookType":"vocabulary",
         "bookTitle": "Work & Jobs Part 1, 222+ Core Words (Silver)",
-        "baseLanguages": ["es"],
+        "baseLanguages": ["es", "pt"],
         "tier":"Silver",
         "contentLanguageCode": "en",
         "chapters" : [
@@ -314,7 +314,7 @@
         "theme":"work-n-jobs",
         "bookType":"vocabulary",
         "bookTitle": "Work & Jobs Part 1, 222+ Core Words (Silver)",
-        "baseLanguages": ["es"],
+        "baseLanguages": ["es", "pt"],
         "tier":"Gold",
         "contentLanguageCode": "en",
         "chapters" : [
