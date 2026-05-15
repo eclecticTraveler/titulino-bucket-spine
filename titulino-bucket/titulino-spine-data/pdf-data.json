@@ -251,7 +251,70 @@
             "title": "Work & Jobs - 300+ Terms"
           }
         ]
-      }    
+      },
+      {
+        "provider": "cloud",
+        "author": "Quizlet",
+        "theme":"speeches",
+        "baseLanguages": ["es"],
+        "contentLanguageCode": "en",
+        "chapters" : [
+          {
+            "urlPath": "/titulino-speeches/pdf/abrahamlincoln.pdf",
+            "chapter": 1,
+            "title": "Speeches - Abraham Lincoln"
+          },
+          {
+            "urlPath": "/titulino-speeches/pdf/eleanorroosevelt.pdf",
+            "chapter": 2,
+            "title": "Speeches - Eleanor Roosevelt"
+          },
+          {
+            "urlPath": "/titulino-speeches/pdf/soujournertruth.pdf",
+            "chapter": 3,
+            "title": "Speeches - Sojourner Truth"
+          },
+          {
+            "urlPath": "/titulino-speeches/pdf/epictitus.pdf",
+            "chapter": 4,
+            "title": "Speeches - Epictitus"
+          },
+          {
+            "urlPath": "/titulino-speeches/pdf/hellenkeller.pdf",
+            "chapter": 5,
+            "title": "Speeches - Hellen Keller"
+          },
+          {
+            "urlPath": "/titulino-speeches/pdf/frederickdouglass.pdf",
+            "chapter": 6,
+            "title": "Speeches - Frederick Douglass"
+          },
+          {
+            "urlPath": "/titulino-speeches/pdf/queenelizabeth.pdf",
+            "chapter": 7,
+            "title": "Speeches - Queen Elizabeth"
+          },
+          {
+            "urlPath": "/titulino-speeches/pdf/buddah.pdf",
+            "chapter": 8,
+            "title": "Speeches - Buddah"
+          },
+          {
+            "urlPath": "/titulino-speeches/pdf/janeaddams.pdf",
+            "chapter": 9,
+            "title": "Speeches - Jane Addams"
+          },
+          {
+            "urlPath": "/titulino-speeches/pdf/marcusaurelius.pdf",
+            "chapter": 10,
+            "title": "Speeches - Marcus Aurelius"
+          },
+          {
+            "urlPath": "/titulino-speeches/pdf/franesellenwatkinsharper.pdf",
+            "chapter": 11,
+            "title": "Speeches - Frances Ellen Watkins Harper"
+          }        ]
+      }      
     ]
   }
 

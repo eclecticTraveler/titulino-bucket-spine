@@ -1,0 +1,37 @@
+{
+  "household": {
+    "Participation": {
+      "imageUrl": "https://storage.googleapis.com/titulino-bucket/titulino-certificate-badges/household/default.png"
+    },
+    "Golden": {
+      "imageUrl": "https://storage.googleapis.com/titulino-bucket/titulino-certificate-badges/household/golden.png"
+    }
+  },
+
+  "work-n-jobs": {
+    "Participation": {
+      "imageUrl": "https://storage.googleapis.com/titulino-bucket/titulino-certificate-badges/work-n-jobs/default.png"
+    },
+    "Golden": {
+      "imageUrl": "https://storage.googleapis.com/titulino-bucket/titulino-certificate-badges/work-n-jobs/golden.png"
+    }
+  },
+  
+  "supermarket": {
+    "Participation": {
+      "imageUrl": "https://storage.googleapis.com/titulino-bucket/titulino-certificate-badges/supermarket/default.png"
+    },
+    "Golden": {
+      "imageUrl": "https://storage.googleapis.com/titulino-bucket/titulino-certificate-badges/supermarket/golden.png"
+    }
+  },
+  
+  "speeches": {
+    "Participation": {
+      "imageUrl": "https://storage.googleapis.com/titulino-bucket/titulino-certificate-badges/speeches/default.png"
+    },
+    "Golden": {
+      "imageUrl": "https://storage.googleapis.com/titulino-bucket/titulino-certificate-badges/speeches/golden.png"
+    }
+  }
+}

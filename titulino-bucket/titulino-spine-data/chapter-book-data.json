@@ -434,7 +434,149 @@
             "title": "Translation Guide"
           }
         ]
-      }    
+      },
+      {
+        "id": "b038b1627d",
+        "theme":"speeches",
+        "bookType":"vocabulary",
+        "bookTitle": "Speeches of History (Free)",
+        "baseLanguages": ["es", "pt"],
+        "tier":"Free",
+        "contentLanguageCode": "en",
+        "chapters" : [
+          {
+            "page": 5,
+            "chapter": 1,
+            "title": "Abraham Lincoln"
+          },
+          {
+            "page": 11,
+            "chapter": 2,
+            "title": "Eleanor Roosevelt"
+          },
+          {
+            "page": 20,
+            "chapter": 3,
+            "title": "Soujourner Truth"
+          },
+          {
+            "page": 28,
+            "chapter": 4,
+            "title": "Epictetus "
+          },
+          {
+            "page": 35,
+            "chapter": 5,
+            "title": "Hellen Keller"
+          },
+          {
+            "page": 42,
+            "chapter": 6,
+            "title": "Frederick Douglass"
+          },
+          {
+            "page": 51,
+            "chapter": 7,
+            "title": "Queen Elizabeth I"
+          },
+          {
+            "page": 59,
+            "chapter": 8,
+            "title": "Buddha "
+          },
+          {
+            "page": 65,
+            "chapter": 9,
+            "title": "Jane Addams"
+          },
+          {
+            "page": 75,
+            "chapter": 10,
+            "title": "Marcus Aurelius"
+          },
+          {
+            "page": 82,
+            "chapter": 11,
+            "title": "Frances Ellen Watkins Harper"
+          },
+          {
+            "page": 93,
+            "chapter": 12,
+            "title": "Donate"
+          }
+        ]
+      },
+      {
+        "id": "bb67c6779c",
+        "theme":"speeches",
+        "bookType":"vocabulary",
+        "bookTitle": "Speeches of History (Gold)",
+        "baseLanguages": ["es", "pt"],
+        "tier":"Gold",
+        "contentLanguageCode": "en",
+        "chapters" : [
+          {
+            "page": 5,
+            "chapter": 1,
+            "title": "Abraham Lincoln"
+          },
+          {
+            "page": 11,
+            "chapter": 2,
+            "title": "Eleanor Roosevelt"
+          },
+          {
+            "page": 26,
+            "chapter": 3,
+            "title": "Soujourner Truth"
+          },
+          {
+            "page": 34,
+            "chapter": 4,
+            "title": "Epictetus "
+          },
+          {
+            "page": 41,
+            "chapter": 5,
+            "title": "Hellen Keller"
+          },
+          {
+            "page": 48,
+            "chapter": 6,
+            "title": "Frederick Douglass"
+          },
+          {
+            "page": 57,
+            "chapter": 7,
+            "title": "Queen Elizabeth I"
+          },
+          {
+            "page": 65,
+            "chapter": 8,
+            "title": "Buddha "
+          },
+          {
+            "page": 71,
+            "chapter": 9,
+            "title": "Jane Addams"
+          },
+          {
+            "page": 81,
+            "chapter": 10,
+            "title": "Marcus Aurelius"
+          },
+          {
+            "page": 88,
+            "chapter": 11,
+            "title": "Frances Ellen Watkins Harper"
+          },
+          {
+            "page": 99,
+            "chapter": 12,
+            "title": "Donate"
+          }
+        ]
+      }  
     ]
   }
 
