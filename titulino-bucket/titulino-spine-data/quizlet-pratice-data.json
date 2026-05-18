@@ -1299,6 +1299,7 @@
         "id":14,
         "courseTitle":"titulino-supermarket",
         "level": 4,
+        "theme": "supermarket",
         "resourceName": "Titulino Theme Supermarket",
         "baseLanguages": ["es"],
         "contentLanguageCode": "en",
@@ -1353,6 +1354,7 @@
         "id":14,
         "courseTitle":"titulino-household-items-part-1",
         "level": 5,
+        "theme": "household",
         "resourceName": "Titulino Theme Household Items Part 1",
         "baseLanguages": ["es"],
         "contentLanguageCode": "en",
@@ -1406,7 +1408,8 @@
       {
         "id":15,
         "courseTitle":"titulino-work-and-jobs-part-1",
-        "level": 5,
+        "level": 6,
+        "theme": "work-n-jobs",
         "resourceName": "Titulino Theme Work & Jobs Part 1",
         "baseLanguages": ["es"],
         "contentLanguageCode": "en",
@@ -1454,6 +1457,61 @@
           {
             "id":"1042108907",
             "title": "Work & Jobs all 150+ Terms"
+          }
+        ]
+      },
+      {
+        "id":16,
+        "courseTitle":"titulino-speeches-part-1",
+        "level": 7,
+        "theme": "speeches",
+        "resourceName": "Titulino Theme Speeches Part 1",
+        "baseLanguages": ["es"],
+        "contentLanguageCode": "en",
+        "courses" : [
+          {
+            "id":"1180523219",
+            "title": "Speeches 1 - Abraham Lincoln"
+          },
+          {
+            "id":"1180530775",
+            "title": "Speeches 1 - Eleanor Roosevelt"
+          },
+          {
+            "id":"1180533036",
+            "title": "Speeches 1 - Sojourner Truth"
+          },
+          {
+            "id":"1180531991",
+            "title": "Speeches 1 - Epictitus"
+          },
+          {
+            "id":"1180534134",
+            "title": "Speeches 1 - Hellen Keller"
+          },
+          {
+            "id":"1180534992",
+            "title": "Speeches 1 - Frederick Douglass"
+          },
+          {
+            "id":"1180535742",
+            "title": "Speeches 1 - Queen Elizabeth I"
+          },
+          {
+            "id":"1180537011",
+            "title": "Speeches 1 - Buddah"
+          },
+          {
+            "id":"1180537679",
+            "title": "Speeches 1 - Jane Addams"
+          },
+          {
+            "id":"1180538219",
+            "title": "Speeches 1 - Marcus Aurelius"
+          },
+          {
+            "id":"1180538925",
+            "title": "Speeches 1 - Franes Ellen Watkins Harper"
           }
         ]
       }

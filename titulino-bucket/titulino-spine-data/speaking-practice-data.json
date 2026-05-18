@@ -3462,6 +3462,244 @@
             ]
           }
         ]
-      }   
+      },
+      {
+        "theme":"speeches",
+        "baseLanguages": ["es"],
+        "contentLanguageCode": "en",
+        "chapters" : [
+          {
+            "chapter": 1,
+            "title": "Titulino - Abraham Lincoln - Speeches of history Part 1",
+            "words": [
+              { "word": "Conceived", "image": null },
+              { "word": "Liberty", "image": null },
+              { "word": "Dedicated", "image": null },
+              { "word": "Proposition", "image": null },
+              { "word": "Endure", "image": null },
+              { "word": "Engaged", "image": null },
+              { "word": "Testing", "image": null },
+              { "word": "Unfinished", "image": null },
+              { "word": "Nobly", "image": null },
+              { "word": "Advanced", "image": null },
+              { "word": "Task", "image": null },
+              { "word": "Remaining", "image": null },
+              { "word": "Government", "image": null },
+              { "word": "By the people", "image": null },
+              { "word": "Shall not perish", "image": null }
+            ]
+          },
+          {
+            "chapter": 2,
+            "title": "Titulino - Eleanor Roosevelt - Speeches of history Part 1",
+            "words": [
+              { "word": "Universal", "image": null },
+              { "word": "Human rights", "image": null },
+              { "word": "Uphold", "image": null },
+              { "word": "Concerned", "image": null },
+              { "word": "Citizen action", "image": null },
+              { "word": "Meaning", "image": null },
+              { "word": "In vain", "image": null },
+              { "word": "Progress", "image": null },
+              { "word": "Equal justice", "image": null },
+              { "word": "Equal opportunity", "image": null },
+              { "word": "Dignity", "image": null },
+              { "word": "Discrimination", "image": null },
+              { "word": "Seek", "image": null },
+              { "word": "Close to home", "image": null },
+              { "word": "Larger world", "image": null }
+            ]
+          },
+          {
+            "chapter": 3,
+            "title": "Titulino - Soujourner Truth - Speeches of history Part 1",
+            "words": [
+              { "word": "Ploughed", "image": null },
+              { "word": "Abolitionist", "image": null },
+              { "word": "Out of kilter", "image": null },
+              { "word": "Planted", "image": null },
+              { "word": "Intellect", "image": null },
+              { "word": "Ain’t I a woman?", "image": null },
+              { "word": "Gathered", "image": null },
+              { "word": "Rights", "image": null },
+              { "word": "Turn the world upside down", "image": null },
+              { "word": "Bore", "image": null },
+              { "word": "Slavery", "image": null },
+              { "word": "Half measure", "image": null },
+              { "word": "Cried out", "image": null },
+              { "word": "Grief", "image": null },
+              { "word": "Right side up", "image": null }
+            ]
+          },
+          {
+            "chapter": 4,
+            "title": "Titulino - Epictetus - Speeches of history Part 1",
+            "words": [
+              { "word": "Control", "image": null },
+              { "word": "Opinion", "image": null },
+              { "word": "In our control", "image": null },
+              { "word": "Restrain", "image": null },
+              { "word": "Desire", "image": null },
+              { "word": "Not in our control", "image": null },
+              { "word": "Lament", "image": null },
+              { "word": "Aversion", "image": null },
+              { "word": "By nature", "image": null },
+              { "word": "Accuse", "image": null },
+              { "word": "Reputation", "image": null },
+              { "word": "Free and unrestrained", "image": null },
+              { "word": "Suffer", "image": null },
+              { "word": "Freedom", "image": null },
+              { "word": "Begin with small things", "image": null }
+            ]
+          },
+          {
+            "chapter": 5,
+            "title": "Titulino - Hellen Keller - Speeches of history Part 1",
+            "words": [
+              { "word": "Appreciate", "image": null },
+              { "word": "Darkness", "image": null },
+              { "word": "Make the most of", "image": null },
+              { "word": "Apply", "image": null },
+              { "word": "Silence", "image": null },
+              { "word": "As if tomorrow", "image": null },
+              { "word": "Reveal", "image": null },
+              { "word": "Sight", "image": null },
+              { "word": "Be stricken blind", "image": null },
+              { "word": "Glory in", "image": null },
+              { "word": "Sense", "image": null },
+              { "word": "Glory in", "image": null },
+              { "word": "Provide", "image": null },
+              { "word": "Beauty", "image": null },
+              { "word": "The joy of sound", "image": null }
+            ]
+          },
+          {
+            "chapter": 6,
+            "title": "Titulino - Frederick Douglass - Speeches of history Part 1",
+            "words": [
+              { "word": "Mourn", "image": null },
+              { "word": "Independence", "image": null },
+              { "word": "This Fourth of July is yours, not mine", "image": null },
+              { "word": "Rejoice", "image": null },
+              { "word": "Justice", "image": null },
+              { "word": "Natural justice", "image": null },
+              { "word": "Mock", "image": null },
+              { "word": "Freedom", "image": null },
+              { "word": "Inhuman mockery", "image": null },
+              { "word": "Expose", "image": null },
+              { "word": "Hypocrisy", "image": null },
+              { "word": "Sacrilegious irony", "image": null },
+              { "word": "Condemn", "image": null },
+              { "word": "Oppression", "image": null },
+              { "word": "Fellow-citizens", "image": null }
+            ]
+          },
+          {
+            "chapter": 7,
+            "title": "Titulino - Queen Elizabeth - Speeches of history Part 1",
+            "words": [
+              { "word": "Dare", "image": null },
+              { "word": "Realm", "image": null },
+              { "word": "Weak and feeble", "image": null },
+              { "word": "Invade", "image": null },
+              { "word": "Valor", "image": null },
+              { "word": "Heart and stomach of a king", "image": null },
+              { "word": "Command", "image": null },
+              { "word": "Victory", "image": null },
+              { "word": "Take up arms", "image": null },
+              { "word": "Assure", "image": null },
+              { "word": "Obedience", "image": null },
+              { "word": "In the word of a prince", "image": null },
+              { "word": "Reward", "image": null },
+              { "word": "Concord", "image": null },
+              { "word": "Enemies of my people", "image": null }
+            ]
+          },
+          {
+            "chapter": 8,
+            "title": "Titulino - Buddah - Speeches of history Part 1",
+            "words": [
+              { "word": "Result from", "image": null },
+              { "word": "Mind", "image": null },
+              { "word": "The mind is everything", "image": null },
+              { "word": "Follow", "image": null },
+              { "word": "Thought", "image": null },
+              { "word": "What we think we become", "image": null },
+              { "word": "Act", "image": null },
+              { "word": "Suffering", "image": null },
+              { "word": "Ended by love alone", "image": null },
+              { "word": "Hold on to", "image": null },
+              { "word": "Peace", "image": null },
+              { "word": "An eternal law", "image": null },
+              { "word": "Let go", "image": null },
+              { "word": "Hatred", "image": null },
+              { "word": "Bring calm", "image": null }
+            ]
+          },
+          {
+            "chapter": 9,
+            "title": "Titulino - Jane Addams - Speeches of history Part 1",
+            "words": [
+              { "word": "Depend on", "image": null },
+              { "word": "Responsibility", "image": null },
+              { "word": "Common good", "image": null },
+              { "word": "Secure", "image": null },
+              { "word": "Community", "image": null },
+              { "word": "Social advance", "image": null },
+              { "word": "Increase", "image": null },
+              { "word": "Capacity", "image": null },
+              { "word": "Common life", "image": null },
+              { "word": "Advance", "image": null },
+              { "word": "Ethics", "image": null },
+              { "word": "Sense of responsibility", "image": null },
+              { "word": "Neglect", "image": null },
+              { "word": "Development", "image": null },
+              { "word": "Live apart", "image": null }
+            ]
+          },
+          {
+            "chapter": 10,
+            "title": "Titulino - Marcus Aurelius - Speeches of history Part 1",
+            "words": [
+              { "word": "Meet with", "image": null },
+              { "word": "Ignorance", "image": null },
+              { "word": "According to nature", "image": null },
+              { "word": "Waste", "image": null },
+              { "word": "Justice", "image": null },
+              { "word": "Waste no more time", "image": null },
+              { "word": "Revoke", "image": null },
+              { "word": "Happiness", "image": null },
+              { "word": "Esteem of it", "image": null },
+              { "word": "Depend on", "image": null },
+              { "word": "Quality", "image": null },
+              { "word": "Quality of your thoughts", "image": null },
+              { "word": "Co-operate", "image": null },
+              { "word": "Duty", "image": null },
+              { "word": "Live each day", "image": null }
+            ]
+          },
+          {
+            "chapter": 11,
+            "title": "Titulino - Franes Ellen Watkins Harper - Speeches of history Part 1",
+            "words": [
+              { "word": "Bind", "image": null },
+              { "word": "Humanity", "image": null },
+              { "word": "Bound up together", "image": null },
+              { "word": "Trample", "image": null },
+              { "word": "Justice", "image": null },
+              { "word": "Human family", "image": null },
+              { "word": "Deny", "image": null },
+              { "word": "Responsibility", "image": null },
+              { "word": "Moral progress", "image": null },
+              { "word": "Suffer", "image": null },
+              { "word": "Education", "image": null },
+              { "word": "Lift as we climb", "image": null },
+              { "word": "Feeble", "image": null },
+              { "word": "Progress", "image": null },
+              { "word": "Common responsibility", "image": null }
+            ]
+          }
+        ]
+      }     
     ]
   }

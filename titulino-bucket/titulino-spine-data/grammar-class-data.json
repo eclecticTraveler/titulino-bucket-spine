@@ -145,6 +145,20 @@
         "advanced": "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fbusiness.facebook.com%2Freel%2F1620659249310916%2F&show_text=false&width=560&t=0"
       }
     ]
+  },
+  {
+    "id": "G006",
+    "level": 7,
+    "theme": "speeches",
+    "baseLanguages": ["es"],
+    "contentLanguageCode": "en",
+    "chapters": [
+      {
+        "chapter": 1,
+        "basic": "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ftitulinoingles%2Fvideos%2F1739620153406506%2F&show_text=false&width=560&t=0",
+        "advanced": "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ftitulinoingles%2Fvideos%2F802447536283064%2F&show_text=false&width=560&t=0"
+      }
+    ]
   }
 ]
 
