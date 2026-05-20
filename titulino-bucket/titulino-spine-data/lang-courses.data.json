@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "baseLanguageName": "Cursos en Español (Castellano)",
+    "baseLanguageName": "Español (Castellano)",
     "baseLanguageCode": "es",
     "localeCode": "es",
     "flag": "https://d2eaaub12s77xu.cloudfront.net/es.png",
@@ -28,8 +28,8 @@
       },
       {
         "id": 3,
-        "contentLanguageName": "Español (Castellano)",
-        "contentLanguageFlag": "https://d2eaaub12s77xu.cloudfront.net/br.png",
+        "contentLanguageName": "Cursos en  Español (Castellano)",
+        "contentLanguageFlag": "https://d2eaaub12s77xu.cloudfront.net/es.png",
         "contentLanguageFlagCode": "AR",
         "contentLanguageCode": "es",
         "localeCode": "es",
@@ -73,7 +73,7 @@
     "localeCode": "pt",
     "flag": "https://d2eaaub12s77xu.cloudfront.net/br.png",
     "flagCodeName": "BR",
-    "isAvailable": true,
+    "isAvailable": false,
     "contentLanguages": [
       {
         "id": 1,
@@ -82,7 +82,7 @@
         "contentLanguageFlagCode": "US",
         "contentLanguageCode": "en",
         "localeCode": "en",
-        "isAvailable": true
+        "isAvailable": false
       },
       {
         "id": 2,
@@ -91,7 +91,7 @@
         "contentLanguageFlagCode": "ES",
         "contentLanguageCode": "es",
         "localeCode": "es",
-        "isAvailable": true
+        "isAvailable": false
       }
     ]
   }
