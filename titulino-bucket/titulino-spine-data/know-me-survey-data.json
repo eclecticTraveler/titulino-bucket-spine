@@ -1,0 +1,93 @@
+{
+  "supermarket": {
+    "1": {
+      "questions": [
+        {
+          "id": "intro",
+          "type": "intro",
+          "title": "Know Me Survey",
+          "description": "This assignment is about helping us know you better and helping you improve your proficiency. Please answer as openly as you feel. (Share only what you feel comfortable sharing). Thank you!",
+          "coverUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": "q2_bio",
+          "type": "textarea",
+          "title": "Simple Present and Present Continuous",
+          "label": "Tell me about yourself, your family, and what you are passionate about / Cuénteme sobre usted, su familia sobre lo que es apasionado en hacer",
+          "required": true,
+          "rows": 5
+        },
+        {
+          "id": "q3_bio",
+          "type": "textarea",
+          "title": "Simple Past",
+          "label": "Tell me about a thing you did that you felt the most proud of / Cuénteme sobre algo que hizo usted de lo cual se siente orgullo",
+          "required": true,
+          "rows": 5
+        },
+        {
+          "id": "q4_bio",
+          "type": "textarea",
+          "title": "Future",
+          "label": "Tell me about one of your biggest wishes for your future / Cuénteme sobre su mayor deseo en el futuro",
+          "required": true,
+          "rows": 5
+        },
+        {
+          "id": "q5_bio",
+          "type": "textarea",
+          "title": "Present Perfect",
+          "label": "What has God been for you? Share your feelings or thoughts with me of what is for you. / ¿Qué ha sido Dios para usted? Comparta conmigo sus sentimientos o pensamientos de lo que es para usted en su experiencia.",
+          "required": true,
+          "rows": 5
+        },
+        {
+          "id": "q1_photo",
+          "type": "upload",
+          "title": "Picture",
+          "label": "Please share a picture with me to know you better / Por favor comparta una foto conmigo para conocerle mejor",
+          "required": true,
+          "accept": "image/*",
+          "maxCount": 1
+        },
+        {
+          "id": "consent",
+          "type": "checkbox",
+          "title": "Consentimiento para compartir mis respuestas",
+          "label": "Acepto esta actividad para usar mis respuestas para mejorar el curso, ser corregido y para otros fines educativos colectivos y de uso propio de Titulino para con otros alumnos.",
+          "required": true
+        }
+      ]
+    }
+  },
+  "household": {},
+  "work-n-jobs": {
+        "1": {
+      "questions": [
+        {
+          "id": "intro",
+          "type": "intro",
+          "title": "Know Me Survey",
+          "description": "This assignment is about helping us know you better and helping you improve your proficiency. Please answer as openly as you feel. (Share only what you feel comfortable sharing). Thank you!",
+          "coverUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": "q2_bio",
+          "type": "textarea",
+          "title": "Simple Present and Present Continuous",
+          "label": "Tell me about yourself, your family, and what you are passionate about / Cuénteme sobre usted, su familia sobre lo que es apasionado en hacer",
+          "required": true,
+          "rows": 5
+        },
+        {
+          "id": "consent",
+          "type": "checkbox",
+          "title": "Consentimiento para compartir mis respuestas",
+          "label": "Acepto esta actividad para usar mis respuestas para mejorar el curso, ser corregido y para otros fines educativos colectivos y de uso propio de Titulino para con otros alumnos.",
+          "required": true
+        }
+      ]
+    }
+  },
+  "speeches": {}
+}
