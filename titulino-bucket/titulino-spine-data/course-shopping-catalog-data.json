@@ -8,8 +8,8 @@
     "theme": "work-n-jobs",
     "tiers": {
       "free":   { "imageUrl": "https://storage.googleapis.com/titulino-bucket/course-covers/packages/work-n-jobs/150Free.png",   "priceId": null,  "priceUsd": 0.00, "isEnabledForPurchase": false, "isPurchased": false},
-      "silver": { "imageUrl": "https://storage.googleapis.com/titulino-bucket/course-covers/packages/work-n-jobs/222Silver.png", "priceId": "price_1RwMkY2dImZF7H1hh7xLFFCi", "priceUsd": 3.00, "isEnabledForPurchase": true, "isPurchased": false  },
-      "gold":   { "imageUrl": "https://storage.googleapis.com/titulino-bucket/course-covers/packages/work-n-jobs/300Gold.png",   "priceId": "price_1RwMm32dImZF7H1h7WjdF07m","priceUsd": 5.00, "isEnabledForPurchase": true, "isPurchased": false  }
+      "silver": { "imageUrl": "https://storage.googleapis.com/titulino-bucket/course-covers/packages/work-n-jobs/222Silver.png", "priceId": "price_1RwMia2dImZF7H1hrrF6IUJQ", "priceUsd": 3.00, "isEnabledForPurchase": true, "isPurchased": false  },
+      "gold":   { "imageUrl": "https://storage.googleapis.com/titulino-bucket/course-covers/packages/work-n-jobs/300Gold.png",   "priceId": "price_1RwMm62dImZF7H1hNm2JEYsI","priceUsd": 5.00, "isEnabledForPurchase": true, "isPurchased": false  }
     },
     "features": [
       { "featureId": "feat-grammar", "feature": "shop.feature.grammarClasses", "enabled": { "free": true, "silver": true, "gold": true } },
@@ -30,7 +30,7 @@
     "theme": "work-n-jobs",
     "tiers": {
       "free":   { "imageUrl": "https://storage.googleapis.com/titulino-bucket/course-covers/packages/speeches/10Free.png",   "priceId": null,  "priceUsd": 0.00, "isEnabledForPurchase": false, "isPurchased": false},      
-      "gold":   { "imageUrl": "https://storage.googleapis.com/titulino-bucket/course-covers/packages/speeches/10Gold.png",   "priceId": "prod_UXZkZaQ7Zj1QKP","priceUsd": 5.00, "isEnabledForPurchase": true, "isPurchased": false  }
+      "gold":   { "imageUrl": "https://storage.googleapis.com/titulino-bucket/course-covers/packages/speeches/10Gold.png",   "priceId": "price_1TYUbO2dImZF7H1huZJpk8vi","priceUsd": 5.00, "isEnabledForPurchase": true, "isPurchased": false  }
     },
     "features": [
       { "featureId": "feat-grammar", "feature": "shop.feature.grammarClasses", "enabled": { "free": true, "gold": true } },
