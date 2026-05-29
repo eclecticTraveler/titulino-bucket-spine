@@ -62,7 +62,7 @@
   },
   "household": {},
   "work-n-jobs": {
-        "1": {
+    "1": {
       "questions": [
         {
           "id": "intro",
@@ -89,5 +89,219 @@
       ]
     }
   },
-  "speeches": {}
+  "speeches": {
+    "1": {
+      "questions": [
+        {
+          "id": "intro",
+          "type": "intro",
+          "title": "Know Me — Chapter 1",
+          "description": "This is your first Know Me assignment for the Speeches course. Write freely and naturally — this is a great opportunity to practice your English and let us get to know you better.",
+          "coverUrl": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?q=80&w=1740&auto=format&fit=crop"
+        },
+        {
+          "id": "q1_intro",
+          "type": "textarea",
+          "title": "Introducing Yourself",
+          "label": "Write a short introduction about yourself. Who are you, where are you from, and what do you do? / Escribe una breve introducción sobre ti. ¿Quién eres, de dónde eres y qué haces?",
+          "required": true,
+          "rows": 5
+        },
+        {
+          "id": "q2_topic",
+          "type": "textarea",
+          "title": "A Topic That Matters to You",
+          "label": "If you had to give a 2-minute speech today, what topic would you choose and why? / Si tuvieras que dar un discurso de 2 minutos hoy, ¿qué tema elegirías y por qué?",
+          "required": true,
+          "rows": 5
+        },
+        {
+          "id": "consent",
+          "type": "checkbox",
+          "title": "Consent to share my answers",
+          "label": "I agree to allow Titulino to use my answers for course improvement, correction, and collective educational purposes.",
+          "required": true
+        }
+      ]
+    },
+    "3": {
+      "questions": [
+        {
+          "id": "intro",
+          "type": "intro",
+          "title": "Know Me — Chapter 3",
+          "description": "Speeches are about connecting with your audience. This week, we want to know more about how you communicate and what drives you.",
+          "coverUrl": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?q=80&w=1740&auto=format&fit=crop"
+        },
+        {
+          "id": "q1_audience",
+          "type": "textarea",
+          "title": "Connecting With Others",
+          "label": "Describe a time you had to explain something important to someone. How did you make sure they understood you? / Describe una vez que tuviste que explicarle algo importante a alguien. ¿Cómo te aseguraste de que te entendiera?",
+          "required": true,
+          "rows": 5
+        },
+        {
+          "id": "q2_persuade",
+          "type": "textarea",
+          "title": "Persuasion",
+          "label": "Write about something you believe in strongly enough to persuade others. Use facts, feelings, or stories to make your case. / Escribe sobre algo en lo que creas con suficiente fuerza como para persuadir a otros.",
+          "required": true,
+          "rows": 5
+        },
+        {
+          "id": "consent",
+          "type": "checkbox",
+          "title": "Consent to share my answers",
+          "label": "I agree to allow Titulino to use my answers for course improvement, correction, and collective educational purposes.",
+          "required": true
+        }
+      ]
+    },
+    "5": {
+      "questions": [
+        {
+          "id": "intro",
+          "type": "intro",
+          "title": "Know Me — Chapter 5",
+          "description": "Halfway through! This week we focus on stories — one of the most powerful tools in public speaking.",
+          "coverUrl": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?q=80&w=1740&auto=format&fit=crop"
+        },
+        {
+          "id": "q1_story",
+          "type": "textarea",
+          "title": "Your Story",
+          "label": "Tell me a real story from your life — something that changed how you see the world. / Cuéntame una historia real de tu vida — algo que cambió la forma en que ves el mundo.",
+          "required": true,
+          "rows": 6
+        },
+        {
+          "id": "q2_lesson",
+          "type": "textarea",
+          "title": "The Lesson",
+          "label": "What lesson from that story would you share in a speech to inspire others? / ¿Qué lección de esa historia compartirías en un discurso para inspirar a otros?",
+          "required": true,
+          "rows": 5
+        },
+        {
+          "id": "consent",
+          "type": "checkbox",
+          "title": "Consent to share my answers",
+          "label": "I agree to allow Titulino to use my answers for course improvement, correction, and collective educational purposes.",
+          "required": true
+        }
+      ]
+    },
+    "7": {
+      "questions": [
+        {
+          "id": "intro",
+          "type": "intro",
+          "title": "Know Me — Chapter 7",
+          "description": "Great speakers adapt to their audience. This week we explore your awareness of others and your communication style.",
+          "coverUrl": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?q=80&w=1740&auto=format&fit=crop"
+        },
+        {
+          "id": "q1_adapt",
+          "type": "textarea",
+          "title": "Adapting Your Message",
+          "label": "Have you ever had to change how you said something because of who was listening? Describe that moment. / ¿Alguna vez tuviste que cambiar cómo dijiste algo por quién estaba escuchando? Describe ese momento.",
+          "required": true,
+          "rows": 5
+        },
+        {
+          "id": "q2_speaker",
+          "type": "textarea",
+          "title": "A Speaker You Admire",
+          "label": "Think of someone — a pastor, teacher, leader, or public figure — whose way of speaking you admire. What makes them effective? / Piensa en alguien cuya forma de hablar admiras. ¿Qué los hace efectivos?",
+          "required": true,
+          "rows": 5
+        },
+        {
+          "id": "consent",
+          "type": "checkbox",
+          "title": "Consent to share my answers",
+          "label": "I agree to allow Titulino to use my answers for course improvement, correction, and collective educational purposes.",
+          "required": true
+        }
+      ]
+    },
+    "9": {
+      "questions": [
+        {
+          "id": "intro",
+          "type": "intro",
+          "title": "Know Me — Chapter 9",
+          "description": "You're near the finish line! This week's essay is about vision — where you are going and how you talk about it.",
+          "coverUrl": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?q=80&w=1740&auto=format&fit=crop"
+        },
+        {
+          "id": "q1_vision",
+          "type": "textarea",
+          "title": "Your Vision",
+          "label": "Describe where you see yourself in 5 years. Be as specific and vivid as possible — paint the picture with words. / Describe dónde te ves en 5 años. Sé lo más específico y vívido posible.",
+          "required": true,
+          "rows": 6
+        },
+        {
+          "id": "q2_call",
+          "type": "textarea",
+          "title": "A Call to Action",
+          "label": "Write the closing lines of a speech you would give to motivate someone you care about to pursue their dream. / Escribe las líneas finales de un discurso que darías para motivar a alguien que te importa a perseguir su sueño.",
+          "required": true,
+          "rows": 5
+        },
+        {
+          "id": "consent",
+          "type": "checkbox",
+          "title": "Consent to share my answers",
+          "label": "I agree to allow Titulino to use my answers for course improvement, correction, and collective educational purposes.",
+          "required": true
+        }
+      ]
+    },
+    "11": {
+      "questions": [
+        {
+          "id": "intro",
+          "type": "intro",
+          "title": "Know Me — Chapter 11 (Final)",
+          "description": "This is your final Know Me for the Speeches course. Reflect on your journey and share what you have learned about yourself as a communicator.",
+          "coverUrl": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?q=80&w=1740&auto=format&fit=crop"
+        },
+        {
+          "id": "q1_growth",
+          "type": "textarea",
+          "title": "Your Growth",
+          "label": "Looking back at this course, how has your confidence in speaking English changed? Give a specific example of progress you have made. / Mirando atrás en este curso, ¿cómo ha cambiado tu confianza al hablar inglés? Da un ejemplo específico de tu progreso.",
+          "required": true,
+          "rows": 6
+        },
+        {
+          "id": "q2_message",
+          "type": "textarea",
+          "title": "Your Final Message",
+          "label": "If you could give one speech to the world right now, what would you say? Write the opening paragraph. / Si pudieras dar un discurso al mundo ahora mismo, ¿qué dirías? Escribe el párrafo de apertura.",
+          "required": true,
+          "rows": 6
+        },
+        {
+          "id": "q1_photo",
+          "type": "upload",
+          "title": "A Picture of You",
+          "label": "Share a photo that represents who you are today. / Comparte una foto que represente quién eres hoy.",
+          "required": false,
+          "accept": "image/*",
+          "maxCount": 1
+        },
+        {
+          "id": "consent",
+          "type": "checkbox",
+          "title": "Consent to share my answers",
+          "label": "I agree to allow Titulino to use my answers for course improvement, correction, and collective educational purposes.",
+          "required": true
+        }
+      ]
+    }
+  }
 }
