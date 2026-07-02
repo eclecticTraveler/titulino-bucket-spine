@@ -1514,6 +1514,16 @@
             "title": "Speeches 1 - Franes Ellen Watkins Harper"
           }
         ]
+      },
+      {
+        "id": 17,
+        "courseTitle": "titulino-meditaciones-part-1",
+        "level": 8,
+        "theme": "meditaciones",
+        "resourceName": "TODO: Titulino Theme Meditaciones Part 1",
+        "baseLanguages": ["es"],
+        "contentLanguageCode": "en",
+        "courses": []
       }
     ]
   }

@@ -1501,5 +1501,25 @@
         ]
       }
     ]
+  },
+  {
+    "courseId": "MEDITACIONES_DE_UNA_EXISTENCIA_LUCIDA_JUL_2026_COURSE_01",
+    "courseGeneralTheme": "meditaciones",
+    "baseLanguages": ["es"],
+    "contentLanguageCode": "en",
+    "categories": [
+      {
+        "categoryId": 1,
+        "name": "TODO: Category name",
+        "categoryLocalizationKey": "nav.generalGatherings",
+        "isToDisplay": true,
+        "imageUrl": "TODO: https://images.unsplash.com/...",
+        "participationIds": [
+          { "participationTypeId": 1, "localizationKey": "nav.live" },
+          { "participationTypeId": 2, "localizationKey": "nav.recorded" }
+        ],
+        "lessons": []
+      }
+    ]
   }
 ]

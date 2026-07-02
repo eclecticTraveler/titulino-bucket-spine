@@ -303,5 +303,18 @@
         }
       ]
     }
+  },
+  "meditaciones": {
+    "1": {
+      "questions": [
+        {
+          "id": "intro",
+          "type": "intro",
+          "title": "Know Me — Chapter 1",
+          "description": "TODO: Write intro description for Meditaciones de una Existencia Lúcida Chapter 1.",
+          "coverUrl": "TODO: https://images.unsplash.com/..."
+        }
+      ]
+    }
   }
 }

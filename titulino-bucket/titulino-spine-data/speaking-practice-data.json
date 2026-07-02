@@ -3700,6 +3700,12 @@
             ]
           }
         ]
-      }     
+      },
+      {
+        "theme": "meditaciones",
+        "baseLanguages": ["es"],
+        "contentLanguageCode": "en",
+        "chapters": []
+      }
     ]
   }

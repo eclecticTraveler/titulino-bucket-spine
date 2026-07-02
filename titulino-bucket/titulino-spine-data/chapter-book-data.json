@@ -576,7 +576,17 @@
             "title": "Donate"
           }
         ]
-      }  
+      },
+      {
+        "id": "TODO_meditaciones_free",
+        "theme": "meditaciones",
+        "bookType": "vocabulary",
+        "bookTitle": "TODO: Meditaciones de una Existencia Lúcida (Free)",
+        "baseLanguages": ["es"],
+        "tier": "Free",
+        "contentLanguageCode": "en",
+        "chapters": []
+      }
     ]
   }
 

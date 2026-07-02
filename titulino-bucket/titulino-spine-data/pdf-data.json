@@ -314,7 +314,15 @@
             "chapter": 11,
             "title": "Speeches - Frances Ellen Watkins Harper"
           }        ]
-      }      
+      },
+      {
+        "provider": "cloud",
+        "author": "Quizlet",
+        "theme": "meditaciones",
+        "baseLanguages": ["es"],
+        "contentLanguageCode": "en",
+        "chapters": []
+      }
     ]
   }
 

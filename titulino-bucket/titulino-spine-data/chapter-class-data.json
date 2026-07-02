@@ -367,8 +367,16 @@
     "baseLanguages": ["es"],
     "contentLanguageCode": "en",
     "chapters": [
-           
+
     ]
+  },
+  {
+    "id":"008",
+    "level": 8,
+    "theme":"meditaciones",
+    "baseLanguages": ["es"],
+    "contentLanguageCode": "en",
+    "chapters": []
   }
 ]
 
