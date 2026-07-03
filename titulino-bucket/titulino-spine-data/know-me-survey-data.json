@@ -310,9 +310,284 @@
         {
           "id": "intro",
           "type": "intro",
-          "title": "Know Me — Chapter 1",
-          "description": "TODO: Write intro description for Meditaciones de una Existencia Lúcida Chapter 1.",
-          "coverUrl": "TODO: https://images.unsplash.com/..."
+          "title": "Conóceme — Capítulo 1: Introducción",
+          "description": "Esta semana hablamos sobre el equilibrio y la honestidad con uno mismo. Tómate un momento para reflexionar y responder con la libertad que sientas.",
+          "coverUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": "q1_share",
+          "type": "textarea",
+          "title": "Equilibrio y Honestidad",
+          "label": "Si te sientes en confianza, comparte conmigo una situación en la que hayas buscado el equilibrio o la honestidad contigo mismo(a) — o algo que hayas aprendido sobre ti gracias a esta clase.",
+          "required": true,
+          "rows": 5
+        },
+        {
+          "id": "consent",
+          "type": "checkbox",
+          "title": "Consentimiento para compartir mis respuestas",
+          "label": "Acepto esta actividad para usar mis respuestas para mejorar el curso, ser corregido y para otros fines educativos colectivos y de uso propio de Titulino para con otros alumnos.",
+          "required": true
+        }
+      ]
+    },
+    "2": {
+      "questions": [
+        {
+          "id": "intro",
+          "type": "intro",
+          "title": "Conóceme — Capítulo 2: Miedo",
+          "description": "Esta semana hablamos sobre el miedo. Tómate un momento para reflexionar y responder con la libertad que sientas.",
+          "coverUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": "q1_share",
+          "type": "textarea",
+          "title": "Miedo",
+          "label": "Si te sientes en confianza, comparte conmigo una situación en la que hayas enfrentado el miedo — o algo que hayas aprendido sobre el miedo gracias a esta clase.",
+          "required": true,
+          "rows": 5
+        },
+        {
+          "id": "consent",
+          "type": "checkbox",
+          "title": "Consentimiento para compartir mis respuestas",
+          "label": "Acepto esta actividad para usar mis respuestas para mejorar el curso, ser corregido y para otros fines educativos colectivos y de uso propio de Titulino para con otros alumnos.",
+          "required": true
+        }
+      ]
+    },
+    "3": {
+      "questions": [
+        {
+          "id": "intro",
+          "type": "intro",
+          "title": "Conóceme — Capítulo 3: Culpa",
+          "description": "Esta semana hablamos sobre la culpa. Tómate un momento para reflexionar y responder con la libertad que sientas.",
+          "coverUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG290by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": "q1_share",
+          "type": "textarea",
+          "title": "Culpa",
+          "label": "Si te sientes en confianza, comparte conmigo una situación en la que hayas cargado con culpa — o algo que hayas aprendido sobre la culpa gracias a esta clase.",
+          "required": true,
+          "rows": 5
+        },
+        {
+          "id": "consent",
+          "type": "checkbox",
+          "title": "Consentimiento para compartir mis respuestas",
+          "label": "Acepto esta actividad para usar mis respuestas para mejorar el curso, ser corregido y para otros fines educativos colectivos y de uso propio de Titulino para con otros alumnos.",
+          "required": true
+        }
+      ]
+    },
+    "4": {
+      "questions": [
+        {
+          "id": "intro",
+          "type": "intro",
+          "title": "Conóceme — Capítulo 4: Vergüenza",
+          "description": "Esta semana hablamos sobre la vergüenza. Tómate un momento para reflexionar y responder con la libertad que sientas.",
+          "coverUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": "q1_share",
+          "type": "textarea",
+          "title": "Vergüenza",
+          "label": "Si te sientes en confianza, comparte conmigo una situación en la que hayas sentido vergüenza — o algo que hayas aprendido sobre la vergüenza gracias a esta clase.",
+          "required": true,
+          "rows": 5
+        },
+        {
+          "id": "consent",
+          "type": "checkbox",
+          "title": "Consentimiento para compartir mis respuestas",
+          "label": "Acepto esta actividad para usar mis respuestas para mejorar el curso, ser corregido y para otros fines educativos colectivos y de uso propio de Titulino para con otros alumnos.",
+          "required": true
+        }
+      ]
+    },
+    "5": {
+      "questions": [
+        {
+          "id": "intro",
+          "type": "intro",
+          "title": "Conóceme — Capítulo 5: Duelo",
+          "description": "Esta semana hablamos sobre el duelo. Tómate un momento para reflexionar y responder con la libertad que sientas.",
+          "coverUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": "q1_share",
+          "type": "textarea",
+          "title": "Duelo",
+          "label": "Si te sientes en confianza, comparte conmigo una situación de duelo o pérdida que hayas vivido — o algo que hayas aprendido sobre el duelo gracias a esta clase.",
+          "required": true,
+          "rows": 5
+        },
+        {
+          "id": "consent",
+          "type": "checkbox",
+          "title": "Consentimiento para compartir mis respuestas",
+          "label": "Acepto esta actividad para usar mis respuestas para mejorar el curso, ser corregido y para otros fines educativos colectivos y de uso propio de Titulino para con otros alumnos.",
+          "required": true
+        }
+      ]
+    },
+    "6": {
+      "questions": [
+        {
+          "id": "intro",
+          "type": "intro",
+          "title": "Conóceme — Capítulo 6: Mentiras",
+          "description": "Esta semana hablamos sobre las mentiras. Tómate un momento para reflexionar y responder con la libertad que sientas.",
+          "coverUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": "q1_share",
+          "type": "textarea",
+          "title": "Mentiras",
+          "label": "Si te sientes en confianza, comparte conmigo una situación relacionada con una mentira, ya sea que la hayas dicho o la hayas enfrentado — o algo que hayas aprendido sobre las mentiras gracias a esta clase.",
+          "required": true,
+          "rows": 5
+        },
+        {
+          "id": "consent",
+          "type": "checkbox",
+          "title": "Consentimiento para compartir mis respuestas",
+          "label": "Acepto esta actividad para usar mis respuestas para mejorar el curso, ser corregido y para otros fines educativos colectivos y de uso propio de Titulino para con otros alumnos.",
+          "required": true
+        }
+      ]
+    },
+    "7": {
+      "questions": [
+        {
+          "id": "intro",
+          "type": "intro",
+          "title": "Conóceme — Capítulo 7: Ilusión",
+          "description": "Esta semana hablamos sobre la ilusión. Tómate un momento para reflexionar y responder con la libertad que sientas.",
+          "coverUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": "q1_share",
+          "type": "textarea",
+          "title": "Ilusión",
+          "label": "Si te sientes en confianza, comparte conmigo una situación en la que hayas vivido una ilusión o una expectativa que no se cumplió como esperabas — o algo que hayas aprendido sobre la ilusión gracias a esta clase.",
+          "required": true,
+          "rows": 5
+        },
+        {
+          "id": "consent",
+          "type": "checkbox",
+          "title": "Consentimiento para compartir mis respuestas",
+          "label": "Acepto esta actividad para usar mis respuestas para mejorar el curso, ser corregido y para otros fines educativos colectivos y de uso propio de Titulino para con otros alumnos.",
+          "required": true
+        }
+      ]
+    },
+    "8": {
+      "questions": [
+        {
+          "id": "intro",
+          "type": "intro",
+          "title": "Conóceme — Capítulo 8: Apegos Terrenales",
+          "description": "Esta semana hablamos sobre los apegos terrenales. Tómate un momento para reflexionar y responder con la libertad que sientas.",
+          "coverUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": "q1_share",
+          "type": "textarea",
+          "title": "Apegos Terrenales",
+          "label": "Si te sientes en confianza, comparte conmigo una situación en la que hayas tenido que soltar un apego terrenal — una persona, una cosa o una idea — o algo que hayas aprendido sobre los apegos terrenales gracias a esta clase.",
+          "required": true,
+          "rows": 5
+        },
+        {
+          "id": "consent",
+          "type": "checkbox",
+          "title": "Consentimiento para compartir mis respuestas",
+          "label": "Acepto esta actividad para usar mis respuestas para mejorar el curso, ser corregido y para otros fines educativos colectivos y de uso propio de Titulino para con otros alumnos.",
+          "required": true
+        }
+      ]
+    },
+    "9": {
+      "questions": [
+        {
+          "id": "intro",
+          "type": "intro",
+          "title": "Conóceme — Capítulo 9: Supervivencia, Placer y Perspicacia",
+          "description": "Esta semana hablamos sobre la supervivencia, el placer y la perspicacia que pueden surgir en medio del duelo. Tómate un momento para reflexionar y responder con la libertad que sientas.",
+          "coverUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": "q1_share",
+          "type": "textarea",
+          "title": "Supervivencia, Placer y Perspicacia",
+          "label": "Si te sientes en confianza, comparte conmigo una situación en la que hayas tenido que sobrevivir, buscar placer o ganar una nueva perspectiva en medio del duelo — o algo que hayas aprendido sobre esto gracias a esta clase.",
+          "required": true,
+          "rows": 5
+        },
+        {
+          "id": "consent",
+          "type": "checkbox",
+          "title": "Consentimiento para compartir mis respuestas",
+          "label": "Acepto esta actividad para usar mis respuestas para mejorar el curso, ser corregido y para otros fines educativos colectivos y de uso propio de Titulino para con otros alumnos.",
+          "required": true
+        }
+      ]
+    },
+    "10": {
+      "questions": [
+        {
+          "id": "intro",
+          "type": "intro",
+          "title": "Conóceme — Capítulo 10: Verdad, Amor y Voluntad",
+          "description": "Esta semana hablamos sobre la verdad, el amor y la voluntad. Tómate un momento para reflexionar y responder con la libertad que sientas.",
+          "coverUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": "q1_share",
+          "type": "textarea",
+          "title": "Verdad, Amor y Voluntad",
+          "label": "Si te sientes en confianza, comparte conmigo una situación en la que la verdad, el amor o tu voluntad hayan sido puestos a prueba — o algo que hayas aprendido sobre esto gracias a esta clase.",
+          "required": true,
+          "rows": 5
+        },
+        {
+          "id": "consent",
+          "type": "checkbox",
+          "title": "Consentimiento para compartir mis respuestas",
+          "label": "Acepto esta actividad para usar mis respuestas para mejorar el curso, ser corregido y para otros fines educativos colectivos y de uso propio de Titulino para con otros alumnos.",
+          "required": true
+        }
+      ]
+    },
+    "11": {
+      "questions": [
+        {
+          "id": "intro",
+          "type": "intro",
+          "title": "Conóceme — Capítulo 11: Unidad (Final)",
+          "description": "Esta es tu última entrega de Conóceme para Meditaciones de una Existencia Lúcida. Esta semana hablamos sobre la unidad. Tómate un momento para reflexionar y responder con la libertad que sientas.",
+          "coverUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": "q1_share",
+          "type": "textarea",
+          "title": "Unidad",
+          "label": "Si te sientes en confianza, comparte conmigo una situación en la que hayas sentido una conexión profunda o unidad — contigo mismo(a), con otros o con algo más grande — o algo que hayas aprendido sobre la unidad gracias a este curso.",
+          "required": true,
+          "rows": 5
+        },
+        {
+          "id": "consent",
+          "type": "checkbox",
+          "title": "Consentimiento para compartir mis respuestas",
+          "label": "Acepto esta actividad para usar mis respuestas para mejorar el curso, ser corregido y para otros fines educativos colectivos y de uso propio de Titulino para con otros alumnos.",
+          "required": true
         }
       ]
     }
