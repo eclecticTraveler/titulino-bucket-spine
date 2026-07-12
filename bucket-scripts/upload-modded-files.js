@@ -20,6 +20,20 @@ const storage = useExplicitKey
 
 const bucketName = 'titulino-bucket';
 
+// GoogleService.js's getGeoMapResource reads country maps from the bucket
+// root (maps/gadm41_XX_1.json), unlike every other data file which is read
+// from under the titulino-spine-data/ prefix (gcBucketName). Mirroring the
+// local folder layout literally would upload maps to
+// titulino-spine-data/maps/, a path the app never reads — so maps get
+// remapped back to bucket root here.
+const SPINE_DATA_MAPS_PREFIX = 'titulino-spine-data/maps/';
+
+function toRemoteDestination(relativePath) {
+  if (relativePath.startsWith(SPINE_DATA_MAPS_PREFIX)) {
+    return `maps/${relativePath.slice(SPINE_DATA_MAPS_PREFIX.length)}`;
+  }
+  return relativePath;
+}
 
 async function getRemoteFiles() {
   const [files] = await storage.bucket(bucketName).getFiles();
@@ -39,8 +53,10 @@ async function uploadDirectory(directory, remoteFiles) {
   const files = readdirSync(directory);
 
   for (const file of files) {
-    const filePath = join(directory, file);    
-    let destination = relative(resolve(__dirname, '../titulino-bucket'), filePath).replace(/\\/g, '/');
+    const filePath = join(directory, file);
+    let destination = toRemoteDestination(
+      relative(resolve(__dirname, '../titulino-bucket'), filePath).replace(/\\/g, '/')
+    );
 
     if (statSync(filePath).isDirectory()) {
       await uploadDirectory(filePath, remoteFiles);
