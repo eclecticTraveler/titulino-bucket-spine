@@ -1,6 +1,7 @@
 import { Storage } from '@google-cloud/storage';
 import { join, relative, resolve } from 'path';
-import { readdirSync, statSync, existsSync } from 'fs';
+import { readdirSync, statSync, existsSync, readFileSync } from 'fs';
+import { createHash } from 'crypto';
 import { fileURLToPath } from 'url';
 import { dirname } from 'path';
 
@@ -24,9 +25,14 @@ async function getRemoteFiles() {
   const [files] = await storage.bucket(bucketName).getFiles();
   const remoteFiles = {};
   files.forEach(file => {
-    remoteFiles[file.name] = new Date(file.metadata.updated).getTime();
+    // md5Hash is base64-encoded, matches getLocalMd5Base64 below.
+    remoteFiles[file.name] = file.metadata.md5Hash;
   });
   return remoteFiles;
+}
+
+function getLocalMd5Base64(filePath) {
+  return createHash('md5').update(readFileSync(filePath)).digest('base64');
 }
 
 async function uploadDirectory(directory, remoteFiles) {
@@ -39,9 +45,9 @@ async function uploadDirectory(directory, remoteFiles) {
     if (statSync(filePath).isDirectory()) {
       await uploadDirectory(filePath, remoteFiles);
     } else {
-      const localModifiedTime = statSync(filePath).mtime.getTime();
+      const localMd5 = getLocalMd5Base64(filePath);
 
-      if (!remoteFiles[destination] || localModifiedTime > remoteFiles[destination]) {
+      if (!remoteFiles[destination] || localMd5 !== remoteFiles[destination]) {
         console.log(`Uploading ${filePath} to gs://${bucketName}/${destination}...`);
         await storage.bucket(bucketName).upload(filePath, {
           destination,
