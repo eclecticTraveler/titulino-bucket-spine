@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "actions": [
+    {
+      "id": "facebook",
+      "enabled": true,
+      "type": "facebook-resolver",
+      "showUnauthenticated": true,
+      "showAuthenticated": true,
+      "defaultUrl": "https://www.facebook.com/titulinoingles",
+      "label": "Facebook"
+    },
+    {
+      "id": "contact",
+      "enabled": true,
+      "type": "contact-form",
+      "showUnauthenticated": false,
+      "showAuthenticated": true,
+      "label": "Contact"
+    },
+    {
+      "id": "custom-slot",
+      "enabled": false,
+      "type": "link",
+      "showUnauthenticated": true,
+      "showAuthenticated": true,
+      "imageUrl": "",
+      "url": "",
+      "label": ""
+    }
+  ],
+  "facebookMappings": [
+    { "targetLanguage": "en",                           "url": "https://www.facebook.com/titulinoingles" },
+    { "nativeLanguage": "pt", "targetLanguage": "es",   "url": "https://www.facebook.com/titulinoespanhol/" },
+    { "nativeLanguage": "en", "targetLanguage": "es",   "url": "https://www.facebook.com/titulinospanish/" },
+    { "targetLanguage": "es",                           "url": "https://www.facebook.com/titulinospanish/" },
+    { "targetLanguage": "pt",                           "url": "https://www.facebook.com/titulinoportugues/" }
+  ]
+}
