@@ -39,11 +39,11 @@
         }
     },    
     {
-        "courseCodeId": "SPEECHES_OF_HISTORY_JUL_2026_COURSE_01",        
+        "courseCodeId": "SPEECHES_OF_HISTORY_JUL_2026_COURSE_01",
         "emails": {
             "en": {
                 "subject": "Titulino Languages Welcomes you to this new course!",
-                "bodyUrl": "SPEECHES_OF_HISTORY_JUL_2026_COURSE_01/welcome_es.txt"
+                "bodyUrl": "SPEECHES_OF_HISTORY_JUL_2026_COURSE_01/welcome_en.txt"
             },
             "es": {
                 "subject": "Titulino Idiomas ¡Te damos la bienvenida a este nuevo curso!",
@@ -55,12 +55,38 @@
         "courseCodeId": "MEDITACIONES_DE_UNA_EXISTENCIA_LUCIDA_JUL_2026_COURSE_01",
         "emails": {
             "en": {
-                "subject": "TODO: Welcome to Meditaciones de una Existencia Lúcida!",
+                "subject": "Welcome to Meditaciones de una Existencia Lúcida!",
                 "bodyUrl": "MEDITACIONES_DE_UNA_EXISTENCIA_LUCIDA_JUL_2026_COURSE_01/welcome_en.txt"
             },
             "es": {
-                "subject": "TODO: ¡Bienvenido a Meditaciones de una Existencia Lúcida!",
+                "subject": "¡Bienvenido a Meditaciones de una Existencia Lúcida!",
                 "bodyUrl": "MEDITACIONES_DE_UNA_EXISTENCIA_LUCIDA_JUL_2026_COURSE_01/welcome_es.txt"
+            }
+        }
+    },
+    {
+        "courseCodeId": "ENGLISH_CONNECT_1_JUL_2026_COURSE_01",
+        "emails": {
+            "en": {
+                "subject": "Welcome to English Connect 1!",
+                "bodyUrl": "ENGLISH_CONNECT_1_JUL_2026_COURSE_01/welcome_en.txt"
+            },
+            "es": {
+                "subject": "¡Bienvenido al curso de English Connect 1!",
+                "bodyUrl": "ENGLISH_CONNECT_1_JUL_2026_COURSE_01/welcome_es.txt"
+            }
+        }
+    },
+    {
+        "courseCodeId": "CONVERSATION_JUL_2026_COURSE_01",
+        "emails": {
+            "en": {
+                "subject": "Welcome to the Conversation course!",
+                "bodyUrl": "CONVERSATION_JUL_2026_COURSE_01/welcome_en.txt"
+            },
+            "es": {
+                "subject": "¡Bienvenido al curso de Conversación!",
+                "bodyUrl": "CONVERSATION_JUL_2026_COURSE_01/welcome_es.txt"
             }
         }
     }

@@ -1,0 +1,23 @@
+👋 Welcome, {{association}} {{name}}!
+
+We're so happy to start this journey with you 🎉
+Thank you for joining Meditaciones de una Existencia Lúcida — this community project exists thanks to the support and donations of its participants ❤️.
+
+📅 The course starts on **Sunday, August 9, 2026**. Here are the details:
+
+1️⃣ **General Meeting** (weekly via Google Meet). Schedule:
+   - 6:00 pm 🇺🇸 (Rexburg)
+   - 7:00 pm 🇬🇹 🇸🇻 🇭🇳 🇳🇮 🇲🇽 🇨🇷
+   - 8:00 pm 🇵🇪 🇨🇴 🇪🇨 🇵🇦
+   - 9:00 pm 🇻🇪 🇧🇴 🇩🇴
+   - 10:00 pm 🇦🇷 🇧🇷 🇺🇾 🇨🇱 🇵🇾
+   - 2:00 am 🇪🇸 🇮🇹 🇫🇷
+   - 10:00 am 🇯🇵
+
+2️⃣ **WhatsApp Group** 📱: Join here → https://chat.whatsapp.com/ImBteQ4oRKPLSnkYjLvPtt
+   Introduce yourself with your name, country and, if you'd like, a little flag 🌎.
+
+❓ If you have questions, I'm here to help.
+🤗 A hug all the way to {{location}}!
+
+[NOTE: I left out the "sprint weeks"/certificates/grammar-class structure since I'm not sure this course uses it — let me know if it applies and I'll add it.]

@@ -1,0 +1,28 @@
+👋 ¡Bienvenido/a, {{association}} {{name}}!
+
+Estamos muy felices de comenzar este camino contigo 🎉
+Gracias por elegir estudiar inglés con nosotros — este proyecto comunitario existe gracias al apoyo y las donaciones de los participantes ❤️.
+
+📅 El curso inicia **jueves, 06 de agosto de 2026**. Aquí los detalles:
+
+1️⃣ **Reunión General** (semanal por Google Meet, ⏱️ 1h15m). Horarios:
+   - 4:00 pm 🇺🇸 (Rexburg)
+   - 5:00 pm 🇬🇹 🇸🇻 🇭🇳 🇳🇮 🇲🇽 🇨🇷
+   - 6:00 pm 🇵🇪 🇨🇴 🇪🇨 🇵🇦
+   - 7:00 pm 🇻🇪 🇧🇴 🇩🇴
+   - 8:00 pm 🇦🇷 🇧🇷 🇺🇾 🇨🇱 🇵🇾
+   - 12:00 am 🇪🇸 🇮🇹 🇫🇷
+   - 8:00 am 🇯🇵
+
+2️⃣ El curso dura **8 semanas** ("Sprints" 🏃). Si los completamos, tendremos **2 clases extra** 🎁.
+
+3️⃣ **Práctica de Conversación** 💬: esta reunión semanal ES el curso — grupos por nivel para practicar.
+
+4️⃣ **Certificados** 🎓:
+   - **Participación**: Asistir o ver las 8 Reuniones Generales.
+
+5️⃣ **Grupo de WhatsApp** 📱: Únete aquí → [ENLACE AL GRUPO PENDIENTE].
+   Preséntate con tu nombre, país y, si quieres, una banderita 🌎.
+
+❓ Si tienes preguntas, estoy para ayudarte.
+🤗 ¡Un abrazo hasta {{location}}!

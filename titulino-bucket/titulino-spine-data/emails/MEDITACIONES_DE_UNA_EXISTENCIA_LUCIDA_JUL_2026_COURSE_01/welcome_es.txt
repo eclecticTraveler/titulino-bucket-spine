@@ -1,0 +1,23 @@
+👋 ¡Bienvenido/a, {{association}} {{name}}!
+
+Estamos muy felices de comenzar este camino contigo 🎉
+Gracias por unirte a Meditaciones de una Existencia Lúcida — este proyecto comunitario existe gracias al apoyo y las donaciones de los participantes ❤️.
+
+📅 El curso inicia **domingo, 09 de agosto de 2026**. Aquí los detalles:
+
+1️⃣ **Reunión General** (semanal por Google Meet). Horarios:
+   - 6:00 pm 🇺🇸 (Rexburg)
+   - 7:00 pm 🇬🇹 🇸🇻 🇭🇳 🇳🇮 🇲🇽 🇨🇷
+   - 8:00 pm 🇵🇪 🇨🇴 🇪🇨 🇵🇦
+   - 9:00 pm 🇻🇪 🇧🇴 🇩🇴
+   - 10:00 pm 🇦🇷 🇧🇷 🇺🇾 🇨🇱 🇵🇾
+   - 2:00 am 🇪🇸 🇮🇹 🇫🇷
+   - 10:00 am 🇯🇵
+
+2️⃣ **Grupo de WhatsApp** 📱: Únete aquí → https://chat.whatsapp.com/ImBteQ4oRKPLSnkYjLvPtt
+   Preséntate con tu nombre, país y, si quieres, una banderita 🌎.
+
+❓ Si tienes preguntas, estoy para ayudarte.
+🤗 ¡Un abrazo hasta {{location}}!
+
+[NOTA: no incluí estructura de "sprints"/certificados/clase de gramática porque no tengo confirmado si este curso las usa — dime si aplica y lo agrego.]
