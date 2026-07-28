@@ -215,11 +215,171 @@
     "emails": {
             "en": {
                 "subject": "The exam is here! - Titulino Work & Jobs Course",
-                "body": "{{association}} {{name}}, how are you?\n\n two things really quick if you allow me!\n1.- The exam is opened and it will be available at: \n https://titulino.com/lrn/en/level-work-n-jobs/resources/test \n Its about 150 vocabulary questions. Take your time dont worry! BTW the test can be taken once, but the point is taking it so focus on overcoming fear \n 2.- Next and last bonus class is on December 15 for about 60 min, please join me! to finish the course well!.\n\n4PS: Don’t forget to update your progress and catch up to receive your certificates.\n\nI hope you are well really, if not and you feel like sharing, I am here to hear you out. A big hug all the way to {{location}}!\n\n\nBrother Arellano, 'the bishop'\n\n(If you want to find ways to support this community project, you can buy a pizza: https://buymeacoffee.com/titulino)"
+                "body": "{{association}} {{name}}, how are you?\n\n two things really quick if you allow me!\n1.- The exam is opened and it will be available at: \n https://titulino.com/lrn/en/level-work-n-jobs/resources/test \n Its about 150 vocabulary questions. Take your time dont worry! BTW the test can be taken once, but the point is taking it so focus on overcoming fear \n 2.- Next and last bonus class is on December 15 for about 60 min, please join me! to finish the course well!.\n\n4PS: Don’t forget to update your progress and catch up to receive your certificates.\n\nI hope you are well really, if not and you feel like sharing, I am here to hear you out. A big hug all the way to {{location}}!\n\n\nBrother Arellano, ‘the bishop’\n\n(If you want to find ways to support this community project, you can buy a pizza: https://buymeacoffee.com/titulino)"
             },
             "es": {
                 "subject": "el examen esta disponible - Titulino Work & Jobs Course",
-                "body": "{{association}} {{name}}, ¿cómo está?\n\n ¡Dos cosas muy rápidas si me permite!\n1.- El examen está abierto y estará disponible en: \n https://titulino.com/lrn/en/level-work-n-jobs/resources/test \n Son unas 150 preguntas de vocabulario. ¡Tómase su tiempo, no se preocupe! Por cierto, el examen se puede hacer una vez, pero el objetivo es hacerlo, así que concéntrese en superar el miedo.\n2.- La próxima y última clase extra es el 15 de diciembre con duracion de unos 60 minutos. ¡Únase a mí! ¡Para terminar bien el curso!\n\n4PD: No olvide actualizar su progreso y ponerse al día para recibir sus certificados.\n\nEspero que este bien, de verdad, si no es así y siente compartir, estoy aquí para escucharle. ¡Un fuerte abrazo hasta {{location}}!\n\n\nHermano Arellano, 'el bishop'\n\n(Si quiere encontrar maneras Para apoyar este proyecto comunitario, puede comprar una pizza: https://buymeacoffee.com/titulino)"
+                "body": "{{association}} {{name}}, ¿cómo está?\n\n ¡Dos cosas muy rápidas si me permite!\n1.- El examen está abierto y estará disponible en: \n https://titulino.com/lrn/en/level-work-n-jobs/resources/test \n Son unas 150 preguntas de vocabulario. ¡Tómase su tiempo, no se preocupe! Por cierto, el examen se puede hacer una vez, pero el objetivo es hacerlo, así que concéntrese en superar el miedo.\n2.- La próxima y última clase extra es el 15 de diciembre con duracion de unos 60 minutos. ¡Únase a mí! ¡Para terminar bien el curso!\n\n4PD: No olvide actualizar su progreso y ponerse al día para recibir sus certificados.\n\nEspero que este bien, de verdad, si no es así y siente compartir, estoy aquí para escucharle. ¡Un fuerte abrazo hasta {{location}}!\n\n\nHermano Arellano, ‘el bishop’\n\n(Si quiere encontrar maneras Para apoyar este proyecto comunitario, puede comprar una pizza: https://buymeacoffee.com/titulino)"
+            }
+        }
+    },
+    {
+        "dateToBeSent": "2026-08-02T00:00:00Z",
+        "communicationCategory": 23,
+        "courseCodeIds": [
+            "ENGLISH_CONNECT_1_JUL_2026_COURSE_01",
+            "SPEECHES_OF_HISTORY_JUL_2026_COURSE_01",
+            "CONVERSATION_JUL_2026_COURSE_01",
+            "MEDITACIONES_DE_UNA_EXISTENCIA_LUCIDA_JUL_2026_COURSE_01"
+        ],
+        "emails": {
+            "en": {
+                "subject": "How did your first class go?",
+                "body": "{{association}} {{name}}, how are you?\n\nI hope your first class went well — or if it hasn’t happened yet, I am looking forward to it with you. Whatever your life looks like right now, I am glad you are here.\n\nThis project exists because of people like you, and it comes at no cost to you because others have chosen to invest in it.\n\nOne more thing: may God take care of our minds and hearts. A big hug all the way to {{location}}, don’t give up on me and I won’t give up on you!\n\nBrother Arellano, ‘the bishop’\n\n(If you want to find ways to support this community project, you can buy a pizza: https://buymeacoffee.com/titulino)"
+            },
+            "es": {
+                "subject": "¿Cómo le fue en su primera clase?",
+                "body": "{{association}} {{name}}, ¿cómo está?\n\nEspero que su primera clase haya ido bien, o si aún no ha llegado, la espero con usted con gusto. Sea lo que sea que esté viviendo ahora, me alegra que esté aquí.\n\nEste proyecto existe por personas como usted, y le llega sin costo porque otros han decidido invertir en él.\n\nUna cosa más: que Dios cuide nuestra mente y nuestro corazón. Un fuerte abrazo hasta {{location}}, ¡no me desista que no desistiré de usted!\n\nHermano Arellano, ‘el bishop’\n\n(Si quiere encontrar maneras de apoyar este proyecto comunitario, puede comprar una pizza: https://buymeacoffee.com/titulino)"
+            }
+        }
+    },
+    {
+        "dateToBeSent": "2026-08-09T00:00:00Z",
+        "communicationCategory": 24,
+        "courseCodeIds": [
+            "ENGLISH_CONNECT_1_JUL_2026_COURSE_01",
+            "SPEECHES_OF_HISTORY_JUL_2026_COURSE_01",
+            "CONVERSATION_JUL_2026_COURSE_01",
+            "MEDITACIONES_DE_UNA_EXISTENCIA_LUCIDA_JUL_2026_COURSE_01"
+        ],
+        "emails": {
+            "en": {
+                "subject": "Two weeks in — how is it going?",
+                "body": "{{association}} {{name}}, two weeks in — how is it going?\n\nI know life gets busy. If you have missed a class, please know the door is always open. I am not keeping score. Come back whenever you can.\n\nThis course is free to you because a community decided it was worth funding — I never want you to feel like you owe attendance. You owe nothing except to yourself.\n\nA big hug to {{location}},\n\nBrother Arellano, ‘the bishop’\n\n(If you want to support this community project, you can buy a pizza: https://buymeacoffee.com/titulino)"
+            },
+            "es": {
+                "subject": "Dos semanas, ¿cómo le va?",
+                "body": "{{association}} {{name}}, ya llevamos dos semanas, ¿cómo le va?\n\nSé que la vida se pone ocupada. Si se ha perdido alguna clase, sepa que la puerta siempre está abierta. No llevo la cuenta. Vuelva cuando pueda.\n\nEste curso es gratuito para usted porque una comunidad decidió que valía la pena financiarlo. No le debe asistencia a nadie, solo a usted mismo.\n\nUn fuerte abrazo hasta {{location}},\n\nHermano Arellano, ‘el bishop’\n\n(Si quiere apoyar este proyecto comunitario, puede comprar una pizza: https://buymeacoffee.com/titulino)"
+            }
+        }
+    },
+    {
+        "dateToBeSent": "2026-08-16T00:00:00Z",
+        "communicationCategory": 25,
+        "courseCodeIds": [
+            "ENGLISH_CONNECT_1_JUL_2026_COURSE_01",
+            "SPEECHES_OF_HISTORY_JUL_2026_COURSE_01",
+            "CONVERSATION_JUL_2026_COURSE_01",
+            "MEDITACIONES_DE_UNA_EXISTENCIA_LUCIDA_JUL_2026_COURSE_01"
+        ],
+        "emails": {
+            "en": {
+                "subject": "Week 3 — it’s not too late",
+                "body": "{{association}} {{name}}, I hope this message finds you well — truly, not just as a phrase.\n\nWeek three. If you have been showing up, that is something to be proud of. If you haven’t, this is your reminder that it is not too late. Small steps forward still move you forward.\n\nThe fact that this course reaches you at no cost is something I do not take for granted — it is made possible by people who care about communities like ours.\n\nA big hug to {{location}},\n\nBrother Arellano, ‘the bishop’\n\n(You can support this project by buying a pizza: https://buymeacoffee.com/titulino)"
+            },
+            "es": {
+                "subject": "Semana 3 — no es tarde",
+                "body": "{{association}} {{name}}, espero que este mensaje le encuentre bien, de verdad, no solo como frase.\n\nSemana tres. Si ha estado presente, eso es algo de lo que puede estar orgulloso. Si no, este es su recordatorio de que no es tarde. Pasos pequeños hacia adelante siguen siendo avances.\n\nQue este curso le llegue sin costo es algo que no doy por sentado; es posible gracias a personas que se preocupan por comunidades como la nuestra.\n\nUn fuerte abrazo hasta {{location}},\n\nHermano Arellano, ‘el bishop’\n\n(Puede apoyar este proyecto comprando una pizza: https://buymeacoffee.com/titulino)"
+            }
+        }
+    },
+    {
+        "dateToBeSent": "2026-08-23T00:00:00Z",
+        "communicationCategory": 26,
+        "courseCodeIds": [
+            "ENGLISH_CONNECT_1_JUL_2026_COURSE_01",
+            "SPEECHES_OF_HISTORY_JUL_2026_COURSE_01",
+            "CONVERSATION_JUL_2026_COURSE_01",
+            "MEDITACIONES_DE_UNA_EXISTENCIA_LUCIDA_JUL_2026_COURSE_01"
+        ],
+        "emails": {
+            "en": {
+                "subject": "Halfway there",
+                "body": "{{association}} {{name}}, we are about halfway through. That is worth noting.\n\nHalfway means you started — not everyone does. I wanted to check in and say I genuinely think about how you are doing. Life outside these classes matters more than the classes themselves. I hope yours is good.\n\nThis course is a small gift from a community that believed in giving something back — thank you for receiving it.\n\nA big hug to {{location}},\n\nBrother Arellano, ‘the bishop’\n\n(If you’d like to give back too, you can buy a pizza: https://buymeacoffee.com/titulino)"
+            },
+            "es": {
+                "subject": "A mitad del camino",
+                "body": "{{association}} {{name}}, estamos más o menos a la mitad. Eso vale la pena notar.\n\nLlegar a la mitad significa que empezó, y no todos lo hacen. Quería escribirle y decirle que genuinamente pienso en cómo le va. La vida fuera de estas clases importa más que las clases mismas. Espero que la suya esté bien.\n\nEste curso es un pequeño regalo de una comunidad que creyó en devolver algo. Gracias por recibirlo.\n\nUn fuerte abrazo hasta {{location}},\n\nHermano Arellano, ‘el bishop’\n\n(Si también quisiera contribuir, puede comprar una pizza: https://buymeacoffee.com/titulino)"
+            }
+        }
+    },
+    {
+        "dateToBeSent": "2026-08-30T00:00:00Z",
+        "communicationCategory": 27,
+        "courseCodeIds": [
+            "ENGLISH_CONNECT_1_JUL_2026_COURSE_01",
+            "SPEECHES_OF_HISTORY_JUL_2026_COURSE_01",
+            "CONVERSATION_JUL_2026_COURSE_01",
+            "MEDITACIONES_DE_UNA_EXISTENCIA_LUCIDA_JUL_2026_COURSE_01"
+        ],
+        "emails": {
+            "en": {
+                "subject": "Second half — keep going",
+                "body": "{{association}} {{name}}, second half.\n\nEvery week you show up, something sticks — even if it doesn’t feel like it yet. Language learning is quiet work. The results come later, sometimes much later, when you least expect it.\n\nI am grateful you are part of this. This project runs on good faith — from those who fund it, from those who attend it. Thank you for being in both.\n\nA big hug to {{location}},\n\nBrother Arellano, ‘the bishop’\n\n(To support this community project: https://buymeacoffee.com/titulino)"
+            },
+            "es": {
+                "subject": "Segunda mitad — adelante",
+                "body": "{{association}} {{name}}, segunda mitad.\n\nCada semana que se presenta, algo queda, aunque no lo sienta todavía. El aprendizaje de idiomas es un trabajo silencioso. Los resultados llegan después, a veces mucho después, cuando menos se lo espera.\n\nLe agradezco que sea parte de esto. Este proyecto funciona gracias a la buena fe, de quienes lo financian y de quienes asisten. Gracias por estar en ambos lados.\n\nUn fuerte abrazo hasta {{location}},\n\nHermano Arellano, ‘el bishop’\n\n(Para apoyar este proyecto comunitario: https://buymeacoffee.com/titulino)"
+            }
+        }
+    },
+    {
+        "dateToBeSent": "2026-09-06T00:00:00Z",
+        "communicationCategory": 28,
+        "courseCodeIds": [
+            "ENGLISH_CONNECT_1_JUL_2026_COURSE_01",
+            "SPEECHES_OF_HISTORY_JUL_2026_COURSE_01",
+            "CONVERSATION_JUL_2026_COURSE_01",
+            "MEDITACIONES_DE_UNA_EXISTENCIA_LUCIDA_JUL_2026_COURSE_01"
+        ],
+        "emails": {
+            "en": {
+                "subject": "Week 6 — the door is still open",
+                "body": "{{association}} {{name}}, week six.\n\nIf life has gotten in the way, I understand — it always does. But I want you to know the class will be here when you come back. You have not lost your place.\n\nOne thing I ask: if you ever feel like giving up entirely, write back before you do. I would love to hear from you.\n\nThis project exists because someone believed it was worth giving away for free. I believe that too.\n\nA big hug to {{location}},\n\nBrother Arellano, ‘the bishop’\n\n(If you’d like to support it: https://buymeacoffee.com/titulino)"
+            },
+            "es": {
+                "subject": "Semana 6 — la puerta sigue abierta",
+                "body": "{{association}} {{name}}, semana seis.\n\nSi la vida se ha interpuesto, lo entiendo, siempre lo hace. Pero quiero que sepa que la clase estará aquí cuando vuelva. No ha perdido su lugar.\n\nSolo le pido una cosa: si alguna vez siente que quiere abandonar del todo, escríbame antes. Me encantaría saber de usted.\n\nEste proyecto existe porque alguien creyó que valía la pena regalarlo. Yo también lo creo.\n\nUn fuerte abrazo hasta {{location}},\n\nHermano Arellano, ‘el bishop’\n\n(Si le gustaría apoyarlo: https://buymeacoffee.com/titulino)"
+            }
+        }
+    },
+    {
+        "dateToBeSent": "2026-09-13T00:00:00Z",
+        "communicationCategory": 29,
+        "courseCodeIds": [
+            "ENGLISH_CONNECT_1_JUL_2026_COURSE_01",
+            "SPEECHES_OF_HISTORY_JUL_2026_COURSE_01",
+            "CONVERSATION_JUL_2026_COURSE_01",
+            "MEDITACIONES_DE_UNA_EXISTENCIA_LUCIDA_JUL_2026_COURSE_01"
+        ],
+        "emails": {
+            "en": {
+                "subject": "One more week after this",
+                "body": "{{association}} {{name}}, one more week after this one.\n\nWhatever happened between week one and now — missed classes, life interruptions, doubts — none of it cancels what you started. If you can make it to the last class, please do. If not, know I am grateful you came as far as you did.\n\nThis course was free to you. If it brought any value at all, consider sharing it with someone who might benefit. That is the best support you can give.\n\nA big hug to {{location}},\n\nBrother Arellano, ‘the bishop’\n\n(Or if you’d like to support the project directly: https://buymeacoffee.com/titulino)"
+            },
+            "es": {
+                "subject": "Después de esta, solo queda una",
+                "body": "{{association}} {{name}}, después de esta semana, solo queda una más.\n\nLo que haya pasado entre la semana uno y ahora — clases perdidas, interrupciones de la vida, dudas — nada de eso cancela lo que empezó. Si puede llegar a la última clase, hágalo. Si no, sepa que le agradezco haber llegado hasta donde llegó.\n\nEste curso fue gratuito para usted. Si le trajo algún valor, considere compartirlo con alguien que pueda beneficiarse. Ese es el mejor apoyo que puede dar.\n\nUn fuerte abrazo hasta {{location}},\n\nHermano Arellano, ‘el bishop’\n\n(O si gusta apoyar el proyecto directamente: https://buymeacoffee.com/titulino)"
+            }
+        }
+    },
+    {
+        "dateToBeSent": "2026-09-20T00:00:00Z",
+        "communicationCategory": 30,
+        "courseCodeIds": [
+            "ENGLISH_CONNECT_1_JUL_2026_COURSE_01",
+            "SPEECHES_OF_HISTORY_JUL_2026_COURSE_01",
+            "CONVERSATION_JUL_2026_COURSE_01",
+            "MEDITACIONES_DE_UNA_EXISTENCIA_LUCIDA_JUL_2026_COURSE_01"
+        ],
+        "emails": {
+            "en": {
+                "subject": "We made it — thank you",
+                "body": "{{association}} {{name}}, we made it to the last week.\n\nThank you — for enrolling, for reading these emails, for showing up when you could. I genuinely hope this experience gave you something, even something small.\n\nIf you have a moment, your feedback means a lot to me: https://forms.gle/AHwR9JDWW4W8FFvA9 — anonymous, 3 minutes.\n\nAnd if you know someone who could use something like this, please share it. That is how we grow.\n\nUntil next time — may God take care of our minds and hearts. A big hug all the way to {{location}},\n\nBrother Arellano, ‘the bishop’\n\n(If you’d like to support this community project: https://buymeacoffee.com/titulino)"
+            },
+            "es": {
+                "subject": "Lo logramos — gracias",
+                "body": "{{association}} {{name}}, llegamos a la última semana.\n\nGracias — por inscribirse, por leer estos correos, por presentarse cuando pudo. Genuinamente espero que esta experiencia le haya dejado algo, aunque sea pequeño.\n\nSi tiene un momento, su opinión significa mucho para mí: https://forms.gle/AHwR9JDWW4W8FFvA9 — es anónima y toma 3 minutos.\n\nY si conoce a alguien que pudiera beneficiarse de algo así, compártalo. Así es como crecemos.\n\nHasta la próxima. Que Dios cuide nuestra mente y nuestro corazón. Un fuerte abrazo hasta {{location}},\n\nHermano Arellano, ‘el bishop’\n\n(Si quiere apoyar este proyecto comunitario: https://buymeacoffee.com/titulino)"
             }
         }
     }
