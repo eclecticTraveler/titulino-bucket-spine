@@ -245,7 +245,7 @@
     },
     {
         "dateToBeSent": "2026-08-09T00:00:00Z",
-        "communicationCategory": 24,
+        "communicationCategory": 23,
         "courseCodeIds": [
             "ENGLISH_CONNECT_1_JUL_2026_COURSE_01",
             "SPEECHES_OF_HISTORY_JUL_2026_COURSE_01",
@@ -265,7 +265,7 @@
     },
     {
         "dateToBeSent": "2026-08-16T00:00:00Z",
-        "communicationCategory": 25,
+        "communicationCategory": 23,
         "courseCodeIds": [
             "ENGLISH_CONNECT_1_JUL_2026_COURSE_01",
             "SPEECHES_OF_HISTORY_JUL_2026_COURSE_01",
@@ -285,7 +285,7 @@
     },
     {
         "dateToBeSent": "2026-08-23T00:00:00Z",
-        "communicationCategory": 26,
+        "communicationCategory": 23,
         "courseCodeIds": [
             "ENGLISH_CONNECT_1_JUL_2026_COURSE_01",
             "SPEECHES_OF_HISTORY_JUL_2026_COURSE_01",
@@ -305,7 +305,7 @@
     },
     {
         "dateToBeSent": "2026-08-30T00:00:00Z",
-        "communicationCategory": 27,
+        "communicationCategory": 23,
         "courseCodeIds": [
             "ENGLISH_CONNECT_1_JUL_2026_COURSE_01",
             "SPEECHES_OF_HISTORY_JUL_2026_COURSE_01",
@@ -325,7 +325,7 @@
     },
     {
         "dateToBeSent": "2026-09-06T00:00:00Z",
-        "communicationCategory": 28,
+        "communicationCategory": 23,
         "courseCodeIds": [
             "ENGLISH_CONNECT_1_JUL_2026_COURSE_01",
             "SPEECHES_OF_HISTORY_JUL_2026_COURSE_01",
@@ -345,7 +345,7 @@
     },
     {
         "dateToBeSent": "2026-09-13T00:00:00Z",
-        "communicationCategory": 29,
+        "communicationCategory": 23,
         "courseCodeIds": [
             "ENGLISH_CONNECT_1_JUL_2026_COURSE_01",
             "SPEECHES_OF_HISTORY_JUL_2026_COURSE_01",
@@ -365,7 +365,7 @@
     },
     {
         "dateToBeSent": "2026-09-20T00:00:00Z",
-        "communicationCategory": 30,
+        "communicationCategory": 23,
         "courseCodeIds": [
             "ENGLISH_CONNECT_1_JUL_2026_COURSE_01",
             "SPEECHES_OF_HISTORY_JUL_2026_COURSE_01",
