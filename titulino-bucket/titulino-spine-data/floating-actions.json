@@ -2,6 +2,16 @@
   "version": 1,
   "actions": [
     {
+      "id": "whatsapp",
+      "enabled": true,
+      "type": "course-resolver",
+      "showUnauthenticated": true,
+      "showAuthenticated": true,
+      "defaultUrl": "https://chat.whatsapp.com/KP7t1BxxavcIQ1toT5YBtT",
+      "label": "WhatsApp",      
+      "courseMappings": []
+    },
+    {
       "id": "facebook",
       "enabled": true,
       "type": "facebook-resolver",

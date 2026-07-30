@@ -1,0 +1,93 @@
+[
+    {
+        "courseCodeId": "ENGLISHCONNECT_02_JUN_2025_COURSE_02",
+        "emails": {
+            "en": {
+                "subject": "[TEST] Le doy la bienvenida al curso de English Connect 2",
+                "bodyUrl": "ENGLISHCONNECT_02_JUN_2025_COURSE_02/welcome_es.txt"
+            },
+            "es": {
+                "subject": "[TEST] Welcome to English Connect 2",
+                "bodyUrl": "ENGLISHCONNECT_02_JUN_2025_COURSE_02/welcome_en.txt"
+            }
+        }
+    },
+    {
+        "courseCodeId": "ENGLISHCONNECT_01_JUN_2025_COURSE_02",
+        "emails": {
+            "en": {
+                "subject": "[TEST] Le doy la bienvenida al curso de English Connect 1",
+                "bodyUrl": "ENGLISHCONNECT_01_JUN_2025_COURSE_02/welcome_es.txt"
+            },
+            "es": {
+                "subject": "[TEST] Welcome to English Connect 1",
+                "bodyUrl": "ENGLISHCONNECT_01_JUN_2025_COURSE_02/welcome_en.txt"
+            }
+        }
+    },
+    {
+        "courseCodeId": "WORK_AND_JOBS_JULY_2025_COURSE_01",
+        "emails": {
+            "en": {
+                "subject": "[TEST] Titulino Languages Welcomes you to this new course!",
+                "bodyUrl": "WORK_AND_JOBS_JULY_2025_COURSE_01/welcome_es.txt"
+            },
+            "es": {
+                "subject": "[TEST] Titulino Idiomas ¡Te damos la bienvenida a este nuevo curso!",
+                "bodyUrl": "WORK_AND_JOBS_JULY_2025_COURSE_01/welcome_es.txt"
+            }
+        }
+    },
+    {
+        "courseCodeId": "SPEECHES_OF_HISTORY_JUL_2026_COURSE_01",
+        "emails": {
+            "en": {
+                "subject": "[TEST] Titulino Languages Welcomes you to this new course!",
+                "bodyUrl": "SPEECHES_OF_HISTORY_JUL_2026_COURSE_01/welcome_en.txt"
+            },
+            "es": {
+                "subject": "[TEST] Titulino Idiomas ¡Te damos la bienvenida a este nuevo curso!",
+                "bodyUrl": "SPEECHES_OF_HISTORY_JUL_2026_COURSE_01/welcome_es.txt"
+            }
+        }
+    },
+    {
+        "courseCodeId": "MEDITACIONES_DE_UNA_EXISTENCIA_LUCIDA_JUL_2026_COURSE_01",
+        "emails": {
+            "en": {
+                "subject": "[TEST] Welcome to Meditaciones de una Existencia Lúcida!",
+                "bodyUrl": "MEDITACIONES_DE_UNA_EXISTENCIA_LUCIDA_JUL_2026_COURSE_01/welcome_en.txt"
+            },
+            "es": {
+                "subject": "[TEST] ¡Bienvenido a Meditaciones de una Existencia Lúcida!",
+                "bodyUrl": "MEDITACIONES_DE_UNA_EXISTENCIA_LUCIDA_JUL_2026_COURSE_01/welcome_es.txt"
+            }
+        }
+    },
+    {
+        "courseCodeId": "ENGLISH_CONNECT_1_JUL_2026_COURSE_01",
+        "emails": {
+            "en": {
+                "subject": "[TEST] Welcome to English Connect 1!",
+                "bodyUrl": "ENGLISH_CONNECT_1_JUL_2026_COURSE_01/welcome_en.txt"
+            },
+            "es": {
+                "subject": "[TEST] ¡Bienvenido al curso de English Connect 1!",
+                "bodyUrl": "ENGLISH_CONNECT_1_JUL_2026_COURSE_01/welcome_es.txt"
+            }
+        }
+    },
+    {
+        "courseCodeId": "CONVERSATION_JUL_2026_COURSE_01",
+        "emails": {
+            "en": {
+                "subject": "[TEST] Welcome to the Conversation course!",
+                "bodyUrl": "CONVERSATION_JUL_2026_COURSE_01/welcome_en.txt"
+            },
+            "es": {
+                "subject": "[TEST] ¡Bienvenido al curso de Conversación!",
+                "bodyUrl": "CONVERSATION_JUL_2026_COURSE_01/welcome_es.txt"
+            }
+        }
+    }
+]
