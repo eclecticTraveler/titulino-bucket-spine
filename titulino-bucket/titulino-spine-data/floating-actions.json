@@ -5,9 +5,9 @@
       "id": "whatsapp",
       "enabled": true,
       "type": "course-resolver",
-      "showUnauthenticated": true,
+      "showUnauthenticated": false,
       "showAuthenticated": true,
-      "sortOrder": 0,
+      "sortOrder": 2,
       "defaultUrl": "https://chat.whatsapp.com/KP7t1BxxavcIQ1toT5YBtT",
       "label": "WhatsApp",
       "courseMappings": []
@@ -18,7 +18,7 @@
       "type": "facebook-resolver",
       "showUnauthenticated": true,
       "showAuthenticated": true,
-      "sortOrder": 1,
+      "sortOrder": 0,
       "defaultUrl": "https://www.facebook.com/titulinoingles",
       "label": "Facebook"
     },
@@ -28,7 +28,7 @@
       "type": "contact-form",
       "showUnauthenticated": false,
       "showAuthenticated": true,
-      "sortOrder": 2,
+      "sortOrder": 1,
       "label": "Contact"
     },
     {
