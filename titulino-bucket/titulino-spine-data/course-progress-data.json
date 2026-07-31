@@ -1,6 +1,5 @@
 [
   {
-    "courseId": "SUPERMARKET_SEP_2024_COURSE_01",
     "courseGeneralTheme": "supermarket",
     "baseLanguages": ["es"],
     "contentLanguageCode": "en",
@@ -366,7 +365,6 @@
     ]
   },
   {
-    "courseId": "HOUSEHOLD_ITEMS_PART_1_JAN_2025_COURSE_01",
     "courseGeneralTheme": "household",
     "baseLanguages": ["es"],
     "contentLanguageCode": "en",
@@ -732,7 +730,6 @@
     ]
   },
   {
-    "courseId": "WORK_AND_JOBS_JULY_2025_COURSE_01",
     "courseGeneralTheme": "work-n-jobs",
     "baseLanguages": ["es"],
     "contentLanguageCode": "en",
@@ -1098,7 +1095,6 @@
     ]
   },
   {
-    "courseId": "SPEECHES_OF_HISTORY_JUL_2026_COURSE_01",
     "courseGeneralTheme": "speeches",
     "baseLanguages": ["es"],
     "contentLanguageCode": "en",
@@ -1503,7 +1499,6 @@
     ]
   },
   {
-    "courseId": "MEDITACIONES_DE_UNA_EXISTENCIA_LUCIDA_JUL_2026_COURSE_01",
     "courseGeneralTheme": "meditaciones",
     "baseLanguages": ["es"],
     "contentLanguageCode": "en",
@@ -1519,6 +1514,142 @@
           { "participationTypeId": 2, "localizationKey": "nav.recorded" }
         ],
         "lessons": []
+      }
+    ]
+  },
+  {
+    "courseGeneralTheme": "english-connect-1",
+    "baseLanguages": ["es"],
+    "contentLanguageCode": "en",
+    "categories": [
+      {
+        "categoryId": 1,
+        "name": "Gatherings",
+        "categoryLocalizationKey": "nav.generalGatherings",
+        "isToDisplay": true,
+        "imageUrl": "https://images.unsplash.com/photo-1577896851231-70ef18881754?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "participationIds": [
+          { "participationTypeId": 1, "localizationKey": "nav.live" },
+          { "participationTypeId": 2, "localizationKey": "nav.recorded" }
+        ],
+        "lessons": [
+          { "classNumber": 1,  "title": "Introductory Lesson",    "description": "Course overview and first expressions.",                        "isToDisplay": true, "availableDate": "08/02/2026", "imageUrl": "", "links": { "facebook": "", "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-1/clase"  } },
+          { "classNumber": 2,  "title": "Personal Information",    "description": "Sharing your name, origin, and personal details.",                "isToDisplay": true, "availableDate": "08/09/2026", "imageUrl": "", "links": { "facebook": "", "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-3/clase"  } },
+          { "classNumber": 3,  "title": "Hobbies and Interests",   "description": "Talking about what you enjoy doing.",                             "isToDisplay": true, "availableDate": "08/16/2026", "imageUrl": "", "links": { "facebook": "", "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-5/clase"  } },
+          { "classNumber": 4,  "title": "Family",                  "description": "Describing family members and relationships.",                    "isToDisplay": true, "availableDate": "08/23/2026", "imageUrl": "", "links": { "facebook": "", "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-7/clase"  } },
+          { "classNumber": 5,  "title": "Clothing and Colors",     "description": "Names of clothing items and color vocabulary.",                  "isToDisplay": true, "availableDate": "08/30/2026", "imageUrl": "", "links": { "facebook": "", "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-9/clase"  } },
+          { "classNumber": 6,  "title": "My Activities",           "description": "Talking about activities you do regularly.",                     "isToDisplay": true, "availableDate": "09/06/2026", "imageUrl": "", "links": { "facebook": "", "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-11/clase" } },
+          { "classNumber": 7,  "title": "Weather",                 "description": "Describing weather conditions and seasons.",                     "isToDisplay": true, "availableDate": "09/13/2026", "imageUrl": "", "links": { "facebook": "", "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-13/clase" } },
+          { "classNumber": 8,  "title": "Jobs and Careers",        "description": "Common occupations and workplace vocabulary.",                   "isToDisplay": true, "availableDate": "09/20/2026", "imageUrl": "", "links": { "facebook": "", "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-15/clase" } },
+          { "classNumber": 9,  "title": "Food",                    "description": "Names of foods, meals, and dining vocabulary.",                  "isToDisplay": true, "availableDate": "09/27/2026", "imageUrl": "", "links": { "facebook": "", "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-17/clase" } },
+          { "classNumber": 10, "title": "Money",                   "description": "Currency, prices, and financial expressions.",                   "isToDisplay": true, "availableDate": "10/04/2026", "imageUrl": "", "links": { "facebook": "", "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-19/clase" } },
+          { "classNumber": 11, "title": "Home",                    "description": "Rooms, furniture, and household vocabulary.",                    "isToDisplay": true, "availableDate": "10/11/2026", "imageUrl": "", "links": { "facebook": "", "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-21/clase" } },
+          { "classNumber": 12, "title": "Health",                  "description": "Body parts, health conditions, and medical vocabulary.",         "isToDisplay": true, "availableDate": "10/18/2026", "imageUrl": "", "links": { "facebook": "", "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-23/clase" } }
+        ]
+      },
+      {
+        "categoryId": 2,
+        "name": "Recorded Classes",
+        "categoryLocalizationKey": "nav.recordedClasses",
+        "isToDisplay": true,
+        "imageUrl": "https://images.unsplash.com/photo-1619852182277-79aa23f82c8e?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "participationIds": [
+          { "participationTypeId": 2, "localizationKey": "nav.recorded" }
+        ],
+        "lessons": [
+          { "classNumber": 1,  "title": "Introductory Lesson",         "description": "Course overview and first expressions.",                          "isToDisplay": true, "availableDate": "08/05/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-1/clase"  } },
+          { "classNumber": 2,  "title": "Greetings and Introductions",  "description": "Common greetings and how to introduce yourself.",                  "isToDisplay": true, "availableDate": "08/02/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-2/clase"  } },
+          { "classNumber": 3,  "title": "Personal Information",          "description": "Sharing your name, origin, and personal details.",                  "isToDisplay": true, "availableDate": "08/12/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-3/clase"  } },
+          { "classNumber": 4,  "title": "Hobbies and Interests",         "description": "Talking about what you enjoy doing.",                               "isToDisplay": true, "availableDate": "08/09/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-4/clase"  } },
+          { "classNumber": 5,  "title": "Hobbies and Interests",         "description": "Expanding vocabulary for hobbies and free time.",                   "isToDisplay": true, "availableDate": "08/19/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-5/clase"  } },
+          { "classNumber": 6,  "title": "Family",                        "description": "Describing family members and relationships.",                      "isToDisplay": true, "availableDate": "08/16/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-6/clase"  } },
+          { "classNumber": 7,  "title": "Family",                        "description": "More vocabulary for talking about family life.",                     "isToDisplay": true, "availableDate": "08/26/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-7/clase"  } },
+          { "classNumber": 8,  "title": "Everyday Common Items",         "description": "Vocabulary for common objects used daily.",                         "isToDisplay": true, "availableDate": "08/23/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-8/clase"  } },
+          { "classNumber": 9,  "title": "Clothing and Colors",           "description": "Names of clothing items and color vocabulary.",                     "isToDisplay": true, "availableDate": "09/02/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-9/clase"  } },
+          { "classNumber": 10, "title": "Daily Routines",                "description": "Describing your everyday schedule and habits.",                     "isToDisplay": true, "availableDate": "08/30/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-10/clase" } },
+          { "classNumber": 11, "title": "My Activities",                 "description": "Talking about activities you do regularly.",                        "isToDisplay": true, "availableDate": "09/09/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-11/clase" } },
+          { "classNumber": 12, "title": "Time and Calendar",             "description": "Days, months, telling time, and dates.",                            "isToDisplay": true, "availableDate": "09/06/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-12/clase" } },
+          { "classNumber": 13, "title": "Weather",                       "description": "Describing weather conditions and seasons.",                        "isToDisplay": true, "availableDate": "09/16/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-13/clase" } },
+          { "classNumber": 14, "title": "Jobs and Careers",              "description": "Common occupations and workplace vocabulary.",                      "isToDisplay": true, "availableDate": "09/13/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-14/clase" } },
+          { "classNumber": 15, "title": "Jobs and Careers",              "description": "Expanding workplace roles and career expressions.",                 "isToDisplay": true, "availableDate": "09/23/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-15/clase" } },
+          { "classNumber": 16, "title": "Food",                          "description": "Names of foods, meals, and dining vocabulary.",                     "isToDisplay": true, "availableDate": "09/20/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-16/clase" } },
+          { "classNumber": 17, "title": "Food",                          "description": "More food vocabulary and ordering at a restaurant.",                "isToDisplay": true, "availableDate": "09/30/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-17/clase" } },
+          { "classNumber": 18, "title": "Food",                          "description": "Recipes, nutrition, and grocery shopping vocabulary.",              "isToDisplay": true, "availableDate": "09/27/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-18/clase" } },
+          { "classNumber": 19, "title": "Money",                         "description": "Currency, prices, and financial expressions.",                      "isToDisplay": true, "availableDate": "10/07/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-19/clase" } },
+          { "classNumber": 20, "title": "Home",                          "description": "Rooms, furniture, and household vocabulary.",                       "isToDisplay": true, "availableDate": "10/04/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-20/clase" } },
+          { "classNumber": 21, "title": "Home",                          "description": "Chores, appliances, and home maintenance vocabulary.",              "isToDisplay": true, "availableDate": "10/14/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-21/clase" } },
+          { "classNumber": 22, "title": "Community",                     "description": "Places and services in your community.",                            "isToDisplay": true, "availableDate": "10/11/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-22/clase" } },
+          { "classNumber": 23, "title": "Health",                        "description": "Body parts, health conditions, and medical vocabulary.",            "isToDisplay": true, "availableDate": "10/21/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-23/clase" } },
+          { "classNumber": 24, "title": "Health",                        "description": "Medical appointments, symptoms, and wellness expressions.",         "isToDisplay": true, "availableDate": "10/18/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-1/chapter-24/clase" } }
+        ]
+      }
+    ]
+  },
+  {
+    "courseGeneralTheme": "english-connect-2",
+    "baseLanguages": ["es"],
+    "contentLanguageCode": "en",
+    "categories": [
+      {
+        "categoryId": 1,
+        "name": "Gatherings",
+        "categoryLocalizationKey": "nav.generalGatherings",
+        "isToDisplay": true,
+        "imageUrl": "https://images.unsplash.com/photo-1577896851231-70ef18881754?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "participationIds": [
+          { "participationTypeId": 1, "localizationKey": "nav.live" },
+          { "participationTypeId": 2, "localizationKey": "nav.recorded" }
+        ],
+        "lessons": [
+          { "classNumber": 1,  "title": "Introductory Lesson",        "description": "Course overview and first expressions.",                        "isToDisplay": true, "availableDate": "08/02/2026", "imageUrl": "", "links": { "facebook": "", "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-1/clase"  } },
+          { "classNumber": 2,  "title": "Interests",                  "description": "Sharing your hobbies and personal interests.",                   "isToDisplay": true, "availableDate": "08/09/2026", "imageUrl": "", "links": { "facebook": "", "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-3/clase"  } },
+          { "classNumber": 3,  "title": "Family and Friends",         "description": "Vocabulary for family members and close relationships.",         "isToDisplay": true, "availableDate": "08/16/2026", "imageUrl": "", "links": { "facebook": "", "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-5/clase"  } },
+          { "classNumber": 4,  "title": "Needs",                      "description": "Communicating basic needs and requests.",                        "isToDisplay": true, "availableDate": "08/23/2026", "imageUrl": "", "links": { "facebook": "", "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-7/clase"  } },
+          { "classNumber": 5,  "title": "At Home",                    "description": "Vocabulary for rooms, furniture, and household tasks.",          "isToDisplay": true, "availableDate": "08/30/2026", "imageUrl": "", "links": { "facebook": "", "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-9/clase"  } },
+          { "classNumber": 6,  "title": "Daily and Weekly Routines",  "description": "Talking about regular activities throughout the week.",          "isToDisplay": true, "availableDate": "09/06/2026", "imageUrl": "", "links": { "facebook": "", "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-11/clase" } },
+          { "classNumber": 7,  "title": "Past Experiences",           "description": "Sharing experiences using past tense.",                          "isToDisplay": true, "availableDate": "09/13/2026", "imageUrl": "", "links": { "facebook": "", "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-13/clase" } },
+          { "classNumber": 8,  "title": "Comparison Shopping",        "description": "Comparing prices and making purchasing decisions.",               "isToDisplay": true, "availableDate": "09/20/2026", "imageUrl": "", "links": { "facebook": "", "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-15/clase" } },
+          { "classNumber": 9,  "title": "In the Community",           "description": "Places and services in the community.",                          "isToDisplay": true, "availableDate": "09/27/2026", "imageUrl": "", "links": { "facebook": "", "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-17/clase" } },
+          { "classNumber": 10, "title": "Going on Vacation",          "description": "Planning travel and talking about trips.",                       "isToDisplay": true, "availableDate": "10/04/2026", "imageUrl": "", "links": { "facebook": "", "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-19/clase" } },
+          { "classNumber": 11, "title": "Health and Injuries",        "description": "Describing injuries and getting medical help.",                  "isToDisplay": true, "availableDate": "10/11/2026", "imageUrl": "", "links": { "facebook": "", "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-21/clase" } },
+          { "classNumber": 12, "title": "Special Occasions",          "description": "Vocabulary for celebrations and special events.",                "isToDisplay": true, "availableDate": "10/18/2026", "imageUrl": "", "links": { "facebook": "", "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-23/clase" } }
+        ]
+      },
+      {
+        "categoryId": 2,
+        "name": "Recorded Classes",
+        "categoryLocalizationKey": "nav.recordedClasses",
+        "isToDisplay": true,
+        "imageUrl": "https://images.unsplash.com/photo-1619852182277-79aa23f82c8e?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "participationIds": [
+          { "participationTypeId": 2, "localizationKey": "nav.recorded" }
+        ],
+        "lessons": [
+          { "classNumber": 1,  "title": "Introductory Lesson",        "description": "Course overview and first expressions.",                          "isToDisplay": true, "availableDate": "08/05/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-1/clase"  } },
+          { "classNumber": 2,  "title": "Introductions",              "description": "Introducing yourself and others.",                                  "isToDisplay": true, "availableDate": "08/02/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-2/clase"  } },
+          { "classNumber": 3,  "title": "Interests",                  "description": "Sharing your hobbies and personal interests.",                      "isToDisplay": true, "availableDate": "08/12/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-3/clase"  } },
+          { "classNumber": 4,  "title": "Family and Friends",         "description": "Vocabulary for family members and close relationships.",            "isToDisplay": true, "availableDate": "08/09/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-4/clase"  } },
+          { "classNumber": 5,  "title": "Family and Friends",         "description": "Expanding conversations about family and friends.",                 "isToDisplay": true, "availableDate": "08/19/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-5/clase"  } },
+          { "classNumber": 6,  "title": "Feelings and Emotions",      "description": "Expressing how you feel in different situations.",                  "isToDisplay": true, "availableDate": "08/16/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-6/clase"  } },
+          { "classNumber": 7,  "title": "Needs",                      "description": "Communicating basic needs and requests.",                          "isToDisplay": true, "availableDate": "08/26/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-7/clase"  } },
+          { "classNumber": 8,  "title": "At Home",                    "description": "Vocabulary for rooms, furniture, and household tasks.",            "isToDisplay": true, "availableDate": "08/23/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-8/clase"  } },
+          { "classNumber": 9,  "title": "At Home",                    "description": "Daily activities and chores at home.",                             "isToDisplay": true, "availableDate": "09/02/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-9/clase"  } },
+          { "classNumber": 10, "title": "Daily Routines",             "description": "Describing your everyday schedule and habits.",                    "isToDisplay": true, "availableDate": "08/30/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-10/clase" } },
+          { "classNumber": 11, "title": "Daily and Weekly Routines",  "description": "Talking about regular activities throughout the week.",            "isToDisplay": true, "availableDate": "09/09/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-11/clase" } },
+          { "classNumber": 12, "title": "Past Experiences",           "description": "Sharing experiences using past tense.",                            "isToDisplay": true, "availableDate": "09/06/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-12/clase" } },
+          { "classNumber": 13, "title": "Past Experiences",           "description": "Expanding vocabulary for past events and stories.",                "isToDisplay": true, "availableDate": "09/16/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-13/clase" } },
+          { "classNumber": 14, "title": "Shopping for Food",          "description": "Vocabulary for buying groceries and food items.",                  "isToDisplay": true, "availableDate": "09/13/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-14/clase" } },
+          { "classNumber": 15, "title": "Comparison Shopping",        "description": "Comparing prices and making purchasing decisions.",                "isToDisplay": true, "availableDate": "09/23/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-15/clase" } },
+          { "classNumber": 16, "title": "In the Community",           "description": "Places and services in the community.",                           "isToDisplay": true, "availableDate": "09/20/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-16/clase" } },
+          { "classNumber": 17, "title": "In the Community",           "description": "Navigating your neighborhood and local resources.",                "isToDisplay": true, "availableDate": "09/30/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-17/clase" } },
+          { "classNumber": 18, "title": "Holidays",                   "description": "Vocabulary for holidays and cultural celebrations.",               "isToDisplay": true, "availableDate": "09/27/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-18/clase" } },
+          { "classNumber": 19, "title": "Going on Vacation",          "description": "Planning travel and talking about trips.",                        "isToDisplay": true, "availableDate": "10/07/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-19/clase" } },
+          { "classNumber": 20, "title": "Health and Sickness",        "description": "Body parts, common illnesses, and seeing a doctor.",              "isToDisplay": true, "availableDate": "10/04/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-20/clase" } },
+          { "classNumber": 21, "title": "Health and Injuries",        "description": "Describing injuries and getting medical help.",                   "isToDisplay": true, "availableDate": "10/14/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-21/clase" } },
+          { "classNumber": 22, "title": "Special Occasions",          "description": "Vocabulary for celebrations and special events.",                 "isToDisplay": true, "availableDate": "10/11/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-22/clase" } },
+          { "classNumber": 23, "title": "Special Occasions",          "description": "Planning and talking about special occasions.",                   "isToDisplay": true, "availableDate": "10/21/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-23/clase" } },
+          { "classNumber": 24, "title": "Goals and Dreams",           "description": "Expressing future plans and personal aspirations.",               "isToDisplay": true, "availableDate": "10/18/2026", "imageUrl": "", "links": { "youtube": "", "internal": "https://titulino.com/lrn/en/level-2/chapter-24/clase" } }
+        ]
       }
     ]
   }

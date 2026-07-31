@@ -10,7 +10,10 @@
       "sortOrder": 2,
       "defaultUrl": "https://chat.whatsapp.com/KP7t1BxxavcIQ1toT5YBtT",
       "label": "WhatsApp",
-      "courseMappings": []
+      "courseMappings": [
+        { "courseTheme": "english-connect-1", "url": "https://chat.whatsapp.com/GfIhOVqnTM19KloXHftWNJ" },
+        { "courseTheme": "english-connect-2", "url": "https://chat.whatsapp.com/GfIhOVqnTM19KloXHftWNJ" }
+      ]
     },
     {
       "id": "facebook",
