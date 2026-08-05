@@ -1,6 +1,24 @@
 [
   {
     "courseGeneralTheme": "supermarket",
+    "progressGroup": "dual-progress",
+    "useConfigProgress": true,
+    "progressGroupConfig": {
+      "bars": [
+        {
+          "metricKey": "participation",
+          "segments": [{ "categoryId": 1, "weight": 1 }]
+        },
+        {
+          "metricKey": "golden",
+          "segments": [
+            { "categoryId": 1, "weight": 0.4 },
+            { "categoryId": 2, "weight": 0.4, "cap": 8 },
+            { "categoryId": 4, "weight": 0.2, "binary": true }
+          ]
+        }
+      ]
+    },
     "baseLanguages": [
       "es"
     ],
@@ -383,6 +401,24 @@
   },
   {
     "courseGeneralTheme": "household",
+    "progressGroup": "dual-progress",
+    "useConfigProgress": true,
+    "progressGroupConfig": {
+      "bars": [
+        {
+          "metricKey": "participation",
+          "segments": [{ "categoryId": 1, "weight": 1 }]
+        },
+        {
+          "metricKey": "golden",
+          "segments": [
+            { "categoryId": 1, "weight": 0.4 },
+            { "categoryId": 2, "weight": 0.4, "cap": 8 },
+            { "categoryId": 4, "weight": 0.2, "binary": true }
+          ]
+        }
+      ]
+    },
     "baseLanguages": [
       "es"
     ],
@@ -765,6 +801,24 @@
   },
   {
     "courseGeneralTheme": "work-n-jobs",
+    "progressGroup": "dual-progress",
+    "useConfigProgress": true,
+    "progressGroupConfig": {
+      "bars": [
+        {
+          "metricKey": "participation",
+          "segments": [{ "categoryId": 1, "weight": 1 }]
+        },
+        {
+          "metricKey": "golden",
+          "segments": [
+            { "categoryId": 1, "weight": 0.4 },
+            { "categoryId": 2, "weight": 0.4, "cap": 8 },
+            { "categoryId": 4, "weight": 0.2, "binary": true }
+          ]
+        }
+      ]
+    },
     "baseLanguages": [
       "es"
     ],
@@ -1147,6 +1201,24 @@
   },
   {
     "courseGeneralTheme": "speeches",
+    "progressGroup": "dual-progress",
+    "useConfigProgress": true,
+    "progressGroupConfig": {
+      "bars": [
+        {
+          "metricKey": "participation",
+          "segments": [{ "categoryId": 1, "weight": 1 }]
+        },
+        {
+          "metricKey": "golden",
+          "segments": [
+            { "categoryId": 1, "weight": 0.4 },
+            { "categoryId": 2, "weight": 0.4, "cap": 8 },
+            { "categoryId": 4, "weight": 0.2, "binary": true }
+          ]
+        }
+      ]
+    },
     "baseLanguages": [
       "es"
     ],
@@ -1568,6 +1640,24 @@
   },
   {
     "courseGeneralTheme": "meditaciones",
+    "progressGroup": "dual-progress",
+    "useConfigProgress": true,
+    "progressGroupConfig": {
+      "bars": [
+        {
+          "metricKey": "participation",
+          "segments": [{ "categoryId": 1, "weight": 1 }]
+        },
+        {
+          "metricKey": "golden",
+          "segments": [
+            { "categoryId": 1, "weight": 0.4 },
+            { "categoryId": 2, "weight": 0.4, "cap": 8 },
+            { "categoryId": 4, "weight": 0.2, "binary": true }
+          ]
+        }
+      ]
+    },
     "baseLanguages": [
       "es"
     ],
@@ -1595,6 +1685,8 @@
   },
   {
     "courseGeneralTheme": "english-connect-1",
+    "progressGroup": "single-progress",
+    "useConfigProgress": true,
     "baseLanguages": [
       "es"
     ],
@@ -2082,6 +2174,8 @@
   },
   {
     "courseGeneralTheme": "english-connect-2",
+    "progressGroup": "single-progress",
+    "useConfigProgress": true,
     "baseLanguages": [
       "es"
     ],
