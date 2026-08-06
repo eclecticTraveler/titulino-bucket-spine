@@ -10,7 +10,7 @@
           "coverUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
-          "id": "q2_bio",
+          "id": "q1",
           "type": "textarea",
           "title": "Simple Present and Present Continuous",
           "label": "Tell me about yourself, your family, and what you are passionate about / Cuénteme sobre usted, su familia sobre lo que es apasionado en hacer",
@@ -18,7 +18,7 @@
           "rows": 5
         },
         {
-          "id": "q3_bio",
+          "id": "q2",
           "type": "textarea",
           "title": "Simple Past",
           "label": "Tell me about a thing you did that you felt the most proud of / Cuénteme sobre algo que hizo usted de lo cual se siente orgullo",
@@ -26,7 +26,7 @@
           "rows": 5
         },
         {
-          "id": "q4_bio",
+          "id": "q3",
           "type": "textarea",
           "title": "Future",
           "label": "Tell me about one of your biggest wishes for your future / Cuénteme sobre su mayor deseo en el futuro",
@@ -34,7 +34,7 @@
           "rows": 5
         },
         {
-          "id": "q5_bio",
+          "id": "q4",
           "type": "textarea",
           "title": "Present Perfect",
           "label": "What has God been for you? Share your feelings or thoughts with me of what is for you. / ¿Qué ha sido Dios para usted? Comparta conmigo sus sentimientos o pensamientos de lo que es para usted en su experiencia.",
@@ -42,7 +42,7 @@
           "rows": 5
         },
         {
-          "id": "q1_photo",
+          "id": "photo",
           "type": "upload",
           "title": "Picture",
           "label": "Please share a picture with me to know you better / Por favor comparta una foto conmigo para conocerle mejor",
@@ -72,7 +72,7 @@
           "coverUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
-          "id": "q2_bio",
+          "id": "q1",
           "type": "textarea",
           "title": "Simple Present and Present Continuous",
           "label": "Tell me about yourself, your family, and what you are passionate about / Cuénteme sobre usted, su familia sobre lo que es apasionado en hacer",
@@ -100,7 +100,7 @@
           "coverUrl": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?q=80&w=1740&auto=format&fit=crop"
         },
         {
-          "id": "q1_intro",
+          "id": "q1",
           "type": "textarea",
           "title": "Introducing Yourself",
           "label": "Write a short introduction about yourself. Who are you, where are you from, and what do you do? / Escribe una breve introducción sobre ti. ¿Quién eres, de dónde eres y qué haces?",
@@ -108,7 +108,7 @@
           "rows": 5
         },
         {
-          "id": "q2_topic",
+          "id": "q2",
           "type": "textarea",
           "title": "A Topic That Matters to You",
           "label": "If you had to give a 2-minute speech today, what topic would you choose and why? / Si tuvieras que dar un discurso de 2 minutos hoy, ¿qué tema elegirías y por qué?",
@@ -134,7 +134,7 @@
           "coverUrl": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?q=80&w=1740&auto=format&fit=crop"
         },
         {
-          "id": "q1_audience",
+          "id": "q1",
           "type": "textarea",
           "title": "Connecting With Others",
           "label": "Describe a time you had to explain something important to someone. How did you make sure they understood you? / Describe una vez que tuviste que explicarle algo importante a alguien. ¿Cómo te aseguraste de que te entendiera?",
@@ -142,7 +142,7 @@
           "rows": 5
         },
         {
-          "id": "q2_persuade",
+          "id": "q2",
           "type": "textarea",
           "title": "Persuasion",
           "label": "Write about something you believe in strongly enough to persuade others. Use facts, feelings, or stories to make your case. / Escribe sobre algo en lo que creas con suficiente fuerza como para persuadir a otros.",
@@ -168,7 +168,7 @@
           "coverUrl": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?q=80&w=1740&auto=format&fit=crop"
         },
         {
-          "id": "q1_story",
+          "id": "q1",
           "type": "textarea",
           "title": "Your Story",
           "label": "Tell me a real story from your life — something that changed how you see the world. / Cuéntame una historia real de tu vida — algo que cambió la forma en que ves el mundo.",
@@ -176,7 +176,7 @@
           "rows": 6
         },
         {
-          "id": "q2_lesson",
+          "id": "q2",
           "type": "textarea",
           "title": "The Lesson",
           "label": "What lesson from that story would you share in a speech to inspire others? / ¿Qué lección de esa historia compartirías en un discurso para inspirar a otros?",
@@ -202,7 +202,7 @@
           "coverUrl": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?q=80&w=1740&auto=format&fit=crop"
         },
         {
-          "id": "q1_adapt",
+          "id": "q1",
           "type": "textarea",
           "title": "Adapting Your Message",
           "label": "Have you ever had to change how you said something because of who was listening? Describe that moment. / ¿Alguna vez tuviste que cambiar cómo dijiste algo por quién estaba escuchando? Describe ese momento.",
@@ -210,7 +210,7 @@
           "rows": 5
         },
         {
-          "id": "q2_speaker",
+          "id": "q2",
           "type": "textarea",
           "title": "A Speaker You Admire",
           "label": "Think of someone — a pastor, teacher, leader, or public figure — whose way of speaking you admire. What makes them effective? / Piensa en alguien cuya forma de hablar admiras. ¿Qué los hace efectivos?",
@@ -236,7 +236,7 @@
           "coverUrl": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?q=80&w=1740&auto=format&fit=crop"
         },
         {
-          "id": "q1_vision",
+          "id": "q1",
           "type": "textarea",
           "title": "Your Vision",
           "label": "Describe where you see yourself in 5 years. Be as specific and vivid as possible — paint the picture with words. / Describe dónde te ves en 5 años. Sé lo más específico y vívido posible.",
@@ -244,7 +244,7 @@
           "rows": 6
         },
         {
-          "id": "q2_call",
+          "id": "q2",
           "type": "textarea",
           "title": "A Call to Action",
           "label": "Write the closing lines of a speech you would give to motivate someone you care about to pursue their dream. / Escribe las líneas finales de un discurso que darías para motivar a alguien que te importa a perseguir su sueño.",
@@ -270,7 +270,7 @@
           "coverUrl": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?q=80&w=1740&auto=format&fit=crop"
         },
         {
-          "id": "q1_growth",
+          "id": "q1",
           "type": "textarea",
           "title": "Your Growth",
           "label": "Looking back at this course, how has your confidence in speaking English changed? Give a specific example of progress you have made. / Mirando atrás en este curso, ¿cómo ha cambiado tu confianza al hablar inglés? Da un ejemplo específico de tu progreso.",
@@ -278,7 +278,7 @@
           "rows": 6
         },
         {
-          "id": "q2_message",
+          "id": "q2",
           "type": "textarea",
           "title": "Your Final Message",
           "label": "If you could give one speech to the world right now, what would you say? Write the opening paragraph. / Si pudieras dar un discurso al mundo ahora mismo, ¿qué dirías? Escribe el párrafo de apertura.",
@@ -286,7 +286,7 @@
           "rows": 6
         },
         {
-          "id": "q1_photo",
+          "id": "photo",
           "type": "upload",
           "title": "A Picture of You",
           "label": "Share a photo that represents who you are today. / Comparte una foto que represente quién eres hoy.",
@@ -315,7 +315,7 @@
           "coverUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
-          "id": "q1_share",
+          "id": "q1",
           "type": "textarea",
           "title": "Equilibrio y Honestidad",
           "label": "Si te sientes en confianza, comparte conmigo una situación en la que hayas buscado el equilibrio o la honestidad contigo mismo(a) — o algo que hayas aprendido sobre ti gracias a esta clase.",
@@ -341,7 +341,7 @@
           "coverUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
-          "id": "q1_share",
+          "id": "q1",
           "type": "textarea",
           "title": "Miedo",
           "label": "Si te sientes en confianza, comparte conmigo una situación en la que hayas enfrentado el miedo — o algo que hayas aprendido sobre el miedo gracias a esta clase.",
@@ -367,7 +367,7 @@
           "coverUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG290by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
-          "id": "q1_share",
+          "id": "q1",
           "type": "textarea",
           "title": "Culpa",
           "label": "Si te sientes en confianza, comparte conmigo una situación en la que hayas cargado con culpa — o algo que hayas aprendido sobre la culpa gracias a esta clase.",
@@ -393,7 +393,7 @@
           "coverUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
-          "id": "q1_share",
+          "id": "q1",
           "type": "textarea",
           "title": "Vergüenza",
           "label": "Si te sientes en confianza, comparte conmigo una situación en la que hayas sentido vergüenza — o algo que hayas aprendido sobre la vergüenza gracias a esta clase.",
@@ -419,7 +419,7 @@
           "coverUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
-          "id": "q1_share",
+          "id": "q1",
           "type": "textarea",
           "title": "Duelo",
           "label": "Si te sientes en confianza, comparte conmigo una situación de duelo o pérdida que hayas vivido — o algo que hayas aprendido sobre el duelo gracias a esta clase.",
@@ -445,7 +445,7 @@
           "coverUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
-          "id": "q1_share",
+          "id": "q1",
           "type": "textarea",
           "title": "Mentiras",
           "label": "Si te sientes en confianza, comparte conmigo una situación relacionada con una mentira, ya sea que la hayas dicho o la hayas enfrentado — o algo que hayas aprendido sobre las mentiras gracias a esta clase.",
@@ -471,7 +471,7 @@
           "coverUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
-          "id": "q1_share",
+          "id": "q1",
           "type": "textarea",
           "title": "Ilusión",
           "label": "Si te sientes en confianza, comparte conmigo una situación en la que hayas vivido una ilusión o una expectativa que no se cumplió como esperabas — o algo que hayas aprendido sobre la ilusión gracias a esta clase.",
@@ -497,7 +497,7 @@
           "coverUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
-          "id": "q1_share",
+          "id": "q1",
           "type": "textarea",
           "title": "Apegos Terrenales",
           "label": "Si te sientes en confianza, comparte conmigo una situación en la que hayas tenido que soltar un apego terrenal — una persona, una cosa o una idea — o algo que hayas aprendido sobre los apegos terrenales gracias a esta clase.",
@@ -523,7 +523,7 @@
           "coverUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
-          "id": "q1_share",
+          "id": "q1",
           "type": "textarea",
           "title": "Supervivencia, Placer y Perspicacia",
           "label": "Si te sientes en confianza, comparte conmigo una situación en la que hayas tenido que sobrevivir, buscar placer o ganar una nueva perspectiva en medio del duelo — o algo que hayas aprendido sobre esto gracias a esta clase.",
@@ -549,7 +549,7 @@
           "coverUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
-          "id": "q1_share",
+          "id": "q1",
           "type": "textarea",
           "title": "Verdad, Amor y Voluntad",
           "label": "Si te sientes en confianza, comparte conmigo una situación en la que la verdad, el amor o tu voluntad hayan sido puestos a prueba — o algo que hayas aprendido sobre esto gracias a esta clase.",
@@ -575,7 +575,7 @@
           "coverUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
-          "id": "q1_share",
+          "id": "q1",
           "type": "textarea",
           "title": "Unidad",
           "label": "Si te sientes en confianza, comparte conmigo una situación en la que hayas sentido una conexión profunda o unidad — contigo mismo(a), con otros o con algo más grande — o algo que hayas aprendido sobre la unidad gracias a este curso.",
