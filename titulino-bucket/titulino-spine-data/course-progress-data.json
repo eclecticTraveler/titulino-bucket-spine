@@ -1249,7 +1249,7 @@
             "availableDate": "07/07/2026",
             "imageUrl": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
-              "facebook": "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1565427381717592%2F&show_text=false&width=560&t=0",
+              "facebook": "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1565427381717592%2F&show_text=false",
               "youtube": "https://youtu.be/ryxrkSlKgd8",
               "internal": "https://titulino.com/lrn-auth/en/level-speeches/chapter-1/class"
             }
@@ -1665,10 +1665,10 @@
     "categories": [
       {
         "categoryId": 1,
-        "name": "TODO: Category name",
+        "name": "Reuniones Generales",
         "categoryLocalizationKey": "nav.generalGatherings",
         "isToDisplay": true,
-        "imageUrl": "TODO: https://images.unsplash.com/...",
+        "imageUrl": "https://images.unsplash.com/reserve/YEc7WB6ASDydBTw6GDlF_antalya-beach-lulu.jpg?q=80&w=1601&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "participationIds": [
           {
             "participationTypeId": 1,
@@ -1679,7 +1679,157 @@
             "localizationKey": "nav.recorded"
           }
         ],
-        "lessons": []
+        "lessons": [
+          {
+            "classNumber": 1,
+            "title": "Introduccion",
+            "description": "Entenderemos los principios donde ejerceremos reflexion y alineacion.",
+            "isToDisplay": true,
+            "availableDate": "08/16/2026",
+            "imageUrl": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1733992391085416%2F&show_text=false",
+              "youtube": "https://youtu.be/LEpuXFEDts4",
+              "internal": "https://titulino.com/lrn-auth/es/nivel-meditaciones/capitulo-1/clase"
+            }
+          }
+        ]
+      },
+      {
+        "categoryId": 2,
+        "name": "Conóceme",
+        "categoryLocalizationKey": "knowMeKey",
+        "isToDisplay": true,
+        "imageUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "participationIds": [
+          {
+            "participationTypeId": 3,
+            "localizationKey": "nav.notApplicable"
+          }
+        ],
+        "lessons": [
+          {
+            "classNumber": 1,
+            "title": "Equilibrio y Honestidad",
+            "description": "Esta semana hablamos sobre el equilibrio y la honestidad con uno mismo. Tómate un momento para reflexionar y responder con la libertad que sientas.",
+            "isToDisplay": true,
+            "availableDate": "08/16/2026",
+            "imageUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "internal": "https://titulino.com/lrn-auth/es/nivel-meditaciones/capitulo-1/conoceme"
+            }
+          },
+          {
+            "classNumber": 2,
+            "title": "Miedo",
+            "description": "Esta semana hablamos sobre el miedo. Tómate un momento para reflexionar y responder con la libertad que sientas.",
+            "isToDisplay": true,
+            "availableDate": "08/23/2026",
+            "imageUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "internal": "https://titulino.com/lrn-auth/es/nivel-meditaciones/capitulo-2/conoceme"
+            }
+          },
+          {
+            "classNumber": 3,
+            "title": "Culpa",
+            "description": "Esta semana hablamos sobre la culpa. Tómate un momento para reflexionar y responder con la libertad que sientas.",
+            "isToDisplay": true,
+            "availableDate": "08/30/2026",
+            "imageUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "internal": "https://titulino.com/lrn-auth/es/nivel-meditaciones/capitulo-3/conoceme"
+            }
+          },
+          {
+            "classNumber": 4,
+            "title": "Vergüenza",
+            "description": "Esta semana hablamos sobre la vergüenza. Tómate un momento para reflexionar y responder con la libertad que sientas.",
+            "isToDisplay": true,
+            "availableDate": "09/06/2026",
+            "imageUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "internal": "https://titulino.com/lrn-auth/es/nivel-meditaciones/capitulo-4/conoceme"
+            }
+          },
+          {
+            "classNumber": 5,
+            "title": "Duelo",
+            "description": "Esta semana hablamos sobre el duelo. Tómate un momento para reflexionar y responder con la libertad que sientas.",
+            "isToDisplay": true,
+            "availableDate": "09/13/2026",
+            "imageUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "internal": "https://titulino.com/lrn-auth/es/nivel-meditaciones/capitulo-5/conoceme"
+            }
+          },
+          {
+            "classNumber": 6,
+            "title": "Mentiras",
+            "description": "Esta semana hablamos sobre las mentiras. Tómate un momento para reflexionar y responder con la libertad que sientas.",
+            "isToDisplay": true,
+            "availableDate": "09/20/2026",
+            "imageUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "internal": "https://titulino.com/lrn-auth/es/nivel-meditaciones/capitulo-6/conoceme"
+            }
+          },
+          {
+            "classNumber": 7,
+            "title": "Ilusión",
+            "description": "Esta semana hablamos sobre la ilusión. Tómate un momento para reflexionar y responder con la libertad que sientas.",
+            "isToDisplay": true,
+            "availableDate": "09/27/2026",
+            "imageUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "internal": "https://titulino.com/lrn-auth/es/nivel-meditaciones/capitulo-7/conoceme"
+            }
+          },
+          {
+            "classNumber": 8,
+            "title": "Apegos Terrenales",
+            "description": "Esta semana hablamos sobre los apegos terrenales. Tómate un momento para reflexionar y responder con la libertad que sientas.",
+            "isToDisplay": true,
+            "availableDate": "10/04/2026",
+            "imageUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "internal": "https://titulino.com/lrn-auth/es/nivel-meditaciones/capitulo-8/conoceme"
+            }
+          },
+          {
+            "classNumber": 9,
+            "title": "Supervivencia, Placer y Perspicacia",
+            "description": "Esta semana hablamos sobre la supervivencia, el placer y la perspicacia que pueden surgir en medio del duelo. Tómate un momento para reflexionar y responder con la libertad que sientas.",
+            "isToDisplay": true,
+            "availableDate": "10/11/2026",
+            "imageUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "internal": "https://titulino.com/lrn-auth/es/nivel-meditaciones/capitulo-9/conoceme"
+            }
+          },
+          {
+            "classNumber": 10,
+            "title": "Verdad, Amor y Voluntad",
+            "description": "Esta semana hablamos sobre la verdad, el amor y la voluntad. Tómate un momento para reflexionar y responder con la libertad que sientas.",
+            "isToDisplay": true,
+            "availableDate": "10/18/2026",
+            "imageUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "internal": "https://titulino.com/lrn-auth/es/nivel-meditaciones/capitulo-10/conoceme"
+            }
+          },
+          {
+            "classNumber": 11,
+            "title": "Unidad",
+            "description": "Esta es tu última entrega de Conóceme para Meditaciones de una Existencia Lúcida. Esta semana hablamos sobre la unidad. Tómate un momento para reflexionar y responder con la libertad que sientas.",
+            "isToDisplay": true,
+            "availableDate": "10/25/2026",
+            "imageUrl": "https://images.unsplash.com/photo-1632291683263-4a0711d34efe?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "internal": "https://titulino.com/lrn-auth/es/nivel-meditaciones/capitulo-11/conoceme"
+            }
+          }
+        ]
       }
     ]
   },
@@ -1717,8 +1867,8 @@
             "availableDate": "08/02/2026",
             "imageUrl": "https://images.unsplash.com/photo-1577896851231-70ef18881754?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
-              "facebook": "",
-              "youtube": "",
+              "facebook": "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F961945186911529%2F&show_text=false",
+              "youtube": "https://youtu.be/Gn-N2MTyP2Q",
               "internal": "https://titulino.com/lrn/en/level-1/chapter-1/clase"
             }
           },
@@ -1730,8 +1880,8 @@
             "availableDate": "08/09/2026",
             "imageUrl": "https://images.unsplash.com/photo-1577896851231-70ef18881754?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
-              "facebook": "",
-              "youtube": "",
+              "facebook": "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F961945186911529%2F&show_text=false",
+              "youtube": "https://youtu.be/Gn-N2MTyP2Q",
               "internal": "https://titulino.com/lrn/en/level-1/chapter-3/clase"
             }
           },
