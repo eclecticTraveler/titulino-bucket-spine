@@ -1281,6 +1281,7 @@
         "id":13,
         "courseTitle":"titulino-3",
         "level": 3,
+        "theme": "english-connect-3",
         "resourceName": "Titulino Upper Beginner",
         "baseLanguages": ["es"],
         "contentLanguageCode": "en",
