@@ -1692,6 +1692,136 @@
               "youtube": "https://youtu.be/LEpuXFEDts4",
               "internal": "/lrn-auth/es/nivel-meditaciones/capitulo-1/clase"
             }
+          },
+          {
+            "classNumber": 2,
+            "title": "Miedo",
+            "description": "Que hemos vivido con miedo",
+            "isToDisplay": true,
+            "availableDate": "08/16/2026",
+            "imageUrl": "https://images.unsplash.com/photo-1528535661949-5dac90a11fb0?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": null,
+              "internal": "/lrn-auth/es/nivel-meditaciones/capitulo-2/clase"
+            }
+          },
+          {
+            "classNumber": 3,
+            "title": "Culpa",
+            "description": "Cuando nos sentimos asi?",
+            "isToDisplay": true,
+            "availableDate": "08/16/2026",
+            "imageUrl": "https://images.unsplash.com/photo-1528535661949-5dac90a11fb0?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": null,
+              "internal": "/lrn-auth/es/nivel-meditaciones/capitulo-3/clase"
+            }
+          },
+          {
+            "classNumber": 4,
+            "title": "Verguenza",
+            "description": "Que significa esta palabra para nosotros?",
+            "isToDisplay": true,
+            "availableDate": "08/16/2026",
+            "imageUrl": "https://images.unsplash.com/photo-1528535661949-5dac90a11fb0?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": null,
+              "internal": "/lrn-auth/es/nivel-meditaciones/capitulo-4/clase"
+            }
+          },
+          {
+            "classNumber": 5,
+            "title": "Duelo",
+            "description": "Que nos recuerda esta palabra?",
+            "isToDisplay": true,
+            "availableDate": "08/16/2026",
+            "imageUrl": "https://images.unsplash.com/photo-1528535661949-5dac90a11fb0?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": null,
+              "internal": "/lrn-auth/es/nivel-meditaciones/capitulo-5/clase"
+            }
+          },
+          {
+            "classNumber": 6,
+            "title": "Mentiras",
+            "description": "Las que nos decimos diariamente con accion y pensamiento.",
+            "isToDisplay": true,
+            "availableDate": "08/16/2026",
+            "imageUrl": "https://images.unsplash.com/photo-1528535661949-5dac90a11fb0?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": null,
+              "internal": "/lrn-auth/es/nivel-meditaciones/capitulo-6/clase"
+            }
+          },
+          {
+            "classNumber": 7,
+            "title": "Ilusiones",
+            "description": "Las que nos distraen de la verdad",
+            "isToDisplay": true,
+            "availableDate": "08/16/2026",
+            "imageUrl": "https://images.unsplash.com/photo-1528535661949-5dac90a11fb0?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": null,
+              "internal": "/lrn-auth/es/nivel-meditaciones/capitulo-7/clase"
+            }
+          },
+          {
+            "classNumber": 8,
+            "title": "Apegos",
+            "description": "Lo que nos divide nuestra atencion y energia.",
+            "isToDisplay": true,
+            "availableDate": "08/16/2026",
+            "imageUrl": "https://images.unsplash.com/photo-1528535661949-5dac90a11fb0?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": null,
+              "internal": "/lrn-auth/es/nivel-meditaciones/capitulo-8/clase"
+            }
+          },
+          {
+            "classNumber": 9,
+            "title": "Amor e Introspeccion",
+            "description": "Sera que se pueden definir?",
+            "isToDisplay": true,
+            "availableDate": "08/16/2026",
+            "imageUrl": "https://images.unsplash.com/photo-1528535661949-5dac90a11fb0?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": null,
+              "internal": "/lrn-auth/es/nivel-meditaciones/capitulo-9/clase"
+            }
+          },
+          {
+            "classNumber": 10,
+            "title": "Union",
+            "description": "Somos parte de todo!",
+            "isToDisplay": true,
+            "availableDate": "08/16/2026",
+            "imageUrl": "https://images.unsplash.com/photo-1528535661949-5dac90a11fb0?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": null,
+              "internal": "/lrn-auth/es/nivel-meditaciones/capitulo-10/clase"
+            }
+          },
+          {
+            "classNumber": 11,
+            "title": "Reflexion",
+            "description": "Gratitud.",
+            "isToDisplay": true,
+            "availableDate": "08/16/2026",
+            "imageUrl": "https://images.unsplash.com/photo-1528535661949-5dac90a11fb0?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": null,
+              "internal": "/lrn-auth/es/nivel-meditaciones/capitulo-11/clase"
+            }
           }
         ]
       },
@@ -1827,6 +1957,32 @@
             "imageUrl": "https://images.unsplash.com/photo-1567372704182-ec2ea042c937?q=80&w=1474&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "internal": "/lrn-auth/es/nivel-meditaciones/capitulo-11/conoceme"
+            }
+          }
+        ]
+      },
+      {
+        "categoryId": 4,
+        "name": "Introspección",
+        "categoryLocalizationKey": "examinationKey",
+        "isToDisplay": true,
+        "imageUrl": "https://images.unsplash.com/photo-1588406320565-9fa6d9901d1d?q=80&w=686&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "participationIds": [
+          {
+            "participationTypeId": 3,
+            "localizationKey": "nav.notApplicable"
+          }
+        ],
+        "lessons": [
+          {
+            "classNumber": 0,
+            "title": "Palabras de Reflexión",
+            "description": "Momento de reflexión donde escribimos lo que aprendimos",
+            "isToDisplay": true,
+            "imageUrl": "https://images.unsplash.com/photo-1455058683937-c45857082982?q=80&w=1606&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "availableDate": "08/20/2026",
+            "links": {
+              "internal": "/lrn/es/level-meditaciones/resources/test"
             }
           }
         ]
