@@ -8,7 +8,7 @@
     "chapters": [
       {
         "chapter":1,
-        "url":"https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ftitulinoingles%2Fvideos%2F905757593300911%2F&show_text=false&width=560&t=0"
+        "url":"https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F961945186911529%2F&show_text=false&width=560&t=0"
       },
       {
         "chapter":2,
@@ -370,6 +370,10 @@
       {
         "chapter":1,
         "url":"https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1565427381717592%2F&show_text=false&width=560&t=0"
+      },
+      {
+        "chapter":2,
+        "url":"https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1712949469957206%2F&show_text=false&width=560&t=0"
       }
     ]
   },
@@ -383,10 +387,6 @@
       {
         "chapter":1,
         "url":"https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1733992391085416%2F&show_text=false&width=560&t=0"
-      },
-      {
-        "chapter":2,
-        "url":"https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1712949469957206%2F&show_text=false&width=560&t=0"
       }
     ]
   }
