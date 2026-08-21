@@ -1,0 +1,58 @@
+{
+  "supermarket": {
+    "feedbackMode": "esl-grammar",
+    "outputLanguage": "en",
+    "grammarTopics": {
+      "q2": "Simple Present and Present Continuous",
+      "q3": "Simple Past",
+      "q4": "Future tenses (will / going to)",
+      "q5": "Present Perfect"
+    },
+    "nativeLangCriteria": {
+      "es": "Student's base language is Spanish. Watch for: false English cognates, ser/estar confusion, subjunctive overuse.",
+      "pt": "Student's base language is Portuguese. Watch for: false cognates, gerund vs infinitive confusion, article placement, -tion/-ção endings."
+    }
+  },
+  "speeches": {
+    "feedbackMode": "esl-grammar",
+    "outputLanguage": "en",
+    "grammarTopics": {},
+    "nativeLangCriteria": {
+      "es": "Student's base language is Spanish. Watch for: false English cognates, ser/estar confusion, subjunctive overuse.",
+      "pt": "Student's base language is Portuguese. Watch for: false cognates, gerund vs infinitive confusion, article placement."
+    }
+  },
+  "work-n-jobs": {
+    "feedbackMode": "esl-grammar",
+    "outputLanguage": "en",
+    "grammarTopics": {},
+    "nativeLangCriteria": {
+      "es": "Student's base language is Spanish. Watch for: false English cognates, ser/estar confusion, subjunctive overuse.",
+      "pt": "Student's base language is Portuguese. Watch for: false cognates, gerund vs infinitive confusion, article placement."
+    }
+  },
+  "meditaciones": {
+    "feedbackMode": "reflection",
+    "outputLanguage": "es",
+    "grammarTopics": {},
+    "nativeLangCriteria": {}
+  },
+  "english-connect-1": {
+    "feedbackMode": "esl-grammar",
+    "outputLanguage": "en",
+    "grammarTopics": {},
+    "nativeLangCriteria": {
+      "es": "Student's base language is Spanish. Watch for: false English cognates, ser/estar confusion, subjunctive overuse.",
+      "pt": "Student's base language is Portuguese. Watch for: false cognates, gerund vs infinitive confusion, article placement."
+    }
+  },
+  "english-connect-2": {
+    "feedbackMode": "esl-grammar",
+    "outputLanguage": "en",
+    "grammarTopics": {},
+    "nativeLangCriteria": {
+      "es": "Student's base language is Spanish. Watch for: false English cognates, ser/estar confusion, subjunctive overuse.",
+      "pt": "Student's base language is Portuguese. Watch for: false cognates, gerund vs infinitive confusion, article placement."
+    }
+  }
+}
