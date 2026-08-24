@@ -1702,7 +1702,7 @@
             "imageUrl": "https://images.unsplash.com/photo-1528535661949-5dac90a11fb0?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "facebook": null,
-              "youtube": null,
+              "youtube": "https://youtu.be/2Upa5yJGjho",
               "internal": "/lrn-auth/es/nivel-meditaciones/capitulo-2/clase"
             }
           },
@@ -2026,23 +2026,49 @@
               "facebook": "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F961945186911529%2F&show_text=false",
               "youtube": "https://youtu.be/Gn-N2MTyP2Q",
               "internal": "/lrn/en/level-1/chapter-1/clase"
-            }
+            }  
           },
           {
             "classNumber": 2,
+            "title": "Personal Information",
+            "description": "Introductions and Greetings.",
+            "isToDisplay": true,
+            "availableDate": "08/09/2026",
+            "imageUrl": "https://images.unsplash.com/photo-1577896851231-70ef18881754?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": "https://youtu.be/MPMgSqL2uww",
+              "internal": "/lrn/en/level-1/chapter-2/clase"
+            }
+          },
+          {
+            "classNumber": 3,
             "title": "Personal Information",
             "description": "Sharing your name, origin, and personal details.",
             "isToDisplay": true,
             "availableDate": "08/09/2026",
             "imageUrl": "https://images.unsplash.com/photo-1577896851231-70ef18881754?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
-              "facebook": "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F961945186911529%2F&show_text=false",
+              "facebook": null,
               "youtube": "https://youtu.be/Gn-N2MTyP2Q",
               "internal": "/lrn/en/level-1/chapter-3/clase"
             }
           },
           {
-            "classNumber": 3,
+            "classNumber": 4,
+            "title": "Personal Information",
+            "description": "Where are you from?",
+            "isToDisplay": true,
+            "availableDate": "08/09/2026",
+            "imageUrl": "https://images.unsplash.com/photo-1577896851231-70ef18881754?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": null,
+              "youtube": "https://youtu.be/Gn-N2MTyP2Q",
+              "internal": "/lrn/en/level-1/chapter-3/clase"
+            }
+          },
+          {
+            "classNumber": 5,
             "title": "Hobbies and Interests",
             "description": "Talking about what you enjoy doing.",
             "isToDisplay": true,
@@ -2055,7 +2081,7 @@
             }
           },
           {
-            "classNumber": 4,
+            "classNumber": 7,
             "title": "Family",
             "description": "Describing family members and relationships.",
             "isToDisplay": true,
@@ -2068,7 +2094,7 @@
             }
           },
           {
-            "classNumber": 5,
+            "classNumber": 9,
             "title": "Clothing and Colors",
             "description": "Names of clothing items and color vocabulary.",
             "isToDisplay": true,
@@ -2081,7 +2107,7 @@
             }
           },
           {
-            "classNumber": 6,
+            "classNumber": 11,
             "title": "My Activities",
             "description": "Talking about activities you do regularly.",
             "isToDisplay": true,
@@ -2094,7 +2120,7 @@
             }
           },
           {
-            "classNumber": 7,
+            "classNumber": 13,
             "title": "Weather",
             "description": "Describing weather conditions and seasons.",
             "isToDisplay": true,
@@ -2107,7 +2133,7 @@
             }
           },
           {
-            "classNumber": 8,
+            "classNumber": 15,
             "title": "Jobs and Careers",
             "description": "Common occupations and workplace vocabulary.",
             "isToDisplay": true,
@@ -2120,7 +2146,7 @@
             }
           },
           {
-            "classNumber": 9,
+            "classNumber": 17,
             "title": "Food",
             "description": "Names of foods, meals, and dining vocabulary.",
             "isToDisplay": true,
@@ -2133,7 +2159,7 @@
             }
           },
           {
-            "classNumber": 10,
+            "classNumber": 19,
             "title": "Money",
             "description": "Currency, prices, and financial expressions.",
             "isToDisplay": true,
@@ -2146,7 +2172,7 @@
             }
           },
           {
-            "classNumber": 11,
+            "classNumber": 21,
             "title": "Home",
             "description": "Rooms, furniture, and household vocabulary.",
             "isToDisplay": true,
@@ -2159,7 +2185,7 @@
             }
           },
           {
-            "classNumber": 12,
+            "classNumber": 23,
             "title": "Health",
             "description": "Body parts, health conditions, and medical vocabulary.",
             "isToDisplay": true,
@@ -2206,7 +2232,7 @@
             "availableDate": "08/02/2026",
             "imageUrl": "https://images.unsplash.com/photo-1619852182277-79aa23f82c8e?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
-              "youtube": "",
+              "youtube": "https://youtu.be/MPMgSqL2uww",
               "internal": "/lrn/en/level-1/chapter-2/clase"
             }
           },
