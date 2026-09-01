@@ -1275,7 +1275,7 @@
             "availableDate": "07/21/2026",
             "imageUrl": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
-              "facebook": null,
+              "facebook": "https://www.facebook.com/share/v/1F3ZJu4muf/",
               "youtube": "https://youtu.be/C5htUCMTnlc",
               "internal": "/lrn-auth/en/level-speeches/chapter-3/class"
             }
