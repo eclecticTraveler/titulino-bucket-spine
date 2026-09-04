@@ -26,5 +26,7 @@ Thank you for choosing to study English with us — this community project exist
 6️⃣ **WhatsApp Group** 📱: Join here → https://chat.whatsapp.com/G1Esgju6Jxh4KlKTRiGj3z
    Please introduce yourself with your name, country, and maybe a flag emoji 🌎.  
 
+📊 **Your progress**: Access your course progress here → {{magicLink}}
+
 ❓ If you have any questions, I’m here to help.  
 🤗 Sending hugs all the way to {{location}}!

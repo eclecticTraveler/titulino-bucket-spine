@@ -24,5 +24,7 @@ Gracias por elegir estudiar inglés con nosotros — este proyecto comunitario e
 5️⃣ **Grupo de WhatsApp** 📱: Únete aquí → https://chat.whatsapp.com/G1Esgju6Jxh4KlKTRiGj3z
    Preséntate con tu nombre, país y, si quieres, una banderita 🌎.
 
+📊 **Tu progreso**: Accede a tu avance en el curso aquí → {{magicLink}}
+
 ❓ Si tienes preguntas, estoy para ayudarte.
 🤗 ¡Un abrazo hasta {{location}}!
