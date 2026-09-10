@@ -1,0 +1,284 @@
+{
+  "schemaVersion": "1.0",
+  "languagePair": "pt-from-es",
+  "nativeLanguage": "es",
+  "targetLanguage": "pt",
+  "startBand": "A2",
+  "bandOrder": ["A1", "A2", "B1", "B2", "C1", "C2"],
+  "bands": {
+
+    "A1": {
+      "label": "Principiante",
+      "passMark": 2,
+      "writingPrompt": null,
+      "questions": [
+        {
+          "id": "pt-a1-001",
+          "type": "mcq",
+          "prompt": "Elige 'ser' para una característica permanente:\n\"Ela ___ professora.\"",
+          "options": ["é", "está", "são", "estão"],
+          "correct": "é"
+        },
+        {
+          "id": "pt-a1-002",
+          "type": "mcq",
+          "prompt": "Elige el artículo definido masculino correcto:\n\"___ livro está na mesa.\"",
+          "options": ["O", "A", "Os", "As"],
+          "correct": "O"
+        },
+        {
+          "id": "pt-a1-003",
+          "type": "mcq",
+          "prompt": "Elige la forma correcta del presente para 'eu' (yo):\n\"Eu ___ café de manhã.\"",
+          "options": ["bebo", "bebe", "bebemos", "bebem"],
+          "correct": "bebo"
+        },
+        {
+          "id": "pt-a1-004",
+          "type": "mcq",
+          "prompt": "¿Cuál es el plural correcto de 'país'?",
+          "options": ["países", "paiss", "paies", "paises"],
+          "correct": "países"
+        },
+        {
+          "id": "pt-a1-005",
+          "type": "mcq",
+          "prompt": "¿Cuál de estas oraciones es correcta?",
+          "options": [
+            "Eu não falo inglês.",
+            "Eu falo não inglês.",
+            "Não eu falo inglês.",
+            "Eu não falar inglês."
+          ],
+          "correct": "Eu não falo inglês."
+        }
+      ]
+    },
+
+    "A2": {
+      "label": "Básico",
+      "passMark": 2,
+      "writingPrompt": null,
+      "questions": [
+        {
+          "id": "pt-a2-001",
+          "type": "mcq",
+          "prompt": "Elige el pretérito perfecto correcto:\n\"Ontem ela ___ ao mercado.\"",
+          "options": ["foi", "vai", "ia", "iria"],
+          "correct": "foi"
+        },
+        {
+          "id": "pt-a2-002",
+          "type": "mcq",
+          "prompt": "Elige 'estar' para un estado temporal:\n\"O café ___ frio.\"",
+          "options": ["está", "é", "ser", "estar"],
+          "correct": "está"
+        },
+        {
+          "id": "pt-a2-003",
+          "type": "mcq",
+          "prompt": "Elige la forma correcta del verbo reflexivo:\n\"Ela ___ às sete horas todos os dias.\"",
+          "options": ["se levanta", "levanta", "se levantam", "levantam-se"],
+          "correct": "se levanta"
+        },
+        {
+          "id": "pt-a2-004",
+          "type": "mcq",
+          "prompt": "Elige la contracción correcta (em + o):\n\"Eu moro ___ Brasil.\"",
+          "options": ["no", "em o", "ao", "pelo"],
+          "correct": "no"
+        },
+        {
+          "id": "pt-a2-005",
+          "type": "mcq",
+          "prompt": "¿Cuál de estas oraciones es correcta?",
+          "options": [
+            "Ela não foi ao trabalho ontem.",
+            "Ela foi ao trabalho não ontem.",
+            "Ela não fosse ao trabalho ontem.",
+            "Ela não ir ao trabalho ontem."
+          ],
+          "correct": "Ela não foi ao trabalho ontem."
+        }
+      ]
+    },
+
+    "B1": {
+      "label": "Intermedio",
+      "passMark": 2,
+      "writingPrompt": "Escribe 3 o 4 oraciones en portugués describiendo lo que sueles hacer durante tus vacaciones.",
+      "questions": [
+        {
+          "id": "pt-b1-001",
+          "type": "mcq",
+          "prompt": "Elige el tiempo correcto para una acción repetida en el pasado:\n\"Quando era criança, ___ no parque todos os dias.\"",
+          "options": ["brincava", "brinquei", "brincarei", "brincaria"],
+          "correct": "brincava"
+        },
+        {
+          "id": "pt-b1-002",
+          "type": "mcq",
+          "prompt": "Elige el presente del subjuntivo:\n\"Espero que ela ___ amanhã.\"",
+          "options": ["venha", "vem", "veio", "virá"],
+          "correct": "venha"
+        },
+        {
+          "id": "pt-b1-003",
+          "type": "mcq",
+          "prompt": "Elige la preposición correcta para expresar finalidad:\n\"Estudo inglês ___ melhorar meu trabalho.\"",
+          "options": ["para", "por", "a", "de"],
+          "correct": "para"
+        },
+        {
+          "id": "pt-b1-004",
+          "type": "mcq",
+          "prompt": "Elige el pronombre relativo correcto:\n\"O filme ___ vi ontem foi incrível.\"",
+          "options": ["que", "quem", "qual", "onde"],
+          "correct": "que"
+        },
+        {
+          "id": "pt-b1-005",
+          "type": "mcq",
+          "prompt": "Elige la forma del primer condicional:\n\"Se tiver tempo, ___ contigo ao cinema.\"",
+          "options": ["irei", "iria", "vou", "fosse"],
+          "correct": "irei"
+        }
+      ]
+    },
+
+    "B2": {
+      "label": "Intermedio-Alto",
+      "passMark": 2,
+      "writingPrompt": "En 4 o 5 oraciones en portugués, describe un momento en que tuviste que tomar una decisión difícil.",
+      "questions": [
+        {
+          "id": "pt-b2-001",
+          "type": "mcq",
+          "prompt": "Elige el imperfecto del subjuntivo para una situación hipotética en el presente:\n\"Se eu ___ mais dinheiro, viajaria pelo mundo.\"",
+          "options": ["tivesse", "tenho", "tenha", "teria"],
+          "correct": "tivesse"
+        },
+        {
+          "id": "pt-b2-002",
+          "type": "mcq",
+          "prompt": "Elige el futuro perfecto correcto:\n\"Quando você chegar, eu já ___ o jantar.\"",
+          "options": ["terei feito", "terei fazer", "farei", "faria"],
+          "correct": "terei feito"
+        },
+        {
+          "id": "pt-b2-003",
+          "type": "mcq",
+          "prompt": "Elige la voz pasiva correcta:\n\"Muitos livros ___ nesta loja.\"",
+          "options": ["são vendidos", "se vende", "vendem", "é vendido"],
+          "correct": "são vendidos"
+        },
+        {
+          "id": "pt-b2-004",
+          "type": "mcq",
+          "prompt": "Elige el condicional correcto:\n\"Se eu fosse você, ___ mais cuidado.\"",
+          "options": ["teria", "tivesse", "tenha", "tinha"],
+          "correct": "teria"
+        },
+        {
+          "id": "pt-b2-005",
+          "type": "mcq",
+          "prompt": "Elige la palabra más precisa para 'abordar' un tema en escritura formal:\n\"O relatório ___ os principais desafios do setor.\"",
+          "options": ["aborda", "fala", "trata", "discute"],
+          "correct": "aborda"
+        }
+      ]
+    },
+
+    "C1": {
+      "label": "Avanzado",
+      "passMark": 2,
+      "writingPrompt": "En 5 o 6 oraciones en portugués, explica las ventajas y desventajas del trabajo a distancia.",
+      "questions": [
+        {
+          "id": "pt-c1-001",
+          "type": "mcq",
+          "prompt": "Elige el pluscuamperfecto del subjuntivo en un condicional imposible:\n\"Se eu tivesse estudado mais, ___ aprovado no exame.\"",
+          "options": ["teria sido", "seria", "fosse", "tivesse sido"],
+          "correct": "teria sido"
+        },
+        {
+          "id": "pt-c1-002",
+          "type": "mcq",
+          "prompt": "Elige el subjuntivo correcto después de 'embora' (aunque):\n\"Embora ___ muito, não conseguiu terminar o projeto.\"",
+          "options": ["trabalhasse", "trabalhou", "trabalha", "trabalharia"],
+          "correct": "trabalhasse"
+        },
+        {
+          "id": "pt-c1-003",
+          "type": "mcq",
+          "prompt": "Elige la expresión formal que significa 'optar por/decidirse a':\n\"A empresa ___ contratar novos funcionários.\"",
+          "options": ["optou por", "decidiu", "escolheu", "preferiu"],
+          "correct": "optou por"
+        },
+        {
+          "id": "pt-c1-004",
+          "type": "mcq",
+          "prompt": "Elige el condicional invertido formal SIN 'se':\n\"___ isso antes, tudo teria sido diferente.\"",
+          "options": ["Tivesse sabido", "Se tivesse sabido", "Sabia", "Teria sabido"],
+          "correct": "Tivesse sabido"
+        },
+        {
+          "id": "pt-c1-005",
+          "type": "mcq",
+          "prompt": "Elige el pronombre relativo formal para una oración relativa explicativa:\n\"O relatório, ___ foi publicado ontem, gerou muita controvérsia.\"",
+          "options": ["o qual", "que", "quem", "o que"],
+          "correct": "o qual"
+        }
+      ]
+    },
+
+    "C2": {
+      "label": "Maestría",
+      "passMark": 2,
+      "writingPrompt": "En 6 o más oraciones en portugués, argumenta a favor o en contra de lo siguiente: 'La inteligencia artificial reemplazará eventualmente a los maestros humanos.'",
+      "questions": [
+        {
+          "id": "pt-c2-001",
+          "type": "mcq",
+          "prompt": "Elige el subjuntivo correcto en una cláusula de certeza negada:\n\"Não é certo que eles ___ a tempo.\"",
+          "options": ["cheguem", "chegam", "chegarão", "chegaram"],
+          "correct": "cheguem"
+        },
+        {
+          "id": "pt-c2-002",
+          "type": "mcq",
+          "prompt": "Elige el condicional invertido formal correcto:\n\"___ isso antes, tudo teria sido diferente.\"",
+          "options": ["Tivéssemos sabido", "Se tivéssemos sabido", "Sabíamos", "Teríamos sabido"],
+          "correct": "Tivéssemos sabido"
+        },
+        {
+          "id": "pt-c2-003",
+          "type": "mcq",
+          "prompt": "¿Qué palabra describe una afirmación aparentemente contradictoria que contiene una verdad más profunda?\n\"Sua afirmação é um ___: quanto mais ela explica, menos entendemos.\"",
+          "options": ["paradoxo", "contradição", "confusão", "enigma"],
+          "correct": "paradoxo"
+        },
+        {
+          "id": "pt-c2-004",
+          "type": "mcq",
+          "prompt": "Elige el verbo más preciso académicamente:\n\"Os dados ___ uma forte correlação entre as variáveis.\"",
+          "options": ["evidenciam", "mostram", "indicam", "revelam"],
+          "correct": "evidenciam"
+        },
+        {
+          "id": "pt-c2-005",
+          "type": "mcq",
+          "prompt": "¿Cuál opción concede correctamente un punto antes de refutarlo en escritura académica formal?",
+          "options": [
+            "É verdade que o argumento tem méritos; no entanto, as evidências apontam em direção contrária.",
+            "Claramente este argumento está errado porque os dados mostram o oposto.",
+            "Ok, talvez haja um ponto aí, mas na verdade...",
+            "Acho que poderia fazer sentido, embora ninguém realmente pense nisso."
+          ],
+          "correct": "É verdade que o argumento tem méritos; no entanto, as evidências apontam em direção contrária."
+        }
+      ]
+    }
+
+  }
+}

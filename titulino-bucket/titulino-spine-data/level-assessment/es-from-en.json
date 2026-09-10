@@ -1,0 +1,279 @@
+{
+  "schemaVersion": "1.0",
+  "languagePair": "es-from-en",
+  "nativeLanguage": "en",
+  "targetLanguage": "es",
+  "startBand": "A2",
+  "bandOrder": ["A1", "A2", "B1", "B2", "C1", "C2"],
+  "bands": {
+
+    "A1": {
+      "label": "Beginner",
+      "passMark": 2,
+      "writingPrompt": null,
+      "questions": [
+        {
+          "id": "es-a1-001",
+          "type": "mcq",
+          "prompt": "Choose 'ser' (for permanent characteristics):\n\"Ella ___ médica.\"",
+          "options": ["es", "está", "son", "están"],
+          "correct": "es"
+        },
+        {
+          "id": "es-a1-002",
+          "type": "mcq",
+          "prompt": "Choose the correct feminine definite article:\n\"___ niña juega en el parque.\"",
+          "options": ["La", "El", "Los", "Las"],
+          "correct": "La"
+        },
+        {
+          "id": "es-a1-003",
+          "type": "mcq",
+          "prompt": "Choose the correct subject pronoun for 'we':\n\"___ somos amigos.\"",
+          "options": ["Nosotros", "Vosotros", "Ellos", "Ustedes"],
+          "correct": "Nosotros"
+        },
+        {
+          "id": "es-a1-004",
+          "type": "mcq",
+          "prompt": "What is the correct plural of 'ciudad' (city)?",
+          "options": ["ciudades", "ciudads", "cuidades", "ciudas"],
+          "correct": "ciudades"
+        },
+        {
+          "id": "es-a1-005",
+          "type": "mcq",
+          "prompt": "Choose the correct present tense form:\n\"Yo ___ en Madrid.\"",
+          "options": ["vivo", "vives", "vive", "vivimos"],
+          "correct": "vivo"
+        }
+      ]
+    },
+
+    "A2": {
+      "label": "Basic",
+      "passMark": 2,
+      "writingPrompt": null,
+      "questions": [
+        {
+          "id": "es-a2-001",
+          "type": "mcq",
+          "prompt": "Choose the correct simple past (pretérito indefinido):\n\"Ayer ella ___ al mercado.\"",
+          "options": ["fue", "va", "iba", "iría"],
+          "correct": "fue"
+        },
+        {
+          "id": "es-a2-002",
+          "type": "mcq",
+          "prompt": "Choose 'estar' for a temporary state:\n\"El café ___ frío.\"",
+          "options": ["está", "es", "ser", "estar"],
+          "correct": "está"
+        },
+        {
+          "id": "es-a2-003",
+          "type": "mcq",
+          "prompt": "Choose the correct reflexive verb form:\n\"Ella ___ a las siete cada mañana.\"",
+          "options": ["se levanta", "levanta", "se levantan", "levantamos"],
+          "correct": "se levanta"
+        },
+        {
+          "id": "es-a2-004",
+          "type": "mcq",
+          "prompt": "Choose the correct preposition of direction:\n\"Voy ___ la tienda.\"",
+          "options": ["a", "en", "de", "para"],
+          "correct": "a"
+        },
+        {
+          "id": "es-a2-005",
+          "type": "mcq",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            "No fui al trabajo ayer.",
+            "Fui no al trabajo ayer.",
+            "No al trabajo fui ayer.",
+            "Ayer no fue al trabajo yo."
+          ],
+          "correct": "No fui al trabajo ayer."
+        }
+      ]
+    },
+
+    "B1": {
+      "label": "Intermediate",
+      "passMark": 2,
+      "writingPrompt": "Write 3 or 4 sentences in Spanish describing what you usually do on weekends.",
+      "questions": [
+        {
+          "id": "es-b1-001",
+          "type": "mcq",
+          "prompt": "Choose the present subjunctive for a wish or hope:\n\"Espero que ella ___ mañana.\"",
+          "options": ["venga", "viene", "vino", "vendrá"],
+          "correct": "venga"
+        },
+        {
+          "id": "es-b1-002",
+          "type": "mcq",
+          "prompt": "Choose the correct past tense for a repeated action in the past:\n\"Cuando era niño, ___ en el parque todos los días.\"",
+          "options": ["jugaba", "jugué", "jugaré", "jugaría"],
+          "correct": "jugaba"
+        },
+        {
+          "id": "es-b1-003",
+          "type": "mcq",
+          "prompt": "Choose the correct preposition to express purpose:\n\"Estudio inglés ___ mejorar mi trabajo.\"",
+          "options": ["para", "por", "a", "de"],
+          "correct": "para"
+        },
+        {
+          "id": "es-b1-004",
+          "type": "mcq",
+          "prompt": "Choose the correct relative pronoun:\n\"La película ___ vi ayer fue muy emocionante.\"",
+          "options": ["que", "quien", "cual", "donde"],
+          "correct": "que"
+        },
+        {
+          "id": "es-b1-005",
+          "type": "mcq",
+          "prompt": "Choose the first conditional form:\n\"Si tengo tiempo, ___ contigo al cine.\"",
+          "options": ["iré", "iría", "voy", "fuera"],
+          "correct": "iré"
+        }
+      ]
+    },
+
+    "B2": {
+      "label": "Upper-Intermediate",
+      "passMark": 2,
+      "writingPrompt": "In 4 or 5 sentences in Spanish, describe a time when you had to make a difficult decision and what you learned from it.",
+      "questions": [
+        {
+          "id": "es-b2-001",
+          "type": "mcq",
+          "prompt": "Choose the imperfect subjunctive for a hypothetical present situation:\n\"Si yo ___ más dinero, viajaría por el mundo.\"",
+          "options": ["tuviera", "tengo", "tenga", "tendría"],
+          "correct": "tuviera"
+        },
+        {
+          "id": "es-b2-002",
+          "type": "mcq",
+          "prompt": "Choose the correct impersonal passive with 'se':\n\"___ muchos libros en esta tienda.\"",
+          "options": ["Se venden", "Se vende", "Son vendidos", "Está vendido"],
+          "correct": "Se venden"
+        },
+        {
+          "id": "es-b2-003",
+          "type": "mcq",
+          "prompt": "Choose the correct conditional:\n\"Si pudiera, ___ más tiempo con mi familia.\"",
+          "options": ["pasaría", "pasara", "pase", "pasé"],
+          "correct": "pasaría"
+        },
+        {
+          "id": "es-b2-004",
+          "type": "mcq",
+          "prompt": "Choose the most formal relative pronoun for a non-restrictive clause:\n\"El informe, ___ fue publicado ayer, generó controversia.\"",
+          "options": ["el cual", "que", "quien", "lo que"],
+          "correct": "el cual"
+        },
+        {
+          "id": "es-b2-005",
+          "type": "mcq",
+          "prompt": "Choose the most precise word meaning 'forceful and impossible to argue against':\n\"Su argumento fue tan ___ que nadie pudo rebatirlo.\"",
+          "options": ["contundente", "fuerte", "duro", "firme"],
+          "correct": "contundente"
+        }
+      ]
+    },
+
+    "C1": {
+      "label": "Advanced",
+      "passMark": 2,
+      "writingPrompt": "In 5 or 6 sentences in Spanish, explain the advantages and disadvantages of living in a large city compared to a small town.",
+      "questions": [
+        {
+          "id": "es-c1-001",
+          "type": "mcq",
+          "prompt": "Choose the correct pluperfect subjunctive for an impossible past condition:\n\"Si hubiera sabido la verdad, no ___ tan confiado.\"",
+          "options": ["habría sido", "sería", "fuera", "sea"],
+          "correct": "habría sido"
+        },
+        {
+          "id": "es-c1-002",
+          "type": "mcq",
+          "prompt": "Choose the correct subjunctive after 'aunque' for a hypothetical scenario:\n\"Aunque ___ mucho dinero, no cambiaría mis valores.\"",
+          "options": ["tuviera", "tengo", "tenga", "tendría"],
+          "correct": "tuviera"
+        },
+        {
+          "id": "es-c1-003",
+          "type": "mcq",
+          "prompt": "Choose the most formal academic verb meaning 'to address/tackle':\n\"En este informe se ___ los principales desafíos del sector.\"",
+          "options": ["abordan", "hablan", "tratan", "discuten"],
+          "correct": "abordan"
+        },
+        {
+          "id": "es-c1-004",
+          "type": "mcq",
+          "prompt": "Choose the formal inverted conditional structure WITHOUT 'si':\n\"___ la verdad, todo habría sido diferente.\"",
+          "options": ["De haber sabido", "Si hubiera sabido", "Hubiera sabido", "Habría sabido"],
+          "correct": "De haber sabido"
+        },
+        {
+          "id": "es-c1-005",
+          "type": "mcq",
+          "prompt": "Choose the correct emphatic inversion:\n\"No sólo ___ tarde, sino que también olvidó los documentos.\"",
+          "options": ["llegó", "llegó ella", "ella llegó", "llegara"],
+          "correct": "llegó"
+        }
+      ]
+    },
+
+    "C2": {
+      "label": "Mastery",
+      "passMark": 2,
+      "writingPrompt": "In 6 or more sentences in Spanish, argue for or against the following: 'Social media has done more harm than good to modern society.'",
+      "questions": [
+        {
+          "id": "es-c2-001",
+          "type": "mcq",
+          "prompt": "Choose the correct subjunctive in a negated belief clause:\n\"No creo que eso ___ completamente cierto.\"",
+          "options": ["sea", "es", "fue", "era"],
+          "correct": "sea"
+        },
+        {
+          "id": "es-c2-002",
+          "type": "mcq",
+          "prompt": "Choose the correct pluperfect subjunctive for an impossible past condition:\n\"Si lo ___ antes, todo habría sido diferente.\"",
+          "options": ["hubiera sabido", "habría sabido", "supiera", "sepa"],
+          "correct": "hubiera sabido"
+        },
+        {
+          "id": "es-c2-003",
+          "type": "mcq",
+          "prompt": "Choose the specific formal verb that means 'to raise or pose' a question or problem in an academic context:\n\"El filósofo ___ una pregunta que nadie había considerado antes.\"",
+          "options": ["planteó", "preguntó", "propuso", "sugirió"],
+          "correct": "planteó"
+        },
+        {
+          "id": "es-c2-004",
+          "type": "mcq",
+          "prompt": "Which option correctly concedes a point before refuting it in formal academic writing?",
+          "options": [
+            "Cabe reconocer los méritos de este argumento; no obstante, la evidencia apunta en sentido contrario.",
+            "Claramente este argumento está equivocado porque los datos lo demuestran.",
+            "Sí, pero en realidad eso no es correcto.",
+            "Supongo que podría tener razón, aunque nadie realmente lo piensa."
+          ],
+          "correct": "Cabe reconocer los méritos de este argumento; no obstante, la evidencia apunta en sentido contrario."
+        },
+        {
+          "id": "es-c2-005",
+          "type": "mcq",
+          "prompt": "Choose the word that describes a statement that appears self-contradictory but contains a deeper truth:\n\"Su afirmación es una ___: cuanto más explica, menos se entiende.\"",
+          "options": ["paradoja", "contradicción", "confusión", "enigma"],
+          "correct": "paradoja"
+        }
+      ]
+    }
+
+  }
+}

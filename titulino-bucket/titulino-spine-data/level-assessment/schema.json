@@ -1,0 +1,84 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "titulino-level-assessment-bank-v1.0",
+  "title": "Titulino Language Level Assessment Question Bank",
+  "description": "Schema for adaptive CEFR question banks. Each file covers one language pair (targetLanguage-from-nativeLanguage). UI instructions use nativeLanguage; all question content and options are in targetLanguage.",
+  "type": "object",
+  "required": ["schemaVersion", "languagePair", "nativeLanguage", "targetLanguage", "startBand", "bandOrder", "bands"],
+  "properties": {
+    "schemaVersion": { "type": "string" },
+    "languagePair": {
+      "type": "string",
+      "description": "Filename key: targetLanguage-from-nativeLanguage, e.g. en-from-es"
+    },
+    "nativeLanguage": { "type": "string", "enum": ["es", "en", "pt"] },
+    "targetLanguage": { "type": "string", "enum": ["es", "en", "pt"] },
+    "startBand": {
+      "type": "string",
+      "description": "Band where the test begins for a user with no prior enrollment level. Usually A2."
+    },
+    "bandOrder": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Ordered list of band keys from easiest to hardest"
+    },
+    "bands": {
+      "type": "object",
+      "description": "One key per CEFR band",
+      "additionalProperties": {
+        "type": "object",
+        "required": ["label", "passMark", "writingPrompt", "questions"],
+        "properties": {
+          "label": {
+            "type": "string",
+            "description": "Human-readable level name in nativeLanguage"
+          },
+          "passMark": {
+            "type": "integer",
+            "minimum": 1,
+            "description": "Number of correct answers out of 2 needed to advance to next band"
+          },
+          "writingPrompt": {
+            "type": ["string", "null"],
+            "description": "Prompt shown to authenticated users after MCQ branching completes at this band. Null for A1/A2. Written in nativeLanguage."
+          },
+          "questions": {
+            "type": "array",
+            "minItems": 4,
+            "description": "Pool of questions for this band. 2 are selected randomly per test run.",
+            "items": {
+              "type": "object",
+              "required": ["id", "type", "prompt", "correct"],
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "description": "Unique stable ID: targetLang-band-NNN, e.g. en-b1-003"
+                },
+                "type": {
+                  "type": "string",
+                  "enum": ["mcq", "fill"],
+                  "description": "mcq: multiple choice with options[]. fill: single-word blank."
+                },
+                "prompt": {
+                  "type": "string",
+                  "description": "Question text. Meta-instruction in nativeLanguage; content being tested in targetLanguage."
+                },
+                "options": {
+                  "type": "array",
+                  "items": { "type": "string" },
+                  "minItems": 3,
+                  "maxItems": 4,
+                  "description": "Required for type=mcq. Answer choices in targetLanguage."
+                },
+                "correct": {
+                  "type": "string",
+                  "description": "The correct answer. Must exactly match one of options[] for mcq type."
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "schemaVersion": "1.0",
+  "languagePair": "en-from-es",
+  "nativeLanguage": "es",
+  "targetLanguage": "en",
+  "startBand": "A2",
+  "bandOrder": ["A1", "A2", "B1", "B2", "C1", "C2"],
+  "bands": {
+
+    "A1": {
+      "label": "Principiante",
+      "passMark": 2,
+      "writingPrompt": null,
+      "questions": [
+        {
+          "id": "en-a1-001",
+          "type": "mcq",
+          "prompt": "Elige la opción correcta para completar la oración:\n\"She ___ a student.\"",
+          "options": ["is", "are", "am", "be"],
+          "correct": "is"
+        },
+        {
+          "id": "en-a1-002",
+          "type": "mcq",
+          "prompt": "Elige la forma correcta del verbo:\n\"I ___ coffee every morning.\"",
+          "options": ["drink", "drinks", "drinking", "drank"],
+          "correct": "drink"
+        },
+        {
+          "id": "en-a1-003",
+          "type": "mcq",
+          "prompt": "Elige el artículo correcto:\n\"She has ___ apple in her bag.\"",
+          "options": ["an", "a", "the", "(ninguno)"],
+          "correct": "an"
+        },
+        {
+          "id": "en-a1-004",
+          "type": "mcq",
+          "prompt": "¿Cuál es el plural correcto de la palabra 'child'?",
+          "options": ["children", "childs", "childrens", "childes"],
+          "correct": "children"
+        },
+        {
+          "id": "en-a1-005",
+          "type": "mcq",
+          "prompt": "¿Cuál de estas oraciones es correcta?",
+          "options": [
+            "They are happy.",
+            "They is happy.",
+            "They am happy.",
+            "They be happy."
+          ],
+          "correct": "They are happy."
+        }
+      ]
+    },
+
+    "A2": {
+      "label": "Básico",
+      "passMark": 2,
+      "writingPrompt": null,
+      "questions": [
+        {
+          "id": "en-a2-001",
+          "type": "mcq",
+          "prompt": "Elige la forma correcta del verbo en pasado:\n\"Last night, she ___ a movie.\"",
+          "options": ["watched", "watch", "watches", "is watching"],
+          "correct": "watched"
+        },
+        {
+          "id": "en-a2-002",
+          "type": "mcq",
+          "prompt": "¿Cuál es la pregunta correcta para esta respuesta?\n\"I go to the gym three times a week.\"",
+          "options": [
+            "How often do you go to the gym?",
+            "How many do you go to the gym?",
+            "How much do you go to the gym?",
+            "How long do you go to the gym?"
+          ],
+          "correct": "How often do you go to the gym?"
+        },
+        {
+          "id": "en-a2-003",
+          "type": "mcq",
+          "prompt": "Elige la preposición de tiempo correcta:\n\"The party is ___ Saturday evening.\"",
+          "options": ["on", "in", "at", "for"],
+          "correct": "on"
+        },
+        {
+          "id": "en-a2-004",
+          "type": "mcq",
+          "prompt": "Elige la opción correcta para hablar de una habilidad en el pasado:\n\"When I was young, I ___ ride a bike, but now I can't.\"",
+          "options": ["could", "can", "would", "should"],
+          "correct": "could"
+        },
+        {
+          "id": "en-a2-005",
+          "type": "mcq",
+          "prompt": "¿Cuál de estas oraciones está correcta?",
+          "options": [
+            "She didn't go to school yesterday.",
+            "She didn't went to school yesterday.",
+            "She doesn't went to school yesterday.",
+            "She not go to school yesterday."
+          ],
+          "correct": "She didn't go to school yesterday."
+        }
+      ]
+    },
+
+    "B1": {
+      "label": "Intermedio",
+      "passMark": 2,
+      "writingPrompt": "Escribe 3 o 4 oraciones en inglés describiendo lo que normalmente haces durante el fin de semana.",
+      "questions": [
+        {
+          "id": "en-b1-001",
+          "type": "mcq",
+          "prompt": "Elige la forma correcta del presente perfecto:\n\"I'm exhausted — I ___ worked twelve hours today.\"",
+          "options": ["have", "had", "has", "did"],
+          "correct": "have"
+        },
+        {
+          "id": "en-b1-002",
+          "type": "mcq",
+          "prompt": "Completa la oración con el primer condicional correcto:\n\"If it ___ tomorrow, we will cancel the trip.\"",
+          "options": ["rains", "will rain", "rained", "would rain"],
+          "correct": "rains"
+        },
+        {
+          "id": "en-b1-003",
+          "type": "mcq",
+          "prompt": "Elige la forma más natural para dar un consejo:\n\"You ___ try the local food — it's amazing.\"",
+          "options": ["should", "must", "need", "would"],
+          "correct": "should"
+        },
+        {
+          "id": "en-b1-004",
+          "type": "mcq",
+          "prompt": "Elige el pronombre relativo correcto para referirse a una persona:\n\"That's the woman ___ helped me find my bag.\"",
+          "options": ["who", "which", "what", "whose"],
+          "correct": "who"
+        },
+        {
+          "id": "en-b1-005",
+          "type": "mcq",
+          "prompt": "Elige el verbo que se combina correctamente con la preposición indicada:\n\"She managed to ___ her fear of public speaking.\"",
+          "options": ["overcome", "overpass", "overlook", "overdo"],
+          "correct": "overcome"
+        }
+      ]
+    },
+
+    "B2": {
+      "label": "Intermedio-Alto",
+      "passMark": 2,
+      "writingPrompt": "En 4 o 5 oraciones en inglés, describe un momento en que tuviste que tomar una decisión difícil y lo que aprendiste de esa experiencia.",
+      "questions": [
+        {
+          "id": "en-b2-001",
+          "type": "mcq",
+          "prompt": "Elige la forma correcta del segundo condicional (situación hipotética en el presente):\n\"If I ___ more free time, I would learn to play the piano.\"",
+          "options": ["had", "have", "would have", "was having"],
+          "correct": "had"
+        },
+        {
+          "id": "en-b2-002",
+          "type": "mcq",
+          "prompt": "Elige la opción correcta en voz pasiva:\n\"The new bridge ___ last month.\"",
+          "options": ["was completed", "completed", "has completed", "is completing"],
+          "correct": "was completed"
+        },
+        {
+          "id": "en-b2-003",
+          "type": "mcq",
+          "prompt": "¿Qué significa la expresión en cursiva?\n\"The conference has been put off until next month.\"",
+          "options": ["postponed", "cancelled", "moved forward", "shortened"],
+          "correct": "postponed"
+        },
+        {
+          "id": "en-b2-004",
+          "type": "mcq",
+          "prompt": "Convierte al discurso indirecto:\n\"She said: 'I haven't been feeling well.'\"",
+          "options": [
+            "She said she hadn't been feeling well.",
+            "She said she hasn't been feeling well.",
+            "She said she didn't feeling well.",
+            "She said she wouldn't feel well."
+          ],
+          "correct": "She said she hadn't been feeling well."
+        },
+        {
+          "id": "en-b2-005",
+          "type": "mcq",
+          "prompt": "Elige el modismo correcto para expresar sorpresa o desconcierto:\n\"She was so ___ by the unexpected question that she couldn't respond.\"",
+          "options": ["taken aback", "taken away", "taken over", "taken up"],
+          "correct": "taken aback"
+        }
+      ]
+    },
+
+    "C1": {
+      "label": "Avanzado",
+      "passMark": 2,
+      "writingPrompt": "En 5 o 6 oraciones en inglés, explica las ventajas y desventajas de trabajar desde casa comparado con trabajar en una oficina.",
+      "questions": [
+        {
+          "id": "en-c1-001",
+          "type": "mcq",
+          "prompt": "Elige la estructura de inversión enfática correcta:\n\"___ late, but she also forgot the report.\"",
+          "options": [
+            "Not only was she",
+            "Not only she was",
+            "Not only did she be",
+            "Not only she did"
+          ],
+          "correct": "Not only was she"
+        },
+        {
+          "id": "en-c1-002",
+          "type": "mcq",
+          "prompt": "Elige la forma correcta del condicional mixto (pasado hipotético → consecuencia presente):\n\"If I ___ harder at university, I would be a doctor now.\"",
+          "options": ["had studied", "studied", "would have studied", "have studied"],
+          "correct": "had studied"
+        },
+        {
+          "id": "en-c1-003",
+          "type": "mcq",
+          "prompt": "Elige la opción más apropiada en un registro formal escrito:\n\"The committee wishes to ___ its appreciation for your generous contribution.\"",
+          "options": ["express", "say", "tell", "speak"],
+          "correct": "express"
+        },
+        {
+          "id": "en-c1-004",
+          "type": "mcq",
+          "prompt": "Elige la forma correcta de la inversión condicional (estructura formal equivalente a 'If I had known...'):\n\"___ about the deadline, I would have submitted the report earlier.\"",
+          "options": ["Had I known", "If I had known", "Would I have known", "Did I know"],
+          "correct": "Had I known"
+        },
+        {
+          "id": "en-c1-005",
+          "type": "mcq",
+          "prompt": "Elige la palabra que completa correctamente esta cláusula relativa no restrictiva:\n\"The plan, ___ many experts had feared, ended in complete failure.\"",
+          "options": ["as", "which", "that", "what"],
+          "correct": "as"
+        }
+      ]
+    },
+
+    "C2": {
+      "label": "Maestría",
+      "passMark": 2,
+      "writingPrompt": "En 6 o más oraciones en inglés, presenta un argumento a favor o en contra de la siguiente afirmación: \"Artificial intelligence will eventually replace human teachers in the classroom.\"",
+      "questions": [
+        {
+          "id": "en-c2-001",
+          "type": "mcq",
+          "prompt": "Elige la forma correcta del subjuntivo formal en inglés:\n\"It is essential that every delegate ___ the full briefing document before the summit.\"",
+          "options": ["read", "reads", "has read", "will read"],
+          "correct": "read"
+        },
+        {
+          "id": "en-c2-002",
+          "type": "mcq",
+          "prompt": "Elige el verbo correcto según el sujeto (¿quién saca la conclusión: el analista o el reporte?):\n\"After reviewing the data, the board members ___ that major restructuring was inevitable.\"",
+          "options": ["inferred", "implied", "assumed", "deduced"],
+          "correct": "inferred"
+        },
+        {
+          "id": "en-c2-003",
+          "type": "mcq",
+          "prompt": "¿Cuál de estas palabras describe un tono que aparenta ser positivo pero en realidad expresa desprecio o burla irónica?",
+          "options": ["sardonic", "facetious", "jovial", "wistful"],
+          "correct": "sardonic"
+        },
+        {
+          "id": "en-c2-004",
+          "type": "mcq",
+          "prompt": "Completa la estructura condicional invertida de nivel C2:\n\"___ the risks sooner, the disaster could have been prevented.\"",
+          "options": [
+            "Had she identified",
+            "If she identified",
+            "She had identified",
+            "Would she identify"
+          ],
+          "correct": "Had she identified"
+        },
+        {
+          "id": "en-c2-005",
+          "type": "mcq",
+          "prompt": "¿Cuál de estas frases se usa correctamente para conceder un punto antes de refutarlo en un debate académico formal?",
+          "options": [
+            "Admittedly, there are merits to this position; however, the evidence suggests otherwise.",
+            "Obviously this argument is completely wrong because...",
+            "Sure, I guess you could say that, but...",
+            "I suppose that might be true, although nobody really thinks so."
+          ],
+          "correct": "Admittedly, there are merits to this position; however, the evidence suggests otherwise."
+        }
+      ]
+    }
+
+  }
+}
