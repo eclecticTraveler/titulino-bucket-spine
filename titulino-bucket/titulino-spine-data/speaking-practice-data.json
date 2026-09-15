@@ -3472,231 +3472,2310 @@
             "chapter": 1,
             "title": "Titulino - Abraham Lincoln - Speeches of history Part 1",
             "words": [
-              { "word": "Conceived", "image": null },
-              { "word": "Liberty", "image": null },
-              { "word": "Dedicated", "image": null },
-              { "word": "Proposition", "image": null },
-              { "word": "Endure", "image": null },
-              { "word": "Engaged", "image": null },
-              { "word": "Testing", "image": null },
-              { "word": "Unfinished", "image": null },
-              { "word": "Nobly", "image": null },
-              { "word": "Advanced", "image": null },
-              { "word": "Task", "image": null },
-              { "word": "Remaining", "image": null },
-              { "word": "Government", "image": null },
-              { "word": "By the people", "image": null },
-              { "word": "Shall not perish", "image": null }
+              {
+                "word": "Conceived", "image": null, "ipa": "kənˈsiːvd",
+                "phonemes": [
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como ‘i’ española" },
+                  { "symbol": "v", "display": "v", "hint": "V — labio inferior toca los dientes superiores, con voz" },
+                  { "symbol": "d", "display": "d", "hint": null }
+                ]
+              },
+              {
+                "word": "Liberty", "image": null, "ipa": "ˈlɪbərti",
+                "phonemes": [
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre ‘i’ y ‘e’" },
+                  { "symbol": "b", "display": "b", "hint": null },
+                  { "symbol": "ər", "display": "ər", "hint": "Schwa-R — vocal suave con r, sin rodar la lengua" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como ‘i’ española" }
+                ]
+              },
+              {
+                "word": "Dedicated", "image": null, "ipa": "ˈdɛdɪkeɪtɪd",
+                "phonemes": [
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": "ɛ", "display": "ɛ", "hint": "E abierta — más abierta que la ‘e’ española" },
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre ‘i’ y ‘e’" },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "eɪ", "display": "eɪ", "hint": "AY — diptongo, ‘e’ desliza a ‘i’" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre ‘i’ y ‘e’" },
+                  { "symbol": "d", "display": "d", "hint": null }
+                ]
+              },
+              {
+                "word": "Proposition", "image": null, "ipa": "ˌprɑpəˈzɪʃən",
+                "phonemes": [
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "ɑ", "display": "ɑ", "hint": "A oscura — abierta y posterior en la boca" },
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "z", "display": "z", "hint": "Z — como ‘s’ pero vibra" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre ‘i’ y ‘e’" },
+                  { "symbol": "ʃ", "display": "ʃ", "hint": "SH — labios redondeados hacia adelante, sin vibrar" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "n", "display": "n", "hint": null }
+                ]
+              },
+              {
+                "word": "Endure", "image": null, "ipa": "ɪnˈdʊr",
+                "phonemes": [
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre ‘i’ y ‘e’" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": "ʊ", "display": "ʊ", "hint": "U corta — breve y relajada, entre ‘u’ y ‘o’" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" }
+                ]
+              },
+              {
+                "word": "Engaged", "image": null, "ipa": "ɪnˈɡeɪdʒd",
+                "phonemes": [
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre ‘i’ y ‘e’" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "g", "display": "g", "hint": "G — suave, sin golpe fuerte" },
+                  { "symbol": "eɪ", "display": "eɪ", "hint": "AY — diptongo, ‘e’ desliza a ‘i’" },
+                  { "symbol": "dʒ", "display": "dʒ", "hint": "DJ — como ‘ch’ pero con vibración" },
+                  { "symbol": "d", "display": "d", "hint": null }
+                ]
+              },
+              {
+                "word": "Testing", "image": null, "ipa": "ˈtɛstɪŋ",
+                "phonemes": [
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "ɛ", "display": "ɛ", "hint": "E abierta — más abierta que la ‘e’ española" },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre ‘i’ y ‘e’" },
+                  { "symbol": "ŋ", "display": "ŋ", "hint": "NG — nasal posterior, como ‘n’ en ‘banco’" }
+                ]
+              },
+              {
+                "word": "Unfinished", "image": null, "ipa": "ʌnˈfɪnɪʃt",
+                "phonemes": [
+                  { "symbol": "ʌ", "display": "ʌ", "hint": "A central — como ‘a’ pero más cerrada" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "f", "display": "f", "hint": "F — labio inferior roza los dientes superiores, sin voz" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre ‘i’ y ‘e’" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre ‘i’ y ‘e’" },
+                  { "symbol": "ʃ", "display": "ʃ", "hint": "SH — labios redondeados hacia adelante, sin vibrar" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" }
+                ]
+              },
+              {
+                "word": "Nobly", "image": null, "ipa": "ˈnoʊbli",
+                "phonemes": [
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "oʊ", "display": "oʊ", "hint": "OU — diptongo, ‘o’ desliza a ‘u’" },
+                  { "symbol": "b", "display": "b", "hint": null },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como ‘i’ española" }
+                ]
+              },
+              {
+                "word": "Advanced", "image": null, "ipa": "ədˈvænst",
+                "phonemes": [
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": "v", "display": "v", "hint": "V — labio inferior toca los dientes superiores, con voz" },
+                  { "symbol": "æ", "display": "æ", "hint": "A abierta — boca muy abierta, entre ‘a’ y ‘e’" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" }
+                ]
+              },
+              {
+                "word": "Task", "image": null, "ipa": "tæsk",
+                "phonemes": [
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "æ", "display": "æ", "hint": "A abierta — boca muy abierta, entre ‘a’ y ‘e’" },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" }
+                ]
+              },
+              {
+                "word": "Remaining", "image": null, "ipa": "rɪˈmeɪnɪŋ",
+                "phonemes": [
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre ‘i’ y ‘e’" },
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": "eɪ", "display": "eɪ", "hint": "AY — diptongo, ‘e’ desliza a ‘i’" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre ‘i’ y ‘e’" },
+                  { "symbol": "ŋ", "display": "ŋ", "hint": "NG — nasal posterior, como ‘n’ en ‘banco’" }
+                ]
+              },
+              {
+                "word": "Government", "image": null, "ipa": "ˈɡʌvərnmənt",
+                "phonemes": [
+                  { "symbol": "g", "display": "g", "hint": "G — suave, sin golpe fuerte" },
+                  { "symbol": "ʌ", "display": "ʌ", "hint": "A central — como ‘a’ pero más cerrada" },
+                  { "symbol": "v", "display": "v", "hint": "V — labio inferior toca los dientes superiores, con voz" },
+                  { "symbol": "ər", "display": "ər", "hint": "Schwa-R — vocal suave con r, sin rodar la lengua" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" }
+                ]
+              },
+              {
+                "word": "By the people", "image": null, "ipa": "baɪ ðə ˈpiːpəl",
+                "phonemes": [
+                  { "symbol": "b", "display": "b", "hint": null },
+                  { "symbol": "aɪ", "display": "aɪ", "hint": "AI — diptongo, ‘a’ desliza a ‘i’" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "ð", "display": "ð", "hint": "TH sonoro — lengua entre los dientes suave, como en ‘the’" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como ‘i’ española" },
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" }
+                ]
+              },
+              {
+                "word": "Shall not perish", "image": null, "ipa": "ʃæl nɑt ˈpɛrɪʃ",
+                "phonemes": [
+                  { "symbol": "ʃ", "display": "ʃ", "hint": "SH — labios redondeados hacia adelante, sin vibrar" },
+                  { "symbol": "æ", "display": "æ", "hint": "A abierta — boca muy abierta, entre ‘a’ y ‘e’" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "ɑ", "display": "ɑ", "hint": "A oscura — abierta y posterior en la boca" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "ɛ", "display": "ɛ", "hint": "E abierta — más abierta que la ‘e’ española" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre ‘i’ y ‘e’" },
+                  { "symbol": "ʃ", "display": "ʃ", "hint": "SH — labios redondeados hacia adelante, sin vibrar" }
+                ]
+              }
             ]
           },
           {
             "chapter": 2,
             "title": "Titulino - Eleanor Roosevelt - Speeches of history Part 1",
             "words": [
-              { "word": "Universal", "image": null },
-              { "word": "Human rights", "image": null },
-              { "word": "Uphold", "image": null },
-              { "word": "Concerned", "image": null },
-              { "word": "Citizen action", "image": null },
-              { "word": "Meaning", "image": null },
-              { "word": "In vain", "image": null },
-              { "word": "Progress", "image": null },
-              { "word": "Equal justice", "image": null },
-              { "word": "Equal opportunity", "image": null },
-              { "word": "Dignity", "image": null },
-              { "word": "Discrimination", "image": null },
-              { "word": "Seek", "image": null },
-              { "word": "Close to home", "image": null },
-              { "word": "Larger world", "image": null }
+              {
+                "word": "Universal", "image": null, "ipa": "ˌjuːnɪˈvɜːrsəl",
+                "phonemes": [
+                  { "symbol": "j", "display": "j", "hint": "Y — como ‘y’ española breve antes de vocal" },
+                  { "symbol": "u", "display": "u", "hint": "U larga — labios redondeados y tensos" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre ‘i’ y ‘e’" },
+                  { "symbol": "v", "display": "v", "hint": "V — labio inferior toca los dientes superiores, con voz" },
+                  { "symbol": "ər", "display": "ər", "hint": "Schwa-R — vocal suave con r, sin rodar la lengua" },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" }
+                ]
+              },
+              {
+                "word": "Human rights", "image": null, "ipa": "ˈhjuːmən raɪts",
+                "phonemes": [
+                  { "symbol": "h", "display": "h", "hint": "H — soplo de aire suave" },
+                  { "symbol": "j", "display": "j", "hint": "Y — como ‘y’ española breve antes de vocal" },
+                  { "symbol": "u", "display": "u", "hint": "U larga — labios redondeados y tensos" },
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "aɪ", "display": "aɪ", "hint": "AI — diptongo, ‘a’ desliza a ‘i’" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "s", "display": "s", "hint": null }
+                ]
+              },
+              {
+                "word": "Uphold", "image": null, "ipa": "ʌpˈhoʊld",
+                "phonemes": [
+                  { "symbol": "ʌ", "display": "ʌ", "hint": "A central — como ‘a’ pero más cerrada" },
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "h", "display": "h", "hint": "H — soplo de aire suave" },
+                  { "symbol": "oʊ", "display": "oʊ", "hint": "OU — diptongo, ‘o’ desliza a ‘u’" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "d", "display": "d", "hint": null }
+                ]
+              },
+              {
+                "word": "Concerned", "image": null, "ipa": "kənˈsɜːrnd",
+                "phonemes": [
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "ər", "display": "ər", "hint": "Schwa-R — vocal suave con r, sin rodar la lengua" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "d", "display": "d", "hint": null }
+                ]
+              },
+              {
+                "word": "Citizen action", "image": null, "ipa": "ˈsɪtɪzən ˈækʃən",
+                "phonemes": [
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre ‘i’ y ‘e’" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre ‘i’ y ‘e’" },
+                  { "symbol": "z", "display": "z", "hint": "Z — como ‘s’ pero vibra" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "æ", "display": "æ", "hint": "A abierta — boca muy abierta, entre ‘a’ y ‘e’" },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "ʃ", "display": "ʃ", "hint": "SH — labios redondeados hacia adelante, sin vibrar" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "n", "display": "n", "hint": null }
+                ]
+              },
+              {
+                "word": "Meaning", "image": null, "ipa": "ˈmiːnɪŋ",
+                "phonemes": [
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como ‘i’ española" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre ‘i’ y ‘e’" },
+                  { "symbol": "ŋ", "display": "ŋ", "hint": "NG — nasal posterior, como ‘n’ en ‘banco’" }
+                ]
+              },
+              {
+                "word": "In vain", "image": null, "ipa": "ɪn veɪn",
+                "phonemes": [
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre ‘i’ y ‘e’" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "v", "display": "v", "hint": "V — labio inferior toca los dientes superiores, con voz" },
+                  { "symbol": "eɪ", "display": "eɪ", "hint": "AY — diptongo, ‘e’ desliza a ‘i’" },
+                  { "symbol": "n", "display": "n", "hint": null }
+                ]
+              },
+              {
+                "word": "Progress", "image": null, "ipa": "ˈprɑɡrɛs",
+                "phonemes": [
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "ɑ", "display": "ɑ", "hint": "A oscura — abierta y posterior en la boca" },
+                  { "symbol": "g", "display": "g", "hint": "G — suave, sin golpe fuerte" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "ɛ", "display": "ɛ", "hint": "E abierta — más abierta que la ‘e’ española" },
+                  { "symbol": "s", "display": "s", "hint": null }
+                ]
+              },
+              {
+                "word": "Equal justice", "image": null, "ipa": "ˈiːkwəl ˈdʒʌstɪs",
+                "phonemes": [
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como ‘i’ española" },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "w", "display": "w", "hint": "W — labios redondeados como ‘u’, luego abre" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "dʒ", "display": "dʒ", "hint": "DJ — como ‘ch’ pero con vibración" },
+                  { "symbol": "ʌ", "display": "ʌ", "hint": "A central — como ‘a’ pero más cerrada" },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre ‘i’ y ‘e’" },
+                  { "symbol": "s", "display": "s", "hint": null }
+                ]
+              },
+              {
+                "word": "Equal opportunity", "image": null, "ipa": "ˈiːkwəl ˌɑpərˈtjuːnɪti",
+                "phonemes": [
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como ‘i’ española" },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "w", "display": "w", "hint": "W — labios redondeados como ‘u’, luego abre" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "ɑ", "display": "ɑ", "hint": "A oscura — abierta y posterior en la boca" },
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "ər", "display": "ər", "hint": "Schwa-R — vocal suave con r, sin rodar la lengua" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "j", "display": "j", "hint": "Y — como ‘y’ española breve antes de vocal" },
+                  { "symbol": "u", "display": "u", "hint": "U larga — labios redondeados y tensos" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre ‘i’ y ‘e’" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como ‘i’ española" }
+                ]
+              },
+              {
+                "word": "Dignity", "image": null, "ipa": "ˈdɪɡnɪti",
+                "phonemes": [
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre ‘i’ y ‘e’" },
+                  { "symbol": "g", "display": "g", "hint": "G — suave, sin golpe fuerte" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre ‘i’ y ‘e’" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como ‘i’ española" }
+                ]
+              },
+              {
+                "word": "Discrimination", "image": null, "ipa": "dɪˌskrɪmɪˈneɪʃən",
+                "phonemes": [
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre ‘i’ y ‘e’" },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre ‘i’ y ‘e’" },
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre ‘i’ y ‘e’" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "eɪ", "display": "eɪ", "hint": "AY — diptongo, ‘e’ desliza a ‘i’" },
+                  { "symbol": "ʃ", "display": "ʃ", "hint": "SH — labios redondeados hacia adelante, sin vibrar" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "n", "display": "n", "hint": null }
+                ]
+              },
+              {
+                "word": "Seek", "image": null, "ipa": "siːk",
+                "phonemes": [
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como ‘i’ española" },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" }
+                ]
+              },
+              {
+                "word": "Close to home", "image": null, "ipa": "kloʊz tə hoʊm",
+                "phonemes": [
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "oʊ", "display": "oʊ", "hint": "OU — diptongo, ‘o’ desliza a ‘u’" },
+                  { "symbol": "z", "display": "z", "hint": "Z — como ‘s’ pero vibra" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "h", "display": "h", "hint": "H — soplo de aire suave" },
+                  { "symbol": "oʊ", "display": "oʊ", "hint": "OU — diptongo, ‘o’ desliza a ‘u’" },
+                  { "symbol": "m", "display": "m", "hint": null }
+                ]
+              },
+              {
+                "word": "Larger world", "image": null, "ipa": "ˈlɑrdʒər wɜːrld",
+                "phonemes": [
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "ɑ", "display": "ɑ", "hint": "A oscura — abierta y posterior en la boca" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "dʒ", "display": "dʒ", "hint": "DJ — como ‘ch’ pero con vibración" },
+                  { "symbol": "ər", "display": "ər", "hint": "Schwa-R — vocal suave con r, sin rodar la lengua" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "w", "display": "w", "hint": "W — labios redondeados como ‘u’, luego abre" },
+                  { "symbol": "ər", "display": "ər", "hint": "Schwa-R — vocal suave con r, sin rodar la lengua" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "d", "display": "d", "hint": null }
+                ]
+              }
             ]
           },
           {
             "chapter": 3,
             "title": "Titulino - Soujourner Truth - Speeches of history Part 1",
             "words": [
-              { "word": "Ploughed", "image": null },
-              { "word": "Abolitionist", "image": null },
-              { "word": "Out of kilter", "image": null },
-              { "word": "Planted", "image": null },
-              { "word": "Intellect", "image": null },
-              { "word": "Ain’t I a woman?", "image": null },
-              { "word": "Gathered", "image": null },
-              { "word": "Rights", "image": null },
-              { "word": "Turn the world upside down", "image": null },
-              { "word": "Bore", "image": null },
-              { "word": "Slavery", "image": null },
-              { "word": "Half measure", "image": null },
-              { "word": "Cried out", "image": null },
-              { "word": "Grief", "image": null },
-              { "word": "Right side up", "image": null }
+              {
+                "word": "Ploughed", "image": null, "ipa": "plaʊd",
+                "phonemes": [
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "aʊ", "display": "aʊ", "hint": "AU — diptongo, ‘a’ desliza a ‘u’" },
+                  { "symbol": "d", "display": "d", "hint": null }
+                ]
+              },
+              {
+                "word": "Abolitionist", "image": null, "ipa": "ˌæbəˈlɪʃənɪst",
+                "phonemes": [
+                  { "symbol": "æ", "display": "æ", "hint": "A abierta — boca muy abierta, entre ‘a’ y ‘e’" },
+                  { "symbol": "b", "display": "b", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre ‘i’ y ‘e’" },
+                  { "symbol": "ʃ", "display": "ʃ", "hint": "SH — labios redondeados hacia adelante, sin vibrar" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre ‘i’ y ‘e’" },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" }
+                ]
+              },
+              {
+                "word": "Out of kilter", "image": null, "ipa": "aʊt əv ˈkɪltər",
+                "phonemes": [
+                  { "symbol": "aʊ", "display": "aʊ", "hint": "AU — diptongo, ‘a’ desliza a ‘u’" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "v", "display": "v", "hint": "V — labio inferior toca los dientes superiores, con voz" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre ‘i’ y ‘e’" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "ər", "display": "ər", "hint": "Schwa-R — vocal suave con r, sin rodar la lengua" }
+                ]
+              },
+              {
+                "word": "Planted", "image": null, "ipa": "ˈplæntɪd",
+                "phonemes": [
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "æ", "display": "æ", "hint": "A abierta — boca muy abierta, entre ‘a’ y ‘e’" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre ‘i’ y ‘e’" },
+                  { "symbol": "d", "display": "d", "hint": null }
+                ]
+              },
+              {
+                "word": "Intellect", "image": null, "ipa": "ˈɪntəlɛkt",
+                "phonemes": [
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre ‘i’ y ‘e’" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "ɛ", "display": "ɛ", "hint": "E abierta — más abierta que la ‘e’ española" },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" }
+                ]
+              },
+              {
+                "word": "Ain’t I a woman?", "image": null, "ipa": "eɪnt aɪ ə ˈwʊmən",
+                "phonemes": [
+                  { "symbol": "eɪ", "display": "eɪ", "hint": "AY — diptongo, ‘e’ desliza a ‘i’" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "aɪ", "display": "aɪ", "hint": "AI — diptongo, ‘a’ desliza a ‘i’" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "w", "display": "w", "hint": "W — labios redondeados como ‘u’, luego abre" },
+                  { "symbol": "ʊ", "display": "ʊ", "hint": "U corta — breve y relajada, entre ‘u’ y ‘o’" },
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "n", "display": "n", "hint": null }
+                ]
+              },
+              {
+                "word": "Gathered", "image": null, "ipa": "ˈɡæðərd",
+                "phonemes": [
+                  { "symbol": "g", "display": "g", "hint": "G — suave, sin golpe fuerte" },
+                  { "symbol": "æ", "display": "æ", "hint": "A abierta — boca muy abierta, entre ‘a’ y ‘e’" },
+                  { "symbol": "ð", "display": "ð", "hint": "TH sonoro — lengua entre los dientes suave, como en ‘the’" },
+                  { "symbol": "ər", "display": "ər", "hint": "Schwa-R — vocal suave con r, sin rodar la lengua" },
+                  { "symbol": "d", "display": "d", "hint": null }
+                ]
+              },
+              {
+                "word": "Rights", "image": null, "ipa": "raɪts",
+                "phonemes": [
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "aɪ", "display": "aɪ", "hint": "AI — diptongo, ‘a’ desliza a ‘i’" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "s", "display": "s", "hint": null }
+                ]
+              },
+              {
+                "word": "Turn the world upside down", "image": null, "ipa": "tɜːrn ðə wɜːrld ˈʌpsaɪd daʊn",
+                "phonemes": [
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "ər", "display": "ər", "hint": "Schwa-R — vocal suave con r, sin rodar la lengua" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "ð", "display": "ð", "hint": "TH sonoro — lengua entre los dientes suave, como en ‘the’" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "w", "display": "w", "hint": "W — labios redondeados como ‘u’, luego abre" },
+                  { "symbol": "ər", "display": "ər", "hint": "Schwa-R — vocal suave con r, sin rodar la lengua" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "ʌ", "display": "ʌ", "hint": "A central — como ‘a’ pero más cerrada" },
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "aɪ", "display": "aɪ", "hint": "AI — diptongo, ‘a’ desliza a ‘i’" },
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": "aʊ", "display": "aʊ", "hint": "AU — diptongo, ‘a’ desliza a ‘u’" },
+                  { "symbol": "n", "display": "n", "hint": null }
+                ]
+              },
+              {
+                "word": "Bore", "image": null, "ipa": "bɔːr",
+                "phonemes": [
+                  { "symbol": "b", "display": "b", "hint": null },
+                  { "symbol": "ɔ", "display": "ɔ", "hint": "O abierta — labios redondeados, abierta" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" }
+                ]
+              },
+              {
+                "word": "Slavery", "image": null, "ipa": "ˈsleɪvəri",
+                "phonemes": [
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "eɪ", "display": "eɪ", "hint": "AY — diptongo, ‘e’ desliza a ‘i’" },
+                  { "symbol": "v", "display": "v", "hint": "V — labio inferior toca los dientes superiores, con voz" },
+                  { "symbol": "ər", "display": "ər", "hint": "Schwa-R — vocal suave con r, sin rodar la lengua" },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como ‘i’ española" }
+                ]
+              },
+              {
+                "word": "Half measure", "image": null, "ipa": "hæf ˈmɛʒər",
+                "phonemes": [
+                  { "symbol": "h", "display": "h", "hint": "H — soplo de aire suave" },
+                  { "symbol": "æ", "display": "æ", "hint": "A abierta — boca muy abierta, entre ‘a’ y ‘e’" },
+                  { "symbol": "f", "display": "f", "hint": "F — labio inferior roza los dientes superiores, sin voz" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": "ɛ", "display": "ɛ", "hint": "E abierta — más abierta que la ‘e’ española" },
+                  { "symbol": "ʒ", "display": "ʒ", "hint": "ZH — como ‘y’ argentina con vibración" },
+                  { "symbol": "ər", "display": "ər", "hint": "Schwa-R — vocal suave con r, sin rodar la lengua" }
+                ]
+              },
+              {
+                "word": "Cried out", "image": null, "ipa": "kraɪd aʊt",
+                "phonemes": [
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "aɪ", "display": "aɪ", "hint": "AI — diptongo, ‘a’ desliza a ‘i’" },
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "aʊ", "display": "aʊ", "hint": "AU — diptongo, ‘a’ desliza a ‘u’" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" }
+                ]
+              },
+              {
+                "word": "Grief", "image": null, "ipa": "ɡriːf",
+                "phonemes": [
+                  { "symbol": "g", "display": "g", "hint": "G — suave, sin golpe fuerte" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como ‘i’ española" },
+                  { "symbol": "f", "display": "f", "hint": "F — labio inferior roza los dientes superiores, sin voz" }
+                ]
+              },
+              {
+                "word": "Right side up", "image": null, "ipa": "raɪt saɪd ʌp",
+                "phonemes": [
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "aɪ", "display": "aɪ", "hint": "AI — diptongo, ‘a’ desliza a ‘i’" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "aɪ", "display": "aɪ", "hint": "AI — diptongo, ‘a’ desliza a ‘i’" },
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "ʌ", "display": "ʌ", "hint": "A central — como ‘a’ pero más cerrada" },
+                  { "symbol": "p", "display": "p", "hint": null }
+                ]
+              }
             ]
           },
           {
             "chapter": 4,
             "title": "Titulino - Epictetus - Speeches of history Part 1",
             "words": [
-              { "word": "Control", "image": null },
-              { "word": "Opinion", "image": null },
-              { "word": "In our control", "image": null },
-              { "word": "Restrain", "image": null },
-              { "word": "Desire", "image": null },
-              { "word": "Not in our control", "image": null },
-              { "word": "Lament", "image": null },
-              { "word": "Aversion", "image": null },
-              { "word": "By nature", "image": null },
-              { "word": "Accuse", "image": null },
-              { "word": "Reputation", "image": null },
-              { "word": "Free and unrestrained", "image": null },
-              { "word": "Suffer", "image": null },
-              { "word": "Freedom", "image": null },
-              { "word": "Begin with small things", "image": null }
+              {
+                "word": "Control", "image": null, "ipa": "kənˈtroʊl",
+                "phonemes": [
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "oʊ", "display": "oʊ", "hint": "OU — diptongo, 'o' desliza a 'u'" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" }
+                ]
+              },
+              {
+                "word": "Opinion", "image": null, "ipa": "əˈpɪnjən",
+                "phonemes": [
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "j", "display": "j", "hint": "Y — como 'y' española breve antes de vocal" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "n", "display": "n", "hint": null }
+                ]
+              },
+              {
+                "word": "In our control", "image": null, "ipa": "ɪn aʊər kənˈtroʊl",
+                "phonemes": [
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "aʊ", "display": "aʊ", "hint": "AU — diptongo, 'a' desliza a 'u'" },
+                  { "symbol": "ər", "display": "ər", "hint": "Schwa-R — vocal suave con r, sin rodar la lengua" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "oʊ", "display": "oʊ", "hint": "OU — diptongo, 'o' desliza a 'u'" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" }
+                ]
+              },
+              {
+                "word": "Restrain", "image": null, "ipa": "rɪˈstreɪn",
+                "phonemes": [
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "eɪ", "display": "eɪ", "hint": "AY — diptongo, 'e' desliza a 'i'" },
+                  { "symbol": "n", "display": "n", "hint": null }
+                ]
+              },
+              {
+                "word": "Desire", "image": null, "ipa": "dɪˈzaɪər",
+                "phonemes": [
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "z", "display": "z", "hint": "Z — como 's' pero vibra" },
+                  { "symbol": "aɪ", "display": "aɪ", "hint": "AI — diptongo, 'a' desliza a 'i'" },
+                  { "symbol": "ər", "display": "ər", "hint": "Schwa-R — vocal suave con r, sin rodar la lengua" }
+                ]
+              },
+              {
+                "word": "Not in our control", "image": null, "ipa": "nɑt ɪn aʊər kənˈtroʊl",
+                "phonemes": [
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "ɑ", "display": "ɑ", "hint": "A oscura — abierta y posterior en la boca" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "aʊ", "display": "aʊ", "hint": "AU — diptongo, 'a' desliza a 'u'" },
+                  { "symbol": "ər", "display": "ər", "hint": "Schwa-R — vocal suave con r, sin rodar la lengua" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "oʊ", "display": "oʊ", "hint": "OU — diptongo, 'o' desliza a 'u'" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" }
+                ]
+              },
+              {
+                "word": "Lament", "image": null, "ipa": "ləˈmɛnt",
+                "phonemes": [
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": "ɛ", "display": "ɛ", "hint": "E abierta — más abierta que la 'e' española" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" }
+                ]
+              },
+              {
+                "word": "Aversion", "image": null, "ipa": "əˈvɜːrʒən",
+                "phonemes": [
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "v", "display": "v", "hint": "V — labio inferior toca los dientes superiores, con voz" },
+                  { "symbol": "ər", "display": "ər", "hint": "Schwa-R — vocal suave con r, sin rodar la lengua" },
+                  { "symbol": "ʒ", "display": "ʒ", "hint": "ZH — como 'y' argentina con vibración" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "n", "display": "n", "hint": null }
+                ]
+              },
+              {
+                "word": "By nature", "image": null, "ipa": "baɪ ˈneɪtʃər",
+                "phonemes": [
+                  { "symbol": "b", "display": "b", "hint": null },
+                  { "symbol": "aɪ", "display": "aɪ", "hint": "AI — diptongo, 'a' desliza a 'i'" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "eɪ", "display": "eɪ", "hint": "AY — diptongo, 'e' desliza a 'i'" },
+                  { "symbol": "tʃ", "display": "tʃ", "hint": "CH — como en español" },
+                  { "symbol": "ər", "display": "ər", "hint": "Schwa-R — vocal suave con r, sin rodar la lengua" }
+                ]
+              },
+              {
+                "word": "Accuse", "image": null, "ipa": "əˈkjuːz",
+                "phonemes": [
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "j", "display": "j", "hint": "Y — como 'y' española breve antes de vocal" },
+                  { "symbol": "u", "display": "u", "hint": "U larga — labios redondeados y tensos" },
+                  { "symbol": "z", "display": "z", "hint": "Z — como 's' pero vibra" }
+                ]
+              },
+              {
+                "word": "Reputation", "image": null, "ipa": "ˌrɛpjəˈteɪʃən",
+                "phonemes": [
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "ɛ", "display": "ɛ", "hint": "E abierta — más abierta que la 'e' española" },
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "j", "display": "j", "hint": "Y — como 'y' española breve antes de vocal" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "eɪ", "display": "eɪ", "hint": "AY — diptongo, 'e' desliza a 'i'" },
+                  { "symbol": "ʃ", "display": "ʃ", "hint": "SH — labios redondeados hacia adelante, sin vibrar" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "n", "display": "n", "hint": null }
+                ]
+              },
+              {
+                "word": "Free and unrestrained", "image": null, "ipa": "friː ænd ʌnrɪˈstreɪnd",
+                "phonemes": [
+                  { "symbol": "f", "display": "f", "hint": "F — labio inferior roza los dientes superiores, sin voz" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "æ", "display": "æ", "hint": "A abierta — boca muy abierta, entre 'a' y 'e'" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "ʌ", "display": "ʌ", "hint": "A central — como 'a' pero más cerrada" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "eɪ", "display": "eɪ", "hint": "AY — diptongo, 'e' desliza a 'i'" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "d", "display": "d", "hint": null }
+                ]
+              },
+              {
+                "word": "Suffer", "image": null, "ipa": "ˈsʌfər",
+                "phonemes": [
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "ʌ", "display": "ʌ", "hint": "A central — como 'a' pero más cerrada" },
+                  { "symbol": "f", "display": "f", "hint": "F — labio inferior roza los dientes superiores, sin voz" },
+                  { "symbol": "ər", "display": "ər", "hint": "Schwa-R — vocal suave con r, sin rodar la lengua" }
+                ]
+              },
+              {
+                "word": "Freedom", "image": null, "ipa": "ˈfriːdəm",
+                "phonemes": [
+                  { "symbol": "f", "display": "f", "hint": "F — labio inferior roza los dientes superiores, sin voz" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" },
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "m", "display": "m", "hint": null }
+                ]
+              },
+              {
+                "word": "Begin with small things", "image": null, "ipa": "bɪˈɡɪn wɪð smɔːl θɪŋz",
+                "phonemes": [
+                  { "symbol": "b", "display": "b", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "g", "display": "g", "hint": "G — suave, sin golpe fuerte" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "w", "display": "w", "hint": "W — labios redondeados como 'u', luego abre" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "ð", "display": "ð", "hint": "TH sonoro — lengua entre los dientes suave, como en 'the'" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": "ɔ", "display": "ɔ", "hint": "O abierta — labios redondeados, abierta" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "θ", "display": "θ", "hint": "TH sordo — lengua entre los dientes, como en 'think'" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "ŋ", "display": "ŋ", "hint": "NG — nasal posterior, como 'n' en 'banco'" },
+                  { "symbol": "z", "display": "z", "hint": "Z — como 's' pero vibra" }
+                ]
+              }
             ]
           },
           {
             "chapter": 5,
             "title": "Titulino - Hellen Keller - Speeches of history Part 1",
             "words": [
-              { "word": "Appreciate", "image": null },
-              { "word": "Darkness", "image": null },
-              { "word": "Make the most of", "image": null },
-              { "word": "Apply", "image": null },
-              { "word": "Silence", "image": null },
-              { "word": "As if tomorrow", "image": null },
-              { "word": "Reveal", "image": null },
-              { "word": "Sight", "image": null },
-              { "word": "Be stricken blind", "image": null },
-              { "word": "Glory in", "image": null },
-              { "word": "Sense", "image": null },
-              { "word": "Glory in", "image": null },
-              { "word": "Provide", "image": null },
-              { "word": "Beauty", "image": null },
-              { "word": "The joy of sound", "image": null }
+              {
+                "word": "Appreciate", "image": null, "ipa": "əˈpriːʃieɪt",
+                "phonemes": [
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" },
+                  { "symbol": "ʃ", "display": "ʃ", "hint": "SH — labios redondeados hacia adelante, sin vibrar" },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" },
+                  { "symbol": "eɪ", "display": "eɪ", "hint": "AY — diptongo, 'e' desliza a 'i'" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" }
+                ]
+              },
+              {
+                "word": "Darkness", "image": null, "ipa": "ˈdɑːrknɪs",
+                "phonemes": [
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": "ɑ", "display": "ɑ", "hint": "A oscura — abierta y posterior en la boca" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "s", "display": "s", "hint": null }
+                ]
+              },
+              {
+                "word": "Make the most of", "image": null, "ipa": "meɪk ðə moʊst əv",
+                "phonemes": [
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": "eɪ", "display": "eɪ", "hint": "AY — diptongo, 'e' desliza a 'i'" },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "ð", "display": "ð", "hint": "TH sonoro — lengua entre los dientes suave, como en 'the'" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": "oʊ", "display": "oʊ", "hint": "OU — diptongo, 'o' desliza a 'u'" },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "v", "display": "v", "hint": "V — labio inferior toca los dientes superiores, con voz" }
+                ]
+              },
+              {
+                "word": "Apply", "image": null, "ipa": "əˈplaɪ",
+                "phonemes": [
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "aɪ", "display": "aɪ", "hint": "AI — diptongo, 'a' desliza a 'i'" }
+                ]
+              },
+              {
+                "word": "Silence", "image": null, "ipa": "ˈsaɪləns",
+                "phonemes": [
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "aɪ", "display": "aɪ", "hint": "AI — diptongo, 'a' desliza a 'i'" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "s", "display": "s", "hint": null }
+                ]
+              },
+              {
+                "word": "As if tomorrow", "image": null, "ipa": "æz ɪf təˈmɑroʊ",
+                "phonemes": [
+                  { "symbol": "æ", "display": "æ", "hint": "A abierta — boca muy abierta, entre 'a' y 'e'" },
+                  { "symbol": "z", "display": "z", "hint": "Z — como 's' pero vibra" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "f", "display": "f", "hint": "F — labio inferior roza los dientes superiores, sin voz" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": "ɑ", "display": "ɑ", "hint": "A oscura — abierta y posterior en la boca" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "oʊ", "display": "oʊ", "hint": "OU — diptongo, 'o' desliza a 'u'" }
+                ]
+              },
+              {
+                "word": "Reveal", "image": null, "ipa": "rɪˈviːl",
+                "phonemes": [
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "v", "display": "v", "hint": "V — labio inferior toca los dientes superiores, con voz" },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" }
+                ]
+              },
+              {
+                "word": "Sight", "image": null, "ipa": "saɪt",
+                "phonemes": [
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "aɪ", "display": "aɪ", "hint": "AI — diptongo, 'a' desliza a 'i'" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" }
+                ]
+              },
+              {
+                "word": "Be stricken blind", "image": null, "ipa": "biː ˈstrɪkən blaɪnd",
+                "phonemes": [
+                  { "symbol": "b", "display": "b", "hint": null },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "b", "display": "b", "hint": null },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "aɪ", "display": "aɪ", "hint": "AI — diptongo, 'a' desliza a 'i'" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "d", "display": "d", "hint": null }
+                ]
+              },
+              {
+                "word": "Glory in", "image": null, "ipa": "ˈɡlɔːri ɪn",
+                "phonemes": [
+                  { "symbol": "g", "display": "g", "hint": "G — suave, sin golpe fuerte" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "ɔ", "display": "ɔ", "hint": "O abierta — labios redondeados, abierta" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "n", "display": "n", "hint": null }
+                ]
+              },
+              {
+                "word": "Sense", "image": null, "ipa": "sɛns",
+                "phonemes": [
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "ɛ", "display": "ɛ", "hint": "E abierta — más abierta que la 'e' española" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "s", "display": "s", "hint": null }
+                ]
+              },
+              {
+                "word": "Glory in", "image": null, "ipa": "ˈɡlɔːri ɪn",
+                "phonemes": [
+                  { "symbol": "g", "display": "g", "hint": "G — suave, sin golpe fuerte" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "ɔ", "display": "ɔ", "hint": "O abierta — labios redondeados, abierta" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "n", "display": "n", "hint": null }
+                ]
+              },
+              {
+                "word": "Provide", "image": null, "ipa": "prəˈvaɪd",
+                "phonemes": [
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "v", "display": "v", "hint": "V — labio inferior toca los dientes superiores, con voz" },
+                  { "symbol": "aɪ", "display": "aɪ", "hint": "AI — diptongo, 'a' desliza a 'i'" },
+                  { "symbol": "d", "display": "d", "hint": null }
+                ]
+              },
+              {
+                "word": "Beauty", "image": null, "ipa": "ˈbjuːti",
+                "phonemes": [
+                  { "symbol": "b", "display": "b", "hint": null },
+                  { "symbol": "j", "display": "j", "hint": "Y — como 'y' española breve antes de vocal" },
+                  { "symbol": "u", "display": "u", "hint": "U larga — labios redondeados y tensos" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" }
+                ]
+              },
+              {
+                "word": "The joy of sound", "image": null, "ipa": "ðə dʒɔɪ əv saʊnd",
+                "phonemes": [
+                  { "symbol": "ð", "display": "ð", "hint": "TH sonoro — lengua entre los dientes suave, como en 'the'" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "dʒ", "display": "dʒ", "hint": "DJ — como 'ch' pero con vibración" },
+                  { "symbol": "ɔɪ", "display": "ɔɪ", "hint": "OI — diptongo, 'o' desliza a 'i'" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "v", "display": "v", "hint": "V — labio inferior toca los dientes superiores, con voz" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "aʊ", "display": "aʊ", "hint": "AU — diptongo, 'a' desliza a 'u'" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "d", "display": "d", "hint": null }
+                ]
+              }
             ]
           },
           {
             "chapter": 6,
             "title": "Titulino - Frederick Douglass - Speeches of history Part 1",
             "words": [
-              { "word": "Mourn", "image": null },
-              { "word": "Independence", "image": null },
-              { "word": "This Fourth of July is yours, not mine", "image": null },
-              { "word": "Rejoice", "image": null },
-              { "word": "Justice", "image": null },
-              { "word": "Natural justice", "image": null },
-              { "word": "Mock", "image": null },
-              { "word": "Freedom", "image": null },
-              { "word": "Inhuman mockery", "image": null },
-              { "word": "Expose", "image": null },
-              { "word": "Hypocrisy", "image": null },
-              { "word": "Sacrilegious irony", "image": null },
-              { "word": "Condemn", "image": null },
-              { "word": "Oppression", "image": null },
-              { "word": "Fellow-citizens", "image": null }
+              {
+                "word": "Mourn", "image": null, "ipa": "mɔːrn",
+                "phonemes": [
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": "ɔ", "display": "ɔ", "hint": "O abierta — labios redondeados, abierta" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "n", "display": "n", "hint": null }
+                ]
+              },
+              {
+                "word": "Independence", "image": null, "ipa": "ˌɪndɪˈpɛndəns",
+                "phonemes": [
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "ɛ", "display": "ɛ", "hint": "E abierta — más abierta que la 'e' española" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "s", "display": "s", "hint": null }
+                ]
+              },
+              {
+                "word": "This Fourth of July is yours, not mine", "image": null, "ipa": "ðɪs fɔːrθ əv dʒəˈlaɪ",
+                "phonemes": [
+                  { "symbol": "ð", "display": "ð", "hint": "TH sonoro — lengua entre los dientes suave, como en 'the'" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "f", "display": "f", "hint": "F — labio inferior roza los dientes superiores, sin voz" },
+                  { "symbol": "ɔ", "display": "ɔ", "hint": "O abierta — labios redondeados, abierta" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "θ", "display": "θ", "hint": "TH sordo — lengua entre los dientes, como en 'think'" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "dʒ", "display": "dʒ", "hint": "DJ — como 'ch' pero con vibración" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "aɪ", "display": "aɪ", "hint": "AI — diptongo, 'a' desliza a 'i'" }
+                ]
+              },
+              {
+                "word": "Rejoice", "image": null, "ipa": "rɪˈdʒɔɪs",
+                "phonemes": [
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "dʒ", "display": "dʒ", "hint": "DJ — como 'ch' pero con vibración" },
+                  { "symbol": "ɔɪ", "display": "ɔɪ", "hint": "OI — diptongo, 'o' desliza a 'i'" },
+                  { "symbol": "s", "display": "s", "hint": null }
+                ]
+              },
+              {
+                "word": "Justice", "image": null, "ipa": "ˈdʒʌstɪs",
+                "phonemes": [
+                  { "symbol": "dʒ", "display": "dʒ", "hint": "DJ — como 'ch' pero con vibración" },
+                  { "symbol": "ʌ", "display": "ʌ", "hint": "A central — como 'a' pero más cerrada" },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "s", "display": "s", "hint": null }
+                ]
+              },
+              {
+                "word": "Natural justice", "image": null, "ipa": "ˈnætʃərəl ˈdʒʌstɪs",
+                "phonemes": [
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "æ", "display": "æ", "hint": "A abierta — boca muy abierta, entre 'a' y 'e'" },
+                  { "symbol": "tʃ", "display": "tʃ", "hint": "CH — como en español" },
+                  { "symbol": "ər", "display": "ər", "hint": "Schwa-R — vocal suave con r, sin rodar la lengua" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "dʒ", "display": "dʒ", "hint": "DJ — como 'ch' pero con vibración" },
+                  { "symbol": "ʌ", "display": "ʌ", "hint": "A central — como 'a' pero más cerrada" },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "s", "display": "s", "hint": null }
+                ]
+              },
+              {
+                "word": "Mock", "image": null, "ipa": "mɑk",
+                "phonemes": [
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": "ɑ", "display": "ɑ", "hint": "A oscura — abierta y posterior en la boca" },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" }
+                ]
+              },
+              {
+                "word": "Freedom", "image": null, "ipa": "ˈfriːdəm",
+                "phonemes": [
+                  { "symbol": "f", "display": "f", "hint": "F — labio inferior roza los dientes superiores, sin voz" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" },
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "m", "display": "m", "hint": null }
+                ]
+              },
+              {
+                "word": "Inhuman mockery", "image": null, "ipa": "ɪnˈhjuːmən ˈmɑkəri",
+                "phonemes": [
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "h", "display": "h", "hint": "H — soplo de aire suave" },
+                  { "symbol": "j", "display": "j", "hint": "Y — como 'y' española breve antes de vocal" },
+                  { "symbol": "u", "display": "u", "hint": "U larga — labios redondeados y tensos" },
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": "ɑ", "display": "ɑ", "hint": "A oscura — abierta y posterior en la boca" },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "ər", "display": "ər", "hint": "Schwa-R — vocal suave con r, sin rodar la lengua" },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" }
+                ]
+              },
+              {
+                "word": "Expose", "image": null, "ipa": "ɪkˈspoʊz",
+                "phonemes": [
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "oʊ", "display": "oʊ", "hint": "OU — diptongo, 'o' desliza a 'u'" },
+                  { "symbol": "z", "display": "z", "hint": "Z — como 's' pero vibra" }
+                ]
+              },
+              {
+                "word": "Hypocrisy", "image": null, "ipa": "hɪˈpɑkrəsi",
+                "phonemes": [
+                  { "symbol": "h", "display": "h", "hint": "H — soplo de aire suave" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "ɑ", "display": "ɑ", "hint": "A oscura — abierta y posterior en la boca" },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" }
+                ]
+              },
+              {
+                "word": "Sacrilegious irony", "image": null, "ipa": "ˌsækrɪˈlɪdʒəs ˈaɪrəni",
+                "phonemes": [
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "æ", "display": "æ", "hint": "A abierta — boca muy abierta, entre 'a' y 'e'" },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "dʒ", "display": "dʒ", "hint": "DJ — como 'ch' pero con vibración" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "aɪ", "display": "aɪ", "hint": "AI — diptongo, 'a' desliza a 'i'" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" }
+                ]
+              },
+              {
+                "word": "Condemn", "image": null, "ipa": "kənˈdɛm",
+                "phonemes": [
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": "ɛ", "display": "ɛ", "hint": "E abierta — más abierta que la 'e' española" },
+                  { "symbol": "m", "display": "m", "hint": null }
+                ]
+              },
+              {
+                "word": "Oppression", "image": null, "ipa": "əˈprɛʃən",
+                "phonemes": [
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "ɛ", "display": "ɛ", "hint": "E abierta — más abierta que la 'e' española" },
+                  { "symbol": "ʃ", "display": "ʃ", "hint": "SH — labios redondeados hacia adelante, sin vibrar" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "n", "display": "n", "hint": null }
+                ]
+              },
+              {
+                "word": "Fellow-citizens", "image": null, "ipa": "ˈfɛloʊ ˈsɪtɪzənz",
+                "phonemes": [
+                  { "symbol": "f", "display": "f", "hint": "F — labio inferior roza los dientes superiores, sin voz" },
+                  { "symbol": "ɛ", "display": "ɛ", "hint": "E abierta — más abierta que la 'e' española" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "oʊ", "display": "oʊ", "hint": "OU — diptongo, 'o' desliza a 'u'" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "z", "display": "z", "hint": "Z — como 's' pero vibra" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "z", "display": "z", "hint": "Z — como 's' pero vibra" }
+                ]
+              }
             ]
           },
           {
             "chapter": 7,
             "title": "Titulino - Queen Elizabeth - Speeches of history Part 1",
             "words": [
-              { "word": "Dare", "image": null },
-              { "word": "Realm", "image": null },
-              { "word": "Weak and feeble", "image": null },
-              { "word": "Invade", "image": null },
-              { "word": "Valor", "image": null },
-              { "word": "Heart and stomach of a king", "image": null },
-              { "word": "Command", "image": null },
-              { "word": "Victory", "image": null },
-              { "word": "Take up arms", "image": null },
-              { "word": "Assure", "image": null },
-              { "word": "Obedience", "image": null },
-              { "word": "In the word of a prince", "image": null },
-              { "word": "Reward", "image": null },
-              { "word": "Concord", "image": null },
-              { "word": "Enemies of my people", "image": null }
+              {
+                "word": "Dare", "image": null, "ipa": "dɛr",
+                "phonemes": [
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": "ɛ", "display": "ɛ", "hint": "E abierta — más abierta que la 'e' española" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" }
+                ]
+              },
+              {
+                "word": "Realm", "image": null, "ipa": "rɛlm",
+                "phonemes": [
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "ɛ", "display": "ɛ", "hint": "E abierta — más abierta que la 'e' española" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "m", "display": "m", "hint": null }
+                ]
+              },
+              {
+                "word": "Weak and feeble", "image": null, "ipa": "wiːk ænd ˈfiːbəl",
+                "phonemes": [
+                  { "symbol": "w", "display": "w", "hint": "W — labios redondeados como 'u', luego abre" },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "æ", "display": "æ", "hint": "A abierta — boca muy abierta, entre 'a' y 'e'" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "f", "display": "f", "hint": "F — labio inferior roza los dientes superiores, sin voz" },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" },
+                  { "symbol": "b", "display": "b", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" }
+                ]
+              },
+              {
+                "word": "Invade", "image": null, "ipa": "ɪnˈveɪd",
+                "phonemes": [
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "v", "display": "v", "hint": "V — labio inferior toca los dientes superiores, con voz" },
+                  { "symbol": "eɪ", "display": "eɪ", "hint": "AY — diptongo, 'e' desliza a 'i'" },
+                  { "symbol": "d", "display": "d", "hint": null }
+                ]
+              },
+              {
+                "word": "Valor", "image": null, "ipa": "ˈvælər",
+                "phonemes": [
+                  { "symbol": "v", "display": "v", "hint": "V — labio inferior toca los dientes superiores, con voz" },
+                  { "symbol": "æ", "display": "æ", "hint": "A abierta — boca muy abierta, entre 'a' y 'e'" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "ər", "display": "ər", "hint": "Schwa-R — vocal suave con r, sin rodar la lengua" }
+                ]
+              },
+              {
+                "word": "Heart and stomach of a king", "image": null, "ipa": "hɑːrt ænd ˈstʌmək əv ə kɪŋ",
+                "phonemes": [
+                  { "symbol": "h", "display": "h", "hint": "H — soplo de aire suave" },
+                  { "symbol": "ɑ", "display": "ɑ", "hint": "A oscura — abierta y posterior en la boca" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "æ", "display": "æ", "hint": "A abierta — boca muy abierta, entre 'a' y 'e'" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "ʌ", "display": "ʌ", "hint": "A central — como 'a' pero más cerrada" },
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "ŋ", "display": "ŋ", "hint": "NG — nasal posterior, como 'n' en 'banco'" }
+                ]
+              },
+              {
+                "word": "Command", "image": null, "ipa": "kəˈmænd",
+                "phonemes": [
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": "æ", "display": "æ", "hint": "A abierta — boca muy abierta, entre 'a' y 'e'" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "d", "display": "d", "hint": null }
+                ]
+              },
+              {
+                "word": "Victory", "image": null, "ipa": "ˈvɪktəri",
+                "phonemes": [
+                  { "symbol": "v", "display": "v", "hint": "V — labio inferior toca los dientes superiores, con voz" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "ər", "display": "ər", "hint": "Schwa-R — vocal suave con r, sin rodar la lengua" },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" }
+                ]
+              },
+              {
+                "word": "Take up arms", "image": null, "ipa": "teɪk ʌp ɑːrmz",
+                "phonemes": [
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "eɪ", "display": "eɪ", "hint": "AY — diptongo, 'e' desliza a 'i'" },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "ʌ", "display": "ʌ", "hint": "A central — como 'a' pero más cerrada" },
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "ɑ", "display": "ɑ", "hint": "A oscura — abierta y posterior en la boca" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": "z", "display": "z", "hint": "Z — como 's' pero vibra" }
+                ]
+              },
+              {
+                "word": "Assure", "image": null, "ipa": "əˈʃʊr",
+                "phonemes": [
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "ʃ", "display": "ʃ", "hint": "SH — labios redondeados hacia adelante, sin vibrar" },
+                  { "symbol": "ʊ", "display": "ʊ", "hint": "U corta — breve y relajada, entre 'u' y 'o'" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" }
+                ]
+              },
+              {
+                "word": "Obedience", "image": null, "ipa": "oʊˈbiːdiəns",
+                "phonemes": [
+                  { "symbol": "oʊ", "display": "oʊ", "hint": "OU — diptongo, 'o' desliza a 'u'" },
+                  { "symbol": "b", "display": "b", "hint": null },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" },
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "s", "display": "s", "hint": null }
+                ]
+              },
+              {
+                "word": "In the word of a prince", "image": null, "ipa": "ɪn ðə wɜːrd əv ə prɪns",
+                "phonemes": [
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "ð", "display": "ð", "hint": "TH sonoro — lengua entre los dientes suave, como en 'the'" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "w", "display": "w", "hint": "W — labios redondeados como 'u', luego abre" },
+                  { "symbol": "ər", "display": "ər", "hint": "Schwa-R — vocal suave con r, sin rodar la lengua" },
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "s", "display": "s", "hint": null }
+                ]
+              },
+              {
+                "word": "Reward", "image": null, "ipa": "rɪˈwɔːrd",
+                "phonemes": [
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "w", "display": "w", "hint": "W — labios redondeados como 'u', luego abre" },
+                  { "symbol": "ɔ", "display": "ɔ", "hint": "O abierta — labios redondeados, abierta" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "d", "display": "d", "hint": null }
+                ]
+              },
+              {
+                "word": "Concord", "image": null, "ipa": "ˈkɑŋkɔːrd",
+                "phonemes": [
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "ɑ", "display": "ɑ", "hint": "A oscura — abierta y posterior en la boca" },
+                  { "symbol": "ŋ", "display": "ŋ", "hint": "NG — nasal posterior, como 'n' en 'banco'" },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "ɔ", "display": "ɔ", "hint": "O abierta — labios redondeados, abierta" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "d", "display": "d", "hint": null }
+                ]
+              },
+              {
+                "word": "Enemies of my people", "image": null, "ipa": "ˈɛnəmiz əv maɪ ˈpiːpəl",
+                "phonemes": [
+                  { "symbol": "ɛ", "display": "ɛ", "hint": "E abierta — más abierta que la 'e' española" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" },
+                  { "symbol": "z", "display": "z", "hint": "Z — como 's' pero vibra" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": "aɪ", "display": "aɪ", "hint": "AI — diptongo, 'a' desliza a 'i'" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" },
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" }
+                ]
+              }
             ]
           },
           {
             "chapter": 8,
             "title": "Titulino - Buddah - Speeches of history Part 1",
             "words": [
-              { "word": "Result from", "image": null },
-              { "word": "Mind", "image": null },
-              { "word": "The mind is everything", "image": null },
-              { "word": "Follow", "image": null },
-              { "word": "Thought", "image": null },
-              { "word": "What we think we become", "image": null },
-              { "word": "Act", "image": null },
-              { "word": "Suffering", "image": null },
-              { "word": "Ended by love alone", "image": null },
-              { "word": "Hold on to", "image": null },
-              { "word": "Peace", "image": null },
-              { "word": "An eternal law", "image": null },
-              { "word": "Let go", "image": null },
-              { "word": "Hatred", "image": null },
-              { "word": "Bring calm", "image": null }
+              {
+                "word": "Result from", "image": null, "ipa": "rɪˈzʌlt frɑm",
+                "phonemes": [
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "z", "display": "z", "hint": "Z — como 's' pero vibra" },
+                  { "symbol": "ʌ", "display": "ʌ", "hint": "A central — como 'a' pero más cerrada" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "f", "display": "f", "hint": "F — labio inferior roza los dientes superiores, sin voz" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "ɑ", "display": "ɑ", "hint": "A oscura — abierta y posterior en la boca" },
+                  { "symbol": "m", "display": "m", "hint": null }
+                ]
+              },
+              {
+                "word": "Mind", "image": null, "ipa": "maɪnd",
+                "phonemes": [
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": "aɪ", "display": "aɪ", "hint": "AI — diptongo, 'a' desliza a 'i'" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "d", "display": "d", "hint": null }
+                ]
+              },
+              {
+                "word": "The mind is everything", "image": null, "ipa": "ðə maɪnd ɪz ˈɛvriθɪŋ",
+                "phonemes": [
+                  { "symbol": "ð", "display": "ð", "hint": "TH sonoro — lengua entre los dientes suave, como en 'the'" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": "aɪ", "display": "aɪ", "hint": "AI — diptongo, 'a' desliza a 'i'" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "ɛ", "display": "ɛ", "hint": "E abierta — más abierta que la 'e' española" },
+                  { "symbol": "v", "display": "v", "hint": "V — labio inferior toca los dientes superiores, con voz" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" },
+                  { "symbol": "θ", "display": "θ", "hint": "TH sordo — lengua entre los dientes, como en 'think'" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "ŋ", "display": "ŋ", "hint": "NG — nasal posterior, como 'n' en 'banco'" }
+                ]
+              },
+              {
+                "word": "Follow", "image": null, "ipa": "ˈfɑloʊ",
+                "phonemes": [
+                  { "symbol": "f", "display": "f", "hint": "F — labio inferior roza los dientes superiores, sin voz" },
+                  { "symbol": "ɑ", "display": "ɑ", "hint": "A oscura — abierta y posterior en la boca" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "oʊ", "display": "oʊ", "hint": "OU — diptongo, 'o' desliza a 'u'" }
+                ]
+              },
+              {
+                "word": "Thought", "image": null, "ipa": "θɔːt",
+                "phonemes": [
+                  { "symbol": "θ", "display": "θ", "hint": "TH sordo — lengua entre los dientes, como en 'think'" },
+                  { "symbol": "ɔ", "display": "ɔ", "hint": "O abierta — labios redondeados, abierta" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" }
+                ]
+              },
+              {
+                "word": "What we think we become", "image": null, "ipa": "wʌt wiː θɪŋk wiː bɪˈkʌm",
+                "phonemes": [
+                  { "symbol": "w", "display": "w", "hint": "W — labios redondeados como 'u', luego abre" },
+                  { "symbol": "ʌ", "display": "ʌ", "hint": "A central — como 'a' pero más cerrada" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "θ", "display": "θ", "hint": "TH sordo — lengua entre los dientes, como en 'think'" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "ŋ", "display": "ŋ", "hint": "NG — nasal posterior, como 'n' en 'banco'" },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "b", "display": "b", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "ʌ", "display": "ʌ", "hint": "A central — como 'a' pero más cerrada" },
+                  { "symbol": "m", "display": "m", "hint": null }
+                ]
+              },
+              {
+                "word": "Act", "image": null, "ipa": "ækt",
+                "phonemes": [
+                  { "symbol": "æ", "display": "æ", "hint": "A abierta — boca muy abierta, entre 'a' y 'e'" },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" }
+                ]
+              },
+              {
+                "word": "Suffering", "image": null, "ipa": "ˈsʌfərɪŋ",
+                "phonemes": [
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "ʌ", "display": "ʌ", "hint": "A central — como 'a' pero más cerrada" },
+                  { "symbol": "f", "display": "f", "hint": "F — labio inferior roza los dientes superiores, sin voz" },
+                  { "symbol": "ər", "display": "ər", "hint": "Schwa-R — vocal suave con r, sin rodar la lengua" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "ŋ", "display": "ŋ", "hint": "NG — nasal posterior, como 'n' en 'banco'" }
+                ]
+              },
+              {
+                "word": "Ended by love alone", "image": null, "ipa": "ˈɛndɪd baɪ lʌv əˈloʊn",
+                "phonemes": [
+                  { "symbol": "ɛ", "display": "ɛ", "hint": "E abierta — más abierta que la 'e' española" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "b", "display": "b", "hint": null },
+                  { "symbol": "aɪ", "display": "aɪ", "hint": "AI — diptongo, 'a' desliza a 'i'" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "ʌ", "display": "ʌ", "hint": "A central — como 'a' pero más cerrada" },
+                  { "symbol": "v", "display": "v", "hint": "V — labio inferior toca los dientes superiores, con voz" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "oʊ", "display": "oʊ", "hint": "OU — diptongo, 'o' desliza a 'u'" },
+                  { "symbol": "n", "display": "n", "hint": null }
+                ]
+              },
+              {
+                "word": "Hold on to", "image": null, "ipa": "hoʊld ɑn tuː",
+                "phonemes": [
+                  { "symbol": "h", "display": "h", "hint": "H — soplo de aire suave" },
+                  { "symbol": "oʊ", "display": "oʊ", "hint": "OU — diptongo, 'o' desliza a 'u'" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "ɑ", "display": "ɑ", "hint": "A oscura — abierta y posterior en la boca" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "u", "display": "u", "hint": "U larga — labios redondeados y tensos" }
+                ]
+              },
+              {
+                "word": "Peace", "image": null, "ipa": "piːs",
+                "phonemes": [
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" },
+                  { "symbol": "s", "display": "s", "hint": null }
+                ]
+              },
+              {
+                "word": "An eternal law", "image": null, "ipa": "æn ɪˈtɜːrnəl lɔː",
+                "phonemes": [
+                  { "symbol": "æ", "display": "æ", "hint": "A abierta — boca muy abierta, entre 'a' y 'e'" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "ər", "display": "ər", "hint": "Schwa-R — vocal suave con r, sin rodar la lengua" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "ɔ", "display": "ɔ", "hint": "O abierta — labios redondeados, abierta" }
+                ]
+              },
+              {
+                "word": "Let go", "image": null, "ipa": "lɛt ɡoʊ",
+                "phonemes": [
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "ɛ", "display": "ɛ", "hint": "E abierta — más abierta que la 'e' española" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "g", "display": "g", "hint": "G — suave, sin golpe fuerte" },
+                  { "symbol": "oʊ", "display": "oʊ", "hint": "OU — diptongo, 'o' desliza a 'u'" }
+                ]
+              },
+              {
+                "word": "Hatred", "image": null, "ipa": "ˈheɪtrɪd",
+                "phonemes": [
+                  { "symbol": "h", "display": "h", "hint": "H — soplo de aire suave" },
+                  { "symbol": "eɪ", "display": "eɪ", "hint": "AY — diptongo, 'e' desliza a 'i'" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "d", "display": "d", "hint": null }
+                ]
+              },
+              {
+                "word": "Bring calm", "image": null, "ipa": "brɪŋ kɑːm",
+                "phonemes": [
+                  { "symbol": "b", "display": "b", "hint": null },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "ŋ", "display": "ŋ", "hint": "NG — nasal posterior, como 'n' en 'banco'" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "ɑ", "display": "ɑ", "hint": "A oscura — abierta y posterior en la boca" },
+                  { "symbol": "m", "display": "m", "hint": null }
+                ]
+              }
             ]
           },
           {
             "chapter": 9,
             "title": "Titulino - Jane Addams - Speeches of history Part 1",
             "words": [
-              { "word": "Depend on", "image": null },
-              { "word": "Responsibility", "image": null },
-              { "word": "Common good", "image": null },
-              { "word": "Secure", "image": null },
-              { "word": "Community", "image": null },
-              { "word": "Social advance", "image": null },
-              { "word": "Increase", "image": null },
-              { "word": "Capacity", "image": null },
-              { "word": "Common life", "image": null },
-              { "word": "Advance", "image": null },
-              { "word": "Ethics", "image": null },
-              { "word": "Sense of responsibility", "image": null },
-              { "word": "Neglect", "image": null },
-              { "word": "Development", "image": null },
-              { "word": "Live apart", "image": null }
+              {
+                "word": "Depend on", "image": null, "ipa": "dɪˈpɛnd ɑn",
+                "phonemes": [
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "ɛ", "display": "ɛ", "hint": "E abierta — más abierta que la 'e' española" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "ɑ", "display": "ɑ", "hint": "A oscura — abierta y posterior en la boca" },
+                  { "symbol": "n", "display": "n", "hint": null }
+                ]
+              },
+              {
+                "word": "Responsibility", "image": null, "ipa": "rɪˌspɑnsəˈbɪlɪti",
+                "phonemes": [
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "ɑ", "display": "ɑ", "hint": "A oscura — abierta y posterior en la boca" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "b", "display": "b", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" }
+                ]
+              },
+              {
+                "word": "Common good", "image": null, "ipa": "ˈkɑmən ɡʊd",
+                "phonemes": [
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "ɑ", "display": "ɑ", "hint": "A oscura — abierta y posterior en la boca" },
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "g", "display": "g", "hint": "G — suave, sin golpe fuerte" },
+                  { "symbol": "ʊ", "display": "ʊ", "hint": "U corta — breve y relajada, entre 'u' y 'o'" },
+                  { "symbol": "d", "display": "d", "hint": null }
+                ]
+              },
+              {
+                "word": "Secure", "image": null, "ipa": "sɪˈkjʊr",
+                "phonemes": [
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "j", "display": "j", "hint": "Y — como 'y' española breve antes de vocal" },
+                  { "symbol": "ʊ", "display": "ʊ", "hint": "U corta — breve y relajada, entre 'u' y 'o'" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" }
+                ]
+              },
+              {
+                "word": "Community", "image": null, "ipa": "kəˈmjuːnɪti",
+                "phonemes": [
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": "j", "display": "j", "hint": "Y — como 'y' española breve antes de vocal" },
+                  { "symbol": "u", "display": "u", "hint": "U larga — labios redondeados y tensos" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" }
+                ]
+              },
+              {
+                "word": "Social advance", "image": null, "ipa": "ˈsoʊʃəl ədˈvæns",
+                "phonemes": [
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "oʊ", "display": "oʊ", "hint": "OU — diptongo, 'o' desliza a 'u'" },
+                  { "symbol": "ʃ", "display": "ʃ", "hint": "SH — labios redondeados hacia adelante, sin vibrar" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": "v", "display": "v", "hint": "V — labio inferior toca los dientes superiores, con voz" },
+                  { "symbol": "æ", "display": "æ", "hint": "A abierta — boca muy abierta, entre 'a' y 'e'" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "s", "display": "s", "hint": null }
+                ]
+              },
+              {
+                "word": "Increase", "image": null, "ipa": "ˈɪŋkriːs",
+                "phonemes": [
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "ŋ", "display": "ŋ", "hint": "NG — nasal posterior, como 'n' en 'banco'" },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" },
+                  { "symbol": "s", "display": "s", "hint": null }
+                ]
+              },
+              {
+                "word": "Capacity", "image": null, "ipa": "kəˈpæsɪti",
+                "phonemes": [
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "æ", "display": "æ", "hint": "A abierta — boca muy abierta, entre 'a' y 'e'" },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" }
+                ]
+              },
+              {
+                "word": "Common life", "image": null, "ipa": "ˈkɑmən laɪf",
+                "phonemes": [
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "ɑ", "display": "ɑ", "hint": "A oscura — abierta y posterior en la boca" },
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "aɪ", "display": "aɪ", "hint": "AI — diptongo, 'a' desliza a 'i'" },
+                  { "symbol": "f", "display": "f", "hint": "F — labio inferior roza los dientes superiores, sin voz" }
+                ]
+              },
+              {
+                "word": "Advance", "image": null, "ipa": "ədˈvæns",
+                "phonemes": [
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": "v", "display": "v", "hint": "V — labio inferior toca los dientes superiores, con voz" },
+                  { "symbol": "æ", "display": "æ", "hint": "A abierta — boca muy abierta, entre 'a' y 'e'" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "s", "display": "s", "hint": null }
+                ]
+              },
+              {
+                "word": "Ethics", "image": null, "ipa": "ˈɛθɪks",
+                "phonemes": [
+                  { "symbol": "ɛ", "display": "ɛ", "hint": "E abierta — más abierta que la 'e' española" },
+                  { "symbol": "θ", "display": "θ", "hint": "TH sordo — lengua entre los dientes, como en 'think'" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "s", "display": "s", "hint": null }
+                ]
+              },
+              {
+                "word": "Sense of responsibility", "image": null, "ipa": "sɛns əv rɪˌspɑnsəˈbɪlɪti",
+                "phonemes": [
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "ɛ", "display": "ɛ", "hint": "E abierta — más abierta que la 'e' española" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "ɑ", "display": "ɑ", "hint": "A oscura — abierta y posterior en la boca" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "b", "display": "b", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" }
+                ]
+              },
+              {
+                "word": "Neglect", "image": null, "ipa": "nɪˈɡlɛkt",
+                "phonemes": [
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "g", "display": "g", "hint": "G — suave, sin golpe fuerte" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "ɛ", "display": "ɛ", "hint": "E abierta — más abierta que la 'e' española" },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" }
+                ]
+              },
+              {
+                "word": "Development", "image": null, "ipa": "dɪˈvɛləpmənt",
+                "phonemes": [
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "v", "display": "v", "hint": "V — labio inferior toca los dientes superiores, con voz" },
+                  { "symbol": "ɛ", "display": "ɛ", "hint": "E abierta — más abierta que la 'e' española" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" }
+                ]
+              },
+              {
+                "word": "Live apart", "image": null, "ipa": "lɪv əˈpɑːrt",
+                "phonemes": [
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "v", "display": "v", "hint": "V — labio inferior toca los dientes superiores, con voz" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "ɑ", "display": "ɑ", "hint": "A oscura — abierta y posterior en la boca" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" }
+                ]
+              }
             ]
           },
           {
             "chapter": 10,
             "title": "Titulino - Marcus Aurelius - Speeches of history Part 1",
             "words": [
-              { "word": "Meet with", "image": null },
-              { "word": "Ignorance", "image": null },
-              { "word": "According to nature", "image": null },
-              { "word": "Waste", "image": null },
-              { "word": "Justice", "image": null },
-              { "word": "Waste no more time", "image": null },
-              { "word": "Revoke", "image": null },
-              { "word": "Happiness", "image": null },
-              { "word": "Esteem of it", "image": null },
-              { "word": "Depend on", "image": null },
-              { "word": "Quality", "image": null },
-              { "word": "Quality of your thoughts", "image": null },
-              { "word": "Co-operate", "image": null },
-              { "word": "Duty", "image": null },
-              { "word": "Live each day", "image": null }
+              {
+                "word": "Meet with", "image": null, "ipa": "miːt wɪð",
+                "phonemes": [
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "w", "display": "w", "hint": "W — labios redondeados como 'u', luego abre" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "ð", "display": "ð", "hint": "TH sonoro — lengua entre los dientes suave, como en 'the'" }
+                ]
+              },
+              {
+                "word": "Ignorance", "image": null, "ipa": "ˈɪɡnərəns",
+                "phonemes": [
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "g", "display": "g", "hint": "G — suave, sin golpe fuerte" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "ər", "display": "ər", "hint": "Schwa-R — vocal suave con r, sin rodar la lengua" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "s", "display": "s", "hint": null }
+                ]
+              },
+              {
+                "word": "According to nature", "image": null, "ipa": "əˈkɔːrdɪŋ tə ˈneɪtʃər",
+                "phonemes": [
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "ɔ", "display": "ɔ", "hint": "O abierta — labios redondeados, abierta" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "ŋ", "display": "ŋ", "hint": "NG — nasal posterior, como 'n' en 'banco'" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "eɪ", "display": "eɪ", "hint": "AY — diptongo, 'e' desliza a 'i'" },
+                  { "symbol": "tʃ", "display": "tʃ", "hint": "CH — como en español" },
+                  { "symbol": "ər", "display": "ər", "hint": "Schwa-R — vocal suave con r, sin rodar la lengua" }
+                ]
+              },
+              {
+                "word": "Waste", "image": null, "ipa": "weɪst",
+                "phonemes": [
+                  { "symbol": "w", "display": "w", "hint": "W — labios redondeados como 'u', luego abre" },
+                  { "symbol": "eɪ", "display": "eɪ", "hint": "AY — diptongo, 'e' desliza a 'i'" },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" }
+                ]
+              },
+              {
+                "word": "Justice", "image": null, "ipa": "ˈdʒʌstɪs",
+                "phonemes": [
+                  { "symbol": "dʒ", "display": "dʒ", "hint": "DJ — como 'ch' pero con vibración" },
+                  { "symbol": "ʌ", "display": "ʌ", "hint": "A central — como 'a' pero más cerrada" },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "s", "display": "s", "hint": null }
+                ]
+              },
+              {
+                "word": "Waste no more time", "image": null, "ipa": "weɪst noʊ mɔːr taɪm",
+                "phonemes": [
+                  { "symbol": "w", "display": "w", "hint": "W — labios redondeados como 'u', luego abre" },
+                  { "symbol": "eɪ", "display": "eɪ", "hint": "AY — diptongo, 'e' desliza a 'i'" },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "oʊ", "display": "oʊ", "hint": "OU — diptongo, 'o' desliza a 'u'" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": "ɔ", "display": "ɔ", "hint": "O abierta — labios redondeados, abierta" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "aɪ", "display": "aɪ", "hint": "AI — diptongo, 'a' desliza a 'i'" },
+                  { "symbol": "m", "display": "m", "hint": null }
+                ]
+              },
+              {
+                "word": "Revoke", "image": null, "ipa": "rɪˈvoʊk",
+                "phonemes": [
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "v", "display": "v", "hint": "V — labio inferior toca los dientes superiores, con voz" },
+                  { "symbol": "oʊ", "display": "oʊ", "hint": "OU — diptongo, 'o' desliza a 'u'" },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" }
+                ]
+              },
+              {
+                "word": "Happiness", "image": null, "ipa": "ˈhæpɪnɪs",
+                "phonemes": [
+                  { "symbol": "h", "display": "h", "hint": "H — soplo de aire suave" },
+                  { "symbol": "æ", "display": "æ", "hint": "A abierta — boca muy abierta, entre 'a' y 'e'" },
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "s", "display": "s", "hint": null }
+                ]
+              },
+              {
+                "word": "Esteem of it", "image": null, "ipa": "ɪˈstiːm əv ɪt",
+                "phonemes": [
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" },
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "v", "display": "v", "hint": "V — labio inferior toca los dientes superiores, con voz" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" }
+                ]
+              },
+              {
+                "word": "Depend on", "image": null, "ipa": "dɪˈpɛnd ɑn",
+                "phonemes": [
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "ɛ", "display": "ɛ", "hint": "E abierta — más abierta que la 'e' española" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "ɑ", "display": "ɑ", "hint": "A oscura — abierta y posterior en la boca" },
+                  { "symbol": "n", "display": "n", "hint": null }
+                ]
+              },
+              {
+                "word": "Quality", "image": null, "ipa": "ˈkwɑlɪti",
+                "phonemes": [
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "w", "display": "w", "hint": "W — labios redondeados como 'u', luego abre" },
+                  { "symbol": "ɑ", "display": "ɑ", "hint": "A oscura — abierta y posterior en la boca" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" }
+                ]
+              },
+              {
+                "word": "Quality of your thoughts", "image": null, "ipa": "ˈkwɑlɪti əv jɔːr θɔːts",
+                "phonemes": [
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "w", "display": "w", "hint": "W — labios redondeados como 'u', luego abre" },
+                  { "symbol": "ɑ", "display": "ɑ", "hint": "A oscura — abierta y posterior en la boca" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "j", "display": "j", "hint": "Y — como 'y' española breve antes de vocal" },
+                  { "symbol": "ɔ", "display": "ɔ", "hint": "O abierta — labios redondeados, abierta" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "θ", "display": "θ", "hint": "TH sordo — lengua entre los dientes, como en 'think'" },
+                  { "symbol": "ɔ", "display": "ɔ", "hint": "O abierta — labios redondeados, abierta" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "s", "display": "s", "hint": null }
+                ]
+              },
+              {
+                "word": "Co-operate", "image": null, "ipa": "koʊˈɑpəreɪt",
+                "phonemes": [
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "oʊ", "display": "oʊ", "hint": "OU — diptongo, 'o' desliza a 'u'" },
+                  { "symbol": "ɑ", "display": "ɑ", "hint": "A oscura — abierta y posterior en la boca" },
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "ər", "display": "ər", "hint": "Schwa-R — vocal suave con r, sin rodar la lengua" },
+                  { "symbol": "eɪ", "display": "eɪ", "hint": "AY — diptongo, 'e' desliza a 'i'" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" }
+                ]
+              },
+              {
+                "word": "Duty", "image": null, "ipa": "ˈdjuːti",
+                "phonemes": [
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": "j", "display": "j", "hint": "Y — como 'y' española breve antes de vocal" },
+                  { "symbol": "u", "display": "u", "hint": "U larga — labios redondeados y tensos" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" }
+                ]
+              },
+              {
+                "word": "Live each day", "image": null, "ipa": "lɪv iːtʃ deɪ",
+                "phonemes": [
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "v", "display": "v", "hint": "V — labio inferior toca los dientes superiores, con voz" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" },
+                  { "symbol": "tʃ", "display": "tʃ", "hint": "CH — como en español" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": "eɪ", "display": "eɪ", "hint": "AY — diptongo, 'e' desliza a 'i'" }
+                ]
+              }
             ]
           },
           {
             "chapter": 11,
             "title": "Titulino - Franes Ellen Watkins Harper - Speeches of history Part 1",
             "words": [
-              { "word": "Bind", "image": null },
-              { "word": "Humanity", "image": null },
-              { "word": "Bound up together", "image": null },
-              { "word": "Trample", "image": null },
-              { "word": "Justice", "image": null },
-              { "word": "Human family", "image": null },
-              { "word": "Deny", "image": null },
-              { "word": "Responsibility", "image": null },
-              { "word": "Moral progress", "image": null },
-              { "word": "Suffer", "image": null },
-              { "word": "Education", "image": null },
-              { "word": "Lift as we climb", "image": null },
-              { "word": "Feeble", "image": null },
-              { "word": "Progress", "image": null },
-              { "word": "Common responsibility", "image": null }
+              {
+                "word": "Bind", "image": null, "ipa": "baɪnd",
+                "phonemes": [
+                  { "symbol": "b", "display": "b", "hint": null },
+                  { "symbol": "aɪ", "display": "aɪ", "hint": "AI — diptongo, 'a' desliza a 'i'" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "d", "display": "d", "hint": null }
+                ]
+              },
+              {
+                "word": "Humanity", "image": null, "ipa": "hjuːˈmænɪti",
+                "phonemes": [
+                  { "symbol": "h", "display": "h", "hint": "H — soplo de aire suave" },
+                  { "symbol": "j", "display": "j", "hint": "Y — como 'y' española breve antes de vocal" },
+                  { "symbol": "u", "display": "u", "hint": "U larga — labios redondeados y tensos" },
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": "æ", "display": "æ", "hint": "A abierta — boca muy abierta, entre 'a' y 'e'" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" }
+                ]
+              },
+              {
+                "word": "Bound up together", "image": null, "ipa": "baʊnd ʌp təˈɡɛðər",
+                "phonemes": [
+                  { "symbol": "b", "display": "b", "hint": null },
+                  { "symbol": "aʊ", "display": "aʊ", "hint": "AU — diptongo, 'a' desliza a 'u'" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "ʌ", "display": "ʌ", "hint": "A central — como 'a' pero más cerrada" },
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "g", "display": "g", "hint": "G — suave, sin golpe fuerte" },
+                  { "symbol": "ɛ", "display": "ɛ", "hint": "E abierta — más abierta que la 'e' española" },
+                  { "symbol": "ð", "display": "ð", "hint": "TH sonoro — lengua entre los dientes suave, como en 'the'" },
+                  { "symbol": "ər", "display": "ər", "hint": "Schwa-R — vocal suave con r, sin rodar la lengua" }
+                ]
+              },
+              {
+                "word": "Trample", "image": null, "ipa": "ˈtræmpəl",
+                "phonemes": [
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "æ", "display": "æ", "hint": "A abierta — boca muy abierta, entre 'a' y 'e'" },
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" }
+                ]
+              },
+              {
+                "word": "Justice", "image": null, "ipa": "ˈdʒʌstɪs",
+                "phonemes": [
+                  { "symbol": "dʒ", "display": "dʒ", "hint": "DJ — como 'ch' pero con vibración" },
+                  { "symbol": "ʌ", "display": "ʌ", "hint": "A central — como 'a' pero más cerrada" },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "s", "display": "s", "hint": null }
+                ]
+              },
+              {
+                "word": "Human family", "image": null, "ipa": "ˈhjuːmən ˈfæməli",
+                "phonemes": [
+                  { "symbol": "h", "display": "h", "hint": "H — soplo de aire suave" },
+                  { "symbol": "j", "display": "j", "hint": "Y — como 'y' española breve antes de vocal" },
+                  { "symbol": "u", "display": "u", "hint": "U larga — labios redondeados y tensos" },
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "f", "display": "f", "hint": "F — labio inferior roza los dientes superiores, sin voz" },
+                  { "symbol": "æ", "display": "æ", "hint": "A abierta — boca muy abierta, entre 'a' y 'e'" },
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" }
+                ]
+              },
+              {
+                "word": "Deny", "image": null, "ipa": "dɪˈnaɪ",
+                "phonemes": [
+                  { "symbol": "d", "display": "d", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "aɪ", "display": "aɪ", "hint": "AI — diptongo, 'a' desliza a 'i'" }
+                ]
+              },
+              {
+                "word": "Responsibility", "image": null, "ipa": "rɪˌspɑnsəˈbɪlɪti",
+                "phonemes": [
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "ɑ", "display": "ɑ", "hint": "A oscura — abierta y posterior en la boca" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "b", "display": "b", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" }
+                ]
+              },
+              {
+                "word": "Moral progress", "image": null, "ipa": "ˈmɔːrəl ˈprɑɡrɛs",
+                "phonemes": [
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": "ɔ", "display": "ɔ", "hint": "O abierta — labios redondeados, abierta" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "ɑ", "display": "ɑ", "hint": "A oscura — abierta y posterior en la boca" },
+                  { "symbol": "g", "display": "g", "hint": "G — suave, sin golpe fuerte" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "ɛ", "display": "ɛ", "hint": "E abierta — más abierta que la 'e' española" },
+                  { "symbol": "s", "display": "s", "hint": null }
+                ]
+              },
+              {
+                "word": "Suffer", "image": null, "ipa": "ˈsʌfər",
+                "phonemes": [
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "ʌ", "display": "ʌ", "hint": "A central — como 'a' pero más cerrada" },
+                  { "symbol": "f", "display": "f", "hint": "F — labio inferior roza los dientes superiores, sin voz" },
+                  { "symbol": "ər", "display": "ər", "hint": "Schwa-R — vocal suave con r, sin rodar la lengua" }
+                ]
+              },
+              {
+                "word": "Education", "image": null, "ipa": "ˌɛdʒuˈkeɪʃən",
+                "phonemes": [
+                  { "symbol": "ɛ", "display": "ɛ", "hint": "E abierta — más abierta que la 'e' española" },
+                  { "symbol": "dʒ", "display": "dʒ", "hint": "DJ — como 'ch' pero con vibración" },
+                  { "symbol": "u", "display": "u", "hint": "U larga — labios redondeados y tensos" },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "eɪ", "display": "eɪ", "hint": "AY — diptongo, 'e' desliza a 'i'" },
+                  { "symbol": "ʃ", "display": "ʃ", "hint": "SH — labios redondeados hacia adelante, sin vibrar" },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "n", "display": "n", "hint": null }
+                ]
+              },
+              {
+                "word": "Lift as we climb", "image": null, "ipa": "lɪft æz wiː klaɪm",
+                "phonemes": [
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "f", "display": "f", "hint": "F — labio inferior roza los dientes superiores, sin voz" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "æ", "display": "æ", "hint": "A abierta — boca muy abierta, entre 'a' y 'e'" },
+                  { "symbol": "z", "display": "z", "hint": "Z — como 's' pero vibra" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "w", "display": "w", "hint": "W — labios redondeados como 'u', luego abre" },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "aɪ", "display": "aɪ", "hint": "AI — diptongo, 'a' desliza a 'i'" },
+                  { "symbol": "m", "display": "m", "hint": null }
+                ]
+              },
+              {
+                "word": "Feeble", "image": null, "ipa": "ˈfiːbəl",
+                "phonemes": [
+                  { "symbol": "f", "display": "f", "hint": "F — labio inferior roza los dientes superiores, sin voz" },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" },
+                  { "symbol": "b", "display": "b", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" }
+                ]
+              },
+              {
+                "word": "Progress", "image": null, "ipa": "ˈprɑɡrɛs",
+                "phonemes": [
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "ɑ", "display": "ɑ", "hint": "A oscura — abierta y posterior en la boca" },
+                  { "symbol": "g", "display": "g", "hint": "G — suave, sin golpe fuerte" },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "ɛ", "display": "ɛ", "hint": "E abierta — más abierta que la 'e' española" },
+                  { "symbol": "s", "display": "s", "hint": null }
+                ]
+              },
+              {
+                "word": "Common responsibility", "image": null, "ipa": "ˈkɑmən rɪˌspɑnsəˈbɪlɪti",
+                "phonemes": [
+                  { "symbol": "k", "display": "k", "hint": "K — sin puff de aire, parte trasera de la lengua al paladar" },
+                  { "symbol": "ɑ", "display": "ɑ", "hint": "A oscura — abierta y posterior en la boca" },
+                  { "symbol": "m", "display": "m", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": " ", "display": " ", "hint": null },
+                  { "symbol": "r", "display": "r", "hint": "R inglés — lengua sin tocar el paladar, labios neutros" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "p", "display": "p", "hint": null },
+                  { "symbol": "ɑ", "display": "ɑ", "hint": "A oscura — abierta y posterior en la boca" },
+                  { "symbol": "n", "display": "n", "hint": null },
+                  { "symbol": "s", "display": "s", "hint": null },
+                  { "symbol": "ə", "display": "ə", "hint": "Schwa — vocal neutra, sin énfasis" },
+                  { "symbol": "b", "display": "b", "hint": null },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "l", "display": "l", "hint": "L — punta de lengua detrás de dientes superiores" },
+                  { "symbol": "ɪ", "display": "ɪ", "hint": "I corta — breve y relajada, entre 'i' y 'e'" },
+                  { "symbol": "t", "display": "t", "hint": "T — punta de lengua detrás de dientes, sin puff de aire" },
+                  { "symbol": "i", "display": "i", "hint": "I larga — tensa y estirada, como 'i' española" }
+                ]
+              }
             ]
           }
         ]
