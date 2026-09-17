@@ -9,82 +9,25 @@
             "chapter": 1,
             "title": "Food - Vegetables: Part 1",
             "words": [
-              {
-                "word": "cauliflower",
-                "image": "cauliflower"
-              },
-              {
-                "word": "broccoli",
-                "image": "broccoli"
-              },
-              {
-                "word": "cabbage",
-                "image": "cabbage"
-              },
-              {
-                "word": "brussels",
-                "image": "brussels"
-              },
-              {
-                "word": "watercress",
-                "image": "watercress"
-              },
-              {
-                "word": "lettuce",
-                "image": "lettuce"
-              },
-              {
-                "word": "escarole",
-                "image": "escarole"
-              },
-              {
-                "word": "spinach",
-                "image": "spinach"
-              },
-              {
-                "word": "herb",
-                "image": "herb"
-              },
-              {
-                "word": "celery",
-                "image": "celery"
-              },
-              {
-                "word": "artichoke",
-                "image": "artichoke"
-              },
-              {
-                "word": "corn",
-                "image": "corn"
-              },
-              {
-                "word": "kidney beans",
-                "image": "kidney-beans"
-              },
-              {
-                "word": "black beans",
-                "image": "black-beans"
-              },
-              {
-                "word": "green string beans",
-                "image": "green-string-beans"
-              },
-              {
-                "word": "lima beans",
-                "image": "lima-beans"
-              },
-              {
-                "word": "peas",
-                "image": "peas"
-              },
-              {
-                "word": "asparagus",
-                "image": "asparagus"
-              },
-              {
-                "word": "lentils",
-                "image": "lentils"
-              }
+              { "itemId": "supermarket-ch1-001", "word": "cauliflower", "image": "cauliflower" },
+              { "itemId": "supermarket-ch1-002", "word": "broccoli", "image": "broccoli" },
+              { "itemId": "supermarket-ch1-003", "word": "cabbage", "image": "cabbage" },
+              { "itemId": "supermarket-ch1-004", "word": "brussels", "image": "brussels" },
+              { "itemId": "supermarket-ch1-005", "word": "watercress", "image": "watercress" },
+              { "itemId": "supermarket-ch1-006", "word": "lettuce", "image": "lettuce" },
+              { "itemId": "supermarket-ch1-007", "word": "escarole", "image": "escarole" },
+              { "itemId": "supermarket-ch1-008", "word": "spinach", "image": "spinach" },
+              { "itemId": "supermarket-ch1-009", "word": "herb", "image": "herb" },
+              { "itemId": "supermarket-ch1-010", "word": "celery", "image": "celery" },
+              { "itemId": "supermarket-ch1-011", "word": "artichoke", "image": "artichoke" },
+              { "itemId": "supermarket-ch1-012", "word": "corn", "image": "corn" },
+              { "itemId": "supermarket-ch1-013", "word": "kidney beans", "image": "kidney-beans" },
+              { "itemId": "supermarket-ch1-014", "word": "black beans", "image": "black-beans" },
+              { "itemId": "supermarket-ch1-015", "word": "green string beans", "image": "green-string-beans" },
+              { "itemId": "supermarket-ch1-016", "word": "lima beans", "image": "lima-beans" },
+              { "itemId": "supermarket-ch1-017", "word": "peas", "image": "peas" },
+              { "itemId": "supermarket-ch1-018", "word": "asparagus", "image": "asparagus" },
+              { "itemId": "supermarket-ch1-019", "word": "lentils", "image": "lentils" }
             ]
           },
           {
