@@ -1,0 +1,678 @@
+{
+  "schemaVersion": "2.0",
+  "targetLanguage": "es",
+  "targetLocale": "es-419",
+  "startBand": "A2",
+  "bandOrder": [
+    "A1",
+    "A2",
+    "B1",
+    "B2",
+    "C1",
+    "C2"
+  ],
+  "bands": {
+    "A1": {
+      "passMark": 2,
+      "writingPromptKey": null,
+      "questions": [
+        {
+          "id": "es-a1-01",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Ella ___ médica.",
+          "options": [
+            "es",
+            "está",
+            "son",
+            "están"
+          ],
+          "correct": "es",
+          "concept": "verb.ser-permanent"
+        },
+        {
+          "id": "es-a1-02",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "___ niña juega en el parque.",
+          "options": [
+            "La",
+            "El",
+            "Los",
+            "Las"
+          ],
+          "correct": "La",
+          "concept": "form.article-definite"
+        },
+        {
+          "id": "es-a1-03",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "___ somos amigos.",
+          "options": [
+            "Nosotros",
+            "Ustedes",
+            "Ellos",
+            "Yo"
+          ],
+          "correct": "Nosotros",
+          "concept": "form.pronoun-subject"
+        },
+        {
+          "id": "es-a1-04",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Una ciudad, dos ___.",
+          "options": [
+            "ciudades",
+            "ciudads",
+            "cuidades",
+            "ciudas"
+          ],
+          "correct": "ciudades",
+          "concept": "form.plural"
+        },
+        {
+          "id": "es-a1-05",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Yo ___ en Monterrey.",
+          "options": [
+            "vivo",
+            "vives",
+            "vive",
+            "vivimos"
+          ],
+          "correct": "vivo",
+          "concept": "verb.present-simple"
+        }
+      ],
+      "pronunciationItems": [
+        {
+          "itemId": "es-a1-p01",
+          "text": "hola",
+          "ipa": "ˈola",
+          "focusPhoneme": "o",
+          "phonemes": [
+            "o",
+            "l",
+            "a"
+          ]
+        },
+        {
+          "itemId": "es-a1-p02",
+          "text": "niña",
+          "ipa": "ˈniɲa",
+          "focusPhoneme": "ɲ",
+          "phonemes": [
+            "n",
+            "i",
+            "ɲ",
+            "a"
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "passMark": 2,
+      "writingPromptKey": null,
+      "questions": [
+        {
+          "id": "es-a2-01",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Ayer ella ___ al mercado.",
+          "options": [
+            "fue",
+            "va",
+            "iba",
+            "iría"
+          ],
+          "correct": "fue",
+          "concept": "verb.preterito-indefinido"
+        },
+        {
+          "id": "es-a2-02",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "El café ___ frío.",
+          "options": [
+            "está",
+            "es",
+            "ser",
+            "estar"
+          ],
+          "correct": "está",
+          "concept": "verb.estar-temporary"
+        },
+        {
+          "id": "es-a2-03",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Ella ___ a las siete cada mañana.",
+          "options": [
+            "se levanta",
+            "levanta",
+            "se levantan",
+            "levantamos"
+          ],
+          "correct": "se levanta",
+          "concept": "verb.reflexive"
+        },
+        {
+          "id": "es-a2-04",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Voy ___ la tienda.",
+          "options": [
+            "a",
+            "en",
+            "de",
+            "para"
+          ],
+          "correct": "a",
+          "concept": "form.preposition-direction"
+        },
+        {
+          "id": "es-a2-05",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.chooseCorrectSentence",
+          "stem": null,
+          "options": [
+            "No fui al trabajo ayer.",
+            "Fui no al trabajo ayer.",
+            "No al trabajo fui ayer.",
+            "Ayer no fue al trabajo yo."
+          ],
+          "correct": "No fui al trabajo ayer.",
+          "concept": "syntax.negation"
+        }
+      ],
+      "pronunciationItems": [
+        {
+          "itemId": "es-a2-p01",
+          "text": "mercado",
+          "ipa": "meɾˈkaðo",
+          "focusPhoneme": "ɾ",
+          "phonemes": [
+            "m",
+            "e",
+            "ɾ",
+            "k",
+            "a",
+            "ð",
+            "o"
+          ]
+        },
+        {
+          "itemId": "es-a2-p02",
+          "text": "trabajo",
+          "ipa": "tɾaˈβaxo",
+          "focusPhoneme": "x",
+          "phonemes": [
+            "t",
+            "ɾ",
+            "a",
+            "β",
+            "a",
+            "x",
+            "o"
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "passMark": 2,
+      "writingPromptKey": "assessment.writing.b1",
+      "questions": [
+        {
+          "id": "es-b1-01",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Espero que ella ___ mañana.",
+          "options": [
+            "venga",
+            "viene",
+            "vino",
+            "vendrá"
+          ],
+          "correct": "venga",
+          "concept": "verb.subjunctive-present"
+        },
+        {
+          "id": "es-b1-02",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Cuando era niño, ___ en el parque todos los días.",
+          "options": [
+            "jugaba",
+            "jugué",
+            "jugaré",
+            "jugaría"
+          ],
+          "correct": "jugaba",
+          "concept": "verb.imperfecto"
+        },
+        {
+          "id": "es-b1-03",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Estudio inglés ___ mejorar mi trabajo.",
+          "options": [
+            "para",
+            "por",
+            "a",
+            "de"
+          ],
+          "correct": "para",
+          "concept": "form.preposition-purpose"
+        },
+        {
+          "id": "es-b1-04",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "La película ___ vi ayer fue muy emocionante.",
+          "options": [
+            "que",
+            "quien",
+            "cual",
+            "donde"
+          ],
+          "correct": "que",
+          "concept": "syntax.relative-pronoun"
+        },
+        {
+          "id": "es-b1-05",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Si tengo tiempo, ___ contigo al cine.",
+          "options": [
+            "iré",
+            "iría",
+            "voy",
+            "fuera"
+          ],
+          "correct": "iré",
+          "concept": "verb.conditional-first"
+        }
+      ],
+      "pronunciationItems": [
+        {
+          "itemId": "es-b1-p01",
+          "text": "ciudad",
+          "ipa": "sjuˈðað",
+          "focusPhoneme": "s",
+          "phonemes": [
+            "s",
+            "j",
+            "u",
+            "ð",
+            "a",
+            "ð"
+          ]
+        },
+        {
+          "itemId": "es-b1-p02",
+          "text": "perro",
+          "ipa": "ˈpero",
+          "focusPhoneme": "r",
+          "phonemes": [
+            "p",
+            "e",
+            "r",
+            "o"
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "passMark": 2,
+      "writingPromptKey": "assessment.writing.b2",
+      "questions": [
+        {
+          "id": "es-b2-01",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Si yo ___ más dinero, viajaría por el mundo.",
+          "options": [
+            "tuviera",
+            "tengo",
+            "tenga",
+            "tendría"
+          ],
+          "correct": "tuviera",
+          "concept": "verb.subjunctive-imperfect"
+        },
+        {
+          "id": "es-b2-02",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "___ muchos libros en esta tienda.",
+          "options": [
+            "Se venden",
+            "Se vende",
+            "Son vendidos",
+            "Está vendido"
+          ],
+          "correct": "Se venden",
+          "concept": "syntax.passive-se"
+        },
+        {
+          "id": "es-b2-03",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Si pudiera, ___ más tiempo con mi familia.",
+          "options": [
+            "pasaría",
+            "pasara",
+            "pase",
+            "pasé"
+          ],
+          "correct": "pasaría",
+          "concept": "verb.conditional-simple"
+        },
+        {
+          "id": "es-b2-04",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "El informe, ___ fue publicado ayer, generó controversia.",
+          "options": [
+            "el cual",
+            "que",
+            "quien",
+            "lo que"
+          ],
+          "correct": "el cual",
+          "concept": "syntax.relative-nonrestrictive"
+        },
+        {
+          "id": "es-b2-05",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Su argumento fue tan ___ que nadie pudo rebatirlo.",
+          "options": [
+            "contundente",
+            "fuerte",
+            "duro",
+            "firme"
+          ],
+          "correct": "contundente",
+          "concept": "lexis.precision-adjective"
+        }
+      ],
+      "pronunciationItems": [
+        {
+          "itemId": "es-b2-p01",
+          "text": "desarrollo",
+          "ipa": "desaˈroʝo",
+          "focusPhoneme": "ʝ",
+          "phonemes": [
+            "d",
+            "e",
+            "s",
+            "a",
+            "r",
+            "o",
+            "ʝ",
+            "o"
+          ]
+        },
+        {
+          "itemId": "es-b2-p02",
+          "text": "abogado",
+          "ipa": "aβoˈɣaðo",
+          "focusPhoneme": "ɣ",
+          "phonemes": [
+            "a",
+            "β",
+            "o",
+            "ɣ",
+            "a",
+            "ð",
+            "o"
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "passMark": 2,
+      "writingPromptKey": "assessment.writing.c1",
+      "questions": [
+        {
+          "id": "es-c1-01",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Si hubiera sabido la verdad, no ___ tan confiado.",
+          "options": [
+            "habría sido",
+            "sería",
+            "fuera",
+            "sea"
+          ],
+          "correct": "habría sido",
+          "concept": "verb.conditional-perfect"
+        },
+        {
+          "id": "es-c1-02",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Aunque ___ mucho dinero, no cambiaría mis valores.",
+          "options": [
+            "tuviera",
+            "tengo",
+            "tenga",
+            "tendría"
+          ],
+          "correct": "tuviera",
+          "concept": "verb.subjunctive-after-aunque"
+        },
+        {
+          "id": "es-c1-03",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "En este informe se ___ los principales desafíos del sector.",
+          "options": [
+            "abordan",
+            "hablan",
+            "tratan",
+            "discuten"
+          ],
+          "correct": "abordan",
+          "concept": "lexis.register-academic"
+        },
+        {
+          "id": "es-c1-04",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "___ la verdad, todo habría sido diferente.",
+          "options": [
+            "De haber sabido",
+            "Si hubiera sabido",
+            "Hubiera sabido",
+            "Habría sabido"
+          ],
+          "correct": "De haber sabido",
+          "concept": "syntax.inversion-conditional"
+        },
+        {
+          "id": "es-c1-05",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "No sólo ___ tarde, sino que también olvidó los documentos.",
+          "options": [
+            "llegó",
+            "llegó ella",
+            "ella llegó",
+            "llegara"
+          ],
+          "correct": "llegó",
+          "concept": "syntax.inversion-emphatic"
+        }
+      ],
+      "pronunciationItems": [
+        {
+          "itemId": "es-c1-p01",
+          "text": "extraordinario",
+          "ipa": "ekstɾaoɾðiˈnaɾjo",
+          "focusPhoneme": "ɾ",
+          "phonemes": [
+            "e",
+            "k",
+            "s",
+            "t",
+            "ɾ",
+            "a",
+            "o",
+            "ɾ",
+            "ð",
+            "i",
+            "n",
+            "a",
+            "ɾ",
+            "j",
+            "o"
+          ]
+        },
+        {
+          "itemId": "es-c1-p02",
+          "text": "quirúrgico",
+          "ipa": "kiˈɾuɾxiko",
+          "focusPhoneme": "x",
+          "phonemes": [
+            "k",
+            "i",
+            "ɾ",
+            "u",
+            "ɾ",
+            "x",
+            "i",
+            "k",
+            "o"
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "passMark": 2,
+      "writingPromptKey": "assessment.writing.c2",
+      "questions": [
+        {
+          "id": "es-c2-01",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "No creo que eso ___ completamente cierto.",
+          "options": [
+            "sea",
+            "es",
+            "fue",
+            "era"
+          ],
+          "correct": "sea",
+          "concept": "verb.subjunctive-negated-belief"
+        },
+        {
+          "id": "es-c2-02",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Si lo ___ antes, todo habría sido diferente.",
+          "options": [
+            "hubiera sabido",
+            "habría sabido",
+            "supiera",
+            "sepa"
+          ],
+          "correct": "hubiera sabido",
+          "concept": "verb.subjunctive-pluperfect"
+        },
+        {
+          "id": "es-c2-03",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "El filósofo ___ una pregunta que nadie había considerado antes.",
+          "options": [
+            "planteó",
+            "preguntó",
+            "propuso",
+            "sugirió"
+          ],
+          "correct": "planteó",
+          "concept": "lexis.precision-academic"
+        },
+        {
+          "id": "es-c2-04",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.chooseCorrectSentence",
+          "stem": null,
+          "options": [
+            "Cabe reconocer los méritos de este argumento; no obstante, la evidencia apunta en sentido contrario.",
+            "Claramente este argumento está equivocado porque los datos lo demuestran.",
+            "Sí, pero en realidad eso no es correcto.",
+            "Supongo que podría tener razón, aunque nadie realmente lo piensa."
+          ],
+          "correct": "Cabe reconocer los méritos de este argumento; no obstante, la evidencia apunta en sentido contrario.",
+          "concept": "syntax.discourse-concession"
+        },
+        {
+          "id": "es-c2-05",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Su afirmación es una ___: cuanto más explica, menos se entiende.",
+          "options": [
+            "paradoja",
+            "contradicción",
+            "confusión",
+            "enigma"
+          ],
+          "correct": "paradoja",
+          "concept": "lexis.precision-rhetorical"
+        }
+      ],
+      "pronunciationItems": [
+        {
+          "itemId": "es-c2-p01",
+          "text": "idiosincrasia",
+          "ipa": "iðjosiŋˈkɾasja",
+          "focusPhoneme": "ð",
+          "phonemes": [
+            "i",
+            "ð",
+            "j",
+            "o",
+            "s",
+            "i",
+            "ŋ",
+            "k",
+            "ɾ",
+            "a",
+            "s",
+            "j",
+            "a"
+          ]
+        },
+        {
+          "itemId": "es-c2-p02",
+          "text": "paradójicamente",
+          "ipa": "paɾaðoxikaˈmente",
+          "focusPhoneme": "x",
+          "phonemes": [
+            "p",
+            "a",
+            "ɾ",
+            "a",
+            "ð",
+            "o",
+            "x",
+            "i",
+            "k",
+            "a",
+            "m",
+            "e",
+            "n",
+            "t",
+            "e"
+          ]
+        }
+      ]
+    }
+  }
+}

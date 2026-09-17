@@ -1,0 +1,669 @@
+{
+  "schemaVersion": "2.0",
+  "targetLanguage": "pt",
+  "targetLocale": "pt-BR",
+  "startBand": "A2",
+  "bandOrder": [
+    "A1",
+    "A2",
+    "B1",
+    "B2",
+    "C1",
+    "C2"
+  ],
+  "bands": {
+    "A1": {
+      "passMark": 2,
+      "writingPromptKey": null,
+      "questions": [
+        {
+          "id": "pt-a1-01",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Ela ___ professora.",
+          "options": [
+            "é",
+            "está",
+            "são",
+            "estão"
+          ],
+          "correct": "é",
+          "concept": "verb.ser-permanent"
+        },
+        {
+          "id": "pt-a1-02",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "___ livro está na mesa.",
+          "options": [
+            "O",
+            "A",
+            "Os",
+            "As"
+          ],
+          "correct": "O",
+          "concept": "form.article-definite"
+        },
+        {
+          "id": "pt-a1-03",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Eu ___ café de manhã.",
+          "options": [
+            "bebo",
+            "bebe",
+            "bebemos",
+            "bebem"
+          ],
+          "correct": "bebo",
+          "concept": "verb.present-simple"
+        },
+        {
+          "id": "pt-a1-04",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Um país, dois ___.",
+          "options": [
+            "países",
+            "paiss",
+            "paies",
+            "paises"
+          ],
+          "correct": "países",
+          "concept": "form.plural"
+        },
+        {
+          "id": "pt-a1-05",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.chooseCorrectSentence",
+          "stem": null,
+          "options": [
+            "Eu não falo inglês.",
+            "Eu falo não inglês.",
+            "Não eu falo inglês.",
+            "Eu não falar inglês."
+          ],
+          "correct": "Eu não falo inglês.",
+          "concept": "syntax.negation"
+        }
+      ],
+      "pronunciationItems": [
+        {
+          "itemId": "pt-a1-p01",
+          "text": "não",
+          "ipa": "nɐ̃w̃",
+          "focusPhoneme": "ɐ̃w̃",
+          "phonemes": [
+            "n",
+            "ɐ̃w̃"
+          ]
+        },
+        {
+          "itemId": "pt-a1-p02",
+          "text": "dia",
+          "ipa": "ˈdʒiɐ",
+          "focusPhoneme": "dʒ",
+          "phonemes": [
+            "dʒ",
+            "i",
+            "ɐ"
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "passMark": 2,
+      "writingPromptKey": null,
+      "questions": [
+        {
+          "id": "pt-a2-01",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Ontem ela ___ ao mercado.",
+          "options": [
+            "foi",
+            "vai",
+            "ia",
+            "iria"
+          ],
+          "correct": "foi",
+          "concept": "verb.preterito-perfeito"
+        },
+        {
+          "id": "pt-a2-02",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "O café ___ frio.",
+          "options": [
+            "está",
+            "é",
+            "ser",
+            "estar"
+          ],
+          "correct": "está",
+          "concept": "verb.estar-temporary"
+        },
+        {
+          "id": "pt-a2-03",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Ela ___ às sete horas todos os dias.",
+          "options": [
+            "se levanta",
+            "levanta",
+            "se levantam",
+            "levantam-se"
+          ],
+          "correct": "se levanta",
+          "concept": "verb.reflexive"
+        },
+        {
+          "id": "pt-a2-04",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Eu moro ___ Brasil.",
+          "options": [
+            "no",
+            "em o",
+            "ao",
+            "pelo"
+          ],
+          "correct": "no",
+          "concept": "form.contraction"
+        },
+        {
+          "id": "pt-a2-05",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.chooseCorrectSentence",
+          "stem": null,
+          "options": [
+            "Ela não foi ao trabalho ontem.",
+            "Ela foi ao trabalho não ontem.",
+            "Ela não fosse ao trabalho ontem.",
+            "Ela não ir ao trabalho ontem."
+          ],
+          "correct": "Ela não foi ao trabalho ontem.",
+          "concept": "verb.past-negation"
+        }
+      ],
+      "pronunciationItems": [
+        {
+          "itemId": "pt-a2-p01",
+          "text": "Brasil",
+          "ipa": "bɾaˈziw",
+          "focusPhoneme": "w",
+          "phonemes": [
+            "b",
+            "ɾ",
+            "a",
+            "z",
+            "i",
+            "w"
+          ]
+        },
+        {
+          "itemId": "pt-a2-p02",
+          "text": "trabalho",
+          "ipa": "tɾaˈbaʎu",
+          "focusPhoneme": "ʎ",
+          "phonemes": [
+            "t",
+            "ɾ",
+            "a",
+            "b",
+            "a",
+            "ʎ",
+            "u"
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "passMark": 2,
+      "writingPromptKey": "assessment.writing.b1",
+      "questions": [
+        {
+          "id": "pt-b1-01",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Quando era criança, ___ no parque todos os dias.",
+          "options": [
+            "brincava",
+            "brinquei",
+            "brincarei",
+            "brincaria"
+          ],
+          "correct": "brincava",
+          "concept": "verb.imperfeito"
+        },
+        {
+          "id": "pt-b1-02",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Espero que ela ___ amanhã.",
+          "options": [
+            "venha",
+            "vem",
+            "veio",
+            "virá"
+          ],
+          "correct": "venha",
+          "concept": "verb.subjunctive-present"
+        },
+        {
+          "id": "pt-b1-03",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Estudo inglês ___ melhorar meu trabalho.",
+          "options": [
+            "para",
+            "por",
+            "a",
+            "de"
+          ],
+          "correct": "para",
+          "concept": "form.preposition-purpose"
+        },
+        {
+          "id": "pt-b1-04",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "O filme ___ vi ontem foi incrível.",
+          "options": [
+            "que",
+            "quem",
+            "qual",
+            "onde"
+          ],
+          "correct": "que",
+          "concept": "syntax.relative-pronoun"
+        },
+        {
+          "id": "pt-b1-05",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Se tiver tempo, ___ com você ao cinema.",
+          "options": [
+            "irei",
+            "iria",
+            "vou",
+            "fosse"
+          ],
+          "correct": "irei",
+          "concept": "verb.conditional-first"
+        }
+      ],
+      "pronunciationItems": [
+        {
+          "itemId": "pt-b1-p01",
+          "text": "coração",
+          "ipa": "koɾaˈsɐ̃w̃",
+          "focusPhoneme": "ɐ̃w̃",
+          "phonemes": [
+            "k",
+            "o",
+            "ɾ",
+            "a",
+            "s",
+            "ɐ̃w̃"
+          ]
+        },
+        {
+          "itemId": "pt-b1-p02",
+          "text": "gente",
+          "ipa": "ˈʒẽtʃi",
+          "focusPhoneme": "ʒ",
+          "phonemes": [
+            "ʒ",
+            "ẽ",
+            "tʃ",
+            "i"
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "passMark": 2,
+      "writingPromptKey": "assessment.writing.b2",
+      "questions": [
+        {
+          "id": "pt-b2-01",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Se eu ___ mais dinheiro, viajaria pelo mundo.",
+          "options": [
+            "tivesse",
+            "tenho",
+            "tenha",
+            "teria"
+          ],
+          "correct": "tivesse",
+          "concept": "verb.subjunctive-imperfect"
+        },
+        {
+          "id": "pt-b2-02",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Quando você chegar, eu já ___ o jantar.",
+          "options": [
+            "terei feito",
+            "terei fazer",
+            "farei",
+            "faria"
+          ],
+          "correct": "terei feito",
+          "concept": "verb.future-perfect"
+        },
+        {
+          "id": "pt-b2-03",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Muitos livros ___ nesta loja.",
+          "options": [
+            "são vendidos",
+            "se vende",
+            "vendem",
+            "é vendido"
+          ],
+          "correct": "são vendidos",
+          "concept": "syntax.passive"
+        },
+        {
+          "id": "pt-b2-04",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Se eu fosse você, ___ mais cuidado.",
+          "options": [
+            "teria",
+            "tivesse",
+            "tenha",
+            "tinha"
+          ],
+          "correct": "teria",
+          "concept": "verb.conditional-simple"
+        },
+        {
+          "id": "pt-b2-05",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "O relatório ___ os principais desafios do setor.",
+          "options": [
+            "aborda",
+            "fala",
+            "trata",
+            "discute"
+          ],
+          "correct": "aborda",
+          "concept": "lexis.register-academic"
+        }
+      ],
+      "pronunciationItems": [
+        {
+          "itemId": "pt-b2-p01",
+          "text": "melhor",
+          "ipa": "meˈʎɔʁ",
+          "focusPhoneme": "ʁ",
+          "phonemes": [
+            "m",
+            "e",
+            "ʎ",
+            "ɔ",
+            "ʁ"
+          ]
+        },
+        {
+          "itemId": "pt-b2-p02",
+          "text": "diferença",
+          "ipa": "dʒifeˈɾẽsɐ",
+          "focusPhoneme": "ẽ",
+          "phonemes": [
+            "dʒ",
+            "i",
+            "f",
+            "e",
+            "ɾ",
+            "ẽ",
+            "s",
+            "ɐ"
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "passMark": 2,
+      "writingPromptKey": "assessment.writing.c1",
+      "questions": [
+        {
+          "id": "pt-c1-01",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Se eu tivesse estudado mais, ___ aprovado no exame.",
+          "options": [
+            "teria sido",
+            "seria",
+            "fosse",
+            "tivesse sido"
+          ],
+          "correct": "teria sido",
+          "concept": "verb.conditional-perfect"
+        },
+        {
+          "id": "pt-c1-02",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Embora ___ muito, não conseguiu terminar o projeto.",
+          "options": [
+            "trabalhasse",
+            "trabalhou",
+            "trabalha",
+            "trabalharia"
+          ],
+          "correct": "trabalhasse",
+          "concept": "verb.subjunctive-after-embora"
+        },
+        {
+          "id": "pt-c1-03",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "A empresa ___ contratar novos funcionários.",
+          "options": [
+            "optou por",
+            "decidiu",
+            "escolheu",
+            "preferiu"
+          ],
+          "correct": "optou por",
+          "concept": "lexis.precision-formal"
+        },
+        {
+          "id": "pt-c1-04",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "___ isso antes, tudo teria sido diferente.",
+          "options": [
+            "Tivesse sabido",
+            "Se tivesse sabido",
+            "Sabia",
+            "Teria sabido"
+          ],
+          "correct": "Tivesse sabido",
+          "concept": "syntax.inversion-conditional"
+        },
+        {
+          "id": "pt-c1-05",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "O relatório, ___ foi publicado ontem, gerou muita controvérsia.",
+          "options": [
+            "o qual",
+            "que",
+            "quem",
+            "o que"
+          ],
+          "correct": "o qual",
+          "concept": "syntax.relative-nonrestrictive"
+        }
+      ],
+      "pronunciationItems": [
+        {
+          "itemId": "pt-c1-p01",
+          "text": "desenvolvimento",
+          "ipa": "dezẽvowviˈmẽtu",
+          "focusPhoneme": "ẽ",
+          "phonemes": [
+            "d",
+            "e",
+            "z",
+            "ẽ",
+            "v",
+            "o",
+            "w",
+            "v",
+            "i",
+            "m",
+            "ẽ",
+            "t",
+            "u"
+          ]
+        },
+        {
+          "itemId": "pt-c1-p02",
+          "text": "atualmente",
+          "ipa": "atuawˈmẽtʃi",
+          "focusPhoneme": "w",
+          "phonemes": [
+            "a",
+            "t",
+            "u",
+            "a",
+            "w",
+            "m",
+            "ẽ",
+            "tʃ",
+            "i"
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "passMark": 2,
+      "writingPromptKey": "assessment.writing.c2",
+      "questions": [
+        {
+          "id": "pt-c2-01",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Não é certo que eles ___ a tempo.",
+          "options": [
+            "cheguem",
+            "chegam",
+            "chegarão",
+            "chegaram"
+          ],
+          "correct": "cheguem",
+          "concept": "verb.subjunctive-negated-certainty"
+        },
+        {
+          "id": "pt-c2-02",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "É importante vocês ___ cedo à reunião.",
+          "options": [
+            "chegarem",
+            "chegar",
+            "chegam",
+            "cheguem"
+          ],
+          "correct": "chegarem",
+          "concept": "verb.infinitive-personal"
+        },
+        {
+          "id": "pt-c2-03",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Sua afirmação é um ___: quanto mais ela explica, menos entendemos.",
+          "options": [
+            "paradoxo",
+            "contradição",
+            "confusão",
+            "enigma"
+          ],
+          "correct": "paradoxo",
+          "concept": "lexis.precision-rhetorical"
+        },
+        {
+          "id": "pt-c2-04",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.completeSentence",
+          "stem": "Os dados ___ uma forte correlação entre as variáveis.",
+          "options": [
+            "evidenciam",
+            "mostram",
+            "indicam",
+            "revelam"
+          ],
+          "correct": "evidenciam",
+          "concept": "lexis.precision-academic"
+        },
+        {
+          "id": "pt-c2-05",
+          "type": "mcq",
+          "instructionKey": "assessment.instruction.chooseCorrectSentence",
+          "stem": null,
+          "options": [
+            "É verdade que o argumento tem méritos; no entanto, as evidências apontam em direção contrária.",
+            "Claramente este argumento está errado porque os dados mostram o oposto.",
+            "Ok, talvez haja um ponto aí, mas na verdade não.",
+            "Acho que poderia fazer sentido, embora ninguém realmente pense nisso."
+          ],
+          "correct": "É verdade que o argumento tem méritos; no entanto, as evidências apontam em direção contrária.",
+          "concept": "syntax.discourse-concession"
+        }
+      ],
+      "pronunciationItems": [
+        {
+          "itemId": "pt-c2-p01",
+          "text": "paradoxalmente",
+          "ipa": "paɾadoksawˈmẽtʃi",
+          "focusPhoneme": "tʃ",
+          "phonemes": [
+            "p",
+            "a",
+            "ɾ",
+            "a",
+            "d",
+            "o",
+            "k",
+            "s",
+            "a",
+            "w",
+            "m",
+            "ẽ",
+            "tʃ",
+            "i"
+          ]
+        },
+        {
+          "itemId": "pt-c2-p02",
+          "text": "inquestionável",
+          "ipa": "ĩkestʃionaˈvew",
+          "focusPhoneme": "ĩ",
+          "phonemes": [
+            "ĩ",
+            "k",
+            "e",
+            "s",
+            "tʃ",
+            "i",
+            "o",
+            "n",
+            "a",
+            "v",
+            "e",
+            "w"
+          ]
+        }
+      ]
+    }
+  }
+}

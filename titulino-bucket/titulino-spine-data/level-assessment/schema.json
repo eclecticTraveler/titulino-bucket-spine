@@ -1,82 +1,147 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "titulino-level-assessment-bank-v1.0",
-  "title": "Titulino Language Level Assessment Question Bank",
-  "description": "Schema for adaptive CEFR question banks. Each file covers one language pair (targetLanguage-from-nativeLanguage). UI instructions use nativeLanguage; all question content and options are in targetLanguage.",
+  "$id": "titulino-level-assessment-bank-v2.0",
+  "title": "Titulino Level Assessment Question Bank v2.0",
+
+  "description": "One bank per TARGET language (en.json, es.json, pt.json) — never per language pair. The assessed material must be identical for every base language, or CEFR levels are not comparable between learners. CONVENTIONS FOR ANYONE ADDING CONTENT: (1) `stem` and `options` are target-language content and are NEVER translated. (2) Everything the learner reads in their own language — instructions, writing prompts, band labels, can-do text, phoneme hints — lives in the app i18n bundles (es_US.json / en_US.json / pt_BR.json) and is referenced here only by key. (3) ID format is {lang}-{band}-{nn} for questions and {lang}-{band}-p{nn} for pronunciation items, lowercase, two-digit zero-padded; e.g. en-b1-03, en-b1-p01. No 'assessment-' prefix: these ids appear only in assessment tables and never collide with the course namespace (supermarket-ch1-001). (4) Every band must hold 5 questions covering 5 DISTINCT `concept` values — the engine draws 2 of 5 at random, so duplicate concepts within a band can leave a band measuring only one grammar point. (5) Locale variants are enforced: en-US General American, pt-BR Brazilian, es-419 Latin American. No vosotros, no European Portuguese, no British spelling. IPA follows the same variants — critically, Spanish is seseo, so the phoneme θ must never appear in es.json.",
+
   "type": "object",
-  "required": ["schemaVersion", "languagePair", "nativeLanguage", "targetLanguage", "startBand", "bandOrder", "bands"],
+  "required": ["schemaVersion", "targetLanguage", "targetLocale", "startBand", "bandOrder", "bands"],
+  "additionalProperties": false,
+
   "properties": {
-    "schemaVersion": { "type": "string" },
-    "languagePair": {
-      "type": "string",
-      "description": "Filename key: targetLanguage-from-nativeLanguage, e.g. en-from-es"
+    "schemaVersion": {
+      "const": "2.0",
+      "description": "Loaders must validate this and fail loudly on mismatch rather than silently misreading a bank."
     },
-    "nativeLanguage": { "type": "string", "enum": ["es", "en", "pt"] },
-    "targetLanguage": { "type": "string", "enum": ["es", "en", "pt"] },
+    "targetLanguage": {
+      "enum": ["en", "es", "pt"],
+      "description": "The language being assessed. Matches the filename."
+    },
+    "targetLocale": {
+      "enum": ["en-US", "es-419", "pt-BR"],
+      "description": "Content variant. es-419 is the metadata tag for Latin American Spanish; Azure speech uses es-MX for the same variant — both are correct in their own context, do not 'fix' one to match the other."
+    },
     "startBand": {
-      "type": "string",
-      "description": "Band where the test begins for a user with no prior enrollment level. Usually A2."
+      "const": "A2",
+      "description": "Always A2. Never derived from enrollment level — enrollment level is self-reported and unreliable, and a varying entry point would make results non-comparable."
     },
     "bandOrder": {
       "type": "array",
-      "items": { "type": "string" },
-      "description": "Ordered list of band keys from easiest to hardest"
+      "items": { "enum": ["A1", "A2", "B1", "B2", "C1", "C2"] },
+      "minItems": 6,
+      "maxItems": 6
     },
     "bands": {
       "type": "object",
-      "description": "One key per CEFR band",
-      "additionalProperties": {
-        "type": "object",
-        "required": ["label", "passMark", "writingPrompt", "questions"],
-        "properties": {
-          "label": {
-            "type": "string",
-            "description": "Human-readable level name in nativeLanguage"
-          },
-          "passMark": {
-            "type": "integer",
-            "minimum": 1,
-            "description": "Number of correct answers out of 2 needed to advance to next band"
-          },
-          "writingPrompt": {
-            "type": ["string", "null"],
-            "description": "Prompt shown to authenticated users after MCQ branching completes at this band. Null for A1/A2. Written in nativeLanguage."
-          },
-          "questions": {
-            "type": "array",
-            "minItems": 4,
-            "description": "Pool of questions for this band. 2 are selected randomly per test run.",
-            "items": {
-              "type": "object",
-              "required": ["id", "type", "prompt", "correct"],
-              "properties": {
-                "id": {
-                  "type": "string",
-                  "description": "Unique stable ID: targetLang-band-NNN, e.g. en-b1-003"
-                },
-                "type": {
-                  "type": "string",
-                  "enum": ["mcq", "fill"],
-                  "description": "mcq: multiple choice with options[]. fill: single-word blank."
-                },
-                "prompt": {
-                  "type": "string",
-                  "description": "Question text. Meta-instruction in nativeLanguage; content being tested in targetLanguage."
-                },
-                "options": {
-                  "type": "array",
-                  "items": { "type": "string" },
-                  "minItems": 3,
-                  "maxItems": 4,
-                  "description": "Required for type=mcq. Answer choices in targetLanguage."
-                },
-                "correct": {
-                  "type": "string",
-                  "description": "The correct answer. Must exactly match one of options[] for mcq type."
-                }
-              }
-            }
-          }
+      "required": ["A1", "A2", "B1", "B2", "C1", "C2"],
+      "additionalProperties": false,
+      "patternProperties": {
+        "^(A1|A2|B1|B2|C1|C2)$": { "$ref": "#/definitions/band" }
+      }
+    }
+  },
+
+  "definitions": {
+
+    "band": {
+      "type": "object",
+      "required": ["passMark", "writingPromptKey", "questions", "pronunciationItems"],
+      "additionalProperties": false,
+      "properties": {
+        "passMark": { "const": 2 },
+        "writingPromptKey": {
+          "type": ["string", "null"],
+          "pattern": "^assessment\\.writing\\.(b1|b2|c1|c2)$",
+          "description": "i18n key, NOT literal text — the prompt is written in the learner's base language and injects the target language as a {targetLanguage} parameter. MUST be null on A1 and A2: those learners cannot produce usable written output."
+        },
+        "questions": {
+          "type": "array",
+          "minItems": 5,
+          "maxItems": 5,
+          "items": { "$ref": "#/definitions/question" }
+        },
+        "pronunciationItems": {
+          "type": "array",
+          "minItems": 2,
+          "maxItems": 3,
+          "items": { "$ref": "#/definitions/pronunciationItem" }
+        }
+      }
+    },
+
+    "question": {
+      "type": "object",
+      "required": ["id", "type", "instructionKey", "stem", "options", "correct", "concept"],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^(en|es|pt)-(a1|a2|b1|b2|c1|c2)-[0-9]{2}$",
+          "description": "e.g. en-b1-03"
+        },
+        "type": { "const": "mcq" },
+        "instructionKey": {
+          "enum": [
+            "assessment.instruction.completeSentence",
+            "assessment.instruction.chooseCorrectSentence",
+            "assessment.instruction.chooseMeaning",
+            "assessment.instruction.chooseWordForMeaning",
+            "assessment.instruction.transform",
+            "assessment.instruction.chooseQuestion"
+          ],
+          "description": "Six keys only. The instruction says what ACTION the learner performs; anything more specific ('choose the present subjunctive for a wish') is concept detail and belongs in `concept`, not here."
+        },
+        "stem": {
+          "type": ["string", "null"],
+          "description": "Target language, never translated. null only for chooseCorrectSentence, where the options are complete sentences and there is nothing to prompt with."
+        },
+        "options": {
+          "type": "array",
+          "minItems": 4,
+          "maxItems": 4,
+          "items": { "type": "string" },
+          "description": "Target language, never translated. Distractors should be diagnostic — each wrong option ideally corresponds to a known error for the audience, not random noise."
+        },
+        "correct": {
+          "type": "string",
+          "description": "Must match one entry in options exactly."
+        },
+        "concept": {
+          "type": "string",
+          "pattern": "^(verb|syntax|lexis|form)\\.[a-z0-9-]+$",
+          "description": "Namespaced grammar point, used for deterministic weak-area feedback with no AI. Four families: verb.* syntax.* lexis.* form.*. The vocabulary is shared across languages but BAND PLACEMENT is per-language — the subjunctive is B1 in Spanish and Portuguese (everyday speech) but C1 in English (rare, formal)."
+        }
+      }
+    },
+
+    "pronunciationItem": {
+      "type": "object",
+      "required": ["itemId", "text", "ipa", "focusPhoneme", "phonemes"],
+      "additionalProperties": false,
+      "properties": {
+        "itemId": {
+          "type": "string",
+          "pattern": "^(en|es|pt)-(a1|a2|b1|b2|c1|c2)-p[0-9]{2}$",
+          "description": "e.g. en-b1-p01. Stable and opaque — do not derive meaning from it in code."
+        },
+        "text": {
+          "type": "string",
+          "description": "The word or phrase the learner says. Target language."
+        },
+        "ipa": {
+          "type": "string",
+          "description": "Locale-correct IPA. en-US General American: rhotic, ae in dance, schwa-r. es-419: SESEO — theta must never appear (cielo is 'sjelo); yeismo (llave is 'ʝaβe). pt-BR: palatalisation t/d to tʃ/dʒ before i (dia is 'dʒiɐ); coda l to w (Brasil is bɾa'ziw); nasal vowels; open/close e-ɛ and o-ɔ."
+        },
+        "focusPhoneme": {
+          "type": "string",
+          "description": "The sound this item is chosen to drill. Must appear in phonemes[]. Not rendered by PhonemeDrawer today — carried as authoring metadata so weak-phoneme aggregation is possible later."
+        },
+        "phonemes": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "type": "string" },
+          "description": "Symbols only, in order. Multi-character units stay whole (tʃ, dʒ, eɪ, oʊ, nasal diphthongs). Hint TEXT is not stored here: a hint depends on both the target phoneme and the learner's base language, so the UI resolves assessment.phoneme.hint.{target}.{symbol} from i18n. Phonemes that transfer cleanly from the base language take no hint at all."
         }
       }
     }
