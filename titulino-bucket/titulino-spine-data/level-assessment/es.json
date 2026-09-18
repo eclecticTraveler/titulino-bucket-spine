@@ -92,6 +92,7 @@
           "itemId": "es-a1-p01",
           "text": "hola",
           "ipa": "ˈola",
+          "itemType": "word",
           "focusPhoneme": "o",
           "phonemes": [
             "o",
@@ -103,12 +104,26 @@
           "itemId": "es-a1-p02",
           "text": "niña",
           "ipa": "ˈniɲa",
+          "itemType": "word",
           "focusPhoneme": "ɲ",
           "phonemes": [
             "n",
             "i",
             "ɲ",
             "a"
+          ]
+        },
+        {
+          "itemId": "es-a1-p03",
+          "text": "perro",
+          "ipa": "ˈpero",
+          "itemType": "word",
+          "focusPhoneme": "r",
+          "phonemes": [
+            "p",
+            "e",
+            "r",
+            "o"
           ]
         }
       ]
@@ -193,6 +208,7 @@
           "itemId": "es-a2-p01",
           "text": "mercado",
           "ipa": "meɾˈkaðo",
+          "itemType": "word",
           "focusPhoneme": "ɾ",
           "phonemes": [
             "m",
@@ -208,6 +224,7 @@
           "itemId": "es-a2-p02",
           "text": "trabajo",
           "ipa": "tɾaˈβaxo",
+          "itemType": "word",
           "focusPhoneme": "x",
           "phonemes": [
             "t",
@@ -217,6 +234,21 @@
             "a",
             "x",
             "o"
+          ]
+        },
+        {
+          "itemId": "es-a2-p03",
+          "text": "ciudad",
+          "ipa": "sjuˈðað",
+          "itemType": "word",
+          "focusPhoneme": "s",
+          "phonemes": [
+            "s",
+            "j",
+            "u",
+            "ð",
+            "a",
+            "ð"
           ]
         }
       ]
@@ -299,28 +331,42 @@
       "pronunciationItems": [
         {
           "itemId": "es-b1-p01",
-          "text": "ciudad",
-          "ipa": "sjuˈðað",
-          "focusPhoneme": "s",
+          "text": "el carro rojo",
+          "ipa": "el ˈkaro ˈroxo",
+          "itemType": "phrase",
+          "focusPhoneme": "r",
           "phonemes": [
-            "s",
-            "j",
-            "u",
-            "ð",
+            "e",
+            "l",
+            "k",
             "a",
-            "ð"
+            "r",
+            "o",
+            "r",
+            "o",
+            "x",
+            "o"
           ]
         },
         {
           "itemId": "es-b1-p02",
-          "text": "perro",
-          "ipa": "ˈpero",
-          "focusPhoneme": "r",
+          "text": "muchas gracias",
+          "ipa": "ˈmutʃas ˈɣɾasjas",
+          "itemType": "phrase",
+          "focusPhoneme": "ɣ",
           "phonemes": [
-            "p",
-            "e",
-            "r",
-            "o"
+            "m",
+            "u",
+            "tʃ",
+            "a",
+            "s",
+            "ɣ",
+            "ɾ",
+            "a",
+            "s",
+            "j",
+            "a",
+            "s"
           ]
         }
       ]
@@ -403,33 +449,56 @@
       "pronunciationItems": [
         {
           "itemId": "es-b2-p01",
-          "text": "desarrollo",
-          "ipa": "desaˈroʝo",
-          "focusPhoneme": "ʝ",
-          "phonemes": [
-            "d",
-            "e",
-            "s",
-            "a",
-            "r",
-            "o",
-            "ʝ",
-            "o"
-          ]
-        },
-        {
-          "itemId": "es-b2-p02",
-          "text": "abogado",
-          "ipa": "aβoˈɣaðo",
+          "text": "un abogado argentino",
+          "ipa": "un aβoˈɣaðo aɾxenˈtino",
+          "itemType": "phrase",
           "focusPhoneme": "ɣ",
           "phonemes": [
+            "u",
+            "n",
             "a",
             "β",
             "o",
             "ɣ",
             "a",
             "ð",
+            "o",
+            "a",
+            "ɾ",
+            "x",
+            "e",
+            "n",
+            "t",
+            "i",
+            "n",
             "o"
+          ]
+        },
+        {
+          "itemId": "es-b2-p02",
+          "text": "la gente trabajadora",
+          "ipa": "la ˈxente tɾaβaxaˈðoɾa",
+          "itemType": "phrase",
+          "focusPhoneme": "x",
+          "phonemes": [
+            "l",
+            "a",
+            "x",
+            "e",
+            "n",
+            "t",
+            "e",
+            "t",
+            "ɾ",
+            "a",
+            "β",
+            "a",
+            "x",
+            "a",
+            "ð",
+            "o",
+            "ɾ",
+            "a"
           ]
         }
       ]
@@ -512,10 +581,39 @@
       "pronunciationItems": [
         {
           "itemId": "es-c1-p01",
-          "text": "extraordinario",
-          "ipa": "ekstɾaoɾðiˈnaɾjo",
-          "focusPhoneme": "ɾ",
+          "text": "El cirujano desarrolló una cirugía extraordinaria.",
+          "ipa": "el siɾuˈxano desaroˈʝo una siɾuˈxia ekstɾaoɾðiˈnaɾja",
+          "itemType": "sentence",
+          "focusPhoneme": "x",
           "phonemes": [
+            "e",
+            "l",
+            "s",
+            "i",
+            "ɾ",
+            "u",
+            "x",
+            "a",
+            "n",
+            "o",
+            "d",
+            "e",
+            "s",
+            "a",
+            "r",
+            "o",
+            "ʝ",
+            "o",
+            "u",
+            "n",
+            "a",
+            "s",
+            "i",
+            "ɾ",
+            "u",
+            "x",
+            "i",
+            "a",
             "e",
             "k",
             "s",
@@ -530,24 +628,7 @@
             "a",
             "ɾ",
             "j",
-            "o"
-          ]
-        },
-        {
-          "itemId": "es-c1-p02",
-          "text": "quirúrgico",
-          "ipa": "kiˈɾuɾxiko",
-          "focusPhoneme": "x",
-          "phonemes": [
-            "k",
-            "i",
-            "ɾ",
-            "u",
-            "ɾ",
-            "x",
-            "i",
-            "k",
-            "o"
+            "a"
           ]
         }
       ]
@@ -630,30 +711,10 @@
       "pronunciationItems": [
         {
           "itemId": "es-c2-p01",
-          "text": "idiosincrasia",
-          "ipa": "iðjosiŋˈkɾasja",
-          "focusPhoneme": "ð",
-          "phonemes": [
-            "i",
-            "ð",
-            "j",
-            "o",
-            "s",
-            "i",
-            "ŋ",
-            "k",
-            "ɾ",
-            "a",
-            "s",
-            "j",
-            "a"
-          ]
-        },
-        {
-          "itemId": "es-c2-p02",
-          "text": "paradójicamente",
-          "ipa": "paɾaðoxikaˈmente",
-          "focusPhoneme": "x",
+          "text": "Paradójicamente, el desarrollo ferroviario resultó irregular.",
+          "ipa": "paɾaðoxikaˈmente el desaˈroʝo feroˈβjaɾjo resulˈto ireɣuˈlaɾ",
+          "itemType": "sentence",
+          "focusPhoneme": "r",
           "phonemes": [
             "p",
             "a",
@@ -669,7 +730,42 @@
             "e",
             "n",
             "t",
-            "e"
+            "e",
+            "e",
+            "l",
+            "d",
+            "e",
+            "s",
+            "a",
+            "r",
+            "o",
+            "ʝ",
+            "o",
+            "f",
+            "e",
+            "r",
+            "o",
+            "β",
+            "j",
+            "a",
+            "ɾ",
+            "j",
+            "o",
+            "r",
+            "e",
+            "s",
+            "u",
+            "l",
+            "t",
+            "o",
+            "i",
+            "r",
+            "e",
+            "ɣ",
+            "u",
+            "l",
+            "a",
+            "ɾ"
           ]
         }
       ]
