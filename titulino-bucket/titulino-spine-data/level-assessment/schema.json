@@ -2,24 +2,36 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "$id": "titulino-level-assessment-bank-v2.0",
   "title": "Titulino Level Assessment Question Bank v2.0",
-
   "description": "One bank per TARGET language (en.json, es.json, pt.json) — never per language pair. The assessed material must be identical for every base language, or CEFR levels are not comparable between learners. CONVENTIONS FOR ANYONE ADDING CONTENT: (1) `stem` and `options` are target-language content and are NEVER translated. (2) Everything the learner reads in their own language — instructions, writing prompts, band labels, can-do text, phoneme hints — lives in the app i18n bundles (es_US.json / en_US.json / pt_BR.json) and is referenced here only by key. (3) ID format is {lang}-{band}-{nn} for questions and {lang}-{band}-p{nn} for pronunciation items, lowercase, two-digit zero-padded; e.g. en-b1-03, en-b1-p01. No 'assessment-' prefix: these ids appear only in assessment tables and never collide with the course namespace (supermarket-ch1-001). (4) Every band must hold 5 questions covering 5 DISTINCT `concept` values — the engine draws 2 of 5 at random, so duplicate concepts within a band can leave a band measuring only one grammar point. (5) Locale variants are enforced: en-US General American, pt-BR Brazilian, es-419 Latin American. No vosotros, no European Portuguese, no British spelling. IPA follows the same variants — critically, Spanish is seseo, so the phoneme θ must never appear in es.json.",
-
   "type": "object",
-  "required": ["schemaVersion", "targetLanguage", "targetLocale", "startBand", "bandOrder", "bands"],
+  "required": [
+    "schemaVersion",
+    "targetLanguage",
+    "targetLocale",
+    "startBand",
+    "bandOrder",
+    "bands"
+  ],
   "additionalProperties": false,
-
   "properties": {
     "schemaVersion": {
       "const": "2.0",
       "description": "Loaders must validate this and fail loudly on mismatch rather than silently misreading a bank."
     },
     "targetLanguage": {
-      "enum": ["en", "es", "pt"],
+      "enum": [
+        "en",
+        "es",
+        "pt"
+      ],
       "description": "The language being assessed. Matches the filename."
     },
     "targetLocale": {
-      "enum": ["en-US", "es-419", "pt-BR"],
+      "enum": [
+        "en-US",
+        "es-419",
+        "pt-BR"
+      ],
       "description": "Content variant. es-419 is the metadata tag for Latin American Spanish; Azure speech uses es-MX for the same variant — both are correct in their own context, do not 'fix' one to match the other."
     },
     "startBand": {
@@ -28,30 +40,56 @@
     },
     "bandOrder": {
       "type": "array",
-      "items": { "enum": ["A1", "A2", "B1", "B2", "C1", "C2"] },
+      "items": {
+        "enum": [
+          "A1",
+          "A2",
+          "B1",
+          "B2",
+          "C1",
+          "C2"
+        ]
+      },
       "minItems": 6,
       "maxItems": 6
     },
     "bands": {
       "type": "object",
-      "required": ["A1", "A2", "B1", "B2", "C1", "C2"],
+      "required": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "C2"
+      ],
       "additionalProperties": false,
       "patternProperties": {
-        "^(A1|A2|B1|B2|C1|C2)$": { "$ref": "#/definitions/band" }
+        "^(A1|A2|B1|B2|C1|C2)$": {
+          "$ref": "#/definitions/band"
+        }
       }
     }
   },
-
   "definitions": {
-
     "band": {
       "type": "object",
-      "required": ["passMark", "writingPromptKey", "questions", "pronunciationItems"],
+      "required": [
+        "passMark",
+        "writingPromptKey",
+        "questions",
+        "pronunciationItems"
+      ],
       "additionalProperties": false,
       "properties": {
-        "passMark": { "const": 2 },
+        "passMark": {
+          "const": 2
+        },
         "writingPromptKey": {
-          "type": ["string", "null"],
+          "type": [
+            "string",
+            "null"
+          ],
           "pattern": "^assessment\\.writing\\.(b1|b2|c1|c2)$",
           "description": "i18n key, NOT literal text — the prompt is written in the learner's base language and injects the target language as a {targetLanguage} parameter. MUST be null on A1 and A2: those learners cannot produce usable written output."
         },
@@ -59,20 +97,32 @@
           "type": "array",
           "minItems": 5,
           "maxItems": 5,
-          "items": { "$ref": "#/definitions/question" }
+          "items": {
+            "$ref": "#/definitions/question"
+          }
         },
         "pronunciationItems": {
           "type": "array",
-          "minItems": 2,
+          "minItems": 1,
           "maxItems": 3,
-          "items": { "$ref": "#/definitions/pronunciationItem" }
+          "description": "Count and item type slope with the band, because effort should shift from speaking toward writing as level rises. A1/A2 carry 3 single words: a beginner cannot write but can say a word, and success there is motivating. B1/B2 carry 2 short phrases. C1/C2 carry 1 full sentence — asking a C2 speaker to say 'school' tests nothing, since at that level the difficulty lives in linking and reduction ACROSS words, which a single word cannot expose. Writing runs the opposite way: null at A1/A2, present from B1 up.",
+          "items": {
+            "$ref": "#/definitions/pronunciationItem"
+          }
         }
       }
     },
-
     "question": {
       "type": "object",
-      "required": ["id", "type", "instructionKey", "stem", "options", "correct", "concept"],
+      "required": [
+        "id",
+        "type",
+        "instructionKey",
+        "stem",
+        "options",
+        "correct",
+        "concept"
+      ],
       "additionalProperties": false,
       "properties": {
         "id": {
@@ -80,7 +130,9 @@
           "pattern": "^(en|es|pt)-(a1|a2|b1|b2|c1|c2)-[0-9]{2}$",
           "description": "e.g. en-b1-03"
         },
-        "type": { "const": "mcq" },
+        "type": {
+          "const": "mcq"
+        },
         "instructionKey": {
           "enum": [
             "assessment.instruction.completeSentence",
@@ -93,14 +145,19 @@
           "description": "Six keys only. The instruction says what ACTION the learner performs; anything more specific ('choose the present subjunctive for a wish') is concept detail and belongs in `concept`, not here."
         },
         "stem": {
-          "type": ["string", "null"],
+          "type": [
+            "string",
+            "null"
+          ],
           "description": "Target language, never translated. null only for chooseCorrectSentence, where the options are complete sentences and there is nothing to prompt with."
         },
         "options": {
           "type": "array",
           "minItems": 4,
           "maxItems": 4,
-          "items": { "type": "string" },
+          "items": {
+            "type": "string"
+          },
           "description": "Target language, never translated. Distractors should be diagnostic — each wrong option ideally corresponds to a known error for the audience, not random noise."
         },
         "correct": {
@@ -114,10 +171,16 @@
         }
       }
     },
-
     "pronunciationItem": {
       "type": "object",
-      "required": ["itemId", "text", "ipa", "focusPhoneme", "phonemes"],
+      "required": [
+        "itemId",
+        "text",
+        "itemType",
+        "ipa",
+        "focusPhoneme",
+        "phonemes"
+      ],
       "additionalProperties": false,
       "properties": {
         "itemId": {
@@ -127,7 +190,15 @@
         },
         "text": {
           "type": "string",
-          "description": "The word or phrase the learner says. Target language."
+          "description": "What the learner says. Target language. A single word at A1/A2, a short phrase at B1/B2, a full sentence at C1/C2."
+        },
+        "itemType": {
+          "enum": [
+            "word",
+            "phrase",
+            "sentence"
+          ],
+          "description": "Drives rendering as well as difficulty: a word is shown large and centred, a sentence in a readable line. Mirrors the course speaking module's word/phrase distinction and adds 'sentence' for the C bands."
         },
         "ipa": {
           "type": "string",
@@ -140,7 +211,9 @@
         "phonemes": {
           "type": "array",
           "minItems": 1,
-          "items": { "type": "string" },
+          "items": {
+            "type": "string"
+          },
           "description": "Symbols only, in order. Multi-character units stay whole (tʃ, dʒ, eɪ, oʊ, nasal diphthongs). Hint TEXT is not stored here: a hint depends on both the target phoneme and the learner's base language, so the UI resolves assessment.phoneme.hint.{target}.{symbol} from i18n. Phonemes that transfer cleanly from the base language take no hint at all."
         }
       }

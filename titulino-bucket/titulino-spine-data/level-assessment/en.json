@@ -92,6 +92,7 @@
           "itemId": "en-a1-p01",
           "text": "school",
           "ipa": "skuːl",
+          "itemType": "word",
           "focusPhoneme": "s",
           "phonemes": [
             "s",
@@ -104,12 +105,25 @@
           "itemId": "en-a1-p02",
           "text": "happy",
           "ipa": "ˈhæpi",
+          "itemType": "word",
           "focusPhoneme": "æ",
           "phonemes": [
             "h",
             "æ",
             "p",
             "i"
+          ]
+        },
+        {
+          "itemId": "en-a1-p03",
+          "text": "this",
+          "ipa": "ðɪs",
+          "itemType": "word",
+          "focusPhoneme": "ð",
+          "phonemes": [
+            "ð",
+            "ɪ",
+            "s"
           ]
         }
       ]
@@ -194,6 +208,7 @@
           "itemId": "en-a2-p01",
           "text": "watched",
           "ipa": "wɑtʃt",
+          "itemType": "word",
           "focusPhoneme": "tʃ",
           "phonemes": [
             "w",
@@ -206,12 +221,25 @@
           "itemId": "en-a2-p02",
           "text": "thirty",
           "ipa": "ˈθɝti",
+          "itemType": "word",
           "focusPhoneme": "θ",
           "phonemes": [
             "θ",
             "ɝ",
             "t",
             "i"
+          ]
+        },
+        {
+          "itemId": "en-a2-p03",
+          "text": "sheep",
+          "ipa": "ʃiːp",
+          "itemType": "word",
+          "focusPhoneme": "iː",
+          "phonemes": [
+            "ʃ",
+            "iː",
+            "p"
           ]
         }
       ]
@@ -294,30 +322,42 @@
       "pronunciationItems": [
         {
           "itemId": "en-b1-p01",
-          "text": "weather",
-          "ipa": "ˈwɛðɚ",
+          "text": "the weather is warm",
+          "ipa": "ðə ˈwɛðɚ ɪz wɔrm",
+          "itemType": "phrase",
           "focusPhoneme": "ð",
           "phonemes": [
+            "ð",
+            "ə",
             "w",
             "ɛ",
             "ð",
-            "ɚ"
+            "ɚ",
+            "ɪ",
+            "z",
+            "w",
+            "ɔ",
+            "r",
+            "m"
           ]
         },
         {
           "itemId": "en-b1-p02",
-          "text": "vegetable",
-          "ipa": "ˈvɛdʒtəbəl",
-          "focusPhoneme": "v",
+          "text": "I've been working",
+          "ipa": "aɪv bɪn ˈwɝkɪŋ",
+          "itemType": "phrase",
+          "focusPhoneme": "ɝ",
           "phonemes": [
+            "aɪ",
             "v",
-            "ɛ",
-            "dʒ",
-            "t",
-            "ə",
             "b",
-            "ə",
-            "l"
+            "ɪ",
+            "n",
+            "w",
+            "ɝ",
+            "k",
+            "ɪ",
+            "ŋ"
           ]
         }
       ]
@@ -400,23 +440,12 @@
       "pronunciationItems": [
         {
           "itemId": "en-b2-p01",
-          "text": "thoroughly",
-          "ipa": "ˈθɝoʊli",
-          "focusPhoneme": "ɝ",
-          "phonemes": [
-            "θ",
-            "ɝ",
-            "oʊ",
-            "l",
-            "i"
-          ]
-        },
-        {
-          "itemId": "en-b2-p02",
-          "text": "comfortable",
-          "ipa": "ˈkʌmftɚbəl",
+          "text": "a comfortable thought",
+          "ipa": "ə ˈkʌmftɚbəl θɔt",
+          "itemType": "phrase",
           "focusPhoneme": "ɚ",
           "phonemes": [
+            "ə",
             "k",
             "ʌ",
             "m",
@@ -425,7 +454,30 @@
             "ɚ",
             "b",
             "ə",
-            "l"
+            "l",
+            "θ",
+            "ɔ",
+            "t"
+          ]
+        },
+        {
+          "itemId": "en-b2-p02",
+          "text": "thoroughly researched",
+          "ipa": "ˈθɝoʊli rɪˈsɝtʃt",
+          "itemType": "phrase",
+          "focusPhoneme": "θ",
+          "phonemes": [
+            "θ",
+            "ɝ",
+            "oʊ",
+            "l",
+            "i",
+            "r",
+            "ɪ",
+            "s",
+            "ɝ",
+            "tʃ",
+            "t"
           ]
         }
       ]
@@ -508,40 +560,39 @@
       "pronunciationItems": [
         {
           "itemId": "en-c1-p01",
-          "text": "entrepreneur",
-          "ipa": "ˌɑntrəprəˈnɝ",
-          "focusPhoneme": "ɝ",
+          "text": "Thirty-three thoughtful researchers gathered there.",
+          "ipa": "ˈθɝti θriː ˈθɔtfəl rɪˈsɝtʃɚz ˈɡæðɚd ðɛr",
+          "itemType": "sentence",
+          "focusPhoneme": "θ",
           "phonemes": [
-            "ɑ",
-            "n",
+            "θ",
+            "ɝ",
             "t",
-            "r",
-            "ə",
-            "p",
-            "r",
-            "ə",
-            "n",
-            "ɝ"
-          ]
-        },
-        {
-          "itemId": "en-c1-p02",
-          "text": "pronunciation",
-          "ipa": "prəˌnʌnsiˈeɪʃən",
-          "focusPhoneme": "eɪ",
-          "phonemes": [
-            "p",
-            "r",
-            "ə",
-            "n",
-            "ʌ",
-            "n",
-            "s",
             "i",
-            "eɪ",
-            "ʃ",
+            "θ",
+            "r",
+            "iː",
+            "θ",
+            "ɔ",
+            "t",
+            "f",
             "ə",
-            "n"
+            "l",
+            "r",
+            "ɪ",
+            "s",
+            "ɝ",
+            "tʃ",
+            "ɚ",
+            "z",
+            "ɡ",
+            "æ",
+            "ð",
+            "ɚ",
+            "d",
+            "ð",
+            "ɛ",
+            "r"
           ]
         }
       ]
@@ -624,37 +675,36 @@
       "pronunciationItems": [
         {
           "itemId": "en-c2-p01",
-          "text": "conscientious",
-          "ipa": "ˌkɑnʃiˈɛnʃəs",
-          "focusPhoneme": "ʃ",
+          "text": "Neither brother thoroughly authored the thesis.",
+          "ipa": "ˈniːðɚ ˈbrʌðɚ ˈθɝoʊli ˈɔθɚd ðə ˈθiːsɪs",
+          "itemType": "sentence",
+          "focusPhoneme": "ð",
           "phonemes": [
-            "k",
-            "ɑ",
             "n",
-            "ʃ",
+            "iː",
+            "ð",
+            "ɚ",
+            "b",
+            "r",
+            "ʌ",
+            "ð",
+            "ɚ",
+            "θ",
+            "ɝ",
+            "oʊ",
+            "l",
             "i",
-            "ɛ",
-            "n",
-            "ʃ",
+            "ɔ",
+            "θ",
+            "ɚ",
+            "d",
+            "ð",
             "ə",
+            "θ",
+            "iː",
+            "s",
+            "ɪ",
             "s"
-          ]
-        },
-        {
-          "itemId": "en-c2-p02",
-          "text": "phenomenon",
-          "ipa": "fəˈnɑmənɑn",
-          "focusPhoneme": "ɑ",
-          "phonemes": [
-            "f",
-            "ə",
-            "n",
-            "ɑ",
-            "m",
-            "ə",
-            "n",
-            "ɑ",
-            "n"
           ]
         }
       ]

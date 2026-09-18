@@ -92,6 +92,7 @@
           "itemId": "pt-a1-p01",
           "text": "não",
           "ipa": "nɐ̃w̃",
+          "itemType": "word",
           "focusPhoneme": "ɐ̃w̃",
           "phonemes": [
             "n",
@@ -102,11 +103,25 @@
           "itemId": "pt-a1-p02",
           "text": "dia",
           "ipa": "ˈdʒiɐ",
+          "itemType": "word",
           "focusPhoneme": "dʒ",
           "phonemes": [
             "dʒ",
             "i",
             "ɐ"
+          ]
+        },
+        {
+          "itemId": "pt-a1-p03",
+          "text": "leite",
+          "ipa": "ˈlejtʃi",
+          "itemType": "word",
+          "focusPhoneme": "tʃ",
+          "phonemes": [
+            "l",
+            "ej",
+            "tʃ",
+            "i"
           ]
         }
       ]
@@ -191,6 +206,7 @@
           "itemId": "pt-a2-p01",
           "text": "Brasil",
           "ipa": "bɾaˈziw",
+          "itemType": "word",
           "focusPhoneme": "w",
           "phonemes": [
             "b",
@@ -205,6 +221,7 @@
           "itemId": "pt-a2-p02",
           "text": "trabalho",
           "ipa": "tɾaˈbaʎu",
+          "itemType": "word",
           "focusPhoneme": "ʎ",
           "phonemes": [
             "t",
@@ -214,6 +231,19 @@
             "a",
             "ʎ",
             "u"
+          ]
+        },
+        {
+          "itemId": "pt-a2-p03",
+          "text": "gente",
+          "ipa": "ˈʒẽtʃi",
+          "itemType": "word",
+          "focusPhoneme": "ʒ",
+          "phonemes": [
+            "ʒ",
+            "ẽ",
+            "tʃ",
+            "i"
           ]
         }
       ]
@@ -296,10 +326,13 @@
       "pronunciationItems": [
         {
           "itemId": "pt-b1-p01",
-          "text": "coração",
-          "ipa": "koɾaˈsɐ̃w̃",
+          "text": "meu coração",
+          "ipa": "mew koɾaˈsɐ̃w̃",
+          "itemType": "phrase",
           "focusPhoneme": "ɐ̃w̃",
           "phonemes": [
+            "m",
+            "ew",
             "k",
             "o",
             "ɾ",
@@ -310,14 +343,23 @@
         },
         {
           "itemId": "pt-b1-p02",
-          "text": "gente",
-          "ipa": "ˈʒẽtʃi",
-          "focusPhoneme": "ʒ",
+          "text": "muito obrigado",
+          "ipa": "ˈmũjtu obɾiˈɡadu",
+          "itemType": "phrase",
+          "focusPhoneme": "ũj",
           "phonemes": [
-            "ʒ",
-            "ẽ",
-            "tʃ",
-            "i"
+            "m",
+            "ũj",
+            "t",
+            "u",
+            "o",
+            "b",
+            "ɾ",
+            "i",
+            "ɡ",
+            "a",
+            "d",
+            "u"
           ]
         }
       ]
@@ -400,31 +442,41 @@
       "pronunciationItems": [
         {
           "itemId": "pt-b2-p01",
-          "text": "melhor",
-          "ipa": "meˈʎɔʁ",
+          "text": "a melhor viagem",
+          "ipa": "a meˈʎɔʁ viˈaʒẽj̃",
+          "itemType": "phrase",
           "focusPhoneme": "ʁ",
           "phonemes": [
+            "a",
             "m",
             "e",
             "ʎ",
             "ɔ",
-            "ʁ"
+            "ʁ",
+            "v",
+            "i",
+            "a",
+            "ʒ",
+            "ẽj̃"
           ]
         },
         {
           "itemId": "pt-b2-p02",
-          "text": "diferença",
-          "ipa": "dʒifeˈɾẽsɐ",
-          "focusPhoneme": "ẽ",
+          "text": "trinta e três",
+          "ipa": "ˈtɾĩta i ˈtɾejs",
+          "itemType": "phrase",
+          "focusPhoneme": "ĩ",
           "phonemes": [
-            "dʒ",
-            "i",
-            "f",
-            "e",
+            "t",
             "ɾ",
-            "ẽ",
-            "s",
-            "ɐ"
+            "ĩ",
+            "t",
+            "a",
+            "i",
+            "t",
+            "ɾ",
+            "ej",
+            "s"
           ]
         }
       ]
@@ -507,10 +559,12 @@
       "pronunciationItems": [
         {
           "itemId": "pt-c1-p01",
-          "text": "desenvolvimento",
-          "ipa": "dezẽvowviˈmẽtu",
+          "text": "O desenvolvimento atual exige trabalhadores qualificados.",
+          "ipa": "u dezẽvowviˈmẽtu atuˈaw eˈziʒi tɾabaʎaˈdoɾis kwalifiˈkadus",
+          "itemType": "sentence",
           "focusPhoneme": "ẽ",
           "phonemes": [
+            "u",
             "d",
             "e",
             "z",
@@ -523,24 +577,41 @@
             "m",
             "ẽ",
             "t",
-            "u"
-          ]
-        },
-        {
-          "itemId": "pt-c1-p02",
-          "text": "atualmente",
-          "ipa": "atuawˈmẽtʃi",
-          "focusPhoneme": "w",
-          "phonemes": [
+            "u",
             "a",
             "t",
             "u",
             "a",
             "w",
-            "m",
-            "ẽ",
-            "tʃ",
-            "i"
+            "e",
+            "z",
+            "i",
+            "ʒ",
+            "i",
+            "t",
+            "ɾ",
+            "a",
+            "b",
+            "a",
+            "ʎ",
+            "a",
+            "d",
+            "o",
+            "ɾ",
+            "i",
+            "s",
+            "k",
+            "w",
+            "a",
+            "l",
+            "i",
+            "f",
+            "i",
+            "k",
+            "a",
+            "d",
+            "u",
+            "s"
           ]
         }
       ]
@@ -623,9 +694,10 @@
       "pronunciationItems": [
         {
           "itemId": "pt-c2-p01",
-          "text": "paradoxalmente",
-          "ipa": "paɾadoksawˈmẽtʃi",
-          "focusPhoneme": "tʃ",
+          "text": "Paradoxalmente, os irmãos alcançaram reconhecimento internacional.",
+          "ipa": "paɾadoksawˈmẽtʃi us iʁˈmɐ̃ws awkɐ̃ˈsaɾɐ̃w ʁekoɲesiˈmẽtu ĩteʁnasjoˈnaw",
+          "itemType": "sentence",
+          "focusPhoneme": "ɲ",
           "phonemes": [
             "p",
             "a",
@@ -640,26 +712,45 @@
             "m",
             "ẽ",
             "tʃ",
-            "i"
-          ]
-        },
-        {
-          "itemId": "pt-c2-p02",
-          "text": "inquestionável",
-          "ipa": "ĩkestʃionaˈvew",
-          "focusPhoneme": "ĩ",
-          "phonemes": [
-            "ĩ",
+            "i",
+            "u",
+            "s",
+            "i",
+            "ʁ",
+            "m",
+            "ɐ̃w",
+            "s",
+            "a",
+            "w",
             "k",
+            "ɐ̃",
+            "s",
+            "a",
+            "ɾ",
+            "ɐ̃w",
+            "ʁ",
+            "e",
+            "k",
+            "o",
+            "ɲ",
             "e",
             "s",
-            "tʃ",
             "i",
+            "m",
+            "ẽ",
+            "t",
+            "u",
+            "ĩ",
+            "t",
+            "e",
+            "ʁ",
+            "n",
+            "a",
+            "s",
+            "j",
             "o",
             "n",
             "a",
-            "v",
-            "e",
             "w"
           ]
         }
