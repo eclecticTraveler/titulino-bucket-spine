@@ -1753,8 +1753,8 @@
             "availableDate": "09/16/2026",
             "imageUrl": "https://images.unsplash.com/photo-1528535661949-5dac90a11fb0?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
-              "facebook": null,
-              "youtube": null,
+              "facebook": "https://www.facebook.com/share/v/1FoKZ2Q45Z/",
+              "youtube": "https://youtu.be/hrg_zSb2SYM",
               "internal": "/lrn-auth/es/nivel-meditaciones/capitulo-6/clase"
             }
           },
@@ -2104,6 +2104,19 @@
               "facebook": "",
               "youtube": "https://youtu.be/TMY9VyLQlgk",
               "internal": "/lrn/en/level-1/chapter-7/clase"
+            }
+          },
+          {
+            "classNumber": 8,
+            "title": "Family",
+            "description": "These, Those, This, That",
+            "isToDisplay": true,
+            "availableDate": "09/17/2026",
+            "imageUrl": "https://images.unsplash.com/photo-1577896851231-70ef18881754?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": "https://www.facebook.com/share/v/19ePReTMNP/",
+              "youtube": "https://youtu.be/K5w6ZnGf4eo",
+              "internal": "/lrn/en/level-1/chapter-8/clase"
             }
           },
           {
