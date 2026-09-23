@@ -382,5 +382,85 @@
         "body": "{{association}} {{name}}, llegamos a la última semana.\n\nGracias — por inscribirse, por leer estos correos, por presentarse cuando pudo. Genuinamente espero que esta experiencia le haya dejado algo, aunque sea pequeño.\n\nAntes de cerrar — inicie sesión para revisar los videos del curso y ver su avance completo hacia el certificado: {{magicLink}}\n(Enlace de un solo uso — expira en cuanto hace clic. No lo reenvíe.)\n\nSi tiene un momento, su opinión significa mucho para mí: https://forms.gle/AHwR9JDWW4W8FFvA9 — es anónima y toma 3 minutos.\n\nY si conoce a alguien que pudiera beneficiarse de algo así, compártalo. Así es como crecemos.\n\nHasta la próxima. Que Dios cuide nuestra mente y nuestro corazón. Un fuerte abrazo hasta {{location}},\n\nHermano Arellano, ‘el bishop’\n\n(Si quiere apoyar este proyecto comunitario: https://buymeacoffee.com/titulino)"
       }
     }
+  },
+  {
+    "dateToBeSent": "2026-09-27T00:00:00Z",
+    "communicationCategory": 23,
+    "courseCodeIds": [
+      "ENGLISH_CONNECT_1_JUL_2026_COURSE_01",
+      "SPEECHES_OF_HISTORY_JUL_2026_COURSE_01",
+      "CONVERSATION_JUL_2026_COURSE_01",
+      "MEDITACIONES_DE_UNA_EXISTENCIA_LUCIDA_JUL_2026_COURSE_01"
+    ],
+    "emails": {
+      "en": {
+        "subject": "Just checking in — how's it going?",
+        "body": "{{association}} {{name}}, it's been a little while since we last talked — how have things been going for you?\n\nNo pressure at all, I just wanted to check in. If life got busy, that's completely okay — every class is still recorded and waiting for you, so feel free to log in and pick up right where you left off whenever it works for you: {{magicLink}}\n(One-time link — it expires once you click it. Do not forward it.)\n\nIf there's anything I can help with, or anything on your mind, just write back — I'd love to hear from you.\n\nA big hug all the way to {{location}},\n\nBrother Arellano, ‘the bishop’\n\n(If you’d like to support this community project: https://buymeacoffee.com/titulino)"
+      },
+      "es": {
+        "subject": "Solo quería saludar — ¿cómo va todo?",
+        "body": "{{association}} {{name}}, ya ha pasado un tiempo desde que hablamos — ¿cómo le ha ido?\n\nNo hay ninguna presión, solo quería saludar. Si la vida se puso ocupada, está totalmente bien — todas las clases siguen grabadas y le están esperando, así que puede iniciar sesión y continuar donde se quedó cuando usted guste: {{magicLink}}\n(Enlace de un solo uso — expira en cuanto hace clic. No lo reenvíe.)\n\nSi hay algo en lo que pueda ayudar, o algo que tenga en mente, escríbame — me encantaría saber de usted.\n\nUn fuerte abrazo hasta {{location}},\n\nHermano Arellano, ‘el bishop’\n\n(Si quiere apoyar este proyecto comunitario: https://buymeacoffee.com/titulino)"
+      }
+    }
+  },
+  {
+    "dateToBeSent": "2026-10-04T00:00:00Z",
+    "communicationCategory": 23,
+    "courseCodeIds": [
+      "ENGLISH_CONNECT_1_JUL_2026_COURSE_01",
+      "SPEECHES_OF_HISTORY_JUL_2026_COURSE_01",
+      "CONVERSATION_JUL_2026_COURSE_01",
+      "MEDITACIONES_DE_UNA_EXISTENCIA_LUCIDA_JUL_2026_COURSE_01"
+    ],
+    "emails": {
+      "en": {
+        "subject": "Thinking of you — how are things?",
+        "body": "{{association}} {{name}}, I've been thinking about you and wanted to reach out.\n\nHow has everything been on your end? I hope you and your family are doing well. And remember — every class is still recorded and available, so there's no rush and nothing you've missed for good. Come back and visit anytime: {{magicLink}}\n(One-time link — it expires once you click it. Do not forward it.)\n\nIf anything comes up, or if you just want to say hi, my inbox is always open.\n\nA big hug all the way to {{location}},\n\nBrother Arellano, ‘the bishop’\n\n(If you’d like to support this community project: https://buymeacoffee.com/titulino)"
+      },
+      "es": {
+        "subject": "Pensando en usted — ¿cómo van las cosas?",
+        "body": "{{association}} {{name}}, he estado pensando en usted y quise escribirle.\n\n¿Cómo ha estado todo de su lado? Espero que usted y su familia estén bien. Y recuerde — cada clase sigue grabada y disponible, así que no hay prisa y no se ha perdido nada para siempre. Puede visitar cuando quiera: {{magicLink}}\n(Enlace de un solo uso — expira en cuanto hace clic. No lo reenvíe.)\n\nSi surge algo, o solo quiere saludar, mi bandeja siempre está abierta.\n\nUn fuerte abrazo hasta {{location}},\n\nHermano Arellano, ‘el bishop’\n\n(Si quiere apoyar este proyecto comunitario: https://buymeacoffee.com/titulino)"
+      }
+    }
+  },
+  {
+    "dateToBeSent": "2026-10-11T00:00:00Z",
+    "communicationCategory": 23,
+    "courseCodeIds": [
+      "ENGLISH_CONNECT_1_JUL_2026_COURSE_01",
+      "SPEECHES_OF_HISTORY_JUL_2026_COURSE_01",
+      "CONVERSATION_JUL_2026_COURSE_01",
+      "MEDITACIONES_DE_UNA_EXISTENCIA_LUCIDA_JUL_2026_COURSE_01"
+    ],
+    "emails": {
+      "en": {
+        "subject": "A little hello — how's everything?",
+        "body": "{{association}} {{name}}, just a little hello today.\n\nHow's everything going for you and yours? I hope this finds you well. The classes haven't gone anywhere — they're all recorded, so whenever you have a few minutes, you're always welcome to log back in and continue: {{magicLink}}\n(One-time link — it expires once you click it. Do not forward it.)\n\nAnd please, if there's ever anything you need or want to share, let me know — I mean that.\n\nA big hug all the way to {{location}},\n\nBrother Arellano, ‘the bishop’\n\n(If you’d like to support this community project: https://buymeacoffee.com/titulino)"
+      },
+      "es": {
+        "subject": "Un pequeño saludo — ¿cómo va todo?",
+        "body": "{{association}} {{name}}, solo un pequeño saludo hoy.\n\n¿Cómo va todo para usted y los suyos? Espero que esto le encuentre bien. Las clases no se han ido a ningún lado — todas están grabadas, así que cuando tenga unos minutos, siempre es bienvenido a iniciar sesión y continuar: {{magicLink}}\n(Enlace de un solo uso — expira en cuanto hace clic. No lo reenvíe.)\n\nY por favor, si alguna vez necesita algo o quiere compartir algo, hágamelo saber — lo digo en serio.\n\nUn fuerte abrazo hasta {{location}},\n\nHermano Arellano, ‘el bishop’\n\n(Si quiere apoyar este proyecto comunitario: https://buymeacoffee.com/titulino)"
+      }
+    }
+  },
+  {
+    "dateToBeSent": "2026-10-18T00:00:00Z",
+    "communicationCategory": 23,
+    "courseCodeIds": [
+      "ENGLISH_CONNECT_1_JUL_2026_COURSE_01",
+      "SPEECHES_OF_HISTORY_JUL_2026_COURSE_01",
+      "CONVERSATION_JUL_2026_COURSE_01",
+      "MEDITACIONES_DE_UNA_EXISTENCIA_LUCIDA_JUL_2026_COURSE_01"
+    ],
+    "emails": {
+      "en": {
+        "subject": "Still here, still cheering for you",
+        "body": "{{association}} {{name}}, still here, still cheering for you.\n\nHow have you been? I hope life has been kind to you lately. Just a reminder that the door is never closed — every class is recorded and ready whenever you want to visit or pick back up, no pressure at all: {{magicLink}}\n(One-time link — it expires once you click it. Do not forward it.)\n\nAnd as always, if anything comes up, I'm just a reply away.\n\nA big hug all the way to {{location}},\n\nBrother Arellano, ‘the bishop’\n\n(If you’d like to support this community project: https://buymeacoffee.com/titulino)"
+      },
+      "es": {
+        "subject": "Sigo aquí, sigo animándole",
+        "body": "{{association}} {{name}}, sigo aquí, sigo animándole.\n\n¿Cómo ha estado? Espero que la vida haya sido buena con usted últimamente. Solo un recordatorio de que la puerta nunca se cierra — cada clase está grabada y lista para cuando quiera visitar o retomar, sin ninguna presión: {{magicLink}}\n(Enlace de un solo uso — expira en cuanto hace clic. No lo reenvíe.)\n\nY como siempre, si surge algo, solo estoy a una respuesta de distancia.\n\nUn fuerte abrazo hasta {{location}},\n\nHermano Arellano, ‘el bishop’\n\n(Si quiere apoyar este proyecto comunitario: https://buymeacoffee.com/titulino)"
+      }
+    }
   }
 ]
