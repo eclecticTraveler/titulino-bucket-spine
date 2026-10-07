@@ -1327,7 +1327,7 @@
             "availableDate": "08/18/2026",
             "imageUrl": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
-              "facebook": null,
+              "facebook": "https://www.facebook.com/share/v/1GUywsnbuq/",
               "youtube": "https://youtu.be/JzrhQqvnTDU",
               "internal": "/lrn-auth/en/level-speeches/chapter-7/class"
             }
@@ -1341,6 +1341,7 @@
             "imageUrl": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
               "facebook": null,
+              "youtube": "https://youtu.be/KFcK96DAwIg",
               "youtube": "https://youtu.be/KFcK96DAwIg",
               "internal": "/lrn-auth/en/level-speeches/chapter-8/class"
             }
