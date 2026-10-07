@@ -1,0 +1,69 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://titulino.com/schemas/learning-reminders/schedule-anchors.schema.json",
+  "title": "Learning reminder schedule anchors",
+  "description": "Phase 2B interim data (not yet a database contract): per-theme/rule/chapter source availability dates plus the chronologically next applicable chapter date, so Phase 2A/Worker can compute dueOn = sourceAvailableOn + RuleDefinition.DefaultDelayDays and pass nextAvailableOn into Notification.evaluate_learning_reminder_candidate to cap expiry. 'Next' is defined by date, not by classNumber+1 -- see dataQualityWarnings.",
+  "type": "object",
+  "required": ["schemaVersion", "manifestVersion", "anchors"],
+  "properties": {
+    "schemaVersion": { "type": "string", "minLength": 1 },
+    "manifestVersion": { "type": "string", "minLength": 1 },
+    "scheduleSource": { "type": "string" },
+    "scheduleObservedAt": { "type": "string", "format": "date-time" },
+    "cohortCalendarLimitations": {
+      "type": "array",
+      "description": "Themes with more than one concrete CourseCodeId where per-cohort calendar equivalence has not been verified. Do not enable a rule across every cohort of such a theme without checking this list.",
+      "items": {
+        "type": "object",
+        "required": ["courseTheme", "courseCodeIds", "limitation"],
+        "properties": {
+          "courseTheme": { "type": "string" },
+          "courseCodeIds": { "type": "array", "items": { "type": "string" } },
+          "limitation": { "type": "string" }
+        }
+      }
+    },
+    "dataQualityWarnings": {
+      "type": "array",
+      "description": "Reported anomalies in the underlying course-progress-data.json (e.g. classNumber order disagreeing with availableDate order). These are surfaced, never silently corrected.",
+      "items": {
+        "type": "object",
+        "required": ["courseTheme", "sourceCategoryId", "reason", "detail"],
+        "properties": {
+          "courseTheme": { "type": "string" },
+          "sourceCategoryId": { "type": "integer" },
+          "reason": { "type": "string" },
+          "detail": { "type": "string" }
+        }
+      }
+    },
+    "anchors": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["courseTheme", "ruleKey", "sourceCategoryId", "chapters"],
+        "properties": {
+          "courseTheme": { "type": "string" },
+          "ruleKey": { "type": "string", "description": "Must match a Notification.RuleDefinition.RuleKey." },
+          "sourceCategoryId": { "type": "integer", "enum": [1, 2, 4] },
+          "chapters": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["chapterNumber", "sourceAvailableOn", "nextAvailableOn"],
+              "properties": {
+                "chapterNumber": { "type": "integer", "minimum": 0 },
+                "sourceAvailableOn": { "type": "string", "format": "date" },
+                "nextAvailableOn": {
+                  "type": ["string", "null"],
+                  "format": "date",
+                  "description": "Strictly greater than sourceAvailableOn when not null (mirrors evaluate_learning_reminder_candidate's invalid_expiry_boundary check)."
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

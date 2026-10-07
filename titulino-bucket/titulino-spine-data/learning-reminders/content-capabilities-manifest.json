@@ -1,0 +1,1480 @@
+{
+  "schemaVersion": "1.0.0",
+  "manifestKey": "learning-reminders.content-capabilities",
+  "manifestVersion": "2026.09.28-1",
+  "publishedAt": "2026-09-28T00:00:00.000Z",
+  "sourceAudit": {
+    "auditedOn": "2026-09-28",
+    "sources": [
+      "titulino-bucket/titulino-spine-data/quizlet-pratice-data.json",
+      "titulino-bucket/titulino-spine-data/know-me-survey-data.json",
+      "titulino-bucket/titulino-spine-data/course-progress-data.json"
+    ],
+    "note": "Content existence verified against the exact deployed UI lookup mechanisms (QuizletService row-index bounds; LrnManager theme+chapter key lookup) against the local repository checkout, not a live production/GCS audit. Re-run bucket-scripts/generate-learning-reminder-manifest.js against the deployed bucket contents before publishing to detect drift."
+  },
+  "items": [
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 1,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "e0870f2fb6f62fe22a9878897a0a25cacabba718",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 1,
+        "quizletResourceName": "English-Connect 1",
+        "quizletCourseId": "586604679"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 2,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "0cbe7205f48da67f31017d684f7428a0504242e1",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 1,
+        "quizletResourceName": "English-Connect 1",
+        "quizletCourseId": "590146633"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 3,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "2816ae15353863c26e5c2bd5e261271514bdf2b4",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 1,
+        "quizletResourceName": "English-Connect 1",
+        "quizletCourseId": "591966781"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 4,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "647e42de55cb0e4bc19b2808dc4472ed0f766a7f",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 1,
+        "quizletResourceName": "English-Connect 1",
+        "quizletCourseId": "593272763"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 5,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "fa257134511cbd1e649f7adf26ed2d63c1dc4c36",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 1,
+        "quizletResourceName": "English-Connect 1",
+        "quizletCourseId": "595749985"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 6,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "54f64fe0e614565e987081a3a1c43558dbb42f8f",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 1,
+        "quizletResourceName": "English-Connect 1",
+        "quizletCourseId": "595757581"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 7,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "f23ea3e42d345e4ad3056236ad7101c2d958f8f6",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 1,
+        "quizletResourceName": "English-Connect 1",
+        "quizletCourseId": "600081360"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 8,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "af8eabc5fabadca33e2176f908ca9ed232858273",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 1,
+        "quizletResourceName": "English-Connect 1",
+        "quizletCourseId": "600082130"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 9,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "4858b96f8cd89f14be04c30df5730102b792f8b8",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 1,
+        "quizletResourceName": "English-Connect 1",
+        "quizletCourseId": "600083207"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 10,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "46bd6fae345b01bb70fad6d972f4db2bfc2f9040",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 1,
+        "quizletResourceName": "English-Connect 1",
+        "quizletCourseId": "600084047"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 11,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "c7f7baed01a4d3c126098d7df624780039267f33",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 1,
+        "quizletResourceName": "English-Connect 1",
+        "quizletCourseId": "604373387"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 12,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "8cea5785718a9d5496004075a77b2708251ff1d4",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 1,
+        "quizletResourceName": "English-Connect 1",
+        "quizletCourseId": "604373779"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 13,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "8f8b1eec012938d6d4ac8d7054c639206909a70f",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 1,
+        "quizletResourceName": "English-Connect 1",
+        "quizletCourseId": "608126676"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 14,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "85bc8b4801d8b1849af726b7a0dc490301844517",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 1,
+        "quizletResourceName": "English-Connect 1",
+        "quizletCourseId": "608129597"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 15,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "045ac3dee4d87dbf5656e52b6e1ee30e109da413",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 1,
+        "quizletResourceName": "English-Connect 1",
+        "quizletCourseId": "608131460"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 16,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "d0b9946164df890bf6bf0c49ba0a8dd65a551758",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 1,
+        "quizletResourceName": "English-Connect 1",
+        "quizletCourseId": "608132954"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 17,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "74c53ff8da017a361204b6f1f444f0aa0bd7e31c",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 1,
+        "quizletResourceName": "English-Connect 1",
+        "quizletCourseId": "608135415"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 18,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "744057e74b31ddd2bd0581bd82a501801a3208ed",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 1,
+        "quizletResourceName": "English-Connect 1",
+        "quizletCourseId": "608136481"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 19,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "c5781c0f3851e49c5a39057ceeb0963b2b72b1c7",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 1,
+        "quizletResourceName": "English-Connect 1",
+        "quizletCourseId": "608137841"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 20,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "3efe67a160000cd984141391dd361f9e3ad5536a",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 1,
+        "quizletResourceName": "English-Connect 1",
+        "quizletCourseId": "608139457"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 21,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "3f31d700a5f1509cd8fa3308e2049ef561761b8f",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 1,
+        "quizletResourceName": "English-Connect 1",
+        "quizletCourseId": "590146633"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 22,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "f182c3ab1ee635eb27703c86208c79ff6365f3d1",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 1,
+        "quizletResourceName": "English-Connect 1",
+        "quizletCourseId": "611531449"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 23,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "6eb8613bdb69fc25ca238c8ff256fc2ecf9b5ff1",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 1,
+        "quizletResourceName": "English-Connect 1",
+        "quizletCourseId": "611533332"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 24,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "94c42c29d38aded2bb5058ae7dba998d36010367",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 1,
+        "quizletResourceName": "English-Connect 1",
+        "quizletCourseId": "611535940"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 1,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "pt",
+      "baseLanguages": [
+        "pt"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "c1a8739b8bc8708b884b8364caf23ffb8f38efc1",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 3,
+        "quizletResourceName": "English-Connect 1 - Por-Eng",
+        "quizletCourseId": "672527663"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 2,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "pt",
+      "baseLanguages": [
+        "pt"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "f12a949f407f1c865310cde92265e1cf33af27a8",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 3,
+        "quizletResourceName": "English-Connect 1 - Por-Eng",
+        "quizletCourseId": "672548668"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 3,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "pt",
+      "baseLanguages": [
+        "pt"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "400f324a4a679f0ef9e33ef6af147dfd5c06e5b9",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 3,
+        "quizletResourceName": "English-Connect 1 - Por-Eng",
+        "quizletCourseId": "672644608"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 4,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "pt",
+      "baseLanguages": [
+        "pt"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "0215b945882c68ee80cf59d8132ca2fb96fa4f88",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 3,
+        "quizletResourceName": "English-Connect 1 - Por-Eng",
+        "quizletCourseId": "672645201"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 5,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "pt",
+      "baseLanguages": [
+        "pt"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "e15ec123fcab1b0fa99438628354db276f805f48",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 3,
+        "quizletResourceName": "English-Connect 1 - Por-Eng",
+        "quizletCourseId": "672645767"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 6,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "pt",
+      "baseLanguages": [
+        "pt"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "5ffe3643e3835897fa21172c74d3c0de5fca0374",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 3,
+        "quizletResourceName": "English-Connect 1 - Por-Eng",
+        "quizletCourseId": "672646170"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 7,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "pt",
+      "baseLanguages": [
+        "pt"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "3ec0346d5b66c5829b94b573f64140ce163fa071",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 3,
+        "quizletResourceName": "English-Connect 1 - Por-Eng",
+        "quizletCourseId": "672647022"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 8,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "pt",
+      "baseLanguages": [
+        "pt"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "3e513fee890ca0a3c8d92c84a3d492e754c111da",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 3,
+        "quizletResourceName": "English-Connect 1 - Por-Eng",
+        "quizletCourseId": "672647512"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 9,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "pt",
+      "baseLanguages": [
+        "pt"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "4b9ff9b2d3397c7470c6e98ab092eeb2393386ef",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 3,
+        "quizletResourceName": "English-Connect 1 - Por-Eng",
+        "quizletCourseId": "672647782"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 10,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "pt",
+      "baseLanguages": [
+        "pt"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "a0b11a8f71d6836bb64072db2a85babb370f221d",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 3,
+        "quizletResourceName": "English-Connect 1 - Por-Eng",
+        "quizletCourseId": "672648238"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 11,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "pt",
+      "baseLanguages": [
+        "pt"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "d9efcb896bb66782de7813f60d28def27f6290ce",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 3,
+        "quizletResourceName": "English-Connect 1 - Por-Eng",
+        "quizletCourseId": "672648649"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 12,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "pt",
+      "baseLanguages": [
+        "pt"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "19e4b2a0f2ce233f1ff1c41273bf50e083f49599",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 3,
+        "quizletResourceName": "English-Connect 1 - Por-Eng",
+        "quizletCourseId": "672648948"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 13,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "pt",
+      "baseLanguages": [
+        "pt"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "a0caf5654980a3bbac88080d944f8dfa9ba9eddd",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 3,
+        "quizletResourceName": "English-Connect 1 - Por-Eng",
+        "quizletCourseId": "672649505"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 14,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "pt",
+      "baseLanguages": [
+        "pt"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "dcc3d2c86829051a0568f39d842e45f26c6298c8",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 3,
+        "quizletResourceName": "English-Connect 1 - Por-Eng",
+        "quizletCourseId": "672649907"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 15,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "pt",
+      "baseLanguages": [
+        "pt"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "1840a84c1f63365acd2550b69cb1e1c6057636b7",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 3,
+        "quizletResourceName": "English-Connect 1 - Por-Eng",
+        "quizletCourseId": "672650255"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 16,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "pt",
+      "baseLanguages": [
+        "pt"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "5b64fe43d86cdfa34facca789bc94001743dec85",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 3,
+        "quizletResourceName": "English-Connect 1 - Por-Eng",
+        "quizletCourseId": "672650571"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 17,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "pt",
+      "baseLanguages": [
+        "pt"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "8311d1641e57e919abfb40376e4995ed7ca3152c",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 3,
+        "quizletResourceName": "English-Connect 1 - Por-Eng",
+        "quizletCourseId": "672651341"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 18,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "pt",
+      "baseLanguages": [
+        "pt"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "e779c25dc309c69462aca64de1212d055e26e440",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 3,
+        "quizletResourceName": "English-Connect 1 - Por-Eng",
+        "quizletCourseId": "672651624"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 19,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "pt",
+      "baseLanguages": [
+        "pt"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "aea24a86cdd1c6d0fbf9dce2538044e3c6051aaf",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 3,
+        "quizletResourceName": "English-Connect 1 - Por-Eng",
+        "quizletCourseId": "672652020"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 20,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "pt",
+      "baseLanguages": [
+        "pt"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "9f6d1b0f4c6201197aee542c23841e00f36f026f",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 3,
+        "quizletResourceName": "English-Connect 1 - Por-Eng",
+        "quizletCourseId": "672652330"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 21,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "pt",
+      "baseLanguages": [
+        "pt"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "58a85b23f2ee2820d01f4641c898f28fe2164ed0",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 3,
+        "quizletResourceName": "English-Connect 1 - Por-Eng",
+        "quizletCourseId": "672652777"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 22,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "pt",
+      "baseLanguages": [
+        "pt"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "1d2d9fbd394c77072c46b3cf882f95954b567000",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 3,
+        "quizletResourceName": "English-Connect 1 - Por-Eng",
+        "quizletCourseId": "672653410"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 23,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "pt",
+      "baseLanguages": [
+        "pt"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "4a25b3bc5e4a6cc8ba4bf00849ee9d65831ab599",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 3,
+        "quizletResourceName": "English-Connect 1 - Por-Eng",
+        "quizletCourseId": "672653765"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 24,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "pt",
+      "baseLanguages": [
+        "pt"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "a42428750004da3821edc7a189f688c19821a3d2",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 3,
+        "quizletResourceName": "English-Connect 1 - Por-Eng",
+        "quizletCourseId": "672654050"
+      }
+    },
+    {
+      "courseTheme": "meditaciones",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.know-me",
+      "chapterNumber": 1,
+      "contentLanguageCode": "es",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "knowme-reflection-after-availability",
+      "contentHash": "8e562f2e3b799ca6bd585b99375a032b6f205baf",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "questionCount": 3
+      }
+    },
+    {
+      "courseTheme": "meditaciones",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.know-me",
+      "chapterNumber": 2,
+      "contentLanguageCode": "es",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "knowme-reflection-after-availability",
+      "contentHash": "1d30bef97c57d8b0e59172477ed25f568d66a267",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "questionCount": 3
+      }
+    },
+    {
+      "courseTheme": "meditaciones",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.know-me",
+      "chapterNumber": 3,
+      "contentLanguageCode": "es",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "knowme-reflection-after-availability",
+      "contentHash": "786b47697b41921095ed946737ab5539223fc837",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "questionCount": 3
+      }
+    },
+    {
+      "courseTheme": "meditaciones",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.know-me",
+      "chapterNumber": 4,
+      "contentLanguageCode": "es",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "knowme-reflection-after-availability",
+      "contentHash": "e25dd6a93021f64032d20ea75d66e5224aa18736",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "questionCount": 3
+      }
+    },
+    {
+      "courseTheme": "meditaciones",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.know-me",
+      "chapterNumber": 5,
+      "contentLanguageCode": "es",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "knowme-reflection-after-availability",
+      "contentHash": "4bd563cf8cb811b9a31c7aa95e5ec4c9270e875c",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "questionCount": 3
+      }
+    },
+    {
+      "courseTheme": "meditaciones",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.know-me",
+      "chapterNumber": 6,
+      "contentLanguageCode": "es",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "knowme-reflection-after-availability",
+      "contentHash": "7125974618eca169c21ca5ae9b286ae4d04e9719",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "questionCount": 3
+      }
+    },
+    {
+      "courseTheme": "meditaciones",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.know-me",
+      "chapterNumber": 7,
+      "contentLanguageCode": "es",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "knowme-reflection-after-availability",
+      "contentHash": "e17b6ab9c64daacbb2ca57b0218f4dba08067fe8",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "questionCount": 3
+      }
+    },
+    {
+      "courseTheme": "meditaciones",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.know-me",
+      "chapterNumber": 8,
+      "contentLanguageCode": "es",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "knowme-reflection-after-availability",
+      "contentHash": "25251de03a4978b856e9a97f609a2991bc6f1def",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "questionCount": 3
+      }
+    },
+    {
+      "courseTheme": "meditaciones",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.know-me",
+      "chapterNumber": 9,
+      "contentLanguageCode": "es",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "knowme-reflection-after-availability",
+      "contentHash": "9da6e80c54038c6e25a9793c0c6701769e780eab",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "questionCount": 3
+      }
+    },
+    {
+      "courseTheme": "meditaciones",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.know-me",
+      "chapterNumber": 10,
+      "contentLanguageCode": "es",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "knowme-reflection-after-availability",
+      "contentHash": "84753d775a16d2c72949a2e43456b207a72fabeb",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "questionCount": 3
+      }
+    },
+    {
+      "courseTheme": "meditaciones",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.know-me",
+      "chapterNumber": 11,
+      "contentLanguageCode": "es",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "knowme-reflection-after-availability",
+      "contentHash": "d17057985ed13b309bda894b40a153ec2a633cbd",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "questionCount": 3
+      }
+    },
+    {
+      "courseTheme": "speeches",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.know-me",
+      "chapterNumber": 1,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "knowme-reflection-after-availability",
+      "contentHash": "0172a53d64b11ab7d637823fd6aae1ccba128dbd",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 1,
+        "questionCount": 4
+      }
+    },
+    {
+      "courseTheme": "speeches",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.know-me",
+      "chapterNumber": 3,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "knowme-reflection-after-availability",
+      "contentHash": "1e5eb59caf7d0eeb49ea1b821915b88453a466bf",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 1,
+        "questionCount": 4
+      }
+    },
+    {
+      "courseTheme": "speeches",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.know-me",
+      "chapterNumber": 5,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "knowme-reflection-after-availability",
+      "contentHash": "f0ee9271bc9c0e09835aa3544baa7f451629cce9",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 1,
+        "questionCount": 4
+      }
+    },
+    {
+      "courseTheme": "speeches",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.know-me",
+      "chapterNumber": 7,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "knowme-reflection-after-availability",
+      "contentHash": "df8ae1b80bda069aba0716ea532437d4b6f20993",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 1,
+        "questionCount": 4
+      }
+    },
+    {
+      "courseTheme": "speeches",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.know-me",
+      "chapterNumber": 9,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "knowme-reflection-after-availability",
+      "contentHash": "1b354f3688753beb5059abecee5b8b0dfa362cb4",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 1,
+        "questionCount": 4
+      }
+    },
+    {
+      "courseTheme": "speeches",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.know-me",
+      "chapterNumber": 11,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "knowme-reflection-after-availability",
+      "contentHash": "a9d7bd78f5b82a3fb3285a7d3bd012740ee848ff",
+      "isAvailable": false,
+      "metadata": {
+        "sourceCategoryId": 1,
+        "questionCount": 5,
+        "exclusionReason": "chapter_11_legacy_navigation_unverified",
+        "note": "getAuthCourseInnerSubMenuNoClassV3 always renders Know Me unconditionally; feature/group/tier gating parity is unverified. Validate before flipping isAvailable to true."
+      }
+    }
+  ]
+}

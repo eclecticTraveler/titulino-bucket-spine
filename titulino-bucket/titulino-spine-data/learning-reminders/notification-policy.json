@@ -1,0 +1,75 @@
+{
+  "schemaVersion": "1.0.0",
+  "policyVersion": "2026.09.28-1",
+  "note": "Additive policy over course-progress-data.json. Visibility (isToDisplay) is necessary but not sufficient for a notification: this file is the explicit, separate signal for whether a category (or a category-4/class-0 activity) is notification-worthy. Category number is not itself a semantic activity type and must never be inferred.",
+  "categoryPolicies": [
+    {
+      "categoryId": 1,
+      "enabled": true,
+      "activityKind": null,
+      "note": "Preserve existing course-progress availability behavior (Gatherings/Reuniones)."
+    },
+    {
+      "categoryId": 2,
+      "enabled": true,
+      "activityKind": null,
+      "note": "Preserve existing course-progress availability behavior (Grammar/Recorded Classes/Conóceme). Category 2 vocabulary/reflection reminders are governed separately by content-capabilities-manifest.json + RuleDefinition, not by this flag."
+    }
+  ],
+  "categoryClassZeroPolicies": [
+    {
+      "courseTheme": "supermarket",
+      "categoryId": 4,
+      "classNumber": 0,
+      "enabled": true,
+      "activityKind": "assessment",
+      "requiresInternalTarget": true,
+      "internalTargetVerifiedOn": "2026-09-28",
+      "note": "Internal target verified present in course-progress-data.json (links.internal non-null)."
+    },
+    {
+      "courseTheme": "household",
+      "categoryId": 4,
+      "classNumber": 0,
+      "enabled": true,
+      "activityKind": "assessment",
+      "requiresInternalTarget": true,
+      "internalTargetVerifiedOn": "2026-09-28",
+      "note": "Internal target verified present in course-progress-data.json (links.internal non-null)."
+    },
+    {
+      "courseTheme": "meditaciones",
+      "categoryId": 4,
+      "classNumber": 0,
+      "enabled": true,
+      "activityKind": "reflection",
+      "requiresInternalTarget": true,
+      "internalTargetVerifiedOn": "2026-09-28",
+      "note": "Internal target verified present in course-progress-data.json (links.internal non-null)."
+    },
+    {
+      "courseTheme": "work-n-jobs",
+      "categoryId": 4,
+      "classNumber": 0,
+      "enabled": false,
+      "activityKind": "assessment",
+      "requiresInternalTarget": true,
+      "reason": "missing_internal_target",
+      "note": "links.internal is null in course-progress-data.json. Do not enable until a reviewed internal target is published."
+    },
+    {
+      "courseTheme": "speeches",
+      "categoryId": 4,
+      "classNumber": 0,
+      "enabled": false,
+      "activityKind": "assessment",
+      "requiresInternalTarget": true,
+      "reason": "missing_internal_target",
+      "note": "links.internal is null in course-progress-data.json. Do not enable until a reviewed internal target is published."
+    }
+  ],
+  "presentationRules": {
+    "neverRenderClassZeroAsStudentFacingCopy": true,
+    "neutralGroupedCopyWhenMixedActivityKinds": true
+  }
+}
