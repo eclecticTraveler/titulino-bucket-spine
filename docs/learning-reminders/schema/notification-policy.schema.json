@@ -1,0 +1,57 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://titulino.com/schemas/learning-reminders/notification-policy.schema.json",
+  "title": "Learning reminder availability notification policy",
+  "description": "Additive policy layered over course-progress-data.json. Visibility (isToDisplay) is necessary but not sufficient for a notification -- this file is the explicit signal for whether a category, or a category-4/class-0 activity, is notification-worthy. Never infer this from a category number alone.",
+  "type": "object",
+  "required": ["schemaVersion", "policyVersion", "categoryPolicies", "categoryClassZeroPolicies"],
+  "properties": {
+    "schemaVersion": { "type": "string", "minLength": 1 },
+    "policyVersion": { "type": "string", "minLength": 1 },
+    "note": { "type": "string" },
+    "categoryPolicies": {
+      "type": "array",
+      "description": "Category-level policy for the already-included categories 1 and 2. Present to make the existing behavior explicit rather than assumed.",
+      "items": {
+        "type": "object",
+        "required": ["categoryId", "enabled"],
+        "properties": {
+          "categoryId": { "type": "integer" },
+          "enabled": { "type": "boolean" },
+          "activityKind": { "type": ["string", "null"], "enum": [null, "assessment", "reflection", "recording"] },
+          "note": { "type": "string" }
+        }
+      }
+    },
+    "categoryClassZeroPolicies": {
+      "type": "array",
+      "description": "Per-theme opt-in for the category-4/class-0 identity. Matches Notification.get_course_progress_availability_recipients's rule: classNumber '0' is accepted only when categoryId=4 and activityKind is 'assessment' or 'reflection'.",
+      "items": {
+        "type": "object",
+        "required": ["courseTheme", "categoryId", "classNumber", "enabled"],
+        "properties": {
+          "courseTheme": { "type": "string" },
+          "categoryId": { "const": 4 },
+          "classNumber": { "const": 0 },
+          "enabled": { "type": "boolean" },
+          "activityKind": {
+            "type": ["string", "null"],
+            "enum": [null, "assessment", "reflection"],
+            "description": "Required (non-null) when enabled is true."
+          },
+          "requiresInternalTarget": { "type": "boolean" },
+          "internalTargetVerifiedOn": { "type": "string", "format": "date" },
+          "reason": { "type": "string", "description": "Required when enabled is false, e.g. \"missing_internal_target\"." },
+          "note": { "type": "string" }
+        }
+      }
+    },
+    "presentationRules": {
+      "type": "object",
+      "properties": {
+        "neverRenderClassZeroAsStudentFacingCopy": { "type": "boolean" },
+        "neutralGroupedCopyWhenMixedActivityKinds": { "type": "boolean" }
+      }
+    }
+  }
+}

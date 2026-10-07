@@ -1,0 +1,85 @@
+{
+  "schemaVersion": "1.0.0",
+  "manifestVersion": "2026.09.28-1",
+  "publishedAt": "2026-09-28T00:00:00.000Z",
+  "sourceAudit": {
+    "auditedOn": "2026-09-28",
+    "sources": [
+      "titulino-bucket/titulino-spine-data/quizlet-pratice-data.json",
+      "titulino-bucket/titulino-spine-data/know-me-survey-data.json",
+      "titulino-bucket/titulino-spine-data/course-progress-data.json"
+    ],
+    "note": "Content existence verified against the exact deployed UI lookup mechanisms (QuizletService row-index bounds; LrnManager theme+chapter key lookup) against the local repository checkout, not a live production/GCS audit. Re-run bucket-scripts/generate-learning-reminder-manifest.js against the deployed bucket contents before publishing to detect drift."
+  },
+  "items": [
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 1,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "e0870f2fb6f62fe22a9878897a0a25cacabba718",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 1,
+        "quizletResourceName": "English-Connect 1",
+        "quizletCourseId": "586604679"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 2,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "0cbe7205f48da67f31017d684f7428a0504242e1",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 1,
+        "quizletResourceName": "English-Connect 1",
+        "quizletCourseId": "590146633"
+      }
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeId": null,
+      "featureKey": "course-feature.submenu.quizlet",
+      "chapterNumber": 3,
+      "contentLanguageCode": "en",
+      "nativeLanguageCode": "es",
+      "baseLanguages": [
+        "es"
+      ],
+      "level": 0,
+      "targetKind": "course-feature",
+      "relativePath": null,
+      "templateKey": "vocabulary-review-after-availability",
+      "contentHash": "2816ae15353863c26e5c2bd5e261271514bdf2b4",
+      "isAvailable": true,
+      "metadata": {
+        "sourceCategoryId": 2,
+        "quizletFolderId": 1,
+        "quizletResourceName": "English-Connect 1",
+        "quizletCourseId": "591966781"
+      }
+    }
+  ]
+}

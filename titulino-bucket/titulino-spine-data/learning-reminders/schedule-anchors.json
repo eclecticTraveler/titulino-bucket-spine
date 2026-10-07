@@ -1,0 +1,264 @@
+{
+  "schemaVersion": "1.0.0",
+  "manifestVersion": "2026.09.28-1",
+  "scheduleSource": "titulino-bucket/titulino-spine-data/course-progress-data.json",
+  "scheduleObservedAt": "2026-09-28T00:00:00.000Z",
+  "cohortCalendarLimitations": [
+    {
+      "courseTheme": "english-connect-1",
+      "courseCodeIds": [
+        "ENGLISH_CONNECT_1_JUL_2026_COURSE_01",
+        "ENGLISHCONNECT_01_JUN_2025_COURSE_02"
+      ],
+      "limitation": "The schedule anchor below is theme-level (course-progress-data.json has one schedule per theme). These two concrete CourseCodeIds have not been verified to share the same weekly calendar -- COURSE_02 enrolled roughly a year before COURSE_01. Do not assume identical dueOn/expiry across both course codes until a per-cohort schedule binding is confirmed; initially restrict rollout to one verified cohort or add an explicit override before enabling both."
+    }
+  ],
+  "dataQualityWarnings": [
+    {
+      "courseTheme": "english-connect-1",
+      "sourceCategoryId": 2,
+      "reason": "chapter_number_and_available_date_out_of_order",
+      "detail": "chapter 1 (2026-08-05) is dated after chapter 2 (2026-08-02)"
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "sourceCategoryId": 2,
+      "reason": "chapter_number_and_available_date_out_of_order",
+      "detail": "chapter 3 (2026-08-12) is dated after chapter 4 (2026-08-09)"
+    },
+    {
+      "courseTheme": "english-connect-1",
+      "sourceCategoryId": 2,
+      "reason": "chapter_number_and_available_date_out_of_order",
+      "detail": "chapter 5 (2026-08-19) is dated after chapter 6 (2026-08-16)"
+    }
+  ],
+  "anchors": [
+    {
+      "courseTheme": "english-connect-1",
+      "ruleKey": "vocabulary-review-after-availability",
+      "sourceCategoryId": 2,
+      "chapters": [
+        {
+          "chapterNumber": 1,
+          "sourceAvailableOn": "2026-08-05",
+          "nextAvailableOn": "2026-08-09"
+        },
+        {
+          "chapterNumber": 2,
+          "sourceAvailableOn": "2026-08-02",
+          "nextAvailableOn": "2026-08-05"
+        },
+        {
+          "chapterNumber": 3,
+          "sourceAvailableOn": "2026-08-12",
+          "nextAvailableOn": "2026-08-16"
+        },
+        {
+          "chapterNumber": 4,
+          "sourceAvailableOn": "2026-08-09",
+          "nextAvailableOn": "2026-08-12"
+        },
+        {
+          "chapterNumber": 5,
+          "sourceAvailableOn": "2026-08-19",
+          "nextAvailableOn": "2026-08-26"
+        },
+        {
+          "chapterNumber": 6,
+          "sourceAvailableOn": "2026-08-16",
+          "nextAvailableOn": "2026-08-19"
+        },
+        {
+          "chapterNumber": 7,
+          "sourceAvailableOn": "2026-08-26",
+          "nextAvailableOn": "2026-09-28"
+        },
+        {
+          "chapterNumber": 8,
+          "sourceAvailableOn": "2026-09-28",
+          "nextAvailableOn": "2026-10-05"
+        },
+        {
+          "chapterNumber": 9,
+          "sourceAvailableOn": "2026-10-05",
+          "nextAvailableOn": "2026-10-12"
+        },
+        {
+          "chapterNumber": 10,
+          "sourceAvailableOn": "2026-10-12",
+          "nextAvailableOn": "2026-10-19"
+        },
+        {
+          "chapterNumber": 11,
+          "sourceAvailableOn": "2026-10-19",
+          "nextAvailableOn": "2026-10-26"
+        },
+        {
+          "chapterNumber": 12,
+          "sourceAvailableOn": "2026-10-26",
+          "nextAvailableOn": "2026-11-02"
+        },
+        {
+          "chapterNumber": 13,
+          "sourceAvailableOn": "2026-11-02",
+          "nextAvailableOn": "2026-11-09"
+        },
+        {
+          "chapterNumber": 14,
+          "sourceAvailableOn": "2026-11-09",
+          "nextAvailableOn": "2026-11-16"
+        },
+        {
+          "chapterNumber": 15,
+          "sourceAvailableOn": "2026-11-16",
+          "nextAvailableOn": "2026-11-23"
+        },
+        {
+          "chapterNumber": 16,
+          "sourceAvailableOn": "2026-11-23",
+          "nextAvailableOn": "2026-11-30"
+        },
+        {
+          "chapterNumber": 17,
+          "sourceAvailableOn": "2026-11-30",
+          "nextAvailableOn": "2026-12-07"
+        },
+        {
+          "chapterNumber": 18,
+          "sourceAvailableOn": "2026-12-07",
+          "nextAvailableOn": "2026-12-14"
+        },
+        {
+          "chapterNumber": 19,
+          "sourceAvailableOn": "2026-12-14",
+          "nextAvailableOn": "2026-12-21"
+        },
+        {
+          "chapterNumber": 20,
+          "sourceAvailableOn": "2026-12-21",
+          "nextAvailableOn": "2026-12-28"
+        },
+        {
+          "chapterNumber": 21,
+          "sourceAvailableOn": "2026-12-28",
+          "nextAvailableOn": "2027-01-04"
+        },
+        {
+          "chapterNumber": 22,
+          "sourceAvailableOn": "2027-01-04",
+          "nextAvailableOn": "2027-01-11"
+        },
+        {
+          "chapterNumber": 23,
+          "sourceAvailableOn": "2027-01-11",
+          "nextAvailableOn": "2027-01-18"
+        },
+        {
+          "chapterNumber": 24,
+          "sourceAvailableOn": "2027-01-18",
+          "nextAvailableOn": null
+        }
+      ]
+    },
+    {
+      "courseTheme": "meditaciones",
+      "ruleKey": "knowme-reflection-after-availability",
+      "sourceCategoryId": 2,
+      "chapters": [
+        {
+          "chapterNumber": 1,
+          "sourceAvailableOn": "2026-08-16",
+          "nextAvailableOn": "2026-08-23"
+        },
+        {
+          "chapterNumber": 2,
+          "sourceAvailableOn": "2026-08-23",
+          "nextAvailableOn": "2026-08-30"
+        },
+        {
+          "chapterNumber": 3,
+          "sourceAvailableOn": "2026-08-30",
+          "nextAvailableOn": "2026-09-06"
+        },
+        {
+          "chapterNumber": 4,
+          "sourceAvailableOn": "2026-09-06",
+          "nextAvailableOn": "2026-09-13"
+        },
+        {
+          "chapterNumber": 5,
+          "sourceAvailableOn": "2026-09-13",
+          "nextAvailableOn": "2026-09-20"
+        },
+        {
+          "chapterNumber": 6,
+          "sourceAvailableOn": "2026-09-20",
+          "nextAvailableOn": "2026-09-27"
+        },
+        {
+          "chapterNumber": 7,
+          "sourceAvailableOn": "2026-09-27",
+          "nextAvailableOn": "2026-09-28"
+        },
+        {
+          "chapterNumber": 8,
+          "sourceAvailableOn": "2026-09-28",
+          "nextAvailableOn": "2026-10-05"
+        },
+        {
+          "chapterNumber": 9,
+          "sourceAvailableOn": "2026-10-05",
+          "nextAvailableOn": "2026-10-12"
+        },
+        {
+          "chapterNumber": 10,
+          "sourceAvailableOn": "2026-10-12",
+          "nextAvailableOn": "2026-10-19"
+        },
+        {
+          "chapterNumber": 11,
+          "sourceAvailableOn": "2026-10-19",
+          "nextAvailableOn": null
+        }
+      ]
+    },
+    {
+      "courseTheme": "speeches",
+      "ruleKey": "knowme-reflection-after-availability",
+      "sourceCategoryId": 1,
+      "chapters": [
+        {
+          "chapterNumber": 1,
+          "sourceAvailableOn": "2026-07-07",
+          "nextAvailableOn": "2026-07-21"
+        },
+        {
+          "chapterNumber": 3,
+          "sourceAvailableOn": "2026-07-21",
+          "nextAvailableOn": "2026-08-04"
+        },
+        {
+          "chapterNumber": 5,
+          "sourceAvailableOn": "2026-08-04",
+          "nextAvailableOn": "2026-08-18"
+        },
+        {
+          "chapterNumber": 7,
+          "sourceAvailableOn": "2026-08-18",
+          "nextAvailableOn": "2026-10-05"
+        },
+        {
+          "chapterNumber": 9,
+          "sourceAvailableOn": "2026-10-05",
+          "nextAvailableOn": "2026-10-19"
+        },
+        {
+          "chapterNumber": 11,
+          "sourceAvailableOn": "2026-10-19",
+          "nextAvailableOn": null
+        }
+      ]
+    }
+  ]
+}

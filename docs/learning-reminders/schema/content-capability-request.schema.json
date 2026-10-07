@@ -1,0 +1,126 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://titulino.com/schemas/learning-reminders/content-capability-request.schema.json",
+  "title": "Learning reminder content-capability request",
+  "description": "Exact wire contract accepted by \"TitulinoApi_v1\".\"ReplaceLearningContentCapabilities\"(jsonb), which forwards verbatim to \"Notification\".replace_learning_content_capabilities(jsonb). See titulino-warehouse deploy/Notification/2026/09/28_learning_reminder_functions.sql for the authoritative parser this schema mirrors.",
+  "type": "object",
+  "additionalProperties": true,
+  "required": ["manifestKey", "manifestVersion", "publishedAt", "items"],
+  "properties": {
+    "schemaVersion": {
+      "type": "string",
+      "description": "Version of this JSON contract itself (not the manifest content). Bump when a field is added/removed/reinterpreted."
+    },
+    "manifestKey": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Identifies the replaceable set. Every existing row under this key is marked IsAvailable=false before the items in this request are applied, then re-affirmed/upserted -- this is the stale/removal mechanism. Use one manifestKey per atomically-replaceable publish unit."
+    },
+    "manifestVersion": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Free-text content revision recorded on every row touched by this publish (NotificationContentCapability.ManifestVersion). Recommended convention: YYYY.MM.DD-n."
+    },
+    "publishedAt": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO timestamp stored as NotificationContentCapability.PublishedAt. The publisher (Phase 2A/Worker) should set this to the actual call time, not a value frozen in this source file, unless the product intent is specifically to record content-authored-at."
+    },
+    "sourceAudit": {
+      "type": "object",
+      "description": "Non-authoritative provenance metadata for reviewers. Not read by the database function.",
+      "properties": {
+        "auditedOn": { "type": "string", "format": "date" },
+        "sources": { "type": "array", "items": { "type": "string" } },
+        "note": { "type": "string" }
+      }
+    },
+    "items": {
+      "type": "array",
+      "maxItems": 5000,
+      "items": { "$ref": "#/$defs/contentCapabilityItem" }
+    }
+  },
+  "$defs": {
+    "contentCapabilityItem": {
+      "type": "object",
+      "additionalProperties": true,
+      "required": ["courseTheme", "featureKey", "chapterNumber", "contentLanguageCode"],
+      "properties": {
+        "courseTheme": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Exact course theme key (Enrollment.Course.CourseDetails->>'courseTheme' convention), e.g. \"english-connect-1\", \"meditaciones\", \"speeches\". Never derive from a translated title."
+        },
+        "courseCodeId": {
+          "type": ["string", "null"],
+          "description": "Null = theme-level (applies to every CourseCodeId under this theme). Set only when a specific cohort's content/calendar has been individually verified -- see cohortCalendarLimitations in schedule-anchors.json."
+        },
+        "featureKey": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Must reference an existing Shop.CourseFeature row and match the RuleDefinition.FeatureKey of the rule this capability gates, e.g. \"course-feature.submenu.quizlet\", \"course-feature.submenu.know-me\"."
+        },
+        "chapterNumber": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100,
+          "description": "The DB stores this as text-matched against ^[0-9]{1,3}$ before casting to int4; always publish a plain non-negative integer, chapterNumber 0 excepted only for class-0/category-4 style targets which use a different rule shape than these two rules."
+        },
+        "contentLanguageCode": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Must equal the exact language the content teaches, matched against Enrollment.Course.TargetLanguageId at evaluation time."
+        },
+        "nativeLanguageCode": {
+          "type": "string",
+          "minLength": 1,
+          "default": "*",
+          "description": "Matched against Enrollment.Course.NativeLanguageId, or '*' (the DB default) to match any native language. Prefer an explicit code over '*' whenever content genuinely differs per native-language pairing (e.g. separate Quizlet folders per pairing), even if the current chapter count happens to be identical -- this preserves the pairing distinction the plan requires and avoids masking a future divergence."
+        },
+        "baseLanguages": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "type": "string", "minLength": 1 },
+          "description": "Repo-convention mirror of nativeLanguageCode as an array (matches the baseLanguages/contentLanguageCode pairing used throughout titulino-bucket/titulino-spine-data and enforced by bucket-scripts/validate-data-shape.js). Not read by the database function; keep in sync with nativeLanguageCode."
+        },
+        "level": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 10,
+          "default": 0,
+          "description": "0 matches any proficiency level (DB: Level IN (0, COALESCE(target_level, source_level, 0))). Set explicitly only for genuine level-specific content variants (e.g. Basic vs Advanced Grammar)."
+        },
+        "targetKind": {
+          "type": "string",
+          "enum": ["course-feature"],
+          "default": "course-feature"
+        },
+        "relativePath": {
+          "type": ["string", "null"],
+          "pattern": "^/(?!/).*$",
+          "not": { "pattern": "://" },
+          "description": "Optional. Must start with exactly one '/', never '//' or contain '://'. Do not publish an absolute titulino.com URL here or anywhere in this manifest -- the actual student-facing route is resolved at send/open time from live navigation metadata (locale, level, chapter), which this manifest cannot know in advance. Recommended: leave null and let this item act purely as a content-existence gate."
+        },
+        "templateKey": {
+          "type": ["string", "null"],
+          "description": "Free-text cross-reference, e.g. the RuleKey this item supports. Not validated against RuleDefinition by the database."
+        },
+        "contentHash": {
+          "type": ["string", "null"],
+          "description": "Fingerprint of the exact verified source content (e.g. Quizlet course id, or survey question id list) so a future re-generation can detect drift without re-deriving the whole item."
+        },
+        "isAvailable": {
+          "type": "boolean",
+          "default": true,
+          "description": "false publishes the identity as explicitly withdrawn/unavailable (e.g. content verified NOT to exist, or a path pending manual validation) rather than omitting it -- omission after a prior publish also sets IsAvailable=false for anything not re-affirmed under the same manifestKey, but an explicit false plus a metadata.exclusionReason documents WHY."
+        },
+        "metadata": {
+          "type": "object",
+          "default": {},
+          "description": "Additive, non-authoritative context. This project's convention: sourceCategoryId (1, 2, or 4), plus provenance fields such as quizletFolderId/quizletCourseId or questionCount, plus exclusionReason when isAvailable is false."
+        }
+      }
+    }
+  }
+}
