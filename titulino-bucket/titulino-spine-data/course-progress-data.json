@@ -1805,8 +1805,8 @@
             "availableDate": "10/12/2026",
             "imageUrl": "https://images.unsplash.com/photo-1528535661949-5dac90a11fb0?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
-              "facebook": null,
-              "youtube": null,
+              "facebook": "https://www.facebook.com/share/v/1Mga9GhQon/",
+              "youtube": "https://youtu.be/ypitLmZzlAw",
               "internal": "/lrn-auth/es/nivel-meditaciones/capitulo-10/class"
             }
           },
@@ -2192,8 +2192,8 @@
             "availableDate": "10/21/2026",
             "imageUrl": "https://images.unsplash.com/photo-1577896851231-70ef18881754?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
-              "facebook": "",
-              "youtube": "",
+              "facebook": "https://www.facebook.com/share/v/1DaQNhoFmA/",
+              "youtube": "https://youtu.be/69eymmSHImg",
               "internal": "/lrn/en/level-1/chapter-14/class"
             }
           },
@@ -2519,8 +2519,8 @@
             "availableDate": "10/21/2026",
             "imageUrl": "https://images.unsplash.com/photo-1619852182277-79aa23f82c8e?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
-              "facebook": "",
-              "youtube": "",
+              "facebook": "https://www.facebook.com/share/v/1DaQNhoFmA/",
+              "youtube": "https://youtu.be/69eymmSHImg",
               "internal": "/lrn/en/level-1/chapter-14/quizlet"
             }
           },
