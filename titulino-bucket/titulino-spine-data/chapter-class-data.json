@@ -457,6 +457,24 @@
         "url": "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F2218372865407446%2F&show_text=false&width=560&t=0"
       }         
     ]
+  },
+  {
+    "id": "qa-conversation-club-a52",
+    "theme": "conversation-club",
+    "baseLanguages": [
+      "es"
+    ],
+    "contentLanguageCode": "en",
+    "chapters": [
+      {
+        "chapter": 1,
+        "url": "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ftitulinoingles%2Fvideos%2F480927598096702%2F&show_text=false&width=560&t=972"
+      },
+      {
+        "chapter": 2,
+        "url": "https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ftitulinoingles%2Fvideos%2F480927598096702%2F&show_text=false&width=560&t=972"
+      }
+    ]
   }
 ]
 
