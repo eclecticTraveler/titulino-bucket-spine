@@ -1366,7 +1366,7 @@
             "availableDate": "10/12/2026",
             "imageUrl": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
-              "facebook": null,
+              "facebook": "https://www.facebook.com/share/v/19s9rXFq6i/",
               "youtube": "https://youtu.be/Zt02ReT0bS4",
               "internal": "/lrn-auth/en/level-speeches/chapter-10/class"
             }
@@ -1379,8 +1379,8 @@
             "availableDate": "10/19/2026",
             "imageUrl": "https://images.unsplash.com/photo-1473649085228-583485e6e4d7?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
-              "facebook": null,
-              "youtube": null,
+              "facebook": "",
+              "youtube": "https://youtu.be/UaPCfz2Plww",
               "internal": "/lrn-auth/en/level-speeches/chapter-11/class"
             }
           }
@@ -1822,6 +1822,19 @@
               "youtube": "https://youtu.be/wjV0XxqEAqU",
               "internal": "/lrn-auth/es/nivel-meditaciones/capitulo-11/class"
             }
+          },
+          {
+            "classNumber": 12,
+            "title": "Ilusion",
+            "description": "Perspectiva del amor",
+            "isToDisplay": true,
+            "availableDate": "10/26/2026",
+            "imageUrl": "https://images.unsplash.com/photo-1528535661949-5dac90a11fb0?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": "https://www.facebook.com/share/v/1JXxDAVZdy/",
+              "youtube": "https://youtu.be/IAV-up4Lybs",
+              "internal": "/lrn-auth/es/nivel-meditaciones/capitulo-12/class"
+            }
           }
         ]
       },
@@ -2205,7 +2218,7 @@
             "availableDate": "10/25/2026",
             "imageUrl": "https://images.unsplash.com/photo-1577896851231-70ef18881754?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
-              "facebook": "",
+              "facebook": "https://www.facebook.com/share/v/1K87aXeAHS/",
               "youtube": "https://youtu.be/K31sJHb5TD0",
               "internal": "/lrn/en/level-1/chapter-15/class"
             }
