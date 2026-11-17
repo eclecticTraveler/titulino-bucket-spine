@@ -1848,7 +1848,20 @@
               "youtube": "https://youtu.be/a7XB76nzAaI",
               "internal": "/lrn-auth/es/nivel-meditaciones/capitulo-12/class"
             }
-          }
+          },
+          {
+            "classNumber": 14,
+            "title": "Apegos",
+            "description": "Valor y Valia",
+            "isToDisplay": true,
+            "availableDate": "11/15/2026",
+            "imageUrl": "https://images.unsplash.com/photo-1528535661949-5dac90a11fb0?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "links": {
+              "facebook": "https://www.facebook.com/share/v/19ncfgAm9s/",
+              "youtube": "https://youtu.be/4Yl0N44ZVrI",
+              "internal": "/lrn-auth/es/nivel-meditaciones/capitulo-13/class"
+            }
+          }          
         ]
       },
       {
@@ -2257,8 +2270,8 @@
             "availableDate": "11/01/2026",
             "imageUrl": "https://images.unsplash.com/photo-1577896851231-70ef18881754?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "links": {
-              "facebook": "",
-              "youtube": "",
+              "facebook": "https://www.facebook.com/share/v/19tWf3HGRd/",
+              "youtube": "https://youtu.be/Zwsk1gM6-iQ",
               "internal": "/lrn/en/level-1/chapter-17/class"
             }
           },
